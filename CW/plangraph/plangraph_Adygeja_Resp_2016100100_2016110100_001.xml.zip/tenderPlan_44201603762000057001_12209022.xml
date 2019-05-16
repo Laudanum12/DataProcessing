@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>12209022</id>
+            <planNumber>44201603762000057001</planNumber>
+            <year>2016</year>
+            <versionNumber>7</versionNumber>
+            <owner>
+                <regNum>03762000057</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ РЕСПУБЛИКИ АДЫГЕЯ "ГОСУДАРСТВЕННЫЙ АКАДЕМИЧЕСКИЙ АНСАМБЛЬ НАРОДНОГО ТАНЦА АДЫГЕИ "НАЛЬМЭС"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-10-07T15:33:54.682+03:00</createDate>
+            <description>План-график закупок товаров и услуг по  ГААНТА "Нальмэс" на 2016 год</description>
+            <confirmDate>2016-01-01T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-10-07T16:23:31.577+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000057</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ РЕСПУБЛИКИ АДЫГЕЯ "ГОСУДАРСТВЕННЫЙ АКАДЕМИЧЕСКИЙ АНСАМБЛЬ НАРОДНОГО ТАНЦА АДЫГЕИ "НАЛЬМЭС"</fullName>
+                <shortName>ГААНТА "НАЛЬМЭС"</shortName>
+                <postAddress>Российская Федерация, 385006, Адыгея Респ, Майкоп г, ул КРАСНООКТЯБРЬСКАЯ, 61</postAddress>
+                <factAddress>Российская Федерация, 385006, Адыгея Респ, Майкоп г, ул КРАСНООКТЯБРЬСКАЯ, 61</factAddress>
+                <INN>0105002781</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000001</code>
+                <name>г Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Альхаова</lastName>
+            <firstName>Мира</firstName>
+            <middleName>Хасановна</middleName>
+            <phone></phone>
+            <fax></fax>
+            <email>gugaanta_nalmes@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000007</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>210000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.30.4</code>
+                                <name>Обеспечение работоспособности котельных</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>тех. обслуживание и эксплуатация котельной </contractSubjectName>
+                        <contractMaxPrice>210000.00</contractMaxPrice>
+                        <payments>210000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-27T16:32:06.176+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>33.19.10.000</code>
+                                <name>Услуги по ремонту прочего оборудования</name>
+                            </OKPD2>
+                            <name>тех. обслуживание и эксплуатация котельной </name>
+                            <minRequirement>в соответствии с Правилами безопасности систем газораспределения и газопотребления</minRequirement>
+                            <sumMax>210000.00</sumMax>
+                            <price>210000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.01.2016-15.04.2016</contractExecutionStages>
+                            <periodicity>посезонно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000003</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>190300.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.22.11</code>
+                                <name>Распределение природного, сухого (отбензиненного) газа по газораспределительным сетям по тарифам, регулируемым государством</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>газоснабжение</contractSubjectName>
+                        <contractMaxPrice>190300.00</contractMaxPrice>
+                        <payments>190300.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-26T16:32:25.004+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>06.20.10.110</code>
+                                <name>Газ горючий природный (газ естественный)</name>
+                            </OKPD2>
+                            <name>газоснабжение</name>
+                            <minRequirement>в соответствии с ГОСТ</minRequirement>
+                            <sumMax>190300.00</sumMax>
+                            <price>190300.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>2016 год</contractExecutionStages>
+                            <periodicity>2016 год</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000010</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>25000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>38.1</code>
+                                <name>Сбор отходов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Вывоз ТБО</contractSubjectName>
+                        <contractMaxPrice>25000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-28T16:32:31.221+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>38.1</code>
+                                <name>Отходы; услуги по сбору отходов</name>
+                            </OKPD2>
+                            <name>Вывоз ТБО</name>
+                            <minRequirement>согласно договора</minRequirement>
+                            <sumMax>25000.00</sumMax>
+                            <price>25000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>2016</contractExecutionStages>
+                            <periodicity>2016</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000008</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>100000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>19.20</code>
+                                <name>Производство нефтепродуктов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>дизельное топливо</contractSubjectName>
+                        <contractMaxPrice>100000.00</contractMaxPrice>
+                        <payments>100000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-27T16:32:06.176+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.300</code>
+                                <name>Топливо дизельное</name>
+                            </OKPD2>
+                            <name>дизельное топливо</name>
+                            <minRequirement>в соответствии с договором</minRequirement>
+                            <sumMax>100000.00</sumMax>
+                            <price>100000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>2016 год</contractExecutionStages>
+                            <periodicity>2016 год</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000004</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1168000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.13</code>
+                                <name>Распределение электроэнергии</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>подача электроэнергии</contractSubjectName>
+                        <contractMaxPrice>1168000.00</contractMaxPrice>
+                        <payments>1168000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-17T16:14:55.075+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.11.10</code>
+                                <name>Электроэнергия</name>
+                            </OKPD2>
+                            <name>подача электроэнергии</name>
+                            <minRequirement>в соответствии с ГОСТ</minRequirement>
+                            <sumMax>1168000.00</sumMax>
+                            <price>1168000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>2016 год</contractExecutionStages>
+                            <periodicity>2016 год</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000002</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>97800.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>37.00</code>
+                                <name>Сбор и обработка сточных вод</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName> водоотведение и водоснабжение</contractSubjectName>
+                        <contractMaxPrice>97800.00</contractMaxPrice>
+                        <payments>97800.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-17T16:41:25.048+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>36.00.11.000</code>
+                                <name>Вода питьевая</name>
+                            </OKPD2>
+                            <name> водоснабжение</name>
+                            <minRequirement>в соответствии с правилами осуществления производственного контроля качества питьевой воды , утвержденными Правительством РФ</minRequirement>
+                            <sumMax>52300.00</sumMax>
+                            <price>52300.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>37.00.11.110</code>
+                                <name>Услуги по водоотведению сточных вод</name>
+                            </OKPD2>
+                            <name>водоотведение</name>
+                            <minRequirement>в соответствии с правилами осуществления производственного контроля качества питьевой воды , утвержденными Правительством РФ</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>45500.00</sumMax>
+                            <price>45500.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>2016 год</contractExecutionStages>
+                            <periodicity>2016 год</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000009</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>141500.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>33.17</code>
+                                <name>Ремонт и техническое обслуживание прочих транспортных средств и оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>тех обслуживание сценических подъемников и пожарно охранной сигнализации</contractSubjectName>
+                        <contractMaxPrice>141500.00</contractMaxPrice>
+                        <payments>141500.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-02-20T15:21:43.574+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>33.17.1</code>
+                                <name>Услуги по ремонту и техническому обслуживанию прочих транспортных средств и оборудования</name>
+                            </OKPD2>
+                            <name>тех обслуживание сценических подъемников пожарно-охранной сигнализации</name>
+                            <minRequirement>согласно договора</minRequirement>
+                            <sumMax>141500.00</sumMax>
+                            <price>141500.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>2016</contractExecutionStages>
+                            <periodicity>2016</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000006</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>68700.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.30.4</code>
+                                <name>Обеспечение работоспособности котельных</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>тех. обслуживание, ремонт, осмотр газового оборудования</contractSubjectName>
+                        <contractMaxPrice>68700.00</contractMaxPrice>
+                        <payments>68700.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-27T16:32:06.176+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>33.19.10.000</code>
+                                <name>Услуги по ремонту прочего оборудования</name>
+                            </OKPD2>
+                            <name>тех. обслуживание, ремонт, осмотр газового оборудования</name>
+                            <minRequirement>в соответствии с договором</minRequirement>
+                            <sumMax>68700.00</sumMax>
+                            <price>68700.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>2016 год</contractExecutionStages>
+                            <periodicity>2016 год</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000005</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>300000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>15.2</code>
+                                <name>Производство обуви</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>кожа и сыромять</contractSubjectName>
+                        <contractMaxPrice>300000.00</contractMaxPrice>
+                        <payments>300000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-17T16:14:55.075+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>15.2</code>
+                                <name>Обувь</name>
+                            </OKPD2>
+                            <name>кожа и сыромять</name>
+                            <minRequirement>Согласно договора</minRequirement>
+                            <sumMax>300000.00</sumMax>
+                            <price>300000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>2016 год</contractExecutionStages>
+                            <periodicity>2016 год</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000001</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>99600.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>81.29.1</code>
+                                <name>Дезинфекция, дезинсекция, дератизация зданий, промышленного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Дезинфекция, дезинсекция, дератизация зданий, промышленного оборудования</contractSubjectName>
+                        <contractMaxPrice>99600.00</contractMaxPrice>
+                        <payments>99600.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-28T16:32:31.221+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>81.29.11.000</code>
+                                <name>Услуги по дезинфекции, дезинсекции и дератизации</name>
+                            </OKPD2>
+                            <name>Дезинфекция, дезинсекция, дератизация зданий, промышленного оборудования</name>
+                            <minRequirement>в соответствии с договором</minRequirement>
+                            <OKEI>
+                                <code>055</code>
+                                <name>Квадратный метр</name>
+                            </OKEI>
+                            <sumMax>99600.00</sumMax>
+                            <price>99600.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>2016 год</contractExecutionStages>
+                            <periodicity>2016 год</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000057001000011</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>399000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>90.04</code>
+                                <name>Деятельность учреждений культуры и искусства</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оплата услуги по звуко и светотехническому обеспечению</contractSubjectName>
+                        <contractMaxPrice>399000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-10-07T16:23:31.577+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>90.04.10</code>
+                                <name>Услуги учреждений культуры и искусства</name>
+                            </OKPD2>
+                            <name>Оплата услуги по звуко и светотехническому обеспечению</name>
+                            <internationalName></internationalName>
+                            <minRequirement>в соответствии с договором</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>399000.00</sumMax>
+                            <price>399000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance></advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>отдельных этапов нет</contractExecutionStages>
+                            <periodicity>периодичность отсутствует</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>0.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>0.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>2499900.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=12209022</url>
+            <signature>TUlJTTZnWUpLb1pJaHZjTkFRY0NvSUlNMnpDQ0ROY0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dpNk1JSUl0akNDQ0dXZ0F3SUJBZ0lERjF1NU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EWXdNakUwTURRek5Gb1hEVEUzTURrd01qRTBNRFF6TkZvd2dnRjFNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV3TnpRM01ETXdOakVXTUJRR0JTcUZBMlFERWdzd05UazJOVGcyTWpFeE56RW1NQ1FHQ1NxR1NJYjNEUUVKQVJZWFozVm5ZV0Z1ZEdGZmJtRnNiV1Z6UUcxaGFXd3VjblV4Q3pBSkJnTlZCQVlUQWxKVk1Ud3dPZ1lEVlFRSURETXdNU0RRb05DMTBZSFF2OUdEMExIUXU5QzQwTHJRc0NEUWtOQzAwWXZRczlDMTBZOGdLTkNRMExUUmk5Q3owTFhSanlreEZUQVRCZ05WQkFjTUROQ2MwTERRdWRDNjBMN1F2ekVtTUNRR0ExVUVDZ3dkMEpQUWtOQ1EwSjNRb3RDUUlDTFFuZEN3MEx2UmpOQzgwWTNSZ1NJeEtEQW1CZ05WQkNvTUg5Q1EwTGZRdk5DMTBZSWcwS2ZRdGRDODBMRFF1OUdNMExYUXN0QzQwWWN4RXpBUkJnTlZCQVFNQ3RDUjBMRFJnZEdDMExVeEdUQVhCZ05WQkF3TUVOQ1UwTGpSZ05DMTBMclJndEMrMFlBeE16QXhCZ05WQkFNTUt0Q1IwTERSZ2RHQzBMVWcwSkRRdDlDODBMWFJnaURRcDlDMTBMelFzTkM3MFl6UXRkQ3kwTGpSaHpCak1Cd0dCaXFGQXdJQ0V6QVNCZ2NxaFFNQ0FpUUFCZ2NxaFFNQ0FoNEJBME1BQkVBOWtaQWs4djhmTHpKN1hrMTdIZlVRQVErd1M5NnQ2WEIyMlBZanROUk0wekhnZmlxZWRqRFJIbG0wUWYwdk1RTDBXWnAwWlluQWs3aXZCNWdXUjlRa280SUU3akNDQk9vd0RBWURWUjBUQVFIL0JBSXdBREFkQmdOVkhTQUVGakFVTUFnR0JpcUZBMlJ4QVRBSUJnWXFoUU5rY1FJd1hBWURWUjBSQkZVd1U2QVNCZ05WQkF5Z0N4TUpOVEkwTVRjMU56UXhvQnNHQ2lxRkF3TTludGMyQVFXZ0RSTUxNRE0zTmpJd01EQXdOVGVnSFFZS0tvVURBejJlMXpZQkNLQVBFdzB3TXpjMk1qQXdNREF3TURBemhnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWt3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qY3pPQ0RRdnRHQ0lEQXhMakEzTGpJd01UVU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qRTNOU0RRdnRHQ0lESXdMakEyTGpJd01UTXdEZ1lEVlIwUEFRSC9CQVFEQWdQb01IRUdBMVVkSlFScU1HZ0dDQ3NHQVFVRkJ3TUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkFRWU9Lb1VEQXoyZTF6WUJCZ01FQVFJR0RpcUZBd005bnRjMkFRWURCQUVEQmc0cWhRTURQWjdYTmdFR0F3UUJCQVlOS29VREF6MmUxellCQmdNRkFRWU5Lb1VEQXoyZTF6WUJCZ01GQWpBckJnTlZIUkFFSkRBaWdBOHlNREUyTURZd01qRTBNRE0wTVZxQkR6SXdNVGN3T1RBeU1UUXdNelF4V2pDQ0FZOEdBMVVkSXdTQ0FZWXdnZ0dDZ0JTZWNRNFAyclFCS0Y4LzRzdVBaUldYQWtlTXE2R0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQ0NBUUV3WGdZRFZSMGZCRmN3VlRBcG9DZWdKWVlqYUhSMGNEb3ZMMk55YkM1eWIzTnJZWHB1WVM1eWRTOWpjbXd2Wm1zd01TNWpjbXd3S0tBbW9DU0dJbWgwZEhBNkx5OWpjbXd1Wm5ObWF5NXNiMk5oYkM5amNtd3ZabXN3TVM1amNtd3dIUVlEVlIwT0JCWUVGSmRRTUszK0dCMEpFdWVlNTVNbFhRVncxV3l1TUFnR0JpcUZBd0lDQXdOQkFBZGJQbWtqUHR4ZWwvODVDOVJSbFVtYmREMXVRdEZha2Z1b3E0TUFkSTJycUp3S1hub2dySnRPMlpqSGJiUUJoOW9DbWVpN1BvcGV0YjVnOVhHTlhhOHhnZ1AzTUlJRDh3SUJBVENDQVdZd2dnRmRNUmd3RmdZSktvWklodmNOQVFrQ0V3bFRaWEoyWlhJZ1EwRXhJREFlQmdrcWhraUc5dzBCQ1FFV0VYVmpYMlpyUUhKdmMydGhlbTVoTG5KMU1Sd3dHZ1lEVlFRSURCTTNOeURRc3k0ZzBKelF2dEdCMExyUXN0Q3dNUm93R0FZSUtvVURBNEVEQVFFU0REQXdOemN4TURVMk9EYzJNREVZTUJZR0JTcUZBMlFCRWcweE1EUTNOemszTURFNU9ETXdNU3d3S2dZRFZRUUpEQ1BSZzlDNzBMalJodEN3SU5DWTBMdlJqTkM0MEwzUXV0Q3dMQ0RRdE5DKzBMd2dOekVWTUJNR0ExVUVCd3dNMEp6UXZ0R0IwTHJRc3RDd01Rc3dDUVlEVlFRR0V3SlNWVEU0TURZR0ExVUVDZ3d2MEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXRTRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MEw0eFB6QTlCZ05WQkFNTU50Q2owS1lnMEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXM5QytJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXNBSURGMXU1TUFvR0JpcUZBd0lDQ1FVQW9JSUNLREFZQmdrcWhraUc5dzBCQ1FNeEN3WUpLb1pJaHZjTkFRY0JNQndHQ1NxR1NJYjNEUUVKQlRFUEZ3MHhOakV3TURjeE16RXhOVEJhTUM4R0NTcUdTSWIzRFFFSkJERWlCQ0R5dldsSGRjTTRkdDg0L01XcWdZWVpaRjc2RUpKWkFhU2krampKNitZeElEQ0NBYnNHQ3lxR1NJYjNEUUVKRUFJdk1ZSUJxakNDQWFZd2dnR2lNSUlCbmpBSUJnWXFoUU1DQWdrRUlMQ3ZyS2VIQmRFT2tENjFhZFU4Z3J1MUtQSFhMNFJjRDlpOU1zMkxDc2NvTUlJQmJqQ0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeGRidVRBS0JnWXFoUU1DQWhNRkFBUkFqaGpjQ2RpR285K2lmQjBnQUs2TGNJS0ZuTHlGdThPb0hMWEJiRXdyN1MxNnlNM051UlI5eW1QY2dudTN5QmdrTnJtT1BLUGdkdzNZTStyVkt0L0Qydz09</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

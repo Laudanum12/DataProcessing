@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11582566</id>
+            <planNumber>44201603761000074001</planNumber>
+            <year>2016</year>
+            <versionNumber>5</versionNumber>
+            <owner>
+                <regNum>03761000074</regNum>
+                <fullName>управление федерального казенного учреждения "Управление по обеспечению деятельности оперативных подразделений Федеральной службы исполнения наказаний" по Республике Адыгея (Адыгея)</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-08-26T14:01:19.628+03:00</createDate>
+            <description>План-график размещения заказов на поставки товаров, выполнение работ, оказание услуг для нужд заказчиков на 2016 год</description>
+            <confirmDate>2015-12-28T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-08-26T15:03:08.434+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03761000074</regNum>
+                <fullName>управление федерального казенного учреждения "Управление по обеспечению деятельности оперативных подразделений Федеральной службы исполнения наказаний" по Республике Адыгея (Адыгея)</fullName>
+                <shortName>Управление ФКУ УОДОП ФСИН России по Республике Адыгея (Адыгея)</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Привокзальная, 108, -</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Привокзальная, 108, -</factAddress>
+                <INN>7706592947</INN>
+                <KPP>010502001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000</code>
+                <name>город Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Филипчик</lastName>
+            <firstName>Андрей</firstName>
+            <middleName>Юрьевич</middleName>
+            <phone>(8772)526771</phone>
+            <email>fsin001@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603761000074001000004</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>32003054230089221340</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>77450.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка автомобильного топлива</contractSubjectName>
+                        <contractMaxPrice>77450.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-26T15:03:08.434+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.115</code>
+                                <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу экологического класса К5</name>
+                            </OKPD2>
+                            <name>Поставка бензина неэтилированного марки АИ-92</name>
+                            <minRequirement>Поставляемый товар должен соответствовать требованиям установленными техническим регламентом «О требованиях к автомобильному и авиационному бензину, дизельному и судовому топливу, топливу для реактивных двигателей и топочному мазуту», утвержденным постановлением Правительства РФ от 27 февраля 2008 г. №118</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>70056.00</sumMax>
+                            <price>38.92</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1800.00</quantity>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.300</code>
+                                <name>Топливо дизельное</name>
+                            </OKPD2>
+                            <name>Поставка автомобильного дизельного топлива</name>
+                            <minRequirement>Поставляемый товар должен соответствовать требованиям установленными техническим регламентом «О требованиях к автомобильному и авиационному бензину, дизельному и судовому топливу, топливу для реактивных двигателей и топочному мазуту», утвержденным постановлением Правительства РФ от 27 февраля 2008 г. №118</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>7394.00</sumMax>
+                            <price>36.97</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>200.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>774.50</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>7745.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Один этап исполнения</contractExecutionStages>
+                            <periodicity>По мере необходимости</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603761000074001000001</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>32003054230892019214</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>15695.33</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>45.20.1</code>
+                                <name>Техническое обслуживание и ремонт легковых автомобилей и легких грузовых автотранспортных средств</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>техническое обслуживание гарантийного автомобиля марки KIA RIO  2015 г.в.</contractSubjectName>
+                        <contractMaxPrice>15695.33</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-05T17:22:04.764+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>45.20.11.000</code>
+                                <name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</name>
+                            </OKPD2>
+                            <name>техническое обслуживание гарантийного автомобиля марки KIA RIO  2015 г.в.</name>
+                            <minRequirement>Иные дополнительные требования к участникам (в соответствии с частью 2 Статьи 31 Федерального закона № 44-ФЗ): Закупка осуществляется в рамках государственного оборонного заказа. Согласно федерального закона от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» головным исполнителем оказания Услуги по государственному оборонному заказу может являться только юридическое лицо, созданное в соответствии с законодательством Российской Федерации.
+исходя из условий сохранения гарантии завода-изготовителя исполнитель работ должен являться официальным дилером KIA в Краснодаре
+Информация об общественном обсуждении закупки: не проводилось
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>15695.33</sumMax>
+                            <price>15695.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>150.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>1500.00</amount>
+                        </contractFinCondition>
+                        <advance>Авансирование не предусмотренно</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>В соответствии с регламентом проведения технического обслуживания</contractExecutionStages>
+                            <periodicity>В соответствии с регламентом проведения технического обслуживания</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603761000074001000003</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>32003054230892019214</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>6367.63</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>45.20.1</code>
+                                <name>Техническое обслуживание и ремонт легковых автомобилей и легких грузовых автотранспортных средств</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Гарантийное техническое обслуживание автомобиля LADA LARGUS ТО-1 (15.000 км.)</contractSubjectName>
+                        <contractMaxPrice>6367.63</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-15T11:54:45.854+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>45.20.11.000</code>
+                                <name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</name>
+                            </OKPD2>
+                            <name>Гарантийное техническое обслуживание автомобиля LADA LARGUS ТО-1 (15.000 км.)</name>
+                            <minRequirement>Иные дополнительные требования к участникам (в соответствии с частью 2 Статьи 31 Федерального закона № 44-ФЗ): Закупка осуществляется в рамках государственного оборонного заказа. Согласно федерального закона от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» головным исполнителем оказания Услуги по государственному оборонному заказу может являться только юридическое лицо, созданное в соответствии с законодательством Российской Федерации.
+Информация об общественном обсуждении закупки: не проводилось
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>6367.63</sumMax>
+                            <price>6367.63</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>636.80</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>636.80</amount>
+                        </contractFinCondition>
+                        <advance>Авансирование не предусмотрено</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>В соответствии с пробегом проведения технического обслуживания</contractExecutionStages>
+                            <periodicity>В соответствии с пробегом проведения технического обслуживания</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603761000074001000002</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>32003054230892019214</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>32103.33</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>45.20.1</code>
+                                <name>Техническое обслуживание и ремонт легковых автомобилей и легких грузовых автотранспортных средств</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>техническое обслуживание автотранспорта</contractSubjectName>
+                        <contractMaxPrice>32103.33</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-08T17:00:17.189+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>45.20.11.000</code>
+                                <name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</name>
+                            </OKPD2>
+                            <name>техническое обслуживание автотранспорта</name>
+                            <minRequirement>Иные дополнительные требования к участникам (в соответствии с частью 2 Статьи 31 Федерального закона № 44-ФЗ): Закупка осуществляется в рамках государственного оборонного заказа. Согласно федерального закона от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» головным исполнителем оказания Услуги по государственному оборонному заказу может являться только юридическое лицо, созданное в соответствии с законодательством Российской Федерации.
+Информация об общественном обсуждении закупки: не проводилось</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>32103.33</sumMax>
+                            <price>32103.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>321.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>1605.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Сроки исполнения отдельных этапов контракта:
+В соответствии с межсервисным интервалом проведения технического обслуживания</contractExecutionStages>
+                            <periodicity>Сроки исполнения отдельных этапов контракта:
+В соответствии с межсервисным интервалом проведения технического обслуживания</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>0.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>0.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>131616.29</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11582566</url>
+            <signature>TUlJSytnWUpLb1pJaHZjTkFRY0NvSUlLNnpDQ0N1Y0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqMk1JSUk4akNDQ0tHZ0F3SUJBZ0lER2dZTU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EZ3lOVEUwTlRRME5sb1hEVEUzTVRFeU5URTBOVFEwTmxvd2dnSHVNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV4TWpBNU1ESTNOVEVXTUJRR0JTcUZBMlFERWdzeE5ERXpPREV4T1RJek1qRWJNQmtHQ1NxR1NJYjNEUUVKQVJZTVpHNXZjRUJ0WVdsc0xuSjFNUXN3Q1FZRFZRUUdFd0pTVlRFOE1Eb0dBMVVFQ0F3ek1ERWcwS0RRdGRHQjBML1JnOUN4MEx2UXVOQzYwTEFnMEpEUXROR0wwTFBRdGRHUElDalFrTkMwMFl2UXM5QzEwWThwTVJVd0V3WURWUVFIREF6UW5OQ3cwTG5RdXRDKzBMOHhlekI1QmdOVkJBb01jdENqMEwvUmdOQ3cwTExRdTlDMTBMM1F1TkMxSU5DazBKclFveURRbzlDZTBKVFFudENmSU5DazBLSFFtTkNkSU5DZzBMN1JnZEdCMExqUXVDRFF2OUMrSU5DZzBMWFJnZEMvMFlQUXNkQzcwTGpRdXRDMUlOQ1EwTFRSaTlDejBMWFJqeUFvMEpEUXROR0wwTFBRdGRHUEtURXNNQ29HQTFVRUtnd2owSkRRdmRDMzBMRFJnOUdBSU5DYzBZUFJoZEN3MFlEUXNkQzQwTFhRc3RDNDBZY3hHVEFYQmdOVkJBUU1FTkNhMExqUXROQ3cwTHJRdnRDMTBMSXhOREF5QmdOVkJBd01LOUNYMExEUXZOQzEwWUhSZ3RDNDBZTFF0ZEM3MFl3ZzBMM1FzTkdIMExEUXU5R00wTDNRdU5DNjBMQXhQVEE3QmdOVkJBTU1OTkNhMExqUXROQ3cwTHJRdnRDMTBMSWcwSkRRdmRDMzBMRFJnOUdBSU5DYzBZUFJoZEN3MFlEUXNkQzQwTFhRc3RDNDBZY3dZekFjQmdZcWhRTUNBaE13RWdZSEtvVURBZ0lrQUFZSEtvVURBZ0llQVFOREFBUkE0OUdJVGcwUVFhMjMveUJkL0VJQW50dWNPRjdlY3R2aVE1RWJtZElLeWQ5OFM4bGhuclpQRXp5cG1yVjlsc09pQUkwUUF0Y2R0dHJvNWZTbCsvaVlKcU9DQkxFd2dnU3RNQXdHQTFVZEV3RUIvd1FDTUFBd0hRWURWUjBnQkJZd0ZEQUlCZ1lxaFFOa2NRRXdDQVlHS29VRFpIRUNNRDBHQTFVZEVRUTJNRFNnRWdZRFZRUU1vQXNUQ1RneE56RXhNRFV6TUtBYkJnb3FoUU1EUFo3WE5nRUZvQTBUQ3pBek56WXhNREF3TURjMGhnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVNQ2t3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qY3pPQ0RRdnRHQ0lEQXhMakEzTGpJd01UVU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qZzNPQ0RRdnRHQ0lESXdMakEyTGpJd01UWXdEZ1lEVlIwUEFRSC9CQVFEQWdQb01GTUdBMVVkSlFSTU1Fb0dDQ3NHQVFVRkJ3TUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkFRWU9Lb1VEQXoyZTF6WUJCZ01FQVFJR0RpcUZBd005bnRjMkFRWURCQUVEQmc0cWhRTURQWjdYTmdFR0F3UUJCREFyQmdOVkhSQUVKREFpZ0E4eU1ERTJNRGd5TlRFME5UUXlPVnFCRHpJd01UY3hNVEkxTVRRMU5ESTVXakNDQVk4R0ExVWRJd1NDQVlZd2dnR0NnQlNlY1E0UDJyUUJLRjgvNHN1UFpSV1hBa2VNcTZHQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExDQ0FRRXdYZ1lEVlIwZkJGY3dWVEFwb0NlZ0pZWWphSFIwY0RvdkwyTnliQzV5YjNOcllYcHVZUzV5ZFM5amNtd3ZabXN3TVM1amNtd3dLS0Ftb0NTR0ltaDBkSEE2THk5amNtd3Vabk5tYXk1c2IyTmhiQzlqY213dlptc3dNUzVqY213d0hRWURWUjBPQkJZRUZIUnRBaEcyTzVObE83K2RqZXJUV3BWbWR6djdNQWdHQmlxRkF3SUNBd05CQUk4Y2FNSmgrYnB2dDNpaTBtR0lEdWh0b1ppMnFkckhqNWtWNzJqZUJFY3FHNXZmTkQybkRiVEUza1p0ZnJFY2cvQXRuWUxWU1VCUTZ4YjQ2YU1NZDljeGdnSExNSUlCeHdJQkFUQ0NBV1l3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJREdnWU1NQW9HQmlxRkF3SUNDUVVBTUFvR0JpcUZBd0lDRXdVQUJFQmNYdzc5OVFEL2pMcmJyVERrdGZkQy90WU1wd2JyRWtxckoyWFJaMStyYlhPa0tPOWw5b0tLUXFDRFJETWVQeGF5RllYMVZDQUN3REJzTHdlbkIvbXA=</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

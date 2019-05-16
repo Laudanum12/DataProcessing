@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>13163218</id>
+            <planNumber>44201603762000028001</planNumber>
+            <year>2016</year>
+            <versionNumber>3</versionNumber>
+            <owner>
+                <regNum>03762000028</regNum>
+                <fullName>государственное казенное учреждение Республики Адыгея "Центр занятости населения Теучежского района"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-12-01T14:58:20.729+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-12-01T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-12-01T15:10:24.891+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000028</regNum>
+                <fullName>государственное казенное учреждение Республики Адыгея "Центр занятости населения Теучежского района"</fullName>
+                <shortName>ГКУ РА "ЦЗН Теучежского района"</shortName>
+                <postAddress>Российская Федерация, 385230, Адыгея Респ, Понежукай аул, Ленина, 54</postAddress>
+                <factAddress>Российская Федерация, 385230, Адыгея Респ, Понежукай аул, Ленина, 54</factAddress>
+                <INN>0107006125</INN>
+                <KPP>010701001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Хокон</lastName>
+            <firstName>Фатима</firstName>
+            <middleName>Нурбиевна</middleName>
+            <phone>8-87772-97234</phone>
+            <fax>8-87772-97655</fax>
+            <email>czntr@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000028001000001</positionNumber>
+                        <extNumber>39615</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015630200500244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>134000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.12</code>
+                                <name>Государственное регулирование деятельности в области здравоохранения, образования, социально-культурного развития и других социальных услуг, кроме социального обеспечения</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по сопровождению технической поддержке и сервисному обслуживанию программного продукта "Катарсис"в службе занятости населения Республики Адыгея</contractSubjectName>
+                        <contractMaxPrice>134000.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01762000016</regNum>
+                                <fullName>УПРАВЛЕНИЕ ГОСУДАРСТВЕННОЙ СЛУЖБЫ ЗАНЯТОСТИ НАСЕЛЕНИЯ РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-12-01T15:10:24.891+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.02.30.000</code>
+                                <name>Услуги по технической поддержке информационных технологий</name>
+                            </OKPD2>
+                            <name>Услуги по сопровождению технической поддержке и сервисному обслуживанию программного продукта "Катарсис"</name>
+                            <minRequirement>Оказание услуг по сопровождению технической поддержке и сервисному обслуживанию программного продукта "Катарсис"в службе занятости населения Республики Адыгея</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>134000.00</sumMax>
+                            <price>134000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1340.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>6700.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Оплата производится поэтапно, согласно Календарному плану, являющемуся неотъемлемой частью Контракта, в течение 15 (пятнадцати) рабочих дней после подписания акта на оказание услуг.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000028001000002</positionNumber>
+                        <extNumber>39619</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015630200500244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>153326.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.12</code>
+                                <name>Государственное регулирование деятельности в области здравоохранения, образования, социально-культурного развития и других социальных услуг, кроме социального обеспечения</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по  технической поддержке сети защищенных каналов передачи данных на базе программного продукта VipNet CUSTOM в службе занятости населения Республики Адыгея</contractSubjectName>
+                        <contractMaxPrice>153326.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01762000016</regNum>
+                                <fullName>УПРАВЛЕНИЕ ГОСУДАРСТВЕННОЙ СЛУЖБЫ ЗАНЯТОСТИ НАСЕЛЕНИЯ РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-12-01T15:10:24.891+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.02.30.000</code>
+                                <name>Услуги по технической поддержке информационных технологий</name>
+                            </OKPD2>
+                            <name>Оказание услуг по  технической поддержке сети защищенных каналов передачи данных на базе программного продукта VipNet CUSTOM в службе занятости населения Республики Адыгея</name>
+                            <minRequirement>Оказание услуг по  технической поддержке сети защищенных каналов передачи данных на базе программного продукта VipNet CUSTOM в службе занятости населения Республики Адыгея</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>153326.00</sumMax>
+                            <price>153326.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1533.26</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>7666.30</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Оплата производится поэтапно, согласно Календарному плану, являющемуся неотъемлемой частью Контракта, в течение 15 (пятнадцати) рабочих дней после подписания акта на оказание услуг.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>8632417</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>83610035610152900244</code>
+                                    <amount>31500.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>83604015630200500244</code>
+                                    <amount>970570.76</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>83604015610100000244</code>
+                                    <amount>517700.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1519770.76</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>1519770.76</sumContractMaxPrice>
+                    <sumPaymentsTotal>1807096.76</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=13163218</url>
+            <signature>TUlJT1hBWUpLb1pJaHZjTkFRY0NvSUlPVFRDQ0Rra0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dvc01JSUtLRENDQ2RlZ0F3SUJBZ0lER1hHWk1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EZ3dPREE0TVRJME4xb1hEVEUzTVRFd09EQTRNVEkwTjFvd2dnSFJNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRGN3TURJMk1UY3dNakVXTUJRR0JTcUZBMlFERWdzd05qSTRNVGsyT0RnNU1qRWNNQm9HQ1NxR1NJYjNEUUVKQVJZTlkzcHVkSEpBYldGcGJDNXlkVEVMTUFrR0ExVUVCaE1DVWxVeFBEQTZCZ05WQkFnTU16QXhJTkNnMExYUmdkQy8wWVBRc2RDNzBMalF1dEN3SU5DUTBMVFJpOUN6MExYUmp5QW8wSkRRdE5HTDBMUFF0ZEdQS1RFaU1DQUdBMVVFQnd3WjBKL1F2dEM5MExYUXR0R0QwTHJRc05DNUlOQ3cwWVBRdXpGQk1EOEdBMVVFQ2d3NDBKUFFtdENqSU5DZzBKQWdJdENtMEpmUW5TRFFvdEMxMFlQUmg5QzEwTGJSZ2RDNjBMN1FzOUMrSU5HQTBMRFF1ZEMrMEwzUXNDSXhDakFJQmdOVkJBc1RBU0F4S0RBbUJnTlZCQ29NSDlDVDBMalF1OUM0MEx3ZzBKSFFzTkM1MExmUXRkR0MwTDdRc3RDNDBZY3hFekFSQmdOVkJBUU1DdENSMEw3UXM5R0QwWUV4R1RBWEJnTlZCQXdNRU5DVTBMalJnTkMxMExyUmd0QyswWUF4TURBdUJna3Foa2lHOXcwQkNRSVRJVEV1TWk0Mk5ETXVNeTQyTVM0eExqRXVOaTQxTURJM01UQXVNeTQwTGpJdU1URXpNREVHQTFVRUF3d3EwSkhRdnRDejBZUFJnU0RRazlDNDBMdlF1TkM4SU5DUjBMRFF1ZEMzMExYUmd0QyswTExRdU5HSE1HTXdIQVlHS29VREFnSVRNQklHQnlxRkF3SUNKQUFHQnlxRkF3SUNIZ0VEUXdBRVFEUjRWcWd2bGxuVWJzVCtMbExoWmVsU1dqVzhrb1YyK0F4NFVHOXg2bHBrOWZzcHo5clBsZjkwYmJKSHhMYXR0TGVYa2IyVzFYVHZWYjZZdk9rYmVtT2pnZ1lFTUlJR0FEQU1CZ05WSFJNQkFmOEVBakFBTUIwR0ExVWRJQVFXTUJRd0NBWUdLb1VEWkhFQk1BZ0dCaXFGQTJSeEFqQjdCZ05WSFJFRWREQnlvQklHQTFVRURLQUxFd2s0TURNd09EUTVOVGFnR3dZS0tvVURBejJlMXpZQkJhQU5Fd3N3TXpjMk1qQXdNREF5T0tBZEJna3Foa2lHOXcwQkNSU2dFQXdPTURBd056aGZRazlIVlZOZlIwS2dIUVlLS29VREF6MmUxellCQ0tBUEV3MHdNemMyTWpBd01EQXdNRFl5aGdFd01EWUdCU3FGQTJSdkJDME1LeUxRbXRHQTBMalF2OUdDMEw3UW45R0EwTDRnUTFOUUlpQW8wTExRdGRHQTBZSFF1TkdQSURNdU5pa3dnZ0ZoQmdVcWhRTmtjQVNDQVZZd2dnRlNERVFpMEpyUmdOQzQwTC9SZ3RDKzBKL1JnTkMrSUVOVFVDSWdLTkN5MExYUmdOR0IwTGpSanlBekxqWXBJQ2pRdU5HQjBML1F2dEM3MEwzUXRkQzkwTGpRdFNBeUtReG9JdENmMFlEUXZ0Q3owWURRc05DODBMelF2ZEMrTGRDdzBML1F2OUN3MFlEUXNOR0MwTDNSaTlDNUlOQzYwTDdRdk5DLzBMdlF0ZEM2MFlFZ0l0Q3UwTDNRdU5HQjBMWFJnTkdDTGRDVDBKN1FvZENpSWk0ZzBKTFF0ZEdBMFlIUXVOR1BJREl1TVNJTVQ5Q2gwTFhSZ05HQzBMalJoTkM0MExyUXNOR0NJTkdCMEw3UXZ0R0MwTExRdGRHQzBZSFJndEN5MExqUmp5RGloSllnMEtIUXBDOHhNalF0TWpjek9DRFF2dEdDSURBeExqQTNMakl3TVRVTVQ5Q2gwTFhSZ05HQzBMalJoTkM0MExyUXNOR0NJTkdCMEw3UXZ0R0MwTExRdGRHQzBZSFJndEN5MExqUmp5RGloSllnMEtIUXBDOHhNamd0TWpFM05TRFF2dEdDSURJd0xqQTJMakl3TVRNd0RnWURWUjBQQVFIL0JBUURBZ1A0TUlJQlpnWURWUjBsQklJQlhUQ0NBVmtHQ0NzR0FRVUZCd01CQmdnckJnRUZCUWNEQWdZSUtvVURBZ0VHQ0FVR0R5cUZBd005QVFFR250YzJBd1FCQVFZUEtvVURBejBCQVFhZTF6WURCQUVDQmc4cWhRTURQUUVCQnA3WE5nTUVBUU1HRHlxRkF3TTlBUUVHbnRjMkF3UUJCQVlQS29VREF6MEJBUWFlMXpZREJBRUZCZzhxaFFNRFBRRUJCcDdYTmdNRUFRWUdEeXFGQXdNOUFRRUdudGMyQXdRQkJ3WVBLb1VEQXowQkFRYWUxellEQkFFSUJnOHFoUU1EUFFFQkJwN1hOZ01FQVFrR0R5cUZBd005QVFFR250YzJBd1FCQ2dZUEtvVURBejBCQVFhZTF6WURCQUVMQmc4cWhRTURQUUVCQnA3WE5nTUVBUXdHRHlxRkF3TTlBUUVHbnRjMkF3UUJEZ1lPS29VREF6MmUxellCQmdNRUFRRUdEaXFGQXdNOW50YzJBUVlEQkFFQ0JnNHFoUU1EUFo3WE5nRUdBd1FCQXdZT0tvVURBejJlMXpZQkJnTUVBUVFHRFNxRkF3TTludGMyQVFZREJRRUdEU3FGQXdNOW50YzJBUVlEQlFJd0t3WURWUjBRQkNRd0lvQVBNakF4TmpBNE1EZ3dPREV5TUROYWdROHlNREUzTVRFd09EQTRNVEl3TTFvd2dnR1BCZ05WSFNNRWdnR0dNSUlCZ29BVW5uRU9EOXEwQVNoZlArTExqMlVWbHdKSGpLdWhnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dnZ0VCTUY0R0ExVWRId1JYTUZVd0thQW5vQ1dHSTJoMGRIQTZMeTlqY213dWNtOXphMkY2Ym1FdWNuVXZZM0pzTDJack1ERXVZM0pzTUNpZ0pxQWtoaUpvZEhSd09pOHZZM0pzTG1aelptc3ViRzlqWVd3dlkzSnNMMlpyTURFdVkzSnNNQjBHQTFVZERnUVdCQlFlNkw4RmNCQ05HaWxDOE9MT0szK3p5dEg0aVRBSUJnWXFoUU1DQWdNRFFRQlpld2t0WXdFOURuWTJRckM4MHBaS3V0T0tjeTBuWnlmNTluNkZDdWF6b28rSFNsa1lFUjRDL1JGRzI2MGV2TXNzQ1ErdDFrOFFZZU1qOU9TSVRGUmpNWUlEOXpDQ0EvTUNBUUV3Z2dGbU1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeGx4bVRBS0JnWXFoUU1DQWdrRkFLQ0NBaWd3R0FZSktvWklodmNOQVFrRE1Rc0dDU3FHU0liM0RRRUhBVEFjQmdrcWhraUc5dzBCQ1FVeER4Y05NVFl4TWpBeE1USXhNREl6V2pBdkJna3Foa2lHOXcwQkNRUXhJZ1FnWmFvT0tjQjJncGNTZTMwZS8vVFF6VklSbHhyNTVhR0hqVloxbjAybnBGVXdnZ0c3QmdzcWhraUc5dzBCQ1JBQ0x6R0NBYW93Z2dHbU1JSUJvakNDQVo0d0NBWUdLb1VEQWdJSkJDQWkvRThwZUNTUnRyZjBZL1gxUDJnM3VoNm1ma1c3VDk0OFVJaTk3SzNoNWpDQ0FXNHdnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dBZ01aY1prd0NnWUdLb1VEQWdJVEJRQUVRTFdFeTFvYkJzZjZkNDhZcmMrY0UxL2lPY0J2QmZmVjJYK095YlN5eWRZZHBuYWRCcHhYVHQ2QmR1UVBudVlvcXhpRG5VeVZQTDlEWXhIMUZCSTlLZ0U9</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

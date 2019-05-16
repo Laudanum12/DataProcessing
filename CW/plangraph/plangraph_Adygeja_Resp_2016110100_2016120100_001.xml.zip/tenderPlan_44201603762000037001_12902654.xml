@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>12902654</id>
+            <planNumber>44201603762000037001</planNumber>
+            <year>2016</year>
+            <versionNumber>5</versionNumber>
+            <owner>
+                <regNum>03762000037</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "МАЙКОПСКИЙ ПОЛИТЕХНИЧЕСКИЙ ТЕХНИКУМ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-11-18T13:43:04.434+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-11-16T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-11-18T14:15:49.694+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000037</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "МАЙКОПСКИЙ ПОЛИТЕХНИЧЕСКИЙ ТЕХНИКУМ"</fullName>
+                <shortName>ГБПОУ РА МПТ</shortName>
+                <postAddress>Российская Федерация, 385060, Адыгея Респ, Майкоп г, Ханская ст-ца, УЛ КРАСНООКТЯБРЬСКАЯ, 25</postAddress>
+                <factAddress>Российская Федерация, 385060, Адыгея Респ, Майкоп г, Ханская ст-ца, УЛ КРАСНООКТЯБРЬСКАЯ, 25</factAddress>
+                <INN>0105013663</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Тхатель</lastName>
+            <firstName>Руслан</firstName>
+            <middleName>Аскербиевич</middleName>
+            <phone>8-8772-565489</phone>
+            <email>goupl2@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000037001000002</positionNumber>
+                        <extNumber>37442</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>377800.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Дизельное топливо</contractSubjectName>
+                        <contractMaxPrice>377800.00</contractMaxPrice>
+                        <payments>377800.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-07T11:56:49.003+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.300</code>
+                                <name>Топливо дизельное</name>
+                            </OKPD2>
+                            <name>Дизельное топливо</name>
+                            <minRequirement>1. Товар должен быть предназначен для использования в качестве топлива для быстроходных дизельных двигателей внутреннего сгорания наземной техники и по своим техническим характеристикам обеспечивать экономичную и надежную работу двигателя, отвечать требованиям энергетической эффективности;
+2. По своим физико-химическим показателям безопасности и эффективности товар должен соответствовать Государственным стандартам (ГОСТ Р 52368-2005) и требованиям Технического регламента таможенного союза от 18.10.2011 г. № 826 ТР ТС 013/2011 «О требованиях к автомобильному и авиационному бензину, дизельному и судовому топливу, топливу для реактивных двигателей и топочному мазуту»
+</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>377800.00</sumMax>
+                            <price>37.78</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10000.00</quantity>
+                            <quantityCurrentYear>10000.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>3778.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>18890.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Поставка товара осуществляется в течении 5 календарных дней с момента заключения контракта</contractExecutionStages>
+                            <periodicity>Поставка товара осуществляется в течении 5 календарных дней с момента заключения контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000037001000003</positionNumber>
+                        <extNumber>37649</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>49598.60</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>10.39.1</code>
+                                <name>Переработка и консервирование овощей (кроме картофеля) и грибов</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>10.61.3</code>
+                                <name>Производство крупы и гранул из зерновых культур</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Продукты питания</contractSubjectName>
+                        <contractMaxPrice>49598.60</contractMaxPrice>
+                        <payments>49598.60</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-18T14:15:49.694+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.39.15.000</code>
+                                <name>Фасоль, консервированная без уксуса или уксусной кислоты (кроме готовых блюд из овощей)</name>
+                            </OKPD2>
+                            <name>Фасоль консервированный</name>
+                            <minRequirement>Фасоль консервированный. Зерна целые, мягкие, но не разваренные однородные по величине, без постороннего привкуса и запаха. Металлическая банка 325 грамм.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>9999.60</sumMax>
+                            <price>83.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>120.00</quantity>
+                            <quantityCurrentYear>120.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>01.13.34.000</code>
+                                <name>Томаты (помидоры)</name>
+                            </OKPD2>
+                            <name>Помидоры квашенные</name>
+                            <minRequirement>Внешний вид – томаты однородные по степени зрелости, по размеру, целые, без плодоножек. Консистенция томата – плоды целые, мякоть плода мягкая, но неразползшаяся. Вкус и запах – характерный для соленых томатов кисловато-солоноватый вкус с ароматом и привкусом пряностей без постороннего привкуса и запаха. Цвет – близкий к окраске свежих томатов, соответствующей степени зрелости плодов.</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>11899.50</sumMax>
+                            <price>79.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>150.00</quantity>
+                            <quantityCurrentYear>150.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.39.16.000</code>
+                                <name>Горох, консервированный без уксуса или уксусной кислоты (кроме готовых блюд из овощей)</name>
+                            </OKPD2>
+                            <name>Зеленый горошек консервированный</name>
+                            <minRequirement>Горошек зеленый консервированный. Высшего сорта. Консистенция – мягкая и однородная. Качество заливочной жидкости – прозрачная. Зерна целые, вкус и запах натуральный консервированному зеленому горошку. Металлическая банка 325 грамм.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>9960.00</sumMax>
+                            <price>83.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>120.00</quantity>
+                            <quantityCurrentYear>120.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>01.13.32.000</code>
+                                <name>Огурцы</name>
+                            </OKPD2>
+                            <name>Огурцы квашенные</name>
+                            <minRequirement>Внешний вид – огурцы целые, не мятые, не сморщенные, без механических повреждений. Огурцы удлиненной правильной формы. Посторонние примеси – не допускаются. Консистенция – огурцы крепкие, мякоть плотная, с недоразвитыми водянистыми, некожистыми семенами, полностью пропитанная рассолом, хрустящая. Вкус и запах – характерные для квашенного продукта, солоновато-кисловатый вкус с ароматом и привкусом пряностей, без постороннего привкуса и запаха. Цвет – зеленовато-оливковый разных оттенков, без пятен и ожегов.</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>3966.50</sumMax>
+                            <price>79.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>50.00</quantity>
+                            <quantityCurrentYear>50.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.61.31.111</code>
+                                <name>Крупа манная</name>
+                            </OKPD2>
+                            <name>Крупа манная</name>
+                            <minRequirement>Марка М, крупа ровного и кремового цвета, без запаха и плесени, затхлости и посторонних привкусов.</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>2160.00</sumMax>
+                            <price>54.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>40.00</quantity>
+                            <quantityCurrentYear>40.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.61.31.110</code>
+                                <name>Крупа из пшеницы</name>
+                            </OKPD2>
+                            <name>Крупа пшеничная</name>
+                            <minRequirement>Цвет желтый, свойственный пшеничной крупе, не затхлый, не плесневелый. Вкус – не кислый, не горький</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>1733.20</sumMax>
+                            <price>43.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>40.00</quantity>
+                            <quantityCurrentYear>40.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.61.32.119</code>
+                                <name>Крупа из прочих зерновых культур</name>
+                            </OKPD2>
+                            <name>Крупа гороховая</name>
+                            <minRequirement>Шлифованная, колотая, первого сорта с нераздельными семядолями.</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>1946.80</sumMax>
+                            <price>48.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>40.00</quantity>
+                            <quantityCurrentYear>40.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>01.13.12.190</code>
+                                <name>Капуста прочая</name>
+                            </OKPD2>
+                            <name>Капуста квашенная</name>
+                            <minRequirement>Консистенция – сочная, плотная, хрустящая. Вкус – кисловато-солоноватый, приятный, без горечи. Вкус сока более острый, чем вкус квашенной капусты без сока. Цвет – светло-соломенный с желтоватым оттенком. </minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>7933.00</sumMax>
+                            <price>79.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>495.99</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>2479.93</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>С даты заключения контракта  по 31.12.2016 г. по заявкам заказчика</contractExecutionStages>
+                            <periodicity>С даты заключения контракта  по 31.12.2016 г. по заявкам заказчика</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361033</code>
+                                    <name>Учреждениям и предприятиям уголовно-исполнительной системы (в соответствии со статьей 28  Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000037001000001</positionNumber>
+                        <extNumber>37441</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>179012.78</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>10.39.1</code>
+                                <name>Переработка и консервирование овощей (кроме картофеля) и грибов</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>01.23</code>
+                                <name>Выращивание цитрусовых культур</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>10.13.1</code>
+                                <name>Производство соленого, вареного, запеченого, копченого, вяленого и прочего мяса</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Продукты питания</contractSubjectName>
+                        <contractMaxPrice>179012.78</contractMaxPrice>
+                        <payments>179012.78</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-07T11:56:49.003+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.86.10.660</code>
+                                <name>Консервы мясные для детского питания</name>
+                            </OKPD2>
+                            <name>Говядина тушенная</name>
+                            <minRequirement>Говядина тушенная. Высший сорт. Металлическая банка 325 грамм. Запах и вкус свойственные тушенной говядине с пряностями, без постороннего запаха и привкуса, мясо кусочками, сочное, не переваренные.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>156862.08</sumMax>
+                            <price>272.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>576.00</quantity>
+                            <quantityCurrentYear>576.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>01.23.12.000</code>
+                                <name>Лимоны и лаймы</name>
+                            </OKPD2>
+                            <name>Лимоны</name>
+                            <minRequirement>Фрукты равномерные по величине, без механических повреждений и червоточин, не треснувшие, хорошо сохранившие форму.</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>1850.00</sumMax>
+                            <price>185.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>01.13.39.110</code>
+                                <name>Кабачки</name>
+                            </OKPD2>
+                            <name>Икра из кабачков</name>
+                            <minRequirement>Икра из кабачков. Консервированная овощная икра, изготовленная из свежих кабачков. Консистенция – однородная, равномерно измельченная, консистенция мажущаяся.  Металлическая банка 325 грамм.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>20300.70</sumMax>
+                            <price>96.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>210.00</quantity>
+                            <quantityCurrentYear>210.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1790.13</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>8950.64</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>С даты заключения контракта  по 31.12.2016 г. по заявкам заказчика</contractExecutionStages>
+                            <periodicity>С даты заключения контракта  по 31.12.2016 г. по заявкам заказчика</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                    <content>Участниками электронного аукциона могут быть только субъекты малого предпринимательства, социально ориентированные некоммерческие организации</content>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>2000000.00</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess100>
+                    <purchaseAmountLess400>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>7042162.03</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess400>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>2000000.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>7042162.03</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>179012.78</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>17272577.54</sumContractMaxPrice>
+                    <sumPaymentsTotal>9598974.81</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=12902654</url>
+            <signature>TUlJTStnWUpLb1pJaHZjTkFRY0NvSUlNNnpDQ0RPY0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqS01JSUl4akNDQ0hXZ0F3SUJBZ0lERzB6MU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1UQXdOekV6TWpFeE1Wb1hEVEU0TURFd056RXpNakV4TVZvd2dnR2xNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV4TVRrMU16YzBOekVXTUJRR0JTcUZBMlFERWdzeE1qazBOalF3TVRrMk9ERWRNQnNHQ1NxR1NJYjNEUUVKQVJZT1oyOTFjR3d5UUcxaGFXd3VjblV4Q3pBSkJnTlZCQVlUQWxKVk1Ua3dOd1lEVlFRSURERFFvTkMxMFlIUXY5R0QwTEhRdTlDNDBMclFzQ0RRa05DMDBZdlFzOUMxMFk4Z0tOQ1EwTFRSaTlDejBMWFJqeWt4WFRCYkJnTlZCQWNNVk5DekxpRFFuTkN3MExuUXV0QyswTDhzSU5HQjBZSXVJTkNsMExEUXZkR0IwTHJRc05HUExDRFJnOUM3TGlEUW10R0EwTERSZ2RDOTBMN1F2dEM2MFlMUmo5Q3gwWURSak5HQjBMclFzTkdQTENBeU5URWhNQjhHQTFVRUNnd1kwSlBRa2RDZjBKN1FveURRb05DUUlDTFFuTkNmMEtJaU1Tb3dLQVlEVlFRcURDSFFyZEMwMFlQUXNOR0EwTFFnMEpMUXVOQzYwWUxRdnRHQTBMN1FzdEM0MFljeEd6QVpCZ05WQkFRTUV0Q1IwTFhRdE5HRDBMclFzTkMwMExmUXRURTlNRHNHQTFVRUF3dzAwSkhRdGRDMDBZUFF1dEN3MExUUXQ5QzFJTkN0MExUUmc5Q3cwWURRdENEUWt0QzQwTHJSZ3RDKzBZRFF2dEN5MExqUmh6QmpNQndHQmlxRkF3SUNFekFTQmdjcWhRTUNBaVFBQmdjcWhRTUNBaDRCQTBNQUJFQmUvODQvR1Y3cmRONStRaE1FVFZWMEZZWlg5V0ppMWhzc3ZyeUpuajd4MG1vUFR1SGo5cjdaV3dpMWJTTHhVUEJ4VzVJWDVlRnZWMFphdWkyWE95ekxvNElFempDQ0JNb3dEQVlEVlIwVEFRSC9CQUl3QURBZEJnTlZIU0FFRmpBVU1BZ0dCaXFGQTJSeEFUQUlCZ1lxaFFOa2NRSXdQZ1lEVlIwUkJEY3dOYUFUQmdOVkJBeWdEQk1LTVRBd056RTBNVFl6TktBYkJnb3FoUU1EUFo3WE5nRUZvQTBUQ3pBek56WXlNREF3TURNM2hnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVPU2t3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qY3pPQ0RRdnRHQ0lEQXhMakEzTGpJd01UVU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qZzNPQ0RRdnRHQ0lESXdMakEyTGpJd01UWXdEZ1lEVlIwUEFRSC9CQVFEQWdQb01HOEdBMVVkSlFSb01HWUdDQ3NHQVFVRkJ3TUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkFRWU9Lb1VEQXoyZTF6WUJCZ01FQVFJR0RpcUZBd005bnRjMkFRWURCQUVFQmdrcWhRTURnWHNGQWdFR0NTcUZBd09CZXdVQ0FnWUpLb1VEQTRGN0JRSUVCZ2txaFFNRGdYc0ZBZ1V3S3dZRFZSMFFCQ1F3SW9BUE1qQXhOakV3TURjeE16STFNVEJhZ1E4eU1ERTRNREV3TnpFek1qRXhNVm93Z2dHUEJnTlZIU01FZ2dHR01JSUJnb0FVbm5FT0Q5cTBBU2hmUCtMTGoyVVZsd0pIakt1aGdnRmxwSUlCWVRDQ0FWMHhHREFXQmdrcWhraUc5dzBCQ1FJVENWTmxjblpsY2lCRFFURWdNQjRHQ1NxR1NJYjNEUUVKQVJZUmRXTmZabXRBY205emEyRjZibUV1Y25VeEhEQWFCZ05WQkFnTUV6YzNJTkN6TGlEUW5OQyswWUhRdXRDeTBMQXhHakFZQmdncWhRTURnUU1CQVJJTU1EQTNOekV3TlRZNE56WXdNUmd3RmdZRktvVURaQUVTRFRFd05EYzNPVGN3TVRrNE16QXhMREFxQmdOVkJBa01JOUdEMEx2UXVOR0cwTEFnMEpqUXU5R00wTGpRdmRDNjBMQXNJTkMwMEw3UXZDQTNNUlV3RXdZRFZRUUhEQXpRbk5DKzBZSFF1dEN5MExBeEN6QUpCZ05WQkFZVEFsSlZNVGd3TmdZRFZRUUtEQy9RcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDMUlOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRdmpFL01EMEdBMVVFQXd3MjBLUFFwaURRcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDejBMNGcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDd2dnRUJNRjRHQTFVZEh3UlhNRlV3S2FBbm9DV0dJMmgwZEhBNkx5OWpjbXd1Y205emEyRjZibUV1Y25VdlkzSnNMMlpyTURFdVkzSnNNQ2lnSnFBa2hpSm9kSFJ3T2k4dlkzSnNMbVp6Wm1zdWJHOWpZV3d2WTNKc0wyWnJNREV1WTNKc01CMEdBMVVkRGdRV0JCUTYxa2k2RElJRnBhOTYwK2JTWkRwRWFhWGpsVEFJQmdZcWhRTUNBZ01EUVFCNmFRN25FSmFDREpVMjFHenU2amF6cW9oNkhJMlF2YjdoT2I1NFlkMHZHVG5memV6UkpLSWV6VjZrRm5OK3NnS0QrYk4vYWFRSXlnQU42OCtMTnFCYk1ZSUQ5ekNDQS9NQ0FRRXdnZ0ZtTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExBQ0F4dE05VEFLQmdZcWhRTUNBZ2tGQUtDQ0FpZ3dHQVlKS29aSWh2Y05BUWtETVFzR0NTcUdTSWIzRFFFSEFUQWNCZ2txaGtpRzl3MEJDUVV4RHhjTk1UWXhNVEU0TVRBeE1qRXhXakF2QmdrcWhraUc5dzBCQ1FReElnUWdaSWtDckpsU3d2b3dSVWNzQkc3Qmt1VEFPbGJKQy9JMkhIOWlMeFFsSmJVd2dnRzdCZ3NxaGtpRzl3MEJDUkFDTHpHQ0Fhb3dnZ0dtTUlJQm9qQ0NBWjR3Q0FZR0tvVURBZ0lKQkNDcm8yR0VSdGRTamlQTGNsK25sS3JqdDl6Q2xjVGZDbGk4WFhvN1JBRm5xRENDQVc0d2dnRmxwSUlCWVRDQ0FWMHhHREFXQmdrcWhraUc5dzBCQ1FJVENWTmxjblpsY2lCRFFURWdNQjRHQ1NxR1NJYjNEUUVKQVJZUmRXTmZabXRBY205emEyRjZibUV1Y25VeEhEQWFCZ05WQkFnTUV6YzNJTkN6TGlEUW5OQyswWUhRdXRDeTBMQXhHakFZQmdncWhRTURnUU1CQVJJTU1EQTNOekV3TlRZNE56WXdNUmd3RmdZRktvVURaQUVTRFRFd05EYzNPVGN3TVRrNE16QXhMREFxQmdOVkJBa01JOUdEMEx2UXVOR0cwTEFnMEpqUXU5R00wTGpRdmRDNjBMQXNJTkMwMEw3UXZDQTNNUlV3RXdZRFZRUUhEQXpRbk5DKzBZSFF1dEN5MExBeEN6QUpCZ05WQkFZVEFsSlZNVGd3TmdZRFZRUUtEQy9RcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDMUlOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRdmpFL01EMEdBMVVFQXd3MjBLUFFwaURRcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDejBMNGcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDd0FnTWJUUFV3Q2dZR0tvVURBZ0lUQlFBRVFDWlJKOU9hbjRFN3dlUUN5TEhuQkxWMEpTTjRRSEJhNnR0R2ZJNFo3cnIvdWNIK0NMOGo1SVlEeEF4dGdQb1VZYitQYngxMmJoMjBndGszQ1VKdGVYND0=</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

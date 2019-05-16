@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11296914</id>
+            <planNumber>44201603762000128001</planNumber>
+            <year>2016</year>
+            <versionNumber>4</versionNumber>
+            <owner>
+                <regNum>03762000128</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "ЦЕНТР СПОРТИВНОЙ ПОДГОТОВКИ СБОРНЫХ КОМАНД РЕСПУБЛИКИ АДЫГЕЯ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-08-05T13:57:59.689+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-08-05T12:31:23.363+03:00</confirmDate>
+            <publishDate>2016-08-05T14:01:11.531+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000128</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "ЦЕНТР СПОРТИВНОЙ ПОДГОТОВКИ СБОРНЫХ КОМАНД РЕСПУБЛИКИ АДЫГЕЯ"</fullName>
+                <shortName>ГБУ РА "ЦСП СК РА"</shortName>
+                <postAddress>Российская Федерация, 385020, Адыгея Респ, Майкоп г, Пионерская, 374/В</postAddress>
+                <factAddress>Российская Федерация, 385020, Адыгея Респ, Майкоп г, Пионерская, 374/В</factAddress>
+                <INN>0105028035</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Хапачев</lastName>
+            <firstName>Аскер</firstName>
+            <middleName>Азаматович</middleName>
+            <phone>8-8772-569424</phone>
+            <fax>8-8772-569424</fax>
+            <email>arshvsm@rambler.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000128001000006</positionNumber>
+                        <extNumber>26747</extNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>144000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.20.2</code>
+                                <name>Аренда и управление собственным или арендованным нежилым недвижимым имуществом</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по аренде нежилого имущества</contractSubjectName>
+                        <contractMaxPrice>144000.00</contractMaxPrice>
+                        <payments>144000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2016-01-15T16:52:13.557+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.20.12.000</code>
+                                <name>Услуги по сдаче в аренду (внаем) собственных или арендованных нежилых помещений</name>
+                            </OKPD2>
+                            <name>Оказание услуг по аренде нежилого имущества</name>
+                            <minRequirement>Оказание услуг по аренде нежилого имущества в соответствии с государственным контрактом </minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>144000.00</sumMax>
+                            <price>144000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С 1.01.2016 г. по 31.12.2016 г.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000128001000002</positionNumber>
+                        <extNumber>26737</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>5400.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг междугородной связи в 2016 году.</contractSubjectName>
+                        <contractMaxPrice>5400.00</contractMaxPrice>
+                        <payments>5400.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2016-01-15T16:52:13.557+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.110</code>
+                                <name>Услуги по предоставлению внутризоновых, междугородных и международных телефонных соединений</name>
+                            </OKPD2>
+                            <name>Оказание услуг междугородной связи в 2016 году.</name>
+                            <minRequirement>Оказание услуг междугородной связи в 2016 году в соответствии с государственным контрактом</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>5400.00</sumMax>
+                            <price>5400.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С 1.01.2016 г. по 31.12.2016 г.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000128001000009</positionNumber>
+                        <extNumber>35281</extNumber>
+                        <orderNumber>9</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>353883.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>14.13.1</code>
+                                <name>Производство верхней трикотажной или вязаной одежды</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>14.14.3</code>
+                                <name>Производство трикотажных или вязаных футболок, маек и прочих нижних рубашек</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>15.20.2</code>
+                                <name>Производство спортивной обуви</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>14.19.12</code>
+                                <name>Производство спортивных костюмов, лыжных костюмов, купальных костюмов и прочей трикотажной или вязаной одежды</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>14.19.1</code>
+                                <name>Производство трикотажной или вязаной одежды для детей младшего возраста, спортивной или прочей одежды, аксессуаров и деталей одежды</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка спортивной одежды и обуви для легкой атлетики</contractSubjectName>
+                        <contractMaxPrice>353883.00</contractMaxPrice>
+                        <payments>353883.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-05T14:01:11.531+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>15.20.21.140</code>
+                                <name>Кроссовки и аналогичные изделия</name>
+                            </OKPD2>
+                            <name>Кроссовки мужские</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>715</code>
+                                <name>Пара (2 шт.)</name>
+                            </OKEI>
+                            <sumMax>41800.00</sumMax>
+                            <price>4180.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.13.12.160</code>
+                                <name>Бриджи и шорты мужские или для мальчиков трикотажные или вязаные</name>
+                            </OKPD2>
+                            <name>Шорты легкоатлетические мужские</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>13710.00</sumMax>
+                            <price>1371.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.19.12.190</code>
+                                <name>Одежда прочая трикотажная или вязаная</name>
+                            </OKPD2>
+                            <name>Поло</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>24120.00</sumMax>
+                            <price>1206.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.19.12.110</code>
+                                <name>Костюмы спортивные трикотажные или вязаные</name>
+                            </OKPD2>
+                            <name>Костюм тренировочный</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>839</code>
+                                <name>Комплект</name>
+                            </OKEI>
+                            <sumMax>28903.00</sumMax>
+                            <price>2890.30</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.19.22.190</code>
+                                <name>Одежда прочая из текстильных материалов, кроме трикотажных или вязаных</name>
+                            </OKPD2>
+                            <name>Толстовка</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>8960.00</sumMax>
+                            <price>2240.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.14.30.120</code>
+                                <name>Майки и прочие нижние рубашки трикотажные или вязаные</name>
+                            </OKPD2>
+                            <name>Майка лекоатлетическая женская</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>24160.00</sumMax>
+                            <price>2416.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>15.20.21.140</code>
+                                <name>Кроссовки и аналогичные изделия</name>
+                            </OKPD2>
+                            <name>Кроссовки женские</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>715</code>
+                                <name>Пара (2 шт.)</name>
+                            </OKEI>
+                            <sumMax>62030.00</sumMax>
+                            <price>6203.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.19.22.190</code>
+                                <name>Одежда прочая из текстильных материалов, кроме трикотажных или вязаных</name>
+                            </OKPD2>
+                            <name>Плавки легкоатлетические женские</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>13710.00</sumMax>
+                            <price>1371.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>15.20.29.190</code>
+                                <name>Обувь спортивная прочая, кроме лыжных ботинок и ботинок с коньками, не включенная в другие группировки</name>
+                            </OKPD2>
+                            <name>Шиповки для прыжков</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>715</code>
+                                <name>Пара (2 шт.)</name>
+                            </OKEI>
+                            <sumMax>54490.00</sumMax>
+                            <price>5449.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>15.20.29.190</code>
+                                <name>Обувь спортивная прочая, кроме лыжных ботинок и ботинок с коньками, не включенная в другие группировки</name>
+                            </OKPD2>
+                            <name>Легкоатлетические шиповки для бега</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>715</code>
+                                <name>Пара (2 шт.)</name>
+                            </OKEI>
+                            <sumMax>62130.00</sumMax>
+                            <price>6213.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.14.30.120</code>
+                                <name>Майки и прочие нижние рубашки трикотажные или вязаные</name>
+                            </OKPD2>
+                            <name>Майка лекоатлетическая мужская</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>19870.00</sumMax>
+                            <price>1987.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>3538.83</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>17694.15</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок поставки товара с даты заключения контракта до 30.09.2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлено в соответствии с Постановлением Правительства РФ № 791 от 11.08.2014
+</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000128001000004</positionNumber>
+                        <extNumber>26741</extNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>101600.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.14</code>
+                                <name>Торговля электроэнергией</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка электроэнергии в 2016 году</contractSubjectName>
+                        <contractMaxPrice>101600.00</contractMaxPrice>
+                        <payments>101600.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2016-01-15T16:52:13.557+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.14.10.000</code>
+                                <name>Услуги по торговле электроэнергией</name>
+                            </OKPD2>
+                            <name>Поставка электроэнергии в 2016 году</name>
+                            <minRequirement>Поставка электроэнергии в 2016 году в соответствии с государственным контрактом</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>101600.00</sumMax>
+                            <price>101600.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С 1.01.2016 г. по 31.12.2016 г.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000128001000001</positionNumber>
+                        <extNumber>26734</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>15400.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг городской местной связи в 2016 году.</contractSubjectName>
+                        <contractMaxPrice>15400.00</contractMaxPrice>
+                        <payments>15400.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2016-01-15T16:52:13.557+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.120</code>
+                                <name>Услуги по предоставлению местных соединений</name>
+                            </OKPD2>
+                            <name>Оказание услуг городской местной связи в 2016 году.</name>
+                            <minRequirement>Оказание услуг городской местной связи в 2016 году в соответствии с государственным контрактом</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>15400.00</sumMax>
+                            <price>15400.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С 1.01.2016г. по 31.12.2016г.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000128001000005</positionNumber>
+                        <extNumber>26742</extNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>13500.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>36.00.2</code>
+                                <name>Распределение воды для питьевых и промышленных нужд</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг водоснабжения и водоотведения в 2016 году</contractSubjectName>
+                        <contractMaxPrice>13500.00</contractMaxPrice>
+                        <payments>13500.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2016-01-15T16:52:13.557+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>36.00.11.000</code>
+                                <name>Вода питьевая</name>
+                            </OKPD2>
+                            <name>Оказание услуг водоснабжения и водоотведения в 2016 году </name>
+                            <minRequirement>Оказание услуг водоснабжения и водоотведения в 2016 году в соответствии с государственным контрактом</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>13500.00</sumMax>
+                            <price>13500.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С 1.01.2016 г. по 31.12.2016 г.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000128001000007</positionNumber>
+                        <extNumber>29431</extNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>179979.36</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>19.20</code>
+                                <name>Производство нефтепродуктов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка нефтепродуктов для нужд ГБУ "ЦСП СК РА" в 2016 году.</contractSubjectName>
+                        <contractMaxPrice>179979.36</contractMaxPrice>
+                        <payments>179979.36</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-11T14:54:44.496+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.315</code>
+                                <name>Топливо дизельное летнее экологического класса К5</name>
+                            </OKPD2>
+                            <name>Поставка нефтепродуктов для нужд ГБУ "ЦСП СК РА" в 2016 году.</name>
+                            <minRequirement>Поставка нефтепродуктов для нужд ГБУ "ЦСП СК РА" в 2016 году в соответствии с условиями контракта и технического задания</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>179979.36</sumMax>
+                            <price>42.13</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4272.00</quantity>
+                            <quantityCurrentYear>4272.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1799.79</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>8998.97</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С даты заключения контракта по 31.12.2016 года</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000128001000003</positionNumber>
+                        <extNumber>26739</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>194264.31</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.30.11</code>
+                                <name>Производство пара и горячей воды (тепловой энергии) тепловыми электростанциями</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Отпуск тепловой энергии в 2016 году</contractSubjectName>
+                        <contractMaxPrice>194264.31</contractMaxPrice>
+                        <payments>194264.31</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2016-01-15T16:52:13.557+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.30.11.120</code>
+                                <name>Энергия тепловая, отпущенная котельными</name>
+                            </OKPD2>
+                            <name>Отпуск тепловой энергии в 2016 году</name>
+                            <minRequirement>Отпуск тепловой энергии в 2016 году в соответствии с государственным контрактом</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>194264.31</sumMax>
+                            <price>194264.31</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С 1.01.2016 г. по 31.12.2016 г.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000128001000008</positionNumber>
+                        <extNumber>35286</extNumber>
+                        <orderNumber>8</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>351232.50</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>14.19.1</code>
+                                <name>Производство трикотажной или вязаной одежды для детей младшего возраста, спортивной или прочей одежды, аксессуаров и деталей одежды</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>15.20.2</code>
+                                <name>Производство спортивной обуви</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>14.19.12</code>
+                                <name>Производство спортивных костюмов, лыжных костюмов, купальных костюмов и прочей трикотажной или вязаной одежды</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка спортивной одежды и обуви для гандбола</contractSubjectName>
+                        <contractMaxPrice>351232.50</contractMaxPrice>
+                        <payments>351232.50</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-05T14:01:11.531+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>15.20.21.140</code>
+                                <name>Кроссовки и аналогичные изделия</name>
+                            </OKPD2>
+                            <name>Кроссовки</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>715</code>
+                                <name>Пара (2 шт.)</name>
+                            </OKEI>
+                            <sumMax>64990.00</sumMax>
+                            <price>6499.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.19.22.190</code>
+                                <name>Одежда прочая из текстильных материалов, кроме трикотажных или вязаных</name>
+                            </OKPD2>
+                            <name>Поло</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>30150.00</sumMax>
+                            <price>1206.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>25.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.19.12.110</code>
+                                <name>Костюмы спортивные трикотажные или вязаные</name>
+                            </OKPD2>
+                            <name>Костюм флисовый женский</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>90350.00</sumMax>
+                            <price>3614.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>25.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.19.22.190</code>
+                                <name>Одежда прочая из текстильных материалов, кроме трикотажных или вязаных</name>
+                            </OKPD2>
+                            <name>Толстовка</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>45757.50</sumMax>
+                            <price>1830.30</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>25.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.19.22.110</code>
+                                <name>Костюмы спортивные из текстильных материалов, кроме трикотажных или вязаных</name>
+                            </OKPD2>
+                            <name>Костюм спортиный тренировочный женский</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>87225.00</sumMax>
+                            <price>3489.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>25.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.19.22.190</code>
+                                <name>Одежда прочая из текстильных материалов, кроме трикотажных или вязаных</name>
+                            </OKPD2>
+                            <name>Вратарская форма</name>
+                            <minRequirement>Поставка товара в соответствии с техническим заданием и государственным контрактом. Для СМП и СОНКО</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>32760.00</sumMax>
+                            <price>3276.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>3512.33</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>17561.63</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок поставки товара с даты заключения контракта до 30.09.2016 г.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлено в соответствии с Постановлением Правительства РФ № 791 от 11.08.2014
+</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>1192739.64</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1192739.64</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>705115.50</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>2551998.81</sumContractMaxPrice>
+                    <sumPaymentsTotal>2551998.81</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11296914</url>
+            <signature>TUlJTk5RWUpLb1pJaHZjTkFRY0NvSUlOSmpDQ0RTSUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drRk1JSUpBVENDQ0xDZ0F3SUJBZ0lERGZyUE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMU1EY3hOREUwTWpNek9Gb1hEVEUyTVRBeE5ERTBNak16T0Zvd2dnRzFNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFF3TXpJek5EUXdNREVXTUJRR0JTcUZBMlFERWdzd05Ua3dOREUxT1RnMk56RVlNQllHQlNxRkEyUUJFZzB4TURJd01UQXdOekEyTlRRNE1TSXdJQVlKS29aSWh2Y05BUWtCRmhOaFpIbG5jM0J2Y25SQWVXRnVaR1Y0TG5KMU1Rc3dDUVlEVlFRR0V3SlNWVEU4TURvR0ExVUVDQXd6TURFZzBLRFF0ZEdCMEwvUmc5Q3gwTHZRdU5DNjBMQWcwSkRRdE5HTDBMUFF0ZEdQSUNqUWtOQzAwWXZRczlDMTBZOHBNUlV3RXdZRFZRUUhEQXpRbk5DdzBMblF1dEMrMEw4eEp6QWxCZ05WQkFvTUh0Q1QwSkhRb3lEUW9OQ1FJQ0xRcHRDaDBKOGcwS0hRbWlEUW9OQ1FJakV1TUN3R0ExVUVLZ3dsMEpEUXZkQ3cwWUhSZ3RDdzBZSFF1TkdQSU5DaDBMWFJnTkN6MExYUXRkQ3kwTDNRc0RFWk1CY0dBMVVFQkF3UTBKelFzTkMzMExEUXN0QzQwTDNRc0RFcU1DZ0dBMVVFREF3aDBKZlFzTkN5MExYUXROR0QwWW5Rc05HUElOR0IwTHJRdTlDdzBMVFF2dEM4TVQ4d1BRWURWUVFERERiUW5OQ3cwTGZRc05DeTBMalF2ZEN3SU5DUTBMM1FzTkdCMFlMUXNOR0IwTGpSanlEUW9kQzEwWURRczlDMTBMWFFzdEM5MExBd1l6QWNCZ1lxaFFNQ0FoTXdFZ1lIS29VREFnSWtBQVlIS29VREFnSWVBUU5EQUFSQWxZaWN5MDlhSnEvWkMwNVE1TXgxeVQvT01mTS8zb0ZOcE5iSC9nWTZQSU5tOFd4RjFYMDlKZ2dOT1JPSTJBcXJpbUxuYjVzM3lUVnkxQlZ4ZTV5QW02T0NCUGt3Z2dUMU1Bd0dBMVVkRXdFQi93UUNNQUF3SFFZRFZSMGdCQll3RkRBSUJnWXFoUU5rY1FFd0NBWUdLb1VEWkhFQ01IY0dBMVVkRVFSd01HNmdFZ1lEVlFRTW9Bc1RDVGN4TURFd05UQXlNcUFaQmdvcWhRTURQWjdYTmdFSG9Bc1RDVEF4TURVd01UQXdNYUFiQmdvcWhRTURQWjdYTmdFRm9BMFRDekF6TnpZeU1EQXdNVEk0b0IwR0NpcUZBd005bnRjMkFRaWdEeE1OTURNM05qSXdNREF3TURFek1ZWUJNREEyQmdVcWhRTmtid1F0RENzaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwTUlJQllRWUZLb1VEWkhBRWdnRldNSUlCVWd4RUl0Q2EwWURRdU5DLzBZTFF2dENmMFlEUXZpQkRVMUFpSUNqUXN0QzEwWURSZ2RDNDBZOGdNeTQyS1NBbzBMalJnZEMvMEw3UXU5QzkwTFhRdmRDNDBMVWdNaWtNYUNMUW45R0EwTDdRczlHQTBMRFF2TkM4MEwzUXZpM1FzTkMvMEwvUXNOR0EwTERSZ3RDOTBZdlF1U0RRdXRDKzBMelF2OUM3MExYUXV0R0JJQ0xRcnRDOTBMalJnZEMxMFlEUmdpM1FrOUNlMEtIUW9pSXVJTkNTMExYUmdOR0IwTGpSanlBeUxqRWlERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJMExUSXlNemdnMEw3UmdpQXdOQzR4TUM0eU1ERXpERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJNExUSXhOelVnMEw3UmdpQXlNQzR3Tmk0eU1ERXpNQTRHQTFVZER3RUIvd1FFQXdJRDZEQmhCZ05WSFNVRVdqQllCZ2dyQmdFRkJRY0RBZ1lPS29VREF6MmUxellCQmdNRUFRRUdEaXFGQXdNOW50YzJBUVlEQkFFQ0JnNHFoUU1EUFo3WE5nRUdBd1FCQkFZTktvVURBejJlMXpZQkJnTUZBUVlOS29VREF6MmUxellCQmdNRkFqQXJCZ05WSFJBRUpEQWlnQTh5TURFMU1EY3hOREUwTWpNeU4xcUJEekl3TVRZeE1ERXpNVFF5TXpNNFdqQ0NBWThHQTFVZEl3U0NBWVl3Z2dHQ2dCU2VjUTRQMnJRQktGOC80c3VQWlJXWEFrZU1xNkdDQVdXa2dnRmhNSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTENDQVFFd1hnWURWUjBmQkZjd1ZUQXBvQ2VnSllZamFIUjBjRG92TDJOeWJDNXliM05yWVhwdVlTNXlkUzlqY213dlptc3dNUzVqY213d0tLQW1vQ1NHSW1oMGRIQTZMeTlqY213dVpuTm1heTVzYjJOaGJDOWpjbXd2Wm1zd01TNWpjbXd3SFFZRFZSME9CQllFRk9PSkdiVjlvUXd5YzNsa0g2bTZpZUI5QWphV01BZ0dCaXFGQXdJQ0F3TkJBSVJlT1N3NlVHQnJFVHpyK3hpcEQrWngvcTZuZFpMMmpwUzV0d0w5b3ZJb3RLaURDMmp0T1A5Q2RhQXMxdFNDbWlTSWpvR1htazljNW45MHZvYllJdkl4Z2dQM01JSUQ4d0lCQVRDQ0FXWXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzQUlERGZyUE1Bb0dCaXFGQXdJQ0NRVUFvSUlDS0RBWUJna3Foa2lHOXcwQkNRTXhDd1lKS29aSWh2Y05BUWNCTUJ3R0NTcUdTSWIzRFFFSkJURVBGdzB4TmpBNE1EVXhNVEF4TURoYU1DOEdDU3FHU0liM0RRRUpCREVpQkNCa205QVh2TXJURm15T3ZVNjJlL2QyaFREaTZmNUppR1ZCaFhTMkZOdHZHVENDQWJzR0N5cUdTSWIzRFFFSkVBSXZNWUlCcWpDQ0FhWXdnZ0dpTUlJQm5qQUlCZ1lxaFFNQ0Fna0VJQzhaTTJVcGtHV05jaVJUd0J4WE02azhvQlVJZEM5dHA3NGVOdG40S2ZRd01JSUJiakNDQVdXa2dnRmhNSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTEFDQXczNnp6QUtCZ1lxaFFNQ0FoTUZBQVJBQXZybnBkT1Fya3N1ekhpNUJZbUNIbnMxZHR3YUhEUENUVUNXTlJmeUJNMS9FNHpUSmJUVTRCcU9YeXFaVUN6VnNoVVBpaldLcmJxdlVxdXppbUo2Nnc9PQ==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

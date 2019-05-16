@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11478012</id>
+            <planNumber>44201603762000095001</planNumber>
+            <year>2016</year>
+            <versionNumber>3</versionNumber>
+            <owner>
+                <regNum>03762000095</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ  "РЕДАКЦИЯ РЕСПУБЛИКАНСКОЙ ГАЗЕТЫ "АДЫГЭ МАКЪ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-08-19T08:51:24.700+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-08-18T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-08-19T08:53:12.692+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000095</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ  "РЕДАКЦИЯ РЕСПУБЛИКАНСКОЙ ГАЗЕТЫ "АДЫГЭ МАКЪ"</fullName>
+                <shortName>редакция республиканской газеты "Адыгэ макъ"</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ПЕРВОМАЙСКАЯ, 197</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ПЕРВОМАЙСКАЯ, 197</factAddress>
+                <INN>0105003591</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Игнатов</lastName>
+            <firstName>Дмитрий</firstName>
+            <middleName>Алексеевич</middleName>
+            <phone>8-952-9853055</phone>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000095001000002</positionNumber>
+                        <extNumber>35574</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>370000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.12.1</code>
+                                <name>Производство бумаги</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка газетной бумаги для нужд государственного бюджетного учреждения Республики Адыгея "Редакция Республиканской  газеты "Адыгэ Макъ"</contractSubjectName>
+                        <contractMaxPrice>370000.00</contractMaxPrice>
+                        <payments>370000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2016-08-19T08:53:12.692+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.11.110</code>
+                                <name>Бумага газетная в рулонах</name>
+                            </OKPD2>
+                            <name>Поставка газетной бумаги для нужд государственного бюджетного учреждения Республики Адыгея "Редакция Республиканской  газеты "Адыгэ Макъ"</name>
+                            <minRequirement>Бумага газетная ГОСТ 6445-74: 
+Марка «О»
+В пределах норм установленных для марки «О» по ГОСТ 6445-74
+Ширина рулона 594 мм</minRequirement>
+                            <OKEI>
+                                <code>168</code>
+                                <name>Тонна; Метрическая тонна (1000 кг)</name>
+                            </OKEI>
+                            <sumMax>370000.00</sumMax>
+                            <price>37000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>3700.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>18500.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>с момента заключения контракта по декабрь 2016 г. по заявке Заказчика.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлено в соответствии с Постановлением Правительства РФ № 791 от 11.08.2014
+</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000095001000001</positionNumber>
+                        <extNumber>32092</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>954528.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>18.11</code>
+                                <name>Печатание газет</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание полиграфических услуг по печати газеты "Адыгэ Макъ"</contractSubjectName>
+                        <contractMaxPrice>954528.00</contractMaxPrice>
+                        <payments>954528.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-04T08:59:25.862+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>18.11.10.000</code>
+                                <name>Услуги по печатанию газет</name>
+                            </OKPD2>
+                            <name>Оказание полиграфических услуг по печати газеты "Адыгэ Макъ"</name>
+                            <minRequirement>Количество полос в одном экземпляре газеты: 
+В плановых выпусках - во вторник, среду, четверг, субботу – по 8 полос, в пятницу – 16 полос.
+Во внеплановых выпусках дополнительных полос – в зависимости от заявки Заказчика.;
+Формат: А3
+Периодичность выпуска: со вторника по субботу.
+Технические характеристики:
+5) Цветность газеты – 2+1 (два цвета) 
+6) Фальцовка и вкладка печатных листов.
+7) Подрезка по формату.
+8) Упаковка.
+9) Стандарт упаковки по ОСТ 45.18-86</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>954528.00</sumMax>
+                            <price>5216.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>183.00</quantity>
+                            <quantityCurrentYear>183.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>9545.28</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>47726.40</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>с момента заключения контракта до 31.12.2015</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>0.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>370000.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>1324528.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>1324528.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11478012</url>
+            <signature>TUlJT3RnWUpLb1pJaHZjTkFRY0NvSUlPcHpDQ0RxTUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dxR01JSUtnakNDQ2pHZ0F3SUJBZ0lERlQvUE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1ETXpNVEV4TkRZMU4xb1hEVEUzTURjd01URXhORFkxTjFvd2dnSVhNUm93R0FZSUtvVURBNEVEQVFFU0RESXpOalF3TURZd056QTBNakVXTUJRR0JTcUZBMlFERWdzeE16UTVORFE0T1Rnd01ERW5NQ1VHQ1NxR1NJYjNEUUVKQVJZWWFXZHVZWFJ2ZGw5a2JXbDBjbWw1UUdsdVltOTRMbkoxTVFzd0NRWURWUVFHRXdKU1ZURThNRG9HQTFVRUNBd3pNREVnMEtEUXRkR0IwTC9SZzlDeDBMdlF1TkM2MExBZzBKRFF0TkdMMExQUXRkR1BJQ2pRa05DMDBZdlFzOUMxMFk4cE1SVXdFd1lEVlFRSERBelFuTkN3MExuUXV0QyswTDh4YURCbUJnTlZCQW9NWDlDVDBKSFFveURRb05DUUlDTFFvTkMxMExUUXNOQzYwWWJRdU5HUElOR0EwTFhSZ2RDLzBZUFFzZEM3MExqUXV0Q3cwTDNSZ2RDNjBMN1F1U0RRczlDdzBMZlF0ZEdDMFlzZ0l0Q1EwTFRSaTlDejBZMGcwTHpRc05DNjBZb2lNUW93Q0FZRFZRUUxFd0VnTVN3d0tnWURWUVFxRENQUWxOQzgwTGpSZ3RHQTBMalF1U0RRa05DNzBMWFF1dEdCMExYUXRkQ3kwTGpSaHpFWE1CVUdBMVVFQkF3TzBKalFzOUM5MExEUmd0QyswTEl4S2pBb0JnTlZCQXdNSWRDVDBMdlFzTkN5MEwzUmk5QzVJTkN4MFlQUmhkQ3owTERRdTlHQzBMWFJnREV3TUM0R0NTcUdTSWIzRFFFSkFoTWhNUzR5TGpZME15NHpMall4TGpFdU1TNDJMalV3TWpjeE1DNHpMalF1TWk0ek1Uc3dPUVlEVlFRRERETFFtTkN6MEwzUXNOR0MwTDdRc2lEUWxOQzgwTGpSZ3RHQTBMalF1U0RRa05DNzBMWFF1dEdCMExYUXRkQ3kwTGpSaHpCak1Cd0dCaXFGQXdJQ0V6QVNCZ2NxaFFNQ0FpUUFCZ2NxaFFNQ0FoNEJBME1BQkVBejhvdnBGbFI5cVBWMC8yaDcvNzdrb01raTVqSHlvckE1SmgvRXREQmpqU05IbUlCZzJRbTF0UGdyZU52VG9tOWhOeDJKOERtMTFUZ1JoR3RlN2Q2bm80SUdHRENDQmhRd0RBWURWUjBUQVFIL0JBSXdBREFkQmdOVkhTQUVGakFVTUFnR0JpcUZBMlJ4QVRBSUJnWXFoUU5rY1FJd2ZnWURWUjBSQkhjd2RhQVNCZ05WQkF5Z0N4TUpNek13TVRVek1qVTBvQnNHQ2lxRkF3TTludGMyQVFXZ0RSTUxNRE0zTmpJd01EQXdPVFdnSUFZSktvWklodmNOQVFrVW9CTU1FVU5JT1RjM05GOUpSMDVCVkU5V1gwUkJvQjBHQ2lxRkF3TTludGMyQVFpZ0R4TU5NRE0zTmpJd01EQXdNREE1TW9ZQk1EQTJCZ1VxaFFOa2J3UXREQ3NpMEpyUmdOQzQwTC9SZ3RDKzBKL1JnTkMrSUVOVFVDSWdLTkN5MExYUmdOR0IwTGpSanlBekxqa3BNSUlCWVFZRktvVURaSEFFZ2dGV01JSUJVZ3hFSXRDYTBZRFF1TkMvMFlMUXZ0Q2YwWURRdmlCRFUxQWlJQ2pRc3RDMTBZRFJnZEM0MFk4Z015NDJLU0FvMExqUmdkQy8wTDdRdTlDOTBMWFF2ZEM0MExVZ01pa01hQ0xRbjlHQTBMN1FzOUdBMExEUXZOQzgwTDNRdmkzUXNOQy8wTC9Rc05HQTBMRFJndEM5MFl2UXVTRFF1dEMrMEx6UXY5QzcwTFhRdXRHQklDTFFydEM5MExqUmdkQzEwWURSZ2kzUWs5Q2UwS0hRb2lJdUlOQ1MwTFhSZ05HQjBMalJqeUF5TGpFaURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEkwTFRJM016Z2cwTDdSZ2lBd01TNHdOeTR5TURFMURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEk0TFRJeE56VWcwTDdSZ2lBeU1DNHdOaTR5TURFek1BNEdBMVVkRHdFQi93UUVBd0lEK0RDQ0FYY0dBMVVkSlFTQ0FXNHdnZ0ZxQmdnckJnRUZCUWNEQVFZSUt3WUJCUVVIQXdJR0NDcUZBd0lCQmdnRkJnOHFoUU1EUFFFQkJwN1hOZ01FQVFFR0R5cUZBd005QVFFR250YzJBd1FCQWdZUEtvVURBejBCQVFhZTF6WURCQUVEQmc4cWhRTURQUUVCQnA3WE5nTUVBUVFHRHlxRkF3TTlBUUVHbnRjMkF3UUJCUVlQS29VREF6MEJBUWFlMXpZREJBRUdCZzhxaFFNRFBRRUJCcDdYTmdNRUFRY0dEeXFGQXdNOUFRRUdudGMyQXdRQkNBWVBLb1VEQXowQkFRYWUxellEQkFFSkJnOHFoUU1EUFFFQkJwN1hOZ01FQVFvR0R5cUZBd005QVFFR250YzJBd1FCQ3dZUEtvVURBejBCQVFhZTF6WURCQUVNQmc4cWhRTURQUUVCQnA3WE5nTUVBUTBHRHlxRkF3TTlBUUVHbnRjMkF3UUJEZ1lPS29VREF6MmUxellCQmdNRUFRRUdEaXFGQXdNOW50YzJBUVlEQkFFQ0JnNHFoUU1EUFo3WE5nRUdBd1FCQXdZT0tvVURBejJlMXpZQkJnTUVBUVFHRFNxRkF3TTludGMyQVFZREJRRUdEU3FGQXdNOW50YzJBUVlEQlFJd0t3WURWUjBRQkNRd0lvQVBNakF4TmpBek16RXhNVFEyTVRKYWdROHlNREUzTURjd01URXhORFl4TWxvd2dnR1BCZ05WSFNNRWdnR0dNSUlCZ29BVW5uRU9EOXEwQVNoZlArTExqMlVWbHdKSGpLdWhnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dnZ0VCTUY0R0ExVWRId1JYTUZVd0thQW5vQ1dHSTJoMGRIQTZMeTlqY213dWNtOXphMkY2Ym1FdWNuVXZZM0pzTDJack1ERXVZM0pzTUNpZ0pxQWtoaUpvZEhSd09pOHZZM0pzTG1aelptc3ViRzlqWVd3dlkzSnNMMlpyTURFdVkzSnNNQjBHQTFVZERnUVdCQlRvelRnM0MxVkJRWitubFdvdVR2Z0VyUjEzSVRBSUJnWXFoUU1DQWdNRFFRQ1NpVVFHRzRaMlF0Yml1WSszWXp4eCtzMmpTSUhrcUdoV3oycWhrVFJoQk5HQ2ZlUGNpOE00TlVPa1dTSlNrTjNmenljeEpPK0FNMlZtRU9QWWRiZXpNWUlEOXpDQ0EvTUNBUUV3Z2dGbU1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeFUvenpBS0JnWXFoUU1DQWdrRkFLQ0NBaWd3R0FZSktvWklodmNOQVFrRE1Rc0dDU3FHU0liM0RRRUhBVEFjQmdrcWhraUc5dzBCQ1FVeER4Y05NVFl3T0RFNU1EVTBPVFV3V2pBdkJna3Foa2lHOXcwQkNRUXhJZ1FnWlNuUmlKMmhPUlFYQklJczFraDFFeC93bWYwMllOSmltUUU5M1l3YzV5VXdnZ0c3QmdzcWhraUc5dzBCQ1JBQ0x6R0NBYW93Z2dHbU1JSUJvakNDQVo0d0NBWUdLb1VEQWdJSkJDQkloS3FKUlNnaXBxNkxud1RNbzBENlFmMHd3NXBmZU9NZWFGejQxeDhJMGpDQ0FXNHdnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dBZ01WUDg4d0NnWUdLb1VEQWdJVEJRQUVRSDVuL0t5WHhhcEV4a2pEVE1zd1JIRTBlOHVleVNIRVFoZnNCYkVBMkxRN01Db0dzYXRLdjlpdUV3Q2lRZDFvUWpTVmxmOXFlWVBNVmJRRjAzdkNGbHM9</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

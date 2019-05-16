@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>12300392</id>
+            <planNumber>44201608766000003001</planNumber>
+            <year>2016</year>
+            <versionNumber>1</versionNumber>
+            <owner>
+                <regNum>08766000003</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ  "ЦЕНТР АДМИНИСТРАТИВНО-ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ" АДМИНИСТРАЦИИ МО "ГОРОД АДЫГЕЙСК"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-10-14T13:13:59.373+03:00</createDate>
+            <description>План-график размещения заказов на поставку товаров, выполнения работ, оказание услуг для обеспечения государственных и муниципальных нужд</description>
+            <confirmDate>2016-11-01T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-11-22T11:56:44.203+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>08766000003</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ  "ЦЕНТР АДМИНИСТРАТИВНО-ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ" АДМИНИСТРАЦИИ МО "ГОРОД АДЫГЕЙСК"</fullName>
+                <shortName>МКУ "ЦАТО"</shortName>
+                <postAddress>Российская Федерация, 385200, Адыгея Респ, Адыгейск г, пр-кт В.И.ЛЕНИНА, ДОМ 31</postAddress>
+                <factAddress>Российская Федерация, 385200, Адыгея Респ, Адыгейск г, пр-кт В.И.ЛЕНИНА, ДОМ 31</factAddress>
+                <INN>0107030640</INN>
+                <KPP>010701001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79703000</code>
+                <name>город Адыгейск</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Напцок </lastName>
+            <firstName>Алий</firstName>
+            <middleName>Казбекович</middleName>
+            <phone>8777292954</phone>
+            <email>cbadig@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608766000003001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>91101135Ц00000500244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>583590.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>19.20</code>
+                                <name>Производство нефтепродуктов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка бензина для муниципального казенного учреждения "Центр административно-технического обслуживания" администрации муниципального образования "город Адыгейск" в 1 полугодии 2017 года</contractSubjectName>
+                        <contractMaxPrice>583590.00</contractMaxPrice>
+                        <payments>583590.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-11-22T11:56:44.203+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.120</code>
+                                <name>Бензин автомобильный с октановым числом более 92, но не более 95 по исследовательскому методу</name>
+                            </OKPD2>
+                            <name>Поставка бензина для муниципального казенного учреждения "Центр административно-технического обслуживания" администрации муниципального образования "город Адыгейск" в 1 полугодии 2017 года</name>
+                            <minRequirement>поставка товара в соответствии с условиями контракта</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>583590.00</sumMax>
+                            <price>39700.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>14700.00</quantity>
+                            <quantityCurrentYear>14700.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>5835.90</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>29179.50</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>1 полугодие 2017 г.</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>0.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>583590.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>583590.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=12300392</url>
+            <signature>TUlJTmx3WUpLb1pJaHZjTkFRY0NvSUlOaURDQ0RZUUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dsbk1JSUpZekNDQ1JLZ0F3SUJBZ0lERzNCS01BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1UQXhNekEyTWpnMU9Gb1hEVEU0TURFeE16QTJNamcxT0Zvd2dnSVpNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRGN3TURFNU5Ua3dPREVXTUJRR0JTcUZBMlFERWdzd05qazFOakV6T0Rjd05URWVNQndHQ1NxR1NJYjNEUUVKQVJZUFlXUnRZV1JwWjBCdFlXbHNMbkoxTVFzd0NRWURWUVFHRXdKU1ZURTVNRGNHQTFVRUNBd3cwS0RRdGRHQjBML1JnOUN4MEx2UXVOQzYwTEFnMEpEUXROR0wwTFBRdGRHUElDalFrTkMwMFl2UXM5QzEwWThwTVIwd0d3WURWUVFIREJUUXN5NGcwSkRRdE5HTDBMUFF0ZEM1MFlIUXVqR0I1ekNCNUFZRFZRUUtESUhjMEp6UW85Q2QwSmpRcHRDWTBKL1FrTkNiMEt6UW5kQ2UwSlVnMEpyUWtOQ1gwSlhRbmRDZDBKN1FsU0RRbzlDbjBLRFFsZENXMEpUUWxkQ2QwSmpRbFNBaTBLYlFsZENkMEtMUW9DRFFrTkNVMEp6UW1OQ2QwSmpRb2RDaTBLRFFrTkNpMEpqUWt0Q2QwSjR0MEtMUWxkQ2wwSjNRbU5DbjBKWFFvZENhMEo3UWs5Q2VJTkNlMEpIUW9kQ2IwS1BRbHRDWTBKTFFrTkNkMEpqUXJ5SWcwSkRRbE5DYzBKalFuZENZMEtIUW90Q2cwSkRRcHRDWTBKZ2cwSnpRbmlBaTBKUFFudENnMEo3UWxDRFFrTkNVMEt2UWs5Q1YwSm5Rb2RDYUlqRW1NQ1FHQTFVRUtnd2QwSkRRdTlDNDBMa2cwSnJRc05DMzBMSFF0ZEM2MEw3UXN0QzQwWWN4RlRBVEJnTlZCQVFNRE5DZDBMRFF2OUdHMEw3UXVqRXpNREVHQTFVRUF3d3EwSjNRc05DLzBZYlF2dEM2SU5DUTBMdlF1TkM1SU5DYTBMRFF0OUN4MExYUXV0QyswTExRdU5HSE1HTXdIQVlHS29VREFnSVRNQklHQnlxRkF3SUNKQUFHQnlxRkF3SUNIZ0VEUXdBRVFKY2x4ZTBUOUVidUNzcXB0UW1NMWx0ZFZOdGdkZXBpMGg0SnFPbWlweGozOWF6eEFGelJObTlGcTRRSXFmTkYyQTRQdkYrVzArOWdLSys0SFJGdDhmU2pnZ1QzTUlJRTh6QU1CZ05WSFJNQkFmOEVBakFBTUIwR0ExVWRJQVFXTUJRd0NBWUdLb1VEWkhFQk1BZ0dCaXFGQTJSeEFqQStCZ05WSFJFRU56QTFvQk1HQTFVRURLQU1Fd294TURFeU1UTXlNVEV5b0JzR0NpcUZBd005bnRjMkFRV2dEUk1MTURnM05qWXdNREF3TURPR0FUQXdOZ1lGS29VRFpHOEVMUXdySXRDYTBZRFF1TkMvMFlMUXZ0Q2YwWURRdmlCRFUxQWlJQ2pRc3RDMTBZRFJnZEM0MFk4Z015NDJLVENDQVdFR0JTcUZBMlJ3QklJQlZqQ0NBVklNUkNMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWtnS05DNDBZSFF2OUMrMEx2UXZkQzEwTDNRdU5DMUlESXBER2dpMEovUmdOQyswTFBSZ05DdzBMelF2TkM5MEw0dDBMRFF2OUMvMExEUmdOQ3cwWUxRdmRHTDBMa2cwTHJRdnRDODBML1F1OUMxMExyUmdTQWkwSzdRdmRDNDBZSFF0ZEdBMFlJdDBKUFFudENoMEtJaUxpRFFrdEMxMFlEUmdkQzQwWThnTWk0eElneFAwS0hRdGRHQTBZTFF1TkdFMExqUXV0Q3cwWUlnMFlIUXZ0QyswWUxRc3RDMTBZTFJnZEdDMExMUXVOR1BJT0tFbGlEUW9kQ2tMekV5TkMweU56TTRJTkMrMFlJZ01ERXVNRGN1TWpBeE5ReFAwS0hRdGRHQTBZTFF1TkdFMExqUXV0Q3cwWUlnMFlIUXZ0QyswWUxRc3RDMTBZTFJnZEdDMExMUXVOR1BJT0tFbGlEUW9kQ2tMekV5T0MweU9EYzRJTkMrMFlJZ01qQXVNRFl1TWpBeE5qQU9CZ05WSFE4QkFmOEVCQU1DQStnd2daY0dBMVVkSlFTQmp6Q0JqQVlJS3dZQkJRVUhBd0lHRGlxRkF3TTludGMyQVFZREJBRUJCZzRxaFFNRFBaN1hOZ0VHQXdRQkFnWU9Lb1VEQXoyZTF6WUJCZ01FQVFNR0RpcUZBd005bnRjMkFRWURCQUVFQmdrcWhRTURnWHNGQWdFR0NTcUZBd09CZXdVQ0FnWUpLb1VEQTRGN0JRSURCZ2txaFFNRGdYc0ZBZ1FHQ1NxRkF3T0Jld1VDQlFZSktvVURBNEY3QlFJR01Dc0dBMVVkRUFRa01DS0FEekl3TVRZeE1ERXpNRFl6TXpNeVdvRVBNakF4T0RBeE1UTXdOakk0TlRoYU1JSUJqd1lEVlIwakJJSUJoakNDQVlLQUZKNXhEZy9hdEFFb1h6L2l5NDlsRlpjQ1I0eXJvWUlCWmFTQ0FXRXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzSUlCQVRCZUJnTlZIUjhFVnpCVk1DbWdKNkFsaGlOb2RIUndPaTh2WTNKc0xuSnZjMnRoZW01aExuSjFMMk55YkM5bWF6QXhMbU55YkRBb29DYWdKSVlpYUhSMGNEb3ZMMk55YkM1bWMyWnJMbXh2WTJGc0wyTnliQzltYXpBeExtTnliREFkQmdOVkhRNEVGZ1FVSUJhZ04wU0xBa0Q5eWtCMzE4ZkhzTGVpUi9vd0NBWUdLb1VEQWdJREEwRUFYd04zS1FJa0R1TUdFRmxNTzFhRTNndjJlWUxYK1lpZktKSjFOTndqNUdjZHAySmxnbU8xV1JuV3A0SXNqQ3hiOEw3UW00YnNQZVEzK2czTENxUEE5REdDQS9jd2dnUHpBZ0VCTUlJQlpqQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dBZ01iY0Vvd0NnWUdLb1VEQWdJSkJRQ2dnZ0lvTUJnR0NTcUdTSWIzRFFFSkF6RUxCZ2txaGtpRzl3MEJCd0V3SEFZSktvWklodmNOQVFrRk1ROFhEVEUyTVRFeU1qQTROVFkwTkZvd0x3WUpLb1pJaHZjTkFRa0VNU0lFSUFzdWE1emNTaDRMSG56bGxXOE9SeUFBRUg1NUdKWm9mVDU5RXZnVUgvQ3pNSUlCdXdZTEtvWklodmNOQVFrUUFpOHhnZ0dxTUlJQnBqQ0NBYUl3Z2dHZU1BZ0dCaXFGQXdJQ0NRUWdTZnR6TUNsMDNhOXJzWXBGRjIwMVJvV3FoSkZyalhpbTFETzh0SHBqbS9jd2dnRnVNSUlCWmFTQ0FXRXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzQUlERzNCS01Bb0dCaXFGQXdJQ0V3VUFCRUQyVDNIU0JFRElPZFBRc094aUNvVHJHNVp4UVg3OUVhQVJ1V25NTlJ2enlMbXl2TDBSUExiVWl2TGZJZWZ2Y0hjRUNOUjRpYXUzNmZDZWNpd2daUVdw</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

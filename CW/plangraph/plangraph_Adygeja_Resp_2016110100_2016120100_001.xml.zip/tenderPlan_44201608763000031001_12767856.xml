@@ -1,0 +1,2858 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>12767856</id>
+            <planNumber>44201608763000031001</planNumber>
+            <year>2016</year>
+            <versionNumber>30</versionNumber>
+            <owner>
+                <regNum>08763000031</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ЕДИНАЯ ДЕЖУРНО-ДИСПЕТЧЕРСКАЯ СЛУЖБА МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ГОРОД МАЙКОП"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-11-11T15:40:57.636+03:00</createDate>
+            <description>приобретение товаров,выполнение работ,оказание услуг для нужд учреждения</description>
+            <confirmDate>2016-11-15T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-11-15T19:24:42.901+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>08763000031</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ЕДИНАЯ ДЕЖУРНО-ДИСПЕТЧЕРСКАЯ СЛУЖБА МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ГОРОД МАЙКОП"</fullName>
+                <shortName>МКУ "ЕДДС Г. МАЙКОПА"</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Жуковского ул, 56</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ул КРАСНООКТЯБРЬСКАЯ, 21</factAddress>
+                <INN>0105066506</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000001</code>
+                <name>г Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Хильков</lastName>
+            <firstName>Дмитрий</firstName>
+            <middleName>Валерьевич</middleName>
+            <phone>8 (8772)522491</phone>
+            <fax>8 (8772) 525063</fax>
+            <email>edds-maykop@yandex.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000021</positionNumber>
+                        <orderNumber>21</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101010244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>15000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.23</code>
+                                <name>Производство бумажных канцелярских принадлежностей</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка папок-регистраторов с арочным механизмом</contractSubjectName>
+                        <contractMaxPrice>15000.00</contractMaxPrice>
+                        <payments>15000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                            <additionalInfo>Закупка отменена заказчиком.</additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-10-31T15:19:59.468+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.130</code>
+                                <name>Скоросшиватели (папки) из бумаги или картона</name>
+                            </OKPD2>
+                            <name>Папка-регистратор с арочным механизмом</name>
+                            <minRequirement>Разборная папка-регистратор с арочным механизмом сшивания, размер (формат) А4, ориентирован вертикально, материал - картон с бумажным покрытием, ширина корешка - не менее 75 мм., защита нижнего края папки (окантовка) - металл, реестр на внутренней стороне обложки, цвет черный, синий.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>15000.00</sumMax>
+                            <price>125.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>120.00</quantity>
+                            <quantityCurrentYear>120.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке</procedure>
+                            <amount>150.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>1500.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>единовременно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000006</positionNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>907030904302L0330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>380000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>46.51.1</code>
+                                <name>Торговля оптовая компьютерами и периферийными устройствами</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение оборудования контроля за работой АПК «Безопасный город»</contractSubjectName>
+                        <contractMaxPrice>380000.00</contractMaxPrice>
+                        <payments>380000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-01-26T11:00:16.676+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>46.51.10.110</code>
+                                <name>Услуги по оптовой торговле компьютерами, компьютерными периферийными устройствами</name>
+                            </OKPD2>
+                            <name>Приобретение оборудования контроля за работой АПК «Безопасный город»</name>
+                            <minRequirement>качество порставляемого товара</minRequirement>
+                            <sumMax>380000.00</sumMax>
+                            <price>380000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявок, при проведении электронных аукционов перечисляются на счет оператора электронной площадки в банке.</procedure>
+                            <amount>3800.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 настоящего Федерального закона, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedure>
+                            <amount>38000.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап до 29.04.2016</contractExecutionStages>
+                            <periodicity>один этап до 29.04.2016</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>2400000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>28.30.21</code>
+                                <name>Производство колесных тракторов для сельского хозяйства</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>приобретение колесного трактора с прицепом и навесным оборудованием </contractSubjectName>
+                        <contractMaxPrice>2400000.00</contractMaxPrice>
+                        <payments>2400000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-03-03T16:31:18.880+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>28.30.22.110</code>
+                                <name>Тракторы сельскохозяйственные колесные с мощностью двигателя от 37 кВт до 59 кВт</name>
+                            </OKPD2>
+                            <name>приобретение колесного трактора с прицепом и навесным оборудованием </name>
+                            <minRequirement>качество трактора и навесного оборудования</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>2400000.00</sumMax>
+                            <price>2400000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявок, при проведении электронных аукционов перечисляются на счет оператора электронной площадки в банке
+</procedure>
+                            <amount>24000.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 настоящего Федерального закона, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.
+</procedure>
+                            <amount>240000.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>исполнение контракта в один этап</contractExecutionStages>
+                            <periodicity>поставка товара апрель 2016</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000011</positionNumber>
+                        <orderNumber>11</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>47869.36</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.14</code>
+                                <name>Торговля электроэнергией</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Отпуск (поставка) ГП электроэнергии (мощности)</contractSubjectName>
+                        <contractMaxPrice>47869.36</contractMaxPrice>
+                        <payments>47869.36</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-06-29T16:44:49.770+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.14.10.000</code>
+                                <name>Услуги по торговле электроэнергией</name>
+                            </OKPD2>
+                            <name>Электроэнергия (мощность)</name>
+                            <minRequirement>Качество поставляемой электрической энергии должно соответствовать требованиям действующего законодательства РФ</minRequirement>
+                            <OKEI>
+                                <code>245</code>
+                                <name>Киловатт-час</name>
+                            </OKEI>
+                            <sumMax>47869.36</sumMax>
+                            <price>8.36</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5726.00</quantity>
+                            <quantityCurrentYear>5726.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Этапов не предусмотрено</contractExecutionStages>
+                            <periodicity>Круглосуточно, ежедневно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000024</positionNumber>
+                        <orderNumber>24</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>61432.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.20.1</code>
+                                <name>Производство компьютеров</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка комплектующих для персонального компьютера</contractSubjectName>
+                        <contractMaxPrice>61432.00</contractMaxPrice>
+                        <payments>61432.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-10-14T17:15:18.179+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.40.190</code>
+                                <name>Комплектующие и запасные части для вычислительных машин прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Материнская плата</name>
+                            <minRequirement>Тип разъема процессора	LGA 1151, Тип оперативной памяти	DDR4, Количество SATA III до 6 Гбит/с не менее  	6шт</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>9249.00</sumMax>
+                            <price>9249.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.21.110</code>
+                                <name>Устройства запоминающие внутренние</name>
+                            </OKPD2>
+                            <name>Жесткий диск SSD</name>
+                            <minRequirement>Тип Твердотельный накопитель. Объём не менее 120 ГБ</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3532.50</sumMax>
+                            <price>3532.50</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.40.190</code>
+                                <name>Комплектующие и запасные части для вычислительных машин прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оперативная память</name>
+                            <minRequirement>Комплект из двух модулей, Общий объем не менее 8 ГБ. Рабочая частота  не менее 2666 МГц, Тип оперативной памяти	DDR4</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3825.00</sumMax>
+                            <price>3825.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.40.190</code>
+                                <name>Комплектующие и запасные части для вычислительных машин прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Центральный процессор</name>
+                            <minRequirement>Разъем LGA 1151, Номинальная частота процессора не менее 	3,9 ГГц</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>12677.50</sumMax>
+                            <price>12677.50</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.17.110</code>
+                                <name>Мониторы, подключаемые к компьютеру</name>
+                            </OKPD2>
+                            <name>Монитор</name>
+                            <minRequirement>Диагональ не менее 23,7 дюймов. Соотношение сторон 16:9. Разрешение 1920x1080</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>32148.00</sumMax>
+                            <price>10716.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявки, перечисляются на счет электронной площадки в банке.</procedure>
+                            <amount>614.32</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления: до подписания контракта. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт самостоятельно.</procedure>
+                            <amount>18429.60</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>единовременно</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>В соответствии с постановлением правительства РФ от 26.09.2016 №968</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8445051</code>
+                                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минэкономразвития России № 155 от 25.03.2014</name>
+                                </preferense>
+                            </preferenses>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000019</positionNumber>
+                        <orderNumber>19</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>18115.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка дизельного топлива</contractSubjectName>
+                        <contractMaxPrice>18115.00</contractMaxPrice>
+                        <payments>18115.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-09-26T17:58:21.926+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.300</code>
+                                <name>Топливо дизельное</name>
+                            </OKPD2>
+                            <name>Дизельное топливо</name>
+                            <minRequirement>Качество топлива должно соответствовать климатическим условиям и действующим нормам Технического регламента «О требованиях к автомобильному и авиационному бензину, дизельному и судовому топливу, топливу для реактивных двигателей и топочному мазуту», утверждённого постановлением Правительства РФ от 27.02.2008 № 118</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>18115.00</sumMax>
+                            <price>36.23</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>500.00</quantity>
+                            <quantityCurrentYear>500.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке</procedure>
+                            <amount>181.15</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>5434.50</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>Круглосуточная фактическая заправка с использованием топливных карт.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000025</positionNumber>
+                        <orderNumber>25</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090420101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>99995.75</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>14.12.1</code>
+                                <name>Производство спецодежды, кроме изготовленных по индивидуальному заказу</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка мужской спецодежды </contractSubjectName>
+                        <contractMaxPrice>99995.75</contractMaxPrice>
+                        <payments>99995.75</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-11-09T10:24:40.075+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>32.50.42.120</code>
+                                <name>Очки защитные</name>
+                            </OKPD2>
+                            <name>Очки защитные закрытого типа</name>
+                            <minRequirement>Цвет линзы: прозрачный. Плотно прилегающие, комфортные., с высокой степенью защитных свойств. Материал линзы: ударопрочный поликарбонат. Материал оправы: ПВХ</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3046.00</sumMax>
+                            <price>761.50</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.14.30.110</code>
+                                <name>Футболки трикотажные или вязаные</name>
+                            </OKPD2>
+                            <name>Футболка с логотипом</name>
+                            <minRequirement>Ткань: трикотажное полотно, хлопок 100%. Рукав короткий. Ворот круглый. Логотипы согласно технического задания.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>60640.00</sumMax>
+                            <price>758.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>80.00</quantity>
+                            <quantityCurrentYear>80.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>15.20.31.000</code>
+                                <name>Обувь с защитным металлическим подноском</name>
+                            </OKPD2>
+                            <name>Ботинки кожаные с металлическим подноском </name>
+                            <minRequirement>Верх обуви: натуральная кожа; Подносок металлический ударной прочностью 200 Дж.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>7192.00</sumMax>
+                            <price>1798.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.11.160</code>
+                                <name>Средства защиты головы и лица</name>
+                            </OKPD2>
+                            <name>Каска защитная</name>
+                            <minRequirement>Легкая каска с подбородочным ремнем и эффективной системой вентиляции, ударопрочная.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1674.00</sumMax>
+                            <price>209.25</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>8.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.12.11.120</code>
+                                <name>Костюмы мужские производственные и профессиональные</name>
+                            </OKPD2>
+                            <name>Костюм влагостойкий</name>
+                            <minRequirement>Комплектация: куртка, брюки; ПВХ покрытие; проклеенные швы</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>27443.75</sumMax>
+                            <price>1097.75</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>25.00</quantity>
+                            <quantityCurrentYear>25.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке</procedure>
+                            <amount>999.96</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>29998.73</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>этапов не предусмотрено </contractExecutionStages>
+                            <periodicity>единовременно </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000005</positionNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430201000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>250000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.70.1</code>
+                                <name>Производство фото- и кинооборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение камер видеонаблюдения в комплекте с блоками питания, термошкафами с климатконтролем и маршрутизатора в комплекте с блоком питания</contractSubjectName>
+                        <contractMaxPrice>250000.00</contractMaxPrice>
+                        <payments>250000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-25T14:56:15.126+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.70.13.000</code>
+                                <name>Видеокамеры цифровые</name>
+                            </OKPD2>
+                            <name>Уличная 4К IP-камера видеонаблюдения в комплекте с блоком питания</name>
+                            <minRequirement>КМОП-сенсор, прогрессивная развертка, размер, дюймы  не менее 1/2,5, Разрешение видеопотока, пикселей не более 3840х2160
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>87166.67</sumMax>
+                            <price>87166.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.30.11.110</code>
+                                <name>Средства связи, выполняющие функцию систем коммутации</name>
+                            </OKPD2>
+                            <name>Маршрутизатор с блоком питания </name>
+                            <internationalName>
+</internationalName>
+                            <minRequirement>Количество 10/100/1000 Ethernet port  не менее 13 шт, Процессор, частота  не менее 1066 МГц,  
+Пропускная способность аппаратной части не менее 4900 Mbps, Пропускная способность аппаратной части, пакетов не более 1000000 </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>25066.67</sumMax>
+                            <price>25066.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.70.13.000</code>
+                                <name>Видеокамеры цифровые</name>
+                            </OKPD2>
+                            <name>Уличная IP-камера видеонаблюдения в комплекте с блоком питания и термошкафом с климатконтролем</name>
+                            <minRequirement>КМОП-сенсор, обратная засветка, размер  не менее  1/3 дюйма, разрешение видеопотока, пикселей не более 2688x1512
+
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>137766.66</sumMax>
+                            <price>68883.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявок, при проведении электронных аукционов перечисляются на счет оператора электронной площадки в банке.</procedure>
+                            <amount>2500.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 настоящего Федерального закона, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedure>
+                            <amount>75000.00</amount>
+                        </contractFinCondition>
+                        <advance>0</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages> один этап</contractExecutionStages>
+                            <periodicity> один этап до 30 августа 2016 года</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000012</positionNumber>
+                        <orderNumber>12</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>50000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.14</code>
+                                <name>Торговля электроэнергией</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Отпуск (поставка) ГП электроэнергии (мощности)</contractSubjectName>
+                        <contractMaxPrice>50000.00</contractMaxPrice>
+                        <payments>50000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-08-03T12:40:39.830+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.11.10.116</code>
+                                <name>Электроэнергия, произведенная гидроэлектростанциями (ГЭС) общего назначения</name>
+                            </OKPD2>
+                            <name>Электроэнергия (мощность)</name>
+                            <minRequirement>качество электрической энергии должно соответствовать требованиям действующего законодательства РФ</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>50000.00</sumMax>
+                            <price>50000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>30%, 40%</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Этапов не предусмотрено</contractExecutionStages>
+                            <periodicity>круглосуточно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000002</positionNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430201000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>574350.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>27.11.12</code>
+                                <name>Производство генераторов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение передвижного дизельного генератора</contractSubjectName>
+                        <contractMaxPrice>574350.00</contractMaxPrice>
+                        <payments>574350.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T15:39:59.232+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>27.11.31.000</code>
+                                <name>Установки генераторные с двигателями внутреннего сгорания с воспламенением от сжатия</name>
+                            </OKPD2>
+                            <name>Приобретение передвижного дизельного генератора</name>
+                            <minRequirement>качество поставляемого товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>574350.00</sumMax>
+                            <price>574350.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявки, перечисляются на счет оператора электронной площадки в банке.</procedure>
+                            <amount>5734.50</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение Контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона №44-ФЗ, или внесением денежных средств по безналичному расчету. Способ обеспечения исполнения Контракта определяется участником закупки, с которым заключается Контракт, самостоятельно.</procedure>
+                            <amount>57435.00</amount>
+                        </contractFinCondition>
+                        <advance>0</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>товар поставляется в один этап</contractExecutionStages>
+                            <periodicity>товар поставляется в один этап до 30
+июня 2016 года</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000010</positionNumber>
+                        <orderNumber>10</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430260330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>4046400.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>907030904302L0330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1011600.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>62.09</code>
+                                <name>Деятельность, связанная с использованием вычислительной техники и информационных технологий, прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по содержанию АПК "Безопасный город" на территории МО "Город Майкоп"</contractSubjectName>
+                        <contractMaxPrice>5058000.00</contractMaxPrice>
+                        <payments>5058000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-02-04T14:29:29.739+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.09.20.190</code>
+                                <name>Услуги по технической поддержке в области информационных технологий прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по содержанию АПК "Безопасный город" на территории МО "Город Майкоп"</name>
+                            <minRequirement>качество оказываемых услуг</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>5058000.00</sumMax>
+                            <price>5058000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявок, при проведении электронных аукционов перечисляются на счет оператора электронной площадки в банке</procedure>
+                            <amount>50800.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 настоящего Федерального закона, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedure>
+                            <amount>505800.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016, 31.05.2016, 30.06.2016, 31.07.2016, 31.08.2016, 30.09.2016, 31.10.2016, 30.11.2016, 31.12.2016.</contractExecutionStages>
+                            <periodicity>ежедневно, круглосуточно </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000007</positionNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430160320244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>7494300.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>907030904301L0320244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>75700.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>33.13</code>
+                                <name>Ремонт электронного и оптического оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Выполнение работ по модернизации 10 (десяти) технических средств фотовидеофиксации нарушений правил дорожного движения "Арена" и их установка на территории муниципального образования "Город Майкоп"</contractSubjectName>
+                        <contractMaxPrice>7570000.00</contractMaxPrice>
+                        <payments>7570000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-03-11T11:43:21.830+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>33.20.42.000</code>
+                                <name>Услуги по монтажу профессионального электронного оборудования</name>
+                            </OKPD2>
+                            <name>Модернизация 10 (десяти) технических средств фотовидеофиксации нарушений правил дорожного движения "Арена" и их установка на территории муниципального образования "Город Майкоп"</name>
+                            <minRequirement>качество модернизации</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>7570000.00</sumMax>
+                            <price>757000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявок, при проведении электронных аукционов перечисляются на счет оператора электронной площадки в банке</procedure>
+                            <amount>75700.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 настоящего Федерального закона, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.
+
+</procedure>
+                            <amount>757000.00</amount>
+                        </contractFinCondition>
+                        <advance>0</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>один этап</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000015</positionNumber>
+                        <orderNumber>15</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>140700.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.14</code>
+                                <name>Торговля электроэнергией</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Отпуск (поставка) ГП электроэнергии (мощности)</contractSubjectName>
+                        <contractMaxPrice>140700.00</contractMaxPrice>
+                        <payments>140700.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-09-21T13:05:51.862+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.11.10.110</code>
+                                <name>Электроэнергия, произведенная электростанциями общего назначения</name>
+                            </OKPD2>
+                            <name>Электроэнергия (мощность)</name>
+                            <minRequirement>Качество электрической энергии должно соответствовать требованиям действующего законодательства РФ</minRequirement>
+                            <OKEI>
+                                <code>245</code>
+                                <name>Киловатт-час</name>
+                            </OKEI>
+                            <sumMax>140700.00</sumMax>
+                            <price>8.19</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>круглосуточно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000028</positionNumber>
+                        <orderNumber>28</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>907030904302L0342244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>640000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>90703090430260342244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>2560000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>53.20.29</code>
+                                <name>Деятельность почтовой связи прочая, не включенная в другие группировки</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по предпочтовой подготовке и почтовой рассылке регистрируемых почтовых отправлений постановлений об административных правонарушениях, зафиксированных системами фотовидеофиксации нарушений ПДД</contractSubjectName>
+                        <contractMaxPrice>3200000.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-11-15T19:24:42.901+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>53.20.19.110</code>
+                                <name>Услуги почтовой связи прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по предпочтовой подготовке и почтовой рассылке регистрируемых почтовых отправлений постановлений об административных правонарушениях, зафиксированных системами фотовидеофиксациии нарушений ПДД</name>
+                            <minRequirement>Исполнитель предоставляет услуги печати (двухсторонняя печать) и конвертования; выполняет сортировку, отправку и пересылку конвертов получателям в установленные сроки; не допускается дублирование отправлений; исполнитель обеспечивает УГИБДД МВД России по Республике Адыгея оперативной информацией о статусе РПО.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3200000.00</sumMax>
+                            <price>55.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке.</procedure>
+                            <amount>32000.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>320000.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>ежемесячно
+1 этап: 01.01.2017 - 31.01.2017
+2 этап: 01.02.2017 - 28.02.2017
+3 этап: 01.03.2017 - 31.03.2017
+4 этап: 01.04.2017 - 30.04.2017
+5 этап: 01.05.2017 - 31.05.2017
+6 этап: 01.06.2017 - 30.06.2017
+7 этап: 01.07.2017 - 31.07.2017
+8 этап: 01.08.2017 - 31.08.2017
+9 этап: 01.09.2017 - 30.09.2017
+10 этап: 01.10.2017 - 31.10.2017
+11 этап: 01.11.2017 - 30.11.2017
+12 этап: 01.12.2017 - 31.12.2017</contractExecutionStages>
+                            <periodicity>ежедневно, круглосуточно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000013</positionNumber>
+                        <orderNumber>13</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>2817.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>37.00</code>
+                                <name>Сбор и обработка сточных вод</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>36.00.2</code>
+                                <name>Распределение воды для питьевых и промышленных нужд</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Холодное водоснабжение и водоотведение</contractSubjectName>
+                        <contractMaxPrice>2817.00</contractMaxPrice>
+                        <payments>2817.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-09-14T14:54:24.412+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>36.00.20.130</code>
+                                <name>Услуги по транспортированию и распределению воды по водопроводам</name>
+                            </OKPD2>
+                            <name>Подача холодной (питьевой) воды</name>
+                            <minRequirement>Организация водопроводно-канализационного хозяйства обязуется подавать абоненту через присоединенную водопроводную сеть холодную (питьевую) воду</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>1545.00</sumMax>
+                            <price>15.45</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>37.00.11.110</code>
+                                <name>Услуги по водоотведению сточных вод</name>
+                            </OKPD2>
+                            <name>Прием сточных вод</name>
+                            <minRequirement>Осуществление приема сточных вод от канализационного выпуска  в централизованную систему водоотведения сточных вод</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>1272.00</sumMax>
+                            <price>12.72</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Один этап</contractExecutionStages>
+                            <periodicity>круглосуточно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000014</positionNumber>
+                        <orderNumber>14</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000224</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>72123.35</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.30.3</code>
+                                <name>Распределение пара и горячей воды (тепловой энергии)</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Отпуск тепловой энергии</contractSubjectName>
+                        <contractMaxPrice>72123.35</contractMaxPrice>
+                        <payments>72123.35</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-09-21T13:05:51.862+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.30.11.120</code>
+                                <name>Энергия тепловая, отпущенная котельными</name>
+                            </OKPD2>
+                            <name>Отпуск тепловой энергии</name>
+                            <minRequirement>максимальная тепловая нагрузка 0,033Гкал/час; в объеме на нужды ГВС 0 куб.м./час
+теплоснабжающая организация обязана отпускать тепловую энергию надлежащего качества и в соответствующем количестве с корректировкой в зависимости от фактической температуры наружного воздуха и количества отапливаемых дней. </minRequirement>
+                            <OKEI>
+                                <code>233</code>
+                                <name>Гигакалория</name>
+                            </OKEI>
+                            <sumMax>72123.35</sumMax>
+                            <price>2219.18</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>32.50</quantity>
+                            <quantityCurrentYear>32.50</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>круглосуточно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000016</positionNumber>
+                        <orderNumber>16</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430201000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>35000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.70.7</code>
+                                <name>Производство пленочных и цифровых фото- и кинокамер</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка фотоловушек</contractSubjectName>
+                        <contractMaxPrice>35000.00</contractMaxPrice>
+                        <payments>35000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-09-26T17:58:21.926+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.70.14.190</code>
+                                <name>Фотокамеры прочие</name>
+                            </OKPD2>
+                            <name>Поставка фотоловушек</name>
+                            <minRequirement>1. Отправка сделанных фотографий в виде MMS и E-mail сообщений; 2. Широкоугольные поле зрения камеры и датчик движения; 3. Высокое качество фотографий и видеозаписей; 4. Быстрая скорость срабатывания камеры; 5. Настраиваемая чувствительность датчика движения; 6. Дистанционное  правление при помощи пульта ДУ или SMS команд; 7. Программируемый интервал между снимками; 8. Режим мультисъемки; 9. Возможность делать снимки через заданный интервал времени; 10. Уровень водонепроницаемости по классу IP54.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>35000.00</sumMax>
+                            <price>17500.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке</procedure>
+                            <amount>350.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>10500.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап - ноябрь 2016г.</contractExecutionStages>
+                            <periodicity>единовременно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000008</positionNumber>
+                        <orderNumber>9</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>176400.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>услуги местной телефонной связи</contractSubjectName>
+                        <contractMaxPrice>176400.00</contractMaxPrice>
+                        <payments>176400.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-01-26T11:00:16.676+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.120</code>
+                                <name>Услуги по предоставлению местных соединений</name>
+                            </OKPD2>
+                            <name>услуги местной телефонной связи</name>
+                            <minRequirement>качество оказываемых услуг</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>176400.00</sumMax>
+                            <price>176400.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>12 период оплачивается авансированием 100%</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.01.2016г., 29.02.2016г., 31.03.2016г., 30.04.2016г., 31.05.2016г., 30.06.2016г., 31.07.2016г., 31.08.2016г., 30.09.2016г., 31.10.2016г., 30.11.2016г., 31.12.2016г.</contractExecutionStages>
+                            <periodicity>ежедневно, круглосуточно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000026</positionNumber>
+                        <orderNumber>26</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430260330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>4128000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>907030904302L0330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>1032000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>62.09</code>
+                                <name>Деятельность, связанная с использованием вычислительной техники и информационных технологий, прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по предоставлению в пользование и обслуживанию программного обеспечения для обработки информации систем фотовидеофиксации, техническому обслуживанию стационарных приборов фотовидеофиксации "Арена"</contractSubjectName>
+                        <contractMaxPrice>5160000.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-11-15T19:24:42.901+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.09.20.120</code>
+                                <name>Услуги по установке программного обеспечения</name>
+                            </OKPD2>
+                            <name>Оказание услуг по предоставлению в пользование и обслуживанию программного обеспечения для обработки информации систем фотовидеофиксации, техническому обслуживанию стационарных приборов фотовидеофиксации "Арена"</name>
+                            <minRequirement>Обеспечение функционирования комплексов фотовидеофиксации "Арена", техническое обслуживание, обработка информации с комплексов фотовидеофиксации нарушений</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>5160000.00</sumMax>
+                            <price>5160000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке.</procedure>
+                            <amount>51600.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>516000.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>ежемесячно
+1 этап: 01.01.2017 - 31.01.2017
+2 этап: 01.02.2017 - 28.02.2017
+3 этап: 01.03.2017 - 31.03.2017
+4 этап: 01.04.2017 - 30.04.2017
+5 этап: 01.05.2017 - 31.05.2017
+6 этап: 01.06.2017 - 30.06.2017
+7 этап: 01.07.2017 - 31.07.2017
+8 этап: 01.08.2017 - 31.08.2017
+9 этап: 01.09.2017 - 30.09.2017
+10 этап: 01.10.2017 - 31.10.2017
+11 этап: 01.11.2017 - 30.11.2017
+12 этап: 01.12.2017 - 31.12.2017</contractExecutionStages>
+                            <periodicity>ежедневно, круглосуточно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000004</positionNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430201000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>465000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>33.13</code>
+                                <name>Ремонт электронного и оптического оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по ремонту видеокамер</contractSubjectName>
+                        <contractMaxPrice>465000.00</contractMaxPrice>
+                        <payments>465000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-03-21T17:22:03.737+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>33.13.13.000</code>
+                                <name>Услуги по ремонту и техническому обслуживанию профессиональных оптических приборов и фотооборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по ремонту видеокамер</name>
+                            <minRequirement>качество оказанных услуг</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>465000.00</sumMax>
+                            <price>155000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.00</quantity>
+                            <quantityCurrentYear>3.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявок, при проведении электронных аукционов перечисляются на счет оператора электронной площадки в банке.</procedure>
+                            <amount>4650.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 настоящего Федерального закона, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedure>
+                            <amount>23250.00</amount>
+                        </contractFinCondition>
+                        <advance>0</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>в один этап</contractExecutionStages>
+                            <periodicity>в один этап до 30 мая 2016 г.</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000020</positionNumber>
+                        <orderNumber>20</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>25300.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.62.2</code>
+                                <name>Торговля розничная писчебумажными и канцелярскими товарами в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка бумаги для офисной техники</contractSubjectName>
+                        <contractMaxPrice>25300.00</contractMaxPrice>
+                        <payments>25300.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-09-26T17:58:21.926+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.14.119</code>
+                                <name>Бумага для печати прочая</name>
+                            </OKPD2>
+                            <name>Бумага для офисной техники</name>
+                            <minRequirement>Бумага офисная для лазерных и струйных принтеров, копировальных и факсовых аппаратов.  Формат: А4  (210х297мм). Цвет: белый. Белизна: не менее 146% CIE. Плотность бумаги не менее 80 г/м2; Яркость бумаги не менее 95%. Класс: « С». Количество листов в пачке 500 листов.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>25300.00</sumMax>
+                            <price>220.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>115.00</quantity>
+                            <quantityCurrentYear>115.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке</procedure>
+                            <amount>253.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>2530.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>единовременно </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000009</positionNumber>
+                        <orderNumber>8</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101010244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>8000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>услуги междугородной телефонной связи </contractSubjectName>
+                        <contractMaxPrice>8000.00</contractMaxPrice>
+                        <payments>8000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-01-26T11:00:16.676+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.110</code>
+                                <name>Услуги по предоставлению внутризоновых, междугородных и международных телефонных соединений</name>
+                            </OKPD2>
+                            <name>услуги междугородной телефонной связи </name>
+                            <minRequirement>качество оказываемых услуг</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>8000.00</sumMax>
+                            <price>8000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>12 период оплачивавется авансированием 100%</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.01.2016г., 29.02.2016г., 31.03.2016г., 30.04.2016г., 31.05.2016г., 30.06.2016г., 31.07.2016г., 31.08.2016г., 30.09.2016г., 31.10.2016г., 30.11.2016г., 31.12.2016г.</contractExecutionStages>
+                            <periodicity>ежедневно, круглосуточно </periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000003</positionNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430260330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1800000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>907030904302L0330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>450000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>62.09</code>
+                                <name>Деятельность, связанная с использованием вычислительной техники и информационных технологий, прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по предоставлению в пользование и обслуживанию программного обеспечения для обработки информации систем фотовидеофиксации, техническому обслуживанию стационарных приборов фотовидеофиксации. </contractSubjectName>
+                        <contractMaxPrice>2250000.00</contractMaxPrice>
+                        <payments>2250000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-04T14:29:29.739+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.09.20.120</code>
+                                <name>Услуги по установке программного обеспечения</name>
+                            </OKPD2>
+                            <name>Оказание услуг по предоставлению в пользование и обслуживанию программного обеспечения для обработки информации систем фотовидеофиксации, техническому обслуживанию стационарных приборов фотовидеофиксации. </name>
+                            <minRequirement>качество оказания услуг</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>2250000.00</sumMax>
+                            <price>2250000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявок, при проведении электронных аукционов перечисляются на счет оператора электронной площадки в банке.</procedure>
+                            <amount>22500.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 настоящего Федерального закона, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedure>
+                            <amount>675000.00</amount>
+                        </contractFinCondition>
+                        <advance>0</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016, 31.05.2016, 30.06.2016, 31.07.2016, 31.08.2016, , 30.09.2016, 31.10.2016, 30.11.2016, 31.12.2016</contractExecutionStages>
+                            <periodicity>ежедневно, круглосуточно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000023</positionNumber>
+                        <orderNumber>23</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090410101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>20000.25</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>28.23.2</code>
+                                <name>Производство фотокопировальных машин, офисных машин для офсетной печати и прочих офисных машин и оборудования и их составных частей</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка картриджей для лазерных принтеров</contractSubjectName>
+                        <contractMaxPrice>20000.25</contractMaxPrice>
+                        <payments>20000.25</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-10-07T17:09:13.276+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.25.000</code>
+                                <name>Части и принадлежности прочих офисных машин</name>
+                            </OKPD2>
+                            <name>Картридж для лазерного принтера</name>
+                            <minRequirement>Совместимые модели устройств: HP LaserJet Pro P1005</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>4857.75</sumMax>
+                            <price>539.75</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>9.00</quantity>
+                            <quantityCurrentYear>9.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.25.000</code>
+                                <name>Части и принадлежности прочих офисных машин</name>
+                            </OKPD2>
+                            <name>Картридж для лазерного принтера</name>
+                            <minRequirement>Совместимые модели устройств: Kyocera FS-1060DN</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>5465.25</sumMax>
+                            <price>607.25</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>9.00</quantity>
+                            <quantityCurrentYear>9.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.25.000</code>
+                                <name>Части и принадлежности прочих офисных машин</name>
+                            </OKPD2>
+                            <name>Картридж для лазерного принтера</name>
+                            <minRequirement>Совместимые модели устройств: Canon LBP6020</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>4684.50</sumMax>
+                            <price>520.50</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>9.00</quantity>
+                            <quantityCurrentYear>9.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.25.000</code>
+                                <name>Части и принадлежности прочих офисных машин</name>
+                            </OKPD2>
+                            <name>Картридж для лазерного принтера</name>
+                            <minRequirement>Совместимые модели устройств: HP LaserJet Pro P1102</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>4992.75</sumMax>
+                            <price>554.75</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>9.00</quantity>
+                            <quantityCurrentYear>9.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке</procedure>
+                            <amount>200.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>6000.01</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>единовременно </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000017</positionNumber>
+                        <orderNumber>17</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430201000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>276100.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>62.09</code>
+                                <name>Деятельность, связанная с использованием вычислительной техники и информационных технологий, прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по обновлению ранее установленного программного обеспечения на серверах рубежей фотовидеофиксации правонарушений в области скоростного режима движения "Vocord Traffic", тестированию и настройке оборудования.</contractSubjectName>
+                        <contractMaxPrice>276100.00</contractMaxPrice>
+                        <payments>276100.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-09-26T17:58:21.926+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.09.20.120</code>
+                                <name>Услуги по установке программного обеспечения</name>
+                            </OKPD2>
+                            <name>Оказание услуг по обновлению ранее установленного программного обеспечения на серверах рубежей фотовидеофиксации правонарушений в области скоростного режима движения "Vocord Traffic", тестированию и настройке оборудования.</name>
+                            <minRequirement>
+Комплексы, после обновления ПО, должны соответствовать требованиям:
+Обеспечивать автоматическую фиксацию движения транспортных средств;
+Сбор необходимой информации о движении транспортных средств;
+Передавать полученные фотоизображения на сервер ГИБДД с задержкой не более 5 минут с момента фиксации факта проезда транспортных средств;
+Обеспечивать фиксацию всего транспортного потока проходящего по полосе фиксации со скоростью от 5 до 240 км/час;
+Исключать отображение в кадре транспортных средств, зафиксированная скорость которого, не соответствует указанной на фотоизображении.</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>276100.00</sumMax>
+                            <price>276100.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке.</procedure>
+                            <amount>2761.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>82830.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап - ноябрь 2016г</contractExecutionStages>
+                            <periodicity>единовременно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000022</positionNumber>
+                        <orderNumber>22</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090420101000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>99995.75</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>14.12.1</code>
+                                <name>Производство спецодежды, кроме изготовленных по индивидуальному заказу</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка мужской спецодежды</contractSubjectName>
+                        <contractMaxPrice>99995.75</contractMaxPrice>
+                        <payments>99995.75</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                            <additionalInfo>Закупка отменена заказчиком.</additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-10-31T15:19:59.468+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>14.14.30.110</code>
+                                <name>Футболки трикотажные или вязаные</name>
+                            </OKPD2>
+                            <name>Футболка х/б с логотипом</name>
+                            <minRequirement>Ткань: трикотажное полотно, хлопок 100%. Рукав короткий. Ворот круглый. Логотипы согласно технического задания.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>60640.00</sumMax>
+                            <price>758.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>80.00</quantity>
+                            <quantityCurrentYear>80.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>15.20.31.000</code>
+                                <name>Обувь с защитным металлическим подноском</name>
+                            </OKPD2>
+                            <name>Ботинки кожаные с металлическим подноском </name>
+                            <minRequirement>Верх обуви: натуральная кожа; Подносок металлический ударной прочностью 200 Дж.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>7192.00</sumMax>
+                            <price>1798.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.50.42.120</code>
+                                <name>Очки защитные</name>
+                            </OKPD2>
+                            <name>Очки защитные закрытого типа</name>
+                            <minRequirement>Цвет линзы: прозрачный. Плотно прилегающие, комфортные., с высокой степенью защитных свойств. Материал линзы: ударопрочный поликарбонат. Материал оправы: ПВХ</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3046.00</sumMax>
+                            <price>761.50</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.11.160</code>
+                                <name>Средства защиты головы и лица</name>
+                            </OKPD2>
+                            <name>Каска защитная</name>
+                            <minRequirement>Легкая каска с подбородочным ремнем и эффективной системой вентиляции, ударопрочная.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1674.00</sumMax>
+                            <price>209.25</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>8.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.12.11.120</code>
+                                <name>Костюмы мужские производственные и профессиональные</name>
+                            </OKPD2>
+                            <name>Костюм влагостойкий</name>
+                            <minRequirement>Комплектация: куртка, брюки; ПВХ покрытие; проклеенные швы</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>27443.75</sumMax>
+                            <price>1097.75</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>25.00</quantity>
+                            <quantityCurrentYear>25.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке
+
+</procedure>
+                            <amount>999.96</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>29998.73</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>единовременно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000018</positionNumber>
+                        <orderNumber>18</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90703090430201000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>314000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.40.3</code>
+                                <name>Производство аппаратуры для записи и воспроизведения звука и изображения</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка комплекта оборудования для создания системы отображения информации (видеостена) с камер видеонаблюдения АПК "Безопасный город"</contractSubjectName>
+                        <contractMaxPrice>314000.00</contractMaxPrice>
+                        <payments>314000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-10-12T13:07:07.471+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>27.11.50.120</code>
+                                <name>Преобразователи электрические статические</name>
+                            </OKPD2>
+                            <name>Источник бесперебойного питания</name>
+                            <minRequirement>максимальная выходная мощность не менее 600 VA, тип - Line-Interactive</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>7000.00</sumMax>
+                            <price>7000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.40.20.120</code>
+                                <name>Приемники телевизионные (телевизоры) цветного изображения без устройств записи и воспроизведения звука и изображения</name>
+                            </OKPD2>
+                            <name>Видеопанель с креплением</name>
+                            <minRequirement>Разрешение изображения не менее, пикселей 3840x2160; возможность крепления на стену/тип VESA; воспроизведение изображения по стандарту HDR; диагональ не менее 55" (139.7 см); поверхность экрана - глянцевая, с антибликовым покрытием; поддержка 3D – отсутствие; наличие ровных рамок экрана, позволяющих производить бесшовную стыковку панелей в составе видеостены, напольное крепление с дополнительной точкой опоры на стене.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>234000.00</sumMax>
+                            <price>78000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.00</quantity>
+                            <quantityCurrentYear>3.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.13.000</code>
+                                <name>Машины вычислительные электронные цифровые, содержащие в одном корпусе центральный процессор и устройство ввода и вывода, объединенные или нет для автоматической обработки данных</name>
+                            </OKPD2>
+                            <name>Видеоконтроллер</name>
+                            <minRequirement>центральный процессор не менее 4х потоков, частотой не ниже 3,8ГГц и кэш L3 не менее 4 Мб, коробочное исполнение с кулером; видеокарты в количестве двух штук, с унифицированными шейдерами не менее 768 штук, частотой ядра не ниже 1102 МГц, объемом памяти не менее 2Гб, типом видеопамяти GDDR5, частотой видеопамяти не ниже 6612 МГц, наличие порта HDMI версии не ниже 2.0, наличие порта DisplayPort, система охлаждения – не менее двухслотовой; оперативная память DDR3 объемом не менее 16Gb и частотой не ниже 1866МГц (PC-14900)</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>73000.00</sumMax>
+                            <price>73000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке
+</procedure>
+                            <amount>3140.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>94200.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>единовременно</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>В соответствии с Постановлением Правительства РФ от 26.09.2016г. №968</prohibitions>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000031001000027</positionNumber>
+                        <orderNumber>27</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>907030904302L0330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>480000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>90703090430260330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>1920000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>62.09</code>
+                                <name>Деятельность, связанная с использованием вычислительной техники и информационных технологий, прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по техническому обслуживанию стационарных приборов фотовидеофиксации "VOCORD Traffic"</contractSubjectName>
+                        <contractMaxPrice>2400000.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-11-15T19:24:42.901+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.09.20.190</code>
+                                <name>Услуги по технической поддержке в области информационных технологий прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по техническому обслуживанию стационарных приборов фотовидеофиксации "VOCORD Traffic"</name>
+                            <minRequirement>Обеспечение функционирования комплексов фотовидеофиксации нарушений скоростного режима движения "VOCORD Traffic" на территории муниципального образования "Город Майкоп"</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>2400000.00</sumMax>
+                            <price>2400000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки только путем внесения денежных средств на счет оператора электронной площадке в банке.</procedure>
+                            <amount>24000.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Контракт заключается только после предоставления участником аукциона, с которым заключается Контракт, обеспечения исполнения Контракта. Исполнение Контракта может обеспечиваться банковской гарантией, выданной банком, включённым в предусмотренный статьей 74.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения, или внесением денежных средств на указанный Заказчиком счёт в аукционной документации, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику.</procedure>
+                            <amount>240000.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>ежемесячно
+1 этап: 01.01.2017 - 31.01.2017
+2 этап: 01.02.2017 - 28.02.2017
+3 этап: 01.03.2017 - 31.03.2017
+4 этап: 01.04.2017 - 30.04.2017
+5 этап: 01.05.2017 - 31.05.2017
+6 этап: 01.06.2017 - 30.06.2017
+7 этап: 01.07.2017 - 31.07.2017
+8 этап: 01.08.2017 - 31.08.2017
+9 этап: 01.09.2017 - 30.09.2017
+10 этап: 01.10.2017 - 31.10.2017
+11 этап: 01.11.2017 - 30.11.2017
+12 этап: 01.12.2017 - 31.12.2017</contractExecutionStages>
+                            <periodicity>ежедневно, круглосуточно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>90703090430201000244</code>
+                                    <amount>745.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>907030904302L0330244</code>
+                                    <amount>126000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90703090430260341244</code>
+                                    <amount>38445.20</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90703090410101000244</code>
+                                    <amount>885251.01</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90703090410101010244</code>
+                                    <amount>199530.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90703099610000110244</code>
+                                    <amount>466687.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1716658.21</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>17529178.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>21194201.69</sumContractMaxPrice>
+                    <sumPaymentsTotal>30521860.92</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=12767856</url>
+            <signature>TUlJTXVnWUpLb1pJaHZjTkFRY0NvSUlNcXpDQ0RLY0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dpS01JSUloakNDQ0RXZ0F3SUJBZ0lESENOcE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1URXdPREEyTVRJek5sb1hEVEU0TURJd09EQTJNVEl6Tmxvd2dnRndNUm93R0FZSUtvVURBNEVEQVFFU0RESXpNRE13TlRFeE56QTVNekVXTUJRR0JTcUZBMlFERWdzeE1EZzFPRFF6TVRZMk56RWtNQ0lHQ1NxR1NJYjNEUUVKQVJZVlpXUmtjeTF0WVhscmIzQkFlV0Z1WkdWNExuSjFNUXN3Q1FZRFZRUUdFd0pTVlRFNU1EY0dBMVVFQ0F3dzBLRFF0ZEdCMEwvUmc5Q3gwTHZRdU5DNjBMQWcwSkRRdE5HTDBMUFF0ZEdQSUNqUWtOQzAwWXZRczlDMTBZOHBNUlV3RXdZRFZRUUhEQXpRbk5DdzBMblF1dEMrMEw4eExUQXJCZ05WQkFvTUpOQ2MwSnJRb3lEUWxkQ1UwSlRRb1NEUW5OQ2VJTkN6THRDYzBMRFF1ZEM2MEw3UXZ6RXNNQ29HQTFVRUtnd2owS0RRdnRDODBMRFF2U0RRa3RDNzBMRFF0TkM0MEx6UXVOR0EwTDdRc3RDNDBZY3hHVEFYQmdOVkJBUU1FTkNTMExYUmdOQzAwTFhRdmRDNjBMNHhQVEE3QmdOVkJBTU1OTkNTMExYUmdOQzAwTFhRdmRDNjBMNGcwS0RRdnRDODBMRFF2U0RRa3RDNzBMRFF0TkM0MEx6UXVOR0EwTDdRc3RDNDBZY3dZekFjQmdZcWhRTUNBaE13RWdZSEtvVURBZ0lrQUFZSEtvVURBZ0llQVFOREFBUkFJelJyVC9Ha29uQzdVTFpqTEhNK0NEZ3pkNHlWL3l4NXc4dXgzdXZiWnlidkRYbm9pS0lhcG9nMEF2UVd6SmJLTGdxMjBka1RiTnMvZDNWNzlJYjZIcU9DQk1Nd2dnUy9NQXdHQTFVZEV3RUIvd1FDTUFBd0hRWURWUjBnQkJZd0ZEQUlCZ1lxaFFOa2NRRXdDQVlHS29VRFpIRUNNRDRHQTFVZEVRUTNNRFdnRXdZRFZRUU1vQXdUQ2pFeE1EY3hOVE0zTXppZ0d3WUtLb1VEQXoyZTF6WUJCYUFORXdzd09EYzJNekF3TURBek1ZWUJNREEyQmdVcWhRTmtid1F0RENzaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMamtwTUlJQllRWUZLb1VEWkhBRWdnRldNSUlCVWd4RUl0Q2EwWURRdU5DLzBZTFF2dENmMFlEUXZpQkRVMUFpSUNqUXN0QzEwWURSZ2RDNDBZOGdNeTQyS1NBbzBMalJnZEMvMEw3UXU5QzkwTFhRdmRDNDBMVWdNaWtNYUNMUW45R0EwTDdRczlHQTBMRFF2TkM4MEwzUXZpM1FzTkMvMEwvUXNOR0EwTERSZ3RDOTBZdlF1U0RRdXRDKzBMelF2OUM3MExYUXV0R0JJQ0xRcnRDOTBMalJnZEMxMFlEUmdpM1FrOUNlMEtIUW9pSXVJTkNTMExYUmdOR0IwTGpSanlBeUxqRWlERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJMExUSTNNemdnMEw3UmdpQXdNUzR3Tnk0eU1ERTFERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJNExUSTROemdnMEw3UmdpQXlNQzR3Tmk0eU1ERTJNQTRHQTFVZER3RUIvd1FFQXdJRDZEQmtCZ05WSFNVRVhUQmJCZ2dyQmdFRkJRY0RBZ1lPS29VREF6MmUxellCQmdNRUFRRUdEaXFGQXdNOW50YzJBUVlEQkFFQ0JnNHFoUU1EUFo3WE5nRUdBd1FCQkFZSktvVURBNEY3QlFJQkJna3FoUU1EZ1hzRkFnSUdDU3FGQXdPQmV3VUNCREFyQmdOVkhSQUVKREFpZ0E4eU1ERTJNVEV3T0RBMk1USTBNVnFCRHpJd01UZ3dNakE0TURZeE1qTTJXakNDQVk4R0ExVWRJd1NDQVlZd2dnR0NnQlNlY1E0UDJyUUJLRjgvNHN1UFpSV1hBa2VNcTZHQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExDQ0FRRXdYZ1lEVlIwZkJGY3dWVEFwb0NlZ0pZWWphSFIwY0RvdkwyTnliQzV5YjNOcllYcHVZUzV5ZFM5amNtd3ZabXN3TVM1amNtd3dLS0Ftb0NTR0ltaDBkSEE2THk5amNtd3Vabk5tYXk1c2IyTmhiQzlqY213dlptc3dNUzVqY213d0hRWURWUjBPQkJZRUZLOEZnK05tZjJEM01EbjZNUitXZ2huZDI0YXJNQWdHQmlxRkF3SUNBd05CQU8wRXdUWmV0L25PSjZjVCtqcTZZZXE2cnI1SnlhRzFwYTg3VENUNVFsQzBzTnRxNlpsaG5NR3d3QWFRZGJzbUZpVVFwWk16THFYRmxlMHBHVk5ZWEFNeGdnUDNNSUlEOHdJQkFUQ0NBV1l3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJREhDTnBNQW9HQmlxRkF3SUNDUVVBb0lJQ0tEQVlCZ2txaGtpRzl3MEJDUU14Q3dZSktvWklodmNOQVFjQk1Cd0dDU3FHU0liM0RRRUpCVEVQRncweE5qRXhNVFV4TnpJek5EUmFNQzhHQ1NxR1NJYjNEUUVKQkRFaUJDRCtRMWhPcVJpUTRVYThrcHNNa0gyKzQzZnI0WlRIS0VSQXFVdDNKTEFubHpDQ0Fic0dDeXFHU0liM0RRRUpFQUl2TVlJQnFqQ0NBYVl3Z2dHaU1JSUJuakFJQmdZcWhRTUNBZ2tFSUltU0VSdHZnWFRXaU9HQUFYYVJiRngrWklzaGlaeHgzU3JvNTI0MHJacENNSUlCYmpDQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExBQ0F4d2phVEFLQmdZcWhRTUNBaE1GQUFSQStEa0lYRmZ1QUZHVnBSa3g1MXZDclRtNkFXRmltN3FwdXkwUG51aFMyRmpXaXUzSld2b2FhZmlXV01hd0pGRnBsMU0vTDFCK05IckNwUHhCZlJ2c0VnPT0=</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

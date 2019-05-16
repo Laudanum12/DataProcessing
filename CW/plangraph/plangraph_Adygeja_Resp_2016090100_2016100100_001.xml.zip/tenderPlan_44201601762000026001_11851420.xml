@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11851420</id>
+            <planNumber>44201601762000026001</planNumber>
+            <year>2016</year>
+            <versionNumber>4</versionNumber>
+            <owner>
+                <regNum>01762000026</regNum>
+                <fullName>МИНИСТЕРСТВО СЕЛЬСКОГО ХОЗЯЙСТВА РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-09-14T16:17:22.400+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-09-14T16:22:42.013+03:00</confirmDate>
+            <publishDate>2016-09-14T16:31:09.683+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>01762000026</regNum>
+                <fullName>МИНИСТЕРСТВО СЕЛЬСКОГО ХОЗЯЙСТВА РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ул ГАГАРИНА, 20/А</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ул ГАГАРИНА, 20/А</factAddress>
+                <INN>0105020815</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Андар</lastName>
+            <firstName>Руслан</firstName>
+            <middleName>Яхьявич</middleName>
+            <phone>8-8772-526932</phone>
+            <fax>8-8772-565653</fax>
+            <email>investra01@rambler.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000026001000006</positionNumber>
+                        <extNumber>25390</extNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>80704055П80100400244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>50000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.11.21</code>
+                                <name>Деятельность органов государственной власти субъектов Российской Федерации (республик, краев, областей), кроме судебной власти, представительств исполнительных органов государственной власти субъектов Российской Федерации при Президенте Российской Фе дерации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Заключение контракта по предоставлению междугородней и международной связи</contractSubjectName>
+                        <contractMaxPrice>50000.00</contractMaxPrice>
+                        <payments>50000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-28T10:09:13.789+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.110</code>
+                                <name>Услуги по предоставлению внутризоновых, междугородных и международных телефонных соединений</name>
+                            </OKPD2>
+                            <name>Заключение контракта по предоставлению междугородней и международной связи</name>
+                            <minRequirement>Предоставление междугородней и международной связи</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>50000.00</sumMax>
+                            <price>50000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Без периодичности</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000026001000008</positionNumber>
+                        <extNumber>25395</extNumber>
+                        <orderNumber>8</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>80704055П80100400244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>182440.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.11.21</code>
+                                <name>Деятельность органов государственной власти субъектов Российской Федерации (республик, краев, областей), кроме судебной власти, представительств исполнительных органов государственной власти субъектов Российской Федерации при Президенте Российской Фе дерации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по сопровождению установленного комплекта электронного периодического справочника «Система ГАРАНТ»</contractSubjectName>
+                        <contractMaxPrice>182440.00</contractMaxPrice>
+                        <payments>182440.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-28T10:09:13.789+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.03.12.130</code>
+                                <name>Услуги по сопровождению компьютерных систем</name>
+                            </OKPD2>
+                            <name>Оказание услуг по сопровождению установленного комплекта электронного периодического справочника «Система ГАРАНТ»</name>
+                            <minRequirement>сопровождение установленного комплекта электронного периодического справочника «Система ГАРАНТ»</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>182440.00</sumMax>
+                            <price>182440.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1824.40</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>54732.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Без периодичности</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000026001000005</positionNumber>
+                        <extNumber>25387</extNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>80704055П80100400244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>180000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.11.21</code>
+                                <name>Деятельность органов государственной власти субъектов Российской Федерации (республик, краев, областей), кроме судебной власти, представительств исполнительных органов государственной власти субъектов Российской Федерации при Президенте Российской Фе дерации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Заключение контракта по предоставление местной и внутризоновой связи</contractSubjectName>
+                        <contractMaxPrice>180000.00</contractMaxPrice>
+                        <payments>180000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-28T10:09:13.789+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.120</code>
+                                <name>Услуги по предоставлению местных соединений</name>
+                            </OKPD2>
+                            <name>Заключение контракта по предоставление местной и внутризоновой связи</name>
+                            <minRequirement>Предоставление местной и внутризоновой связи</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>180000.00</sumMax>
+                            <price>180000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Без периодичности</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000026001000004</positionNumber>
+                        <extNumber>25386</extNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>80704055П80100400244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>40000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.11.21</code>
+                                <name>Деятельность органов государственной власти субъектов Российской Федерации (республик, краев, областей), кроме судебной власти, представительств исполнительных органов государственной власти субъектов Российской Федерации при Президенте Российской Фе дерации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Заключение контракта по приобретению маркированных конвертов</contractSubjectName>
+                        <contractMaxPrice>40000.00</contractMaxPrice>
+                        <payments>40000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-07-15T12:11:04.935+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>53.10.12.000</code>
+                                <name>Услуги почтовой связи общего пользования, связанные с письменной корреспонденцией</name>
+                            </OKPD2>
+                            <name>Заключение контракта по приобретению маркированных конвертов</name>
+                            <minRequirement>Приобретение маркированных конвертов</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>40000.00</sumMax>
+                            <price>40000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Без периодичности</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000026001000002</positionNumber>
+                        <extNumber>25368</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>80704055П10600010244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>5000000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.11.21</code>
+                                <name>Деятельность органов государственной власти субъектов Российской Федерации (республик, краев, областей), кроме судебной власти, представительств исполнительных органов государственной власти субъектов Российской Федерации при Президенте Российской Фе дерации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Проведение противоградовых мероприятий</contractSubjectName>
+                        <contractMaxPrice>5000000.00</contractMaxPrice>
+                        <payments>5000000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-28T10:09:13.789+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>71.12.39.117</code>
+                                <name>Услуги, связанные с активными воздействиями на метеорологические и геофизические процессы и явления</name>
+                            </OKPD2>
+                            <name>Проведение противоградовых мероприятий</name>
+                            <minRequirement>Противоградовые мероприятя по защите сельскохозяйственных культур и многолетних насаждений от градобития</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>5000000.00</sumMax>
+                            <price>5000000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Без периодичности</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000026001000009</positionNumber>
+                        <extNumber>25398</extNumber>
+                        <orderNumber>9</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>80704055П80100400244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>421740.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.11.21</code>
+                                <name>Деятельность органов государственной власти субъектов Российской Федерации (республик, краев, областей), кроме судебной власти, представительств исполнительных органов государственной власти субъектов Российской Федерации при Президенте Российской Фе дерации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка ГСМ</contractSubjectName>
+                        <contractMaxPrice>421740.00</contractMaxPrice>
+                        <payments>421740.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-26T13:55:50.364+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.110</code>
+                                <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу</name>
+                            </OKPD2>
+                            <name>Поставка ГСМ</name>
+                            <minRequirement>Октановое число, по исследовательскому методу не менее 92</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>421740.00</sumMax>
+                            <price>421740.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4217.40</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>126522.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Без периодичности</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлено в соответствии с Постановлением Правительства РФ № 1236 от 16.11.2015
+Установлено в соответствии с Постановлением Правительства РФ № 791 от 11.08.2014
+Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000026001000001</positionNumber>
+                        <extNumber>25364</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>80706055П80200000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1119000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.11.21</code>
+                                <name>Деятельность органов государственной власти субъектов Российской Федерации (республик, краев, областей), кроме судебной власти, представительств исполнительных органов государственной власти субъектов Российской Федерации при Президенте Российской Фе дерации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Мероприятия по обеспечению гидрометеорологических работ регионального уровня</contractSubjectName>
+                        <contractMaxPrice>1119000.00</contractMaxPrice>
+                        <payments>1119000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-28T10:09:13.789+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>71.12.39.116</code>
+                                <name>Услуги по гидрометеорологическому обеспечению деятельности физических и юридических лиц</name>
+                            </OKPD2>
+                            <name>Мероприятия по обеспечению гидрометеорологических работ регионального уровня</name>
+                            <minRequirement>Предоставление прогноза погоды</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>1119000.00</sumMax>
+                            <price>1119000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Без периодичности</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000026001000003</positionNumber>
+                        <extNumber>25377</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>80704055П11000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>894000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.11.21</code>
+                                <name>Деятельность органов государственной власти субъектов Российской Федерации (республик, краев, областей), кроме судебной власти, представительств исполнительных органов государственной власти субъектов Российской Федерации при Президенте Российской Фе дерации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации участия в 18-й Российской агропромышленной выставке "Золотая осень-2016"</contractSubjectName>
+                        <contractMaxPrice>894000.00</contractMaxPrice>
+                        <payments>894000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-09-14T16:31:09.683+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.20.12</code>
+                                <name>Услуги по сдаче в аренду (внаем) собственных или арендованных нежилых помещений</name>
+                            </OKPD2>
+                            <name>Аренда оборудованной выставочной площади</name>
+                            <minRequirement>Аренда оборудованной выставочной площади </minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>866000.00</sumMax>
+                            <price>866000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>82.30.12.000</code>
+                                <name>Услуги по организации торговых выставок</name>
+                            </OKPD2>
+                            <name>Регистрационный взнос</name>
+                            <minRequirement>Регистрационный взнос</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>28000.00</sumMax>
+                            <price>28000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <contractFinCondition>
+                            <amount>44700.00</amount>
+                        </contractFinCondition>
+                        <advance>5.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Без периодичности</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000026001000007</positionNumber>
+                        <extNumber>25393</extNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>80704055П80100400244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>2000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.11.21</code>
+                                <name>Деятельность органов государственной власти субъектов Российской Федерации (республик, краев, областей), кроме судебной власти, представительств исполнительных органов государственной власти субъектов Российской Федерации при Президенте Российской Фе дерации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Предоставление услуг спецсвязи (фельдъегерская)</contractSubjectName>
+                        <contractMaxPrice>2000.00</contractMaxPrice>
+                        <payments>2000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-28T10:09:13.789+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>53.20.11.121</code>
+                                <name>Услуги федеральной фельдъегерской связи</name>
+                            </OKPD2>
+                            <name>Предоставление услуг спецсвязи (фельдъегерская)</name>
+                            <minRequirement>Фельдъегерские услуги</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>2000.00</sumMax>
+                            <price>2000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Без периодичности</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>80704055П80100400244</code>
+                                    <amount>1088036.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>80704055П11000000244</code>
+                                    <amount>331090.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>80704055П10800000244</code>
+                                    <amount>250000.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1669126.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>182440.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>9518306.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>9518306.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11851420</url>
+            <signature>TUlJTmJBWUpLb1pJaHZjTkFRY0NvSUlOWFRDQ0RWa0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drOE1JSUpPRENDQ09lZ0F3SUJBZ0lERlFPWE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1ETXlOREUwTVRBMU5Gb1hEVEUzTURZeU5ERTBNVEExTkZvd2dnSTZNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV3TVRNMU56YzBOVEVXTUJRR0JTcUZBMlFERWdzd05qSTBOVFkzTnpRM016RWtNQ0lHQ1NxR1NJYjNEUUVKQVJZVmFXNTJaWE4wY21Fd01VQnlZVzFpYkdWeUxuSjFNUXN3Q1FZRFZRUUdFd0pTVlRFOE1Eb0dBMVVFQ0F3ek1ERWcwS0RRdGRHQjBML1JnOUN4MEx2UXVOQzYwTEFnMEpEUXROR0wwTFBRdGRHUElDalFrTkMwMFl2UXM5QzEwWThwTVJVd0V3WURWUVFIREF6UW5OQ3cwTG5RdXRDKzBMOHhhVEJuQmdOVkJBb01ZTkNjMExqUXZkQzQwWUhSZ3RDMTBZRFJnZEdDMExMUXZpRFJnZEMxMEx2UmpOR0IwTHJRdnRDejBMNGcwWVhRdnRDMzBZL1F1ZEdCMFlMUXN0Q3dJTkNnMExYUmdkQy8wWVBRc2RDNzBMalF1dEM0SU5DUTBMVFJpOUN6MExYUmp6RjFNSE1HQTFVRUN3eHMwSjdSZ3RDMDBMWFF1eURRdU5DOTBMTFF0ZEdCMFlMUXVOR0cwTGpRdnRDOTBMM1F2dEM1SU5DLzBMN1F1OUM0MFlMUXVOQzYwTGdnMExnZzBZSFF2dEdHMExqUXNOQzcwWXpRdmRDKzBMUFF2aURSZ05DdzBMZlFzdEM0MFlMUXVOR1BJTkdCMExYUXU5Q3dNU1F3SWdZRFZRUXFEQnZRb05HRDBZSFF1OUN3MEwwZzBLL1JoZEdNMFkvUXN0QzQwWWN4RXpBUkJnTlZCQVFNQ3RDUTBMM1F0TkN3MFlBeExqQXNCZ05WQkF3TUpkQ1MwTFhRdE5HRDBZblF1TkM1SU5DNjBMN1F2ZEdCMFlQUXU5R00wWUxRc05DOTBZSXhMekF0QmdOVkJBTU1KdENRMEwzUXROQ3cwWUFnMEtEUmc5R0IwTHZRc05DOUlOQ3YwWVhSak5HUDBMTFF1TkdITUdNd0hBWUdLb1VEQWdJVE1CSUdCeXFGQXdJQ0pBQUdCeXFGQXdJQ0hnRURRd0FFUUZzS1doUUNtK1FOZGpxUXZra3NYZ2dMVU1kRFBSbjRTOTFhOHFvTGNlUjc3bFcrc3J3bFMyWFdoeWdtaktSV2lVaVJLeGIwc0Zocnl5RnhrUFJncXpPamdnU3JNSUlFcHpBTUJnTlZIUk1CQWY4RUFqQUFNQjBHQTFVZElBUVdNQlF3Q0FZR0tvVURaSEVCTUFnR0JpcUZBMlJ4QWpBOUJnTlZIUkVFTmpBMG9CSUdBMVVFREtBTEV3a3pNakl3T1RReU5UR2dHd1lLS29VREF6MmUxellCQmFBTkV3c3dNVGMyTWpBd01EQXlOb1lCTURBMkJnVXFoUU5rYndRdERDc2kwSnJSZ05DNDBML1JndEMrMEovUmdOQytJRU5UVUNJZ0tOQ3kwTFhSZ05HQjBMalJqeUF6TGpZcE1JSUJZUVlGS29VRFpIQUVnZ0ZXTUlJQlVneEVJdENhMFlEUXVOQy8wWUxRdnRDZjBZRFF2aUJEVTFBaUlDalFzdEMxMFlEUmdkQzQwWThnTXk0MktTQW8wTGpSZ2RDLzBMN1F1OUM5MExYUXZkQzQwTFVnTWlrTWFDTFFuOUdBMEw3UXM5R0EwTERRdk5DODBMM1F2aTNRc05DLzBML1FzTkdBMExEUmd0QzkwWXZRdVNEUXV0QyswTHpRdjlDNzBMWFF1dEdCSUNMUXJ0QzkwTGpSZ2RDMTBZRFJnaTNRazlDZTBLSFFvaUl1SU5DUzBMWFJnTkdCMExqUmp5QXlMakVpREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTBMVEkzTXpnZzBMN1JnaUF3TVM0d055NHlNREUxREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTRMVEl4TnpVZzBMN1JnaUF5TUM0d05pNHlNREV6TUE0R0ExVWREd0VCL3dRRUF3SUQ2REJOQmdOVkhTVUVSakJFQmdnckJnRUZCUWNEQVFZSUt3WUJCUVVIQXdJR0RpcUZBd005bnRjMkFRWURCQUVCQmc0cWhRTURQWjdYTmdFR0F3UUJBZ1lPS29VREF6MmUxellCQmdNRUFRUXdLd1lEVlIwUUJDUXdJb0FQTWpBeE5qQXpNalF4TkRFd01qbGFnUTh5TURFM01EWXlOREUwTVRBeU9Wb3dnZ0dQQmdOVkhTTUVnZ0dHTUlJQmdvQVVubkVPRDlxMEFTaGZQK0xMajJVVmx3SkhqS3VoZ2dGbHBJSUJZVENDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3Z2dFQk1GNEdBMVVkSHdSWE1GVXdLYUFub0NXR0kyaDBkSEE2THk5amNtd3VjbTl6YTJGNmJtRXVjblV2WTNKc0wyWnJNREV1WTNKc01DaWdKcUFraGlKb2RIUndPaTh2WTNKc0xtWnpabXN1Ykc5allXd3ZZM0pzTDJack1ERXVZM0pzTUIwR0ExVWREZ1FXQkJSalVISm96QUdoYVlVK2NxWTFSVkxFaUowL2FEQUlCZ1lxaFFNQ0FnTURRUURkdWI3NUlTQStLOFRyMEx3bFVGWTBJWkFuNTVHTXg1NXBlSkJGcFJxQjgwc3MrQmhxOGNrUzc5N00vcm8xQXoxQlN1ZzlsV1hXOFVyV1EvMWNJdUdKTVlJRDl6Q0NBL01DQVFFd2dnRm1NSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTEFDQXhVRGx6QUtCZ1lxaFFNQ0Fna0ZBS0NDQWlnd0dBWUpLb1pJaHZjTkFRa0RNUXNHQ1NxR1NJYjNEUUVIQVRBY0Jna3Foa2lHOXcwQkNRVXhEeGNOTVRZd09URTBNVE16TVRBNFdqQXZCZ2txaGtpRzl3MEJDUVF4SWdRZ3ZsdFhPRjJZZ1NWOU5tZGJPUEl4bGNEWkdBejB5ZDdDNU15VWFjUGhDL013Z2dHN0Jnc3Foa2lHOXcwQkNSQUNMekdDQWFvd2dnR21NSUlCb2pDQ0FaNHdDQVlHS29VREFnSUpCQ0FNZGZ3c1dFYUM5cElyVnhpSVhpd3ZPbEZWUU5JeFlHcG1YMERvcmlMdndqQ0NBVzR3Z2dGbHBJSUJZVENDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3QWdNVkE1Y3dDZ1lHS29VREFnSVRCUUFFUUVWd0xoSFh4NEVMSU9iMCtPK0I2bjE5TzhuZ0V4UitNS2JEZXhYNU1yc1dvQzJXSnA3ZDE4M2R5RHFHeEtVR1h2LzN0Q21UemN2dzVPQnUzaTQ0R0VrPQ==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

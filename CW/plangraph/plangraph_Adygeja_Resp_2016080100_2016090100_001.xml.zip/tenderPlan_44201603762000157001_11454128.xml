@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11454128</id>
+            <planNumber>44201603762000157001</planNumber>
+            <year>2016</year>
+            <versionNumber>8</versionNumber>
+            <owner>
+                <regNum>03762000157</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "АДЫГЕЙСКИЙ РЕСПУБЛИКАНСКИЙ ФИЗКУЛЬТУРНО-СПОРТИВНЫЙ ЦЕНТР АДАПТАЦИИ ИНВАЛИДОВ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-08-17T18:51:07.104+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-08-17T18:47:08.177+03:00</confirmDate>
+            <publishDate>2016-08-17T18:52:44.919+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000157</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "АДЫГЕЙСКИЙ РЕСПУБЛИКАНСКИЙ ФИЗКУЛЬТУРНО-СПОРТИВНЫЙ ЦЕНТР АДАПТАЦИИ ИНВАЛИДОВ"</fullName>
+                <shortName>ГБУ РА "АР ФСЦАИ"</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Гагарина, 7</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Гагарина, 7</factAddress>
+                <INN>0105067997</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Веклич</lastName>
+            <firstName>Наталья</firstName>
+            <middleName>Николаевна</middleName>
+            <phone>7-8772-522161</phone>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000157001000003</positionNumber>
+                        <extNumber>34606</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>185500.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>30.92.2</code>
+                                <name>Производство инвалидных колясок</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение  инвалидной спортивной  легкоатлетической коляски</contractSubjectName>
+                        <contractMaxPrice>185500.00</contractMaxPrice>
+                        <payments>185500.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-07-27T13:49:00.703+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>30.92.20.000</code>
+                                <name>Коляски инвалидные, кроме частей и принадлежностей</name>
+                            </OKPD2>
+                            <name>Приобретение инвалидной спортивной легкоатлетической коляски</name>
+                            <minRequirement>У субъектов  малого предпринимательства и социально ориентированных некоммерческих организаций</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>185500.00</sumMax>
+                            <price>185500.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1855.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>9275.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Поставка в течение 20 дней со дня заключения контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000157001000001</positionNumber>
+                        <extNumber>34599</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>3360000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>29.10.31</code>
+                                <name>Производство автобусов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка автомобиля</contractSubjectName>
+                        <contractMaxPrice>3360000.00</contractMaxPrice>
+                        <payments>3360000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2016-07-11T17:19:40.440+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>29.10.30.190</code>
+                                <name>Средства автотранспортные пассажирские с числом мест для сидения не менее 10 прочие</name>
+                            </OKPD2>
+                            <name>Поставка автомобиля</name>
+                            <minRequirement>Установлен запрет на допуск отдельных видов товаров  машиностроения, происходящих  из иностранных государств для целей осуществления закупок для обеспечения государственных нужд, опренделенный Постановлением Правительства Российской Федерации от 14.07.2014 г № 656 "Об установлениии запрета на допуск отдельных видов товаров машиностроения, происходящих из иностранных государств для целей осуществления закупок для обеспечения государственных и муниципальных нужд" (по коду 34.10.22.312).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3360000.00</sumMax>
+                            <price>3360000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>33600.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>168000.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Поставка в течение 20 дней со дня заключения контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлено
+</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000157001000002</positionNumber>
+                        <extNumber>34607</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>352000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>32.30</code>
+                                <name>Производство спортивных товаров</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение спортивного инвентаря</contractSubjectName>
+                        <contractMaxPrice>352000.00</contractMaxPrice>
+                        <payments>352000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-07-27T13:49:00.703+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>32.30.14.119</code>
+                                <name>Инвентарь для занятий физкультурой, гимнастикой и атлетикой прочий, не включенный в другие группировки</name>
+                            </OKPD2>
+                            <name>Бочча в жестком кейсе</name>
+                            <minRequirement>У субъектов малого предпринимательства  и социально ориентированных некоммерческих организаций</minRequirement>
+                            <OKEI>
+                                <code>839</code>
+                                <name>Комплект</name>
+                            </OKEI>
+                            <sumMax>76000.00</sumMax>
+                            <price>38000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.30.14.119</code>
+                                <name>Инвентарь для занятий физкультурой, гимнастикой и атлетикой прочий, не включенный в другие группировки</name>
+                            </OKPD2>
+                            <name>Ворота для голбола</name>
+                            <minRequirement>У субъектов малого предпринимательства и социально ориентированных некоммерческих организаций </minRequirement>
+                            <OKEI>
+                                <code>839</code>
+                                <name>Комплект</name>
+                            </OKEI>
+                            <sumMax>276000.00</sumMax>
+                            <price>138000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>3520.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>17600.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Поствака в течение 20 дней со дня заключения контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000157001000004</positionNumber>
+                        <extNumber>35563</extNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>3360000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>29.10.31</code>
+                                <name>Производство автобусов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка автомобиля</contractSubjectName>
+                        <contractMaxPrice>3360000.00</contractMaxPrice>
+                        <payments>3360000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-17T18:52:44.919+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>29.10.30.190</code>
+                                <name>Средства автотранспортные пассажирские с числом мест для сидения не менее 10 прочие</name>
+                            </OKPD2>
+                            <name>Поставка автомобиля</name>
+                            <minRequirement>Установлен запрет на допуск отдельных видов товаров  машиностроения, происходящих  из иностранных государств для целей осуществления закупок для обеспечения государственных нужд, опренделенный Постановлением Правительства Российской Федерации от 14.07.2014 г № 656 "Об установлениии запрета на допуск отдельных видов товаров машиностроения, происходящих из иностранных государств для целей осуществления закупок для обеспечения государственных и муниципальных нужд" (по коду 34.10.22.312).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3360000.00</sumMax>
+                            <price>3360000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>33600.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>168000.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Поставка в течение 20 дней со дня заключения контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлено
+</prohibitions>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>1165293.06</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1165293.06</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>537500.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>5062793.06</sumContractMaxPrice>
+                    <sumPaymentsTotal>8422793.06</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11454128</url>
+            <signature>TUlJTkFnWUpLb1pJaHZjTkFRY0NvSUlNOHpDQ0RPOENBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqU01JSUl6akNDQ0gyZ0F3SUJBZ0lERjltME1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EWXhOekV6TkRBeE5Gb1hEVEUzTURreE56RXpOREF4TkZvd2dnR05NUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV4TlRjMk1EUXhPREVXTUJRR0JTcUZBMlFERWdzeE16RXdOakl4TXpVNU1qRWlNQ0FHQ1NxR1NJYjNEUUVKQVJZVFlXUjVaM053YjNKMFFIbGhibVJsZUM1eWRURUxNQWtHQTFVRUJoTUNVbFV4UERBNkJnTlZCQWdNTXpBeElOQ2cwTFhSZ2RDLzBZUFFzZEM3MExqUXV0Q3dJTkNRMExUUmk5Q3owTFhSanlBbzBKRFF0TkdMMExQUXRkR1BLVEVWTUJNR0ExVUVCd3dNMEp6UXNOQzUwTHJRdnRDL01TWXdKQVlEVlFRS0RCM1FrOUNSMEtNZzBLRFFrQ0FpMEpEUW9DRFFwTkNoMEtiUWtOQ1lJakV1TUN3R0ExVUVLZ3dsMEtMUXNOR0MwWXpSajlDOTBMQWcwSkRRdmRDdzBZTFF2dEM3MFl6UXRkQ3kwTDNRc0RFYk1Ca0dBMVVFQkF3UzBKSFJnOUN6MFlEUXNOQzkwTDdRc3RDd01Sa3dGd1lEVlFRTURCRFFsTkM0MFlEUXRkQzYwWUxRdnRHQU1VRXdQd1lEVlFRREREalFrZEdEMExQUmdOQ3cwTDNRdnRDeTBMQWcwS0xRc05HQzBZelJqOUM5MExBZzBKRFF2ZEN3MFlMUXZ0QzcwWXpRdGRDeTBMM1FzREJqTUJ3R0JpcUZBd0lDRXpBU0JnY3FoUU1DQWlRQUJnY3FoUU1DQWg0QkEwTUFCRUI0YVJ0QkVOSENwdnVXcS9vN2lmRE03ZVRraUVCTzlJWG5YZ3VtdDBOdE1DblFweFlNWVRVWFJ1SjkzZUEwMENaRVRTaDRJOEpSaDU3eHZIRTh0OWZObzRJRTdqQ0NCT293REFZRFZSMFRBUUgvQkFJd0FEQWRCZ05WSFNBRUZqQVVNQWdHQmlxRkEyUnhBVEFJQmdZcWhRTmtjUUl3WEFZRFZSMFJCRlV3VTZBU0JnTlZCQXlnQ3hNSk5qRTFNRGsxTmpJM29Cc0dDaXFGQXdNOW50YzJBUVdnRFJNTE1ETTNOakl3TURBeE5UZWdIUVlLS29VREF6MmUxellCQ0tBUEV3MHdNemMyTWpBd01EQXdNVE0xaGdFd01EWUdCU3FGQTJSdkJDME1LeUxRbXRHQTBMalF2OUdDMEw3UW45R0EwTDRnUTFOUUlpQW8wTExRdGRHQTBZSFF1TkdQSURNdU5pa3dnZ0ZoQmdVcWhRTmtjQVNDQVZZd2dnRlNERVFpMEpyUmdOQzQwTC9SZ3RDKzBKL1JnTkMrSUVOVFVDSWdLTkN5MExYUmdOR0IwTGpSanlBekxqWXBJQ2pRdU5HQjBML1F2dEM3MEwzUXRkQzkwTGpRdFNBeUtReG9JdENmMFlEUXZ0Q3owWURRc05DODBMelF2ZEMrTGRDdzBML1F2OUN3MFlEUXNOR0MwTDNSaTlDNUlOQzYwTDdRdk5DLzBMdlF0ZEM2MFlFZ0l0Q3UwTDNRdU5HQjBMWFJnTkdDTGRDVDBKN1FvZENpSWk0ZzBKTFF0ZEdBMFlIUXVOR1BJREl1TVNJTVQ5Q2gwTFhSZ05HQzBMalJoTkM0MExyUXNOR0NJTkdCMEw3UXZ0R0MwTExRdGRHQzBZSFJndEN5MExqUmp5RGloSllnMEtIUXBDOHhNalF0TWpjek9DRFF2dEdDSURBeExqQTNMakl3TVRVTVQ5Q2gwTFhSZ05HQzBMalJoTkM0MExyUXNOR0NJTkdCMEw3UXZ0R0MwTExRdGRHQzBZSFJndEN5MExqUmp5RGloSllnMEtIUXBDOHhNamd0TWpFM05TRFF2dEdDSURJd0xqQTJMakl3TVRNd0RnWURWUjBQQVFIL0JBUURBZ1BvTUhFR0ExVWRKUVJxTUdnR0NDc0dBUVVGQndNQ0JnNHFoUU1EUFo3WE5nRUdBd1FCQVFZT0tvVURBejJlMXpZQkJnTUVBUUlHRGlxRkF3TTludGMyQVFZREJBRURCZzRxaFFNRFBaN1hOZ0VHQXdRQkJBWU5Lb1VEQXoyZTF6WUJCZ01GQVFZTktvVURBejJlMXpZQkJnTUZBakFyQmdOVkhSQUVKREFpZ0E4eU1ERTJNRFl4TnpFek16azFObHFCRHpJd01UY3dPVEUzTVRNek9UVTJXakNDQVk4R0ExVWRJd1NDQVlZd2dnR0NnQlNlY1E0UDJyUUJLRjgvNHN1UFpSV1hBa2VNcTZHQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExDQ0FRRXdYZ1lEVlIwZkJGY3dWVEFwb0NlZ0pZWWphSFIwY0RvdkwyTnliQzV5YjNOcllYcHVZUzV5ZFM5amNtd3ZabXN3TVM1amNtd3dLS0Ftb0NTR0ltaDBkSEE2THk5amNtd3Vabk5tYXk1c2IyTmhiQzlqY213dlptc3dNUzVqY213d0hRWURWUjBPQkJZRUZBWlNXQm9ZT3Z1YmhIbCtpR3JyOGRzK0k5VWxNQWdHQmlxRkF3SUNBd05CQVB5TnorcmI0bno0cmt4UXlJa1lwcXJadkkxYXdha3B1VklqaTVkUXcrUUM2eUVBbE95ZVgvTE96QlBtcnFEUFdkMWtISVBTVmV2NnorWlBVRHhkR1pFeGdnUDNNSUlEOHdJQkFUQ0NBV1l3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJREY5bTBNQW9HQmlxRkF3SUNDUVVBb0lJQ0tEQVlCZ2txaGtpRzl3MEJDUU14Q3dZSktvWklodmNOQVFjQk1Cd0dDU3FHU0liM0RRRUpCVEVQRncweE5qQTRNVGN4TlRVeU5ERmFNQzhHQ1NxR1NJYjNEUUVKQkRFaUJDRFNoTkVxZ25HL2NFYk9xSldJVitaZ1JpZVVla21VeDg3SG1wdkM2T05vY0RDQ0Fic0dDeXFHU0liM0RRRUpFQUl2TVlJQnFqQ0NBYVl3Z2dHaU1JSUJuakFJQmdZcWhRTUNBZ2tFSUhReXEyM1FtTDVtKzUvKzRjVnlSckZTRmE4YitTUlU0T081QzdrN0YwekxNSUlCYmpDQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExBQ0F4Zlp0REFLQmdZcWhRTUNBaE1GQUFSQVp1ckpQU1dGL3RXTEFKZlVodXByQ2svRUhIbmM3Nk9DazhzTk5yNWZLWjMrR01vQ1pqSzJXVVAyd0Izd2k0Mk16S0xZR1UwTlpOQUN4c2tpWEEvMytRPT0=</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

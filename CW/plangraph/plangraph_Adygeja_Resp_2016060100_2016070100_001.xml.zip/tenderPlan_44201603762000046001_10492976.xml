@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>10492976</id>
+            <planNumber>44201603762000046001</planNumber>
+            <year>2016</year>
+            <versionNumber>2</versionNumber>
+            <owner>
+                <regNum>03762000046</regNum>
+                <fullName>Государственное бюджетное учреждение Республики Адыгея "Государственная филармония Республики Адыгея"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-06-09T10:37:08.480+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-06-09T10:39:18.480+03:00</confirmDate>
+            <publishDate>2016-06-09T10:42:45.084+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000046</regNum>
+                <fullName>Государственное бюджетное учреждение Республики Адыгея "Государственная филармония Республики Адыгея"</fullName>
+                <shortName>ГБУРА  ГФРА</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Пионерская, 300, -</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Пионерская, 300, -</factAddress>
+                <INN>0105021311</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Тлишев</lastName>
+            <firstName>Рустем</firstName>
+            <middleName>Пушевич</middleName>
+            <phone>8-8772-527585</phone>
+            <email>gosfil@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000046001000004</positionNumber>
+                        <extNumber>33828</extNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>241</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>5500000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.91</code>
+                                <name>Производство кровельных работ</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Капитальный ремонт кровли ГБУРА «Государственная филармония РА»</contractSubjectName>
+                        <contractMaxPrice>5500000.00</contractMaxPrice>
+                        <payments>5500000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-09T10:42:45.084+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.91.19.110</code>
+                                <name>Работы строительные по устройству любых видов кровельных покрытий зданий и сооружений</name>
+                            </OKPD2>
+                            <name>Капитальный ремонт кровли ГБУРА «Государственная филармония РА»</name>
+                            <minRequirement>Согласно технического задания</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>5500000.00</sumMax>
+                            <price>5500000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>55000.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>275000.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>нет</contractExecutionStages>
+                            <periodicity>нет</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000046001000001</positionNumber>
+                        <extNumber>33836</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>2597000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.30.3</code>
+                                <name>Распределение пара и горячей воды (тепловой энергии)</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка тепловой энергии</contractSubjectName>
+                        <contractMaxPrice>2597000.00</contractMaxPrice>
+                        <payments>2597000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2016-06-03T10:22:43.874+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.30.11.111</code>
+                                <name>Энергия тепловая, отпущенная тепловыми электроцентралями (ТЭЦ)</name>
+                            </OKPD2>
+                            <name>Поставка тепловой энергии</name>
+                            <minRequirement>Бесперебойное снабжение</minRequirement>
+                            <OKEI>
+                                <code>233</code>
+                                <name>Гигакалория</name>
+                            </OKEI>
+                            <sumMax>2597000.00</sumMax>
+                            <price>2597000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>нет</contractExecutionStages>
+                            <periodicity>нет</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000046001000002</positionNumber>
+                        <extNumber>33832</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1040217.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.13</code>
+                                <name>Распределение электроэнергии</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка электроэнергии</contractSubjectName>
+                        <contractMaxPrice>1040217.00</contractMaxPrice>
+                        <payments>1040217.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2016-06-03T10:22:43.874+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.11.10.112</code>
+                                <name>Электроэнергия, произведенная теплоэлектроцентралями (ТЭЦ) общего назначения</name>
+                            </OKPD2>
+                            <name>Поставка электроэнергии</name>
+                            <minRequirement>Бесперебойное снабжение</minRequirement>
+                            <OKEI>
+                                <code>245</code>
+                                <name>Киловатт-час</name>
+                            </OKEI>
+                            <sumMax>1040217.00</sumMax>
+                            <price>1040217.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>нет</contractExecutionStages>
+                            <periodicity>нет</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000046001000003</positionNumber>
+                        <extNumber>33835</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>40000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>36.00.2</code>
+                                <name>Распределение воды для питьевых и промышленных нужд</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Водоснабжение и водоотведение</contractSubjectName>
+                        <contractMaxPrice>40000.00</contractMaxPrice>
+                        <payments>40000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-06-03T10:22:43.874+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>36.00.20.130</code>
+                                <name>Услуги по транспортированию и распределению воды по водопроводам</name>
+                            </OKPD2>
+                            <name>Водоснабжение и водоотведение</name>
+                            <minRequirement>Бесперебойное снабжение</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>40000.00</sumMax>
+                            <price>40000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>нет</contractExecutionStages>
+                            <periodicity>нет</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>0.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>5500000.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>9177217.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>9177217.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=10492976</url>
+            <signature>TUlJTklBWUpLb1pJaHZjTkFRY0NvSUlORVRDQ0RRMENBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqd01JSUk3RENDQ0p1Z0F3SUJBZ0lERUsyak1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMU1UQXlNekExTlRFek1Wb1hEVEUzTURFeU16QTFOVEV6TVZvd2dnR1BNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRGd3TURJeU5UUTFPREVXTUJRR0JTcUZBMlFERWdzd05qa3dNek0wTURBME9URVlNQllHQlNxRkEyUUJFZzB4TURJd01UQXdOekF6T1RReE1SMHdHd1lKS29aSWh2Y05BUWtCRmc1bmIzTm1hV3hBYldGcGJDNXlkVEVMTUFrR0ExVUVCaE1DVWxVeFBEQTZCZ05WQkFnTU16QXhJTkNnMExYUmdkQy8wWVBRc2RDNzBMalF1dEN3SU5DUTBMVFJpOUN6MExYUmp5QW8wSkRRdE5HTDBMUFF0ZEdQS1RFVk1CTUdBMVVFQnd3TTBKelFzTkM1MExyUXZ0Qy9NUnd3R2dZRFZRUUtEQlBRazlDUjBLUFFvTkNRSU5DVDBLVFFvTkNRTVNRd0lnWURWUVFxREJ2UW9OR0QwWUhSZ3RDMTBMd2cwSi9SZzlHSTBMWFFzdEM0MFljeEZUQVRCZ05WQkFRTUROQ2kwTHZRdU5HSTBMWFFzakV3TUM0R0ExVUVEQXduMEpQUXRkQzkwTFhSZ05DdzBMdlJqTkM5MFl2UXVTRFF0TkM0MFlEUXRkQzYwWUxRdnRHQU1URXdMd1lEVlFRRERDalFvdEM3MExqUmlOQzEwTElnMEtEUmc5R0IwWUxRdGRDOElOQ2YwWVBSaU5DMTBMTFF1TkdITUdNd0hBWUdLb1VEQWdJVE1CSUdCeXFGQXdJQ0pBQUdCeXFGQXdJQ0hnRURRd0FFUUR4bnRTWnd6NTVneVY4czVGeHNISUwvZytLQXVieGxWaHQxRmNOeFpyVWVhQmM1MTZNV2RFWUlDUWFoZnY4S3dNZnlnV1pzWDBBbHcrZHBYamduVzZhamdnVUtNSUlGQmpBTUJnTlZIUk1CQWY4RUFqQUFNQjBHQTFVZElBUVdNQlF3Q0FZR0tvVURaSEVCTUFnR0JpcUZBMlJ4QWpCNEJnTlZIUkVFY1RCdm9CTUdBMVVFREtBTUV3b3hNREl5TVRZd01UQTRvQmtHQ2lxRkF3TTludGMyQVFlZ0N4TUpNREV3TlRBeE1EQXhvQnNHQ2lxRkF3TTludGMyQVFXZ0RSTUxNRE0zTmpJd01EQXdORGFnSFFZS0tvVURBejJlMXpZQkNLQVBFdzB3TXpjMk1qQXdNREF3TURRNGhnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWt3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qSXpPQ0RRdnRHQ0lEQTBMakV3TGpJd01UTU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qRTNOU0RRdnRHQ0lESXdMakEyTGpJd01UTXdEZ1lEVlIwUEFRSC9CQVFEQWdQb01IRUdBMVVkSlFScU1HZ0dDQ3NHQVFVRkJ3TUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkFRWU9Lb1VEQXoyZTF6WUJCZ01FQVFJR0RpcUZBd005bnRjMkFRWURCQUVEQmc0cWhRTURQWjdYTmdFR0F3UUJCQVlOS29VREF6MmUxellCQmdNRkFRWU5Lb1VEQXoyZTF6WUJCZ01GQWpBckJnTlZIUkFFSkRBaWdBOHlNREUxTVRBeU16QTFOVEEwTmxxQkR6SXdNVGN3TVRJeU1EVTFNVE14V2pDQ0FZOEdBMVVkSXdTQ0FZWXdnZ0dDZ0JTZWNRNFAyclFCS0Y4LzRzdVBaUldYQWtlTXE2R0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQ0NBUUV3WGdZRFZSMGZCRmN3VlRBcG9DZWdKWVlqYUhSMGNEb3ZMMk55YkM1eWIzTnJZWHB1WVM1eWRTOWpjbXd2Wm1zd01TNWpjbXd3S0tBbW9DU0dJbWgwZEhBNkx5OWpjbXd1Wm5ObWF5NXNiMk5oYkM5amNtd3ZabXN3TVM1amNtd3dIUVlEVlIwT0JCWUVGSUM1VEkvcHJ0MmxHSGxOZk16bUdEQTU2M0lLTUFnR0JpcUZBd0lDQXdOQkFHN1Rzbm9QMVJIWGRucDZ6K1kxUkNaU0orTndSRlh4aDd4cGZnT1ZQLzNiN2txWGwwQUpCWDVhenMyMThHeUhkS2ZqcVVGc1VyZHVDam1pQjF2c0dJc3hnZ1AzTUlJRDh3SUJBVENDQVdZd2dnRmRNUmd3RmdZSktvWklodmNOQVFrQ0V3bFRaWEoyWlhJZ1EwRXhJREFlQmdrcWhraUc5dzBCQ1FFV0VYVmpYMlpyUUhKdmMydGhlbTVoTG5KMU1Sd3dHZ1lEVlFRSURCTTNOeURRc3k0ZzBKelF2dEdCMExyUXN0Q3dNUm93R0FZSUtvVURBNEVEQVFFU0REQXdOemN4TURVMk9EYzJNREVZTUJZR0JTcUZBMlFCRWcweE1EUTNOemszTURFNU9ETXdNU3d3S2dZRFZRUUpEQ1BSZzlDNzBMalJodEN3SU5DWTBMdlJqTkM0MEwzUXV0Q3dMQ0RRdE5DKzBMd2dOekVWTUJNR0ExVUVCd3dNMEp6UXZ0R0IwTHJRc3RDd01Rc3dDUVlEVlFRR0V3SlNWVEU0TURZR0ExVUVDZ3d2MEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXRTRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MEw0eFB6QTlCZ05WQkFNTU50Q2owS1lnMEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXM5QytJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXNBSURFSzJqTUFvR0JpcUZBd0lDQ1FVQW9JSUNLREFZQmdrcWhraUc5dzBCQ1FNeEN3WUpLb1pJaHZjTkFRY0JNQndHQ1NxR1NJYjNEUUVKQlRFUEZ3MHhOakEyTURrd056UTBORGxhTUM4R0NTcUdTSWIzRFFFSkJERWlCQ0R6bUQvWVhkSjZidGl3TDJzVkw1U2JZWUsxNDk2M0EzTkE2SEhYUk9ua3BUQ0NBYnNHQ3lxR1NJYjNEUUVKRUFJdk1ZSUJxakNDQWFZd2dnR2lNSUlCbmpBSUJnWXFoUU1DQWdrRUlPMG9CWFY1ZTgyRk5YeHJydzc5eXUyamEvT1VkNXNXUjM5dzVWcmRTQThVTUlJQmJqQ0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeEN0b3pBS0JnWXFoUU1DQWhNRkFBUkEvT1NPcWlvRFVqTGhoN09WVy9VaEVlT3NEK09hRUhYTG00LzBMNTBBRDB5VHpmYzJUQ0lvdmF2SHN6QkQ5RUo4enIzbjh0OXNPeVVod09DS21LRmludz09</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

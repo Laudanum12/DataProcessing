@@ -1,0 +1,2509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>12116920</id>
+            <planNumber>44201601762000023001</planNumber>
+            <year>2016</year>
+            <versionNumber>8</versionNumber>
+            <owner>
+                <regNum>01762000023</regNum>
+                <fullName>МИНИСТЕРСТВО ТРУДА И СОЦИАЛЬНОГО РАЗВИТИЯ РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-10-02T13:44:17.121+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-10-02T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-10-02T13:46:24.846+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>01762000023</regNum>
+                <fullName>МИНИСТЕРСТВО ТРУДА И СОЦИАЛЬНОГО РАЗВИТИЯ РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                <shortName>МИНТРУДСОЦРАЗВИТИЯ РА</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ул СОВЕТСКАЯ, 176</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ул СОВЕТСКАЯ, 176</factAddress>
+                <INN>0105023407</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000</code>
+                <name>город Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Зехова</lastName>
+            <firstName>Оксана</firstName>
+            <middleName>Альджериевна</middleName>
+            <phone>8-8772-525797</phone>
+            <fax>8-8772-525797</fax>
+            <email>ekonom_mintrud@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000004</positionNumber>
+                        <extNumber>25670</extNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320500000323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>12474000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации отдыха и оздоровления детей в спортивно-оздоровительном лагере.</contractSubjectName>
+                        <contractMaxPrice>12474000.00</contractMaxPrice>
+                        <payments>12474000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-30T14:47:39.071+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей в спортивно-оздоровительном лагере.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг – май - август  2016 г. (по заявке Заказчика).
+Количество детей, всего – 660 чел. 
+Продолжительность 1 заезда (периода оздоровления) – 21 день.
+Место оказания услуг – Республика Адыгея.
+         График заездов - по согласованию Сторон ( в график заезда могут быть внесены согласованные изменения). 
+Количество заездов - 3. Исполнитель должен обеспечить отдых и оздоровление детей, качественное 5-разовое питание, организацию оздоровительных мероприятий, а также благоприятные для проживания номера с размещением не более 6 человек в одном номере.
+Исполнитель должен обеспечить:
+1. Соответствие оказываемых услуг  требованиям Постановления Главного государственного санитарного врача РФ от 27.12.2013 № 73 «Об утверждении СанПиН 2.4.4.3155-13 «Санитарно-эпидемиологические требования к устройству, содержанию и организации работы стационарных организаций отдыха и оздоровления детей» (далее СанПиН 2.4.4.3155-13),  СанПиН 2.3.2.1078-01 «Гигиенические требования безопасности и пищевой ценности пищевых продуктов», СанПиН 2.3.2.1940-05 «Организация детского питания», а также действующим правилам пожарной безопасности.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>12474000.00</sumMax>
+                            <price>18900.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>660.00</quantity>
+                            <quantityCurrentYear>660.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>124740.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>623700.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>июнь 2016; июль 2016; август 2016</contractExecutionStages>
+                            <periodicity>Май - август  2016 г. (по заявке Заказчика).Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 дней.
+График заездов - по согласованию Сторон. Количество заездов - 3.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000012</positionNumber>
+                        <extNumber>33132</extNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320554570323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>8893500.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации, в оздоровительном учреждении на Черноморском побережье.</contractSubjectName>
+                        <contractMaxPrice>8893500.00</contractMaxPrice>
+                        <payments>8893500.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-12T19:49:51.829+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации, в оздоровительном учреждении на Черноморском побережье.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг: с момента заключения государственного контракта по 31 августа 2016 г. (по заявке Заказчика).
+Количество направляемых детей, находящихся в трудной жизненной ситуации (далее – детей) – 385 человек. 
+Продолжительность 1 заезда  – 21 день.
+Количество заездов – 2
+График заездов - по согласованию Сторон. Место оказания услуг: по местонахождению оздоровительного учреждения Исполнителя на территории Краснодарского края (Анапа, Анапский район).
+Исполнитель должен обеспечить отдых и оздоровление детей, качественное 5-разовое питание, организацию оздоровительных мероприятий, а также благоприятные для проживания номера с размещением не более 6 человек в одном номере. Исполнитель должен обеспечить: - соответствие оказываемых услуг требованиям, предъявляемым законодательством Российской Федерации и санитарных правил и норм (СанПиН);
+- доставку детей к месту отдыха на Черноморском побережье и обратно комфортабельными автобусами. Медицинское обеспечение детей:
+- наличие оснащенного медицинского блока и квалифицированного медицинского персонала;
+ - предоставление лечебных процедур (ЛФК, физиотерапевтические процедуры, климатолечение, кислородные коктейли, фитотерапия, талассотерапия, аэрогелиотерапия, магнитотерапия, гальванизация, электрофорез, псаммотерапия, физиотерапии, аэрофитотерапия);
+- наличие действующей лицензии на осуществление медицинской деятельности:
+           при оказании медицинской помощи при оздоровлении детей организуются и выполняются работы (услуги) по: диетологии, лечебной физкультуре и спортивной медицине, медицинскому массажу, педиатрии, сестринскому делу в педиатрии, физиотерапии;
+       при оказании первичной доврачебной медико-санитарной помощи в амбулаторных условиях по: медицинскому массажу, сестринскому делу, сестринскому делу в педиатрии, физиотерапии.
+
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>8893500.00</sumMax>
+                            <price>23100.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>385.00</quantity>
+                            <quantityCurrentYear>385.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>88935.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>444675.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>июль 2016; август 2016</contractExecutionStages>
+                            <periodicity>С момента заключения государственного контракта по 31 августа 2016 г.  (по заявке Заказчика). Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 день.
+График заездов - по согласованию Сторон. Количество заездов - 2.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000008</positionNumber>
+                        <extNumber>29465</extNumber>
+                        <orderNumber>8</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81001136800400001244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>11760800.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>88.99</code>
+                                <name>Предоставление прочих социальных услуг без обеспечения проживания, не включенных в другие группировки</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по социально-бытовому обустройству граждан Украины и лиц без гражданства, постоянно проживавших на территории Украины, прибывших на территорию Российской Федерации в экстренном массовом порядке, в пункте временного размещения.</contractSubjectName>
+                        <contractMaxPrice>11760800.00</contractMaxPrice>
+                        <payments>11760800.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-11T18:33:12.962+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>88.99.19</code>
+                                <name>Услуги социальные без обеспечения проживания прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по социально-бытовому обустройству граждан Украины и лиц без гражданства, постоянно проживавших на территории Украины, прибывших на территорию Российской Федерации в экстренном массовом порядке, в пункте временного размещения.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг: с 30.09.2015 г. по 30 12. 2015 года (92 дня).                          
+Место оказания услуг: Республика Адыгея, Майкопский район.
+Объем услуги 14701 чел/дней.
+Исполнитель должен обеспечить:
+- размещение граждан Украины и лиц без гражданства, постоянно проживавших на территории Украины, прибывших на территорию Российской Федерации в экстренном массовом порядке, в пункте временного размещения, отвечающего  государственным  санитарно-эпидемиологическим правилам и нормативам, требованиям пожарной безопасности;
+- обеспечение граждан Украины и лиц без гражданства, постоянно проживавших на территории Украины, прибывших на территорию Российской Федерации в экстренном массовом порядке, в пункте временного размещения койко-местами, постельными принадлежностями и предметами личной гигиены, бытовым обслуживанием;
+- организацию 3-х разового питания граждан Украины и лиц без гражданства, постоянно проживавших на территории Украины, прибывших на территорию Российской Федерации в экстренном массовом порядке, в пункте временного размещения в соответствии с  требованиями, предъявляемыми  Федеральным законом от 30.03.1999 г. № 52-ФЗ «О санитарно-эпидемиологическом благополучии населения», Федеральным законом от 02.01.2000 г. № 29-ФЗ «О качестве и безопасности пищевых продуктов», установленными санитарными правилами, и другими обязательным требованиями и нормами;
+- обеспечение граждан Украины и лиц без гражданства, постоянно проживавших на территории Украины, прибывших на территорию Российской Федерации в экстренном массовом порядке, в пункте временного размещения транспортными услугами в пределах Республики Адыгея.</minRequirement>
+                            <OKEI>
+                                <code>540</code>
+                                <name>Человеко-день</name>
+                            </OKEI>
+                            <sumMax>11760800.00</sumMax>
+                            <price>800.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>14701.00</quantity>
+                            <quantityCurrentYear>14701.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>с 30.09.2015 г. по 30 12. 2015 года (92 дня).</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000020</positionNumber>
+                        <extNumber>36375</extNumber>
+                        <orderNumber>20</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320500000323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>2398200.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>81007075320554570323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>151536.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по оздоровлению детей, находящихся в трудной жизненной ситуации, и детей в сопровождении взрослого в санаторно-оздоровительном учреждении.</contractSubjectName>
+                        <contractMaxPrice>2549736.00</contractMaxPrice>
+                        <payments>2549736.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-10-02T13:46:24.846+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по оздоровлению детей в сопровождении взрослого в санаторно-оздоровительном учреждении.</name>
+                            <minRequirement>Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления): 21  день.
+Сроки (периоды) оказания услуг: с момента заключения контракта по 31 декабря 2016  года (по заявке Заказчика).
+Место оказания услуг: по местонахождению санаторно – оздоровительного  учреждения Исполнителя: Краснодарский край, г. Горячий ключ.
+Исполнитель должен обеспечить:
+- оздоровление детей с заболеваниями опорно-двигательного аппарата, сердечно-сосудистой системы, желудочно-кишечного тракта, проведение лечебно - оздоровительных мероприятий;
+- качественное 5-разовое питание детям, 3-х разовое питание взрослому в соответствии с действующими нормами питания;
+- размещение в номерах не более 3-х человек.
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>2398200.00</sumMax>
+                            <price>59955.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>40.00</quantity>
+                            <quantityCurrentYear>40.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по оздоровлению детей, находящихся в трудной жизненной ситуации, в санаторно-оздоровительном учреждении.</name>
+                            <minRequirement>Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления): 21  день.
+Сроки (периоды) оказания услуг: с момента заключения контракта по 31 декабря 2016  года (по заявке Заказчика).
+Место оказания услуг: по местонахождению санаторно – оздоровительного  учреждения Исполнителя: Краснодарский край, г. Горячий ключ.
+Исполнитель должен обеспечить:
+- оздоровление детей с заболеваниями опорно-двигательного аппарата, сердечно-сосудистой системы, желудочно-кишечного тракта, проведение лечебно - оздоровительных мероприятий;
+- качественное 5-разовое питание детям, 3-х разовое питание взрослому в соответствии с действующими нормами питания;
+- размещение в номерах не более 3-х человек
+ </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>151536.00</sumMax>
+                            <price>37884.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>25497.36</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>127486.80</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>декабрь 2016г.</contractExecutionStages>
+                            <periodicity>С момента заключения контракта по 31 декабря 2016  года (по заявке Заказчика). Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 день.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361032</code>
+                                    <name>Организациям инвалидов (в соответствии со статьей 29 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000017</positionNumber>
+                        <extNumber>35601</extNumber>
+                        <orderNumber>12</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81010035341351350322</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>454698.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.10.21</code>
+                                <name>Покупка и продажа собственного жилого недвижимого имущества</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение жилого помещения.</contractSubjectName>
+                        <contractMaxPrice>454698.00</contractMaxPrice>
+                        <payments>454698.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-09-30T16:01:23.031+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.10.11.000</code>
+                                <name>Услуги по покупке и продаже жилых зданий и занимаемых ими земельных участков</name>
+                            </OKPD2>
+                            <name>приобретение жилого помещения </name>
+                            <minRequirement>Продавец обязуется передать Покупателю принадлежащее ему на праве собственности жилое помещение, в соответствии с условиями Контракта. Качество товара должно соответствовать требованиям СанПиН 2.1.2.2645-10 «Санитарно – эпидемиологические требования к условиям проживания в жилых зданиях и помещениях» (утвержденным постановлением Главного государственного санитарного врача РФ от 10.06.2010 № 64 «Об утверждении СанПиН 2.1.2.2645-10»), разделам I-II «Положения о признании помещения жилым помещением, жилого помещения непригодным для проживания и многоквартирного дома аварийным и подлежащим сносу или реконструкции», утвержденным постановлением Правительства РФ от 28.01.2006 № 47 и техническим характеристикам, указанным в Техническом задании (приложение № 1 к Контракту).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>454698.00</sumMax>
+                            <price>454698.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4546.98</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>22734.90</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С момента заключения контракта по 30 ноября 2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000013</positionNumber>
+                        <extNumber>33121</extNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320554570323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>7938000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации, в загородном туристическом лагере.</contractSubjectName>
+                        <contractMaxPrice>7938000.00</contractMaxPrice>
+                        <payments>7938000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-12T19:49:51.829+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации, в загородном туристическом лагере.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг: с момента заключения государственного контракта по 31 августа  2016 г. (по заявке Заказчика).
+Количество направляемых детей, находящихся в трудной жизненной ситуации: 420 человек. 
+Количество заездов - 2. Продолжительность 1 заезда – 21 день.
+Место оказания услуг – Республика Адыгея.График заездов - по согласованию Сторон.
+Исполнитель должен обеспечить отдых и оздоровление детей, качественное 5-разовое питание, организацию оздоровительных мероприятий, а также благоприятные для проживания номера с размещением не более 6 человек в одном номере. Исполнитель должен обеспечить: соответствие оказываемых услуг требованиям, предъявляемым законодательством Российской Федерации и санитарных правил и норм (СанПиН).
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>7938000.00</sumMax>
+                            <price>18900.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>420.00</quantity>
+                            <quantityCurrentYear>420.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>79380.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>396900.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>июль 2016; август 2016</contractExecutionStages>
+                            <periodicity>С момента заключения государственного контракта по 31 августа  2016 г. (по заявке Заказчика).Количество заездов - 2.
+Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 день.
+График заездов - по согласованию Сторон.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000001</positionNumber>
+                        <extNumber>25661</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81010035340200004323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1170747.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>32.50</code>
+                                <name>Производство медицинских инструментов и оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Выполнение работ по изготовлению ортопедической обуви для отдельных категории жителей Республики Адыгея.</contractSubjectName>
+                        <contractMaxPrice>1170747.00</contractMaxPrice>
+                        <payments>1170747.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-30T14:47:39.071+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>32.50.99.000</code>
+                                <name>Услуги по производству медицинского, хирургического и ортопедического оборудования отдельные, выполняемые субподрядчиком</name>
+                            </OKPD2>
+                            <name>Выполнение работ по изготовлению ортопедической обуви для отдельных категории жителей Республики Адыгея.</name>
+                            <minRequirement>Объектом закупки по контракту является выполнение работ по изготовлению ортопедической обуви для отдельных категорий жителей Республики Адыгея (малоимущие граждане, а также дети до восемнадцати лет, не являющиеся инвалидами, но по медицинским показаниям нуждающиеся в протезно-ортопедических изделиях) в соответствии с перечнем. Общий срок выполнения работ по контракту – со дня заключения контракта по 31 декабря 2015 года. 
+Перечень ортопедической обуви включает:
+1) обувь ортопедическая детская- ботинки детские с высоким узким жестким задником или жесткими берцами при отвисающих стопах, выраженной косолапости, выраженной плоско-вальгусной деформации стоп;
+2) обувь ортопедическая подростковая- ботинки подростковые с высоким узким жестким задником или жесткими берцами при отвисающих стопах, выраженной косолапости, выраженной плоско-вальгусной деформации стоп. Количество изделий - 234 шт. Работы должны осуществляться в г. Майкопе, или при необходимости по месту жительства получателя работы в Республике Адыгея, по индивидуальным заказам получателя.</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>1170747.00</sumMax>
+                            <price>1170747.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>11707.47</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>58537.35</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>со дня заключения контракта по 31 декабря 2016 года (по мере поступления заказов получателей).</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000007</positionNumber>
+                        <extNumber>25848</extNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81010065360100440244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>81900.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>53.10.4</code>
+                                <name>Деятельность почтовой связи дополнительная</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка маркированных конвертов и почтовых марок.</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-01-26T12:01:16.179+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>53.10.14</code>
+                                <name>Услуги почтовых отделений (объектов) дополнительные</name>
+                            </OKPD2>
+                            <name>маркированные конверты</name>
+                            <minRequirement>Поставщик обязуется осуществить поставку маркированных конвертов и почтовых марок (далее – Товар) в соответствии с условиями Контракта и Спецификации (приложение № 1 к контракту), а Заказчик обязуется принять и оплатить поставленный Товар в порядке и на условиях, предусмотренных Контрактом.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>0.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>53.10.14</code>
+                                <name>Услуги почтовых отделений (объектов) дополнительные</name>
+                            </OKPD2>
+                            <name>марки</name>
+                            <minRequirement>Поставщик обязуется осуществить поставку маркированных конвертов и почтовых марок (далее – Товар) в соответствии с условиями Контракта и Спецификации (приложение № 1 к контракту), а Заказчик обязуется принять и оплатить поставленный Товар в порядке и на условиях, предусмотренных Контрактом.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>0.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>53.10.14</code>
+                                <name>Услуги почтовых отделений (объектов) дополнительные</name>
+                            </OKPD2>
+                            <name>марки</name>
+                            <minRequirement>Поставщик обязуется осуществить поставку маркированных конвертов и почтовых марок (далее – Товар) в соответствии с условиями Контракта и Спецификации (приложение № 1 к контракту), а Заказчик обязуется принять и оплатить поставленный Товар в порядке и на условиях, предусмотренных Контрактом.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>0.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>53.10.14</code>
+                                <name>Услуги почтовых отделений (объектов) дополнительные</name>
+                            </OKPD2>
+                            <name>марки</name>
+                            <minRequirement>Поставщик обязуется осуществить поставку маркированных конвертов и почтовых марок (далее – Товар) в соответствии с условиями Контракта и Спецификации (приложение № 1 к контракту), а Заказчик обязуется принять и оплатить поставленный Товар в порядке и на условиях, предусмотренных Контрактом.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>0.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>53.10.14</code>
+                                <name>Услуги почтовых отделений (объектов) дополнительные</name>
+                            </OKPD2>
+                            <name>марки</name>
+                            <minRequirement>Поставщик обязуется осуществить поставку маркированных конвертов и почтовых марок (далее – Товар) в соответствии с условиями Контракта и Спецификации (приложение № 1 к контракту), а Заказчик обязуется принять и оплатить поставленный Товар в порядке и на условиях, предусмотренных Контрактом.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>0.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Единовременная поставка</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000016</positionNumber>
+                        <extNumber>34084</extNumber>
+                        <orderNumber>11</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81010035341351350322</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>454698.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.10.21</code>
+                                <name>Покупка и продажа собственного жилого недвижимого имущества</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение жилого помещения.</contractSubjectName>
+                        <contractMaxPrice>454698.00</contractMaxPrice>
+                        <payments>454698.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-17T09:58:05.173+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.10.11.000</code>
+                                <name>Услуги по покупке и продаже жилых зданий и занимаемых ими земельных участков</name>
+                            </OKPD2>
+                            <name>приобретение жилого помещения </name>
+                            <minRequirement>Продавец обязуется передать Покупателю принадлежащее ему на праве собственности жилое помещение, в соответствии с условиями Контракта. Качество товара должно соответствовать требованиям СанПиН 2.1.2.2645-10 «Санитарно – эпидемиологические требования к условиям проживания в жилых зданиях и помещениях» (утвержденным постановлением Главного государственного санитарного врача РФ от 10.06.2010 № 64 «Об утверждении СанПиН 2.1.2.2645-10»), разделам I-II «Положения о признании помещения жилым помещением, жилого помещения непригодным для проживания и многоквартирного дома аварийным и подлежащим сносу или реконструкции», утвержденным постановлением Правительства РФ от 28.01.2006 № 47 и техническим характеристикам, указанным в Техническом задании (приложение № 1 к Контракту).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>454698.00</sumMax>
+                            <price>454698.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4546.98</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>22734.90</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С момента заключения контракта по 30 ноября 2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000009</positionNumber>
+                        <extNumber>33126</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320554570323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>5292000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации, в туристско-краеведческом лагере.</contractSubjectName>
+                        <contractMaxPrice>5292000.00</contractMaxPrice>
+                        <payments>5292000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-12T19:49:51.829+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации, в туристско-краеведческом лагере.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг: с момента заключения контракта по 31 августа  2016 г. (по заявке Заказчика).
+Количество направляемых детей, находящихся в трудной жизненной ситуации (далее - детей)  – 280 человек. 
+Продолжительность 1 заезда – 21 день.
+График заездов - по согласованию Сторон.
+Количество заездов – 1.
+Место оказания услуг – Республика Адыгея.
+        Исполнитель должен обеспечить отдых и оздоровление детей, качественное 5-разовое питание, организацию оздоровительных мероприятий, а также благоприятные для проживания номера с размещением не более 6 человек в одном номере.
+Исполнитель должен обеспечить:
+соответствие оказываемых услуг требованиям, предъявляемым законодательством Российской Федерации и санитарных правил и норм (СанПиН).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>5292000.00</sumMax>
+                            <price>18900.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>280.00</quantity>
+                            <quantityCurrentYear>280.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>52920.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>264600.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>август 2016</contractExecutionStages>
+                            <periodicity>С момента заключения контракта по 31 августа  2016 г. (по заявке Заказчика). Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 день.
+График заездов - по согласованию Сторон. Количество заездов - 1.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000015</positionNumber>
+                        <extNumber>34083</extNumber>
+                        <orderNumber>10</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81010035341351350322</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>454698.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.10.21</code>
+                                <name>Покупка и продажа собственного жилого недвижимого имущества</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение жилого помещения.</contractSubjectName>
+                        <contractMaxPrice>454698.00</contractMaxPrice>
+                        <payments>454698.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-17T09:58:05.173+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.10.11.000</code>
+                                <name>Услуги по покупке и продаже жилых зданий и занимаемых ими земельных участков</name>
+                            </OKPD2>
+                            <name>приобретение жилого помещения </name>
+                            <minRequirement>Продавец обязуется передать Покупателю принадлежащее ему на праве собственности жилое помещение, в соответствии с условиями Контракта. Качество товара должно соответствовать требованиям СанПиН 2.1.2.2645-10 «Санитарно – эпидемиологические требования к условиям проживания в жилых зданиях и помещениях» (утвержденным постановлением Главного государственного санитарного врача РФ от 10.06.2010 № 64 «Об утверждении СанПиН 2.1.2.2645-10»), разделам I-II «Положения о признании помещения жилым помещением, жилого помещения непригодным для проживания и многоквартирного дома аварийным и подлежащим сносу или реконструкции», утвержденным постановлением Правительства РФ от 28.01.2006 № 47 и техническим характеристикам, указанным в Техническом задании (приложение № 1 к Контракту).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>454698.00</sumMax>
+                            <price>454698.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4546.98</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>22734.90</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С момента заключения контракта по 30 ноября 2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000011</positionNumber>
+                        <extNumber>33131</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320554570323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>3409560.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по оздоровлению детей, находящихся в трудной жизненной ситуации, в санаторном учреждении.</contractSubjectName>
+                        <contractMaxPrice>3409560.00</contractMaxPrice>
+                        <payments>3409560.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-12T19:49:51.829+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по оздоровлению  детей, находящихся в трудной жизненной ситуации, в санаторном учреждении.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг: с момента заключения государственного контракта по 31 августа  2016 г. (по заявке Заказчика).
+Количество направляемых детей, находящихся в трудной жизненной ситуации – 90 человек. 
+Продолжительность 1 заезда: 21  день.
+Количество заездов – 3.
+Место оказания услуг: по местонахождению оздоровительного учреждения Исполнителя - Краснодарский край, г. Горячий ключ.
+Исполнитель должен обеспечить:
+- оздоровление детей с заболеваниями опорно-двигательного аппарата и  желудочно-кишечного тракта;
+- качественное 5-разовое питание;
+- проживание в номерах не более 5 детей;
+Лечебный процесс для детей должен включать: консультации  врача, ванны на минеральной воде / грязелечение, ЛФК, прием минеральной воды из источника, фитованны, физиопроцедуры, массаж ручной, кислородный/пектиновый коктейли, спелеолечение, медикаменты. 
+Исполнитель должен иметь:
+- действующую лицензию на осуществление медицинской деятельности:
+на оказание медицинской помощи при санаторно-курортном лечении по: гастроэнтерологии, диетологии, неврологии, оториноларингологии (за исключением кохлеарной имплантации), педиатрии, сестринскому делу, физиотерапии, лечебной физкультуре, медицинскому массажу.
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3409560.00</sumMax>
+                            <price>37884.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>90.00</quantity>
+                            <quantityCurrentYear>90.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>34095.60</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>170478.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>июнь 2016, июль 2016, август 2016.</contractExecutionStages>
+                            <periodicity>С момента заключения государственного контракта по 31 августа  2016 г.(по заявке Заказчика). Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 день.
+График заездов - по согласованию Сторон. Количество заездов - 3.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000018</positionNumber>
+                        <extNumber>35603</extNumber>
+                        <orderNumber>13</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81010035341351350322</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>454698.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.10.21</code>
+                                <name>Покупка и продажа собственного жилого недвижимого имущества</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение жилого помещения.</contractSubjectName>
+                        <contractMaxPrice>454698.00</contractMaxPrice>
+                        <payments>454698.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-09-30T16:01:23.031+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.10.11.000</code>
+                                <name>Услуги по покупке и продаже жилых зданий и занимаемых ими земельных участков</name>
+                            </OKPD2>
+                            <name>приобретение жилого помещения </name>
+                            <minRequirement>Продавец обязуется передать Покупателю принадлежащее ему на праве собственности жилое помещение, в соответствии с условиями Контракта. Качество товара должно соответствовать требованиям СанПиН 2.1.2.2645-10 «Санитарно – эпидемиологические требования к условиям проживания в жилых зданиях и помещениях» (утвержденным постановлением Главного государственного санитарного врача РФ от 10.06.2010 № 64 «Об утверждении СанПиН 2.1.2.2645-10»), разделам I-II «Положения о признании помещения жилым помещением, жилого помещения непригодным для проживания и многоквартирного дома аварийным и подлежащим сносу или реконструкции», утвержденным постановлением Правительства РФ от 28.01.2006 № 47 и техническим характеристикам, указанным в Техническом задании (приложение № 1 к Контракту).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>454698.00</sumMax>
+                            <price>454698.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4546.98</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>22734.90</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С момента заключения контракта по 30 ноября 2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000003</positionNumber>
+                        <extNumber>25668</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320500000323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>17010000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации отдыха и оздоровления детей в туристско-краеведческом лагере.</contractSubjectName>
+                        <contractMaxPrice>17010000.00</contractMaxPrice>
+                        <payments>17010000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-30T14:47:39.071+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей в туристско-краеведческом лагере.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг – май - август  2016 г. (по заявке Заказчика).
+Количество детей, всего – 900 чел. 
+Продолжительность 1 заезда (периода оздоровления) – 21 день.
+Место оказания услуг – Республика Адыгея.
+         График заездов - по согласованию Сторон ( в график заезда могут быть внесены согласованные изменения). 
+Количество заездов - 3. Исполнитель должен обеспечить отдых и оздоровление детей, качественное 5-разовое питание, организацию оздоровительных мероприятий, а также благоприятные для проживания номера с размещением не более 6 человек в одном номере.
+Исполнитель должен обеспечить:
+1. Соответствие оказываемых услуг  требованиям Постановления Главного государственного санитарного врача РФ от 27.12.2013 № 73 «Об утверждении СанПиН 2.4.4.3155-13 «Санитарно-эпидемиологические требования к устройству, содержанию и организации работы стационарных организаций отдыха и оздоровления детей» (далее СанПиН 2.4.4.3155-13),  СанПиН 2.3.2.1078-01 «Гигиенические требования безопасности и пищевой ценности пищевых продуктов», СанПиН 2.3.2.1940-05 «Организация детского питания», а также действующим правилам пожарной безопасности.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>17010000.00</sumMax>
+                            <price>18900.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>900.00</quantity>
+                            <quantityCurrentYear>900.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>170100.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>850500.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>июнь 2016; июль 2016; август 2016</contractExecutionStages>
+                            <periodicity>Май - август  2016 г. (по заявке Заказчика).Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 дней.
+График заездов - по согласованию Сторон. Количество заездов - 3.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000014</positionNumber>
+                        <extNumber>34081</extNumber>
+                        <orderNumber>9</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81010035341351350322</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>454698.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.10.21</code>
+                                <name>Покупка и продажа собственного жилого недвижимого имущества</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение жилого помещения.</contractSubjectName>
+                        <contractMaxPrice>454698.00</contractMaxPrice>
+                        <payments>454698.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-17T09:58:05.173+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.10.11.000</code>
+                                <name>Услуги по покупке и продаже жилых зданий и занимаемых ими земельных участков</name>
+                            </OKPD2>
+                            <name>приобретение жилого помещения </name>
+                            <minRequirement>Продавец обязуется передать Покупателю принадлежащее ему на праве собственности жилое помещение, в соответствии с условиями Контракта. Качество товара должно соответствовать требованиям СанПиН 2.1.2.2645-10 «Санитарно – эпидемиологические требования к условиям проживания в жилых зданиях и помещениях» (утвержденным постановлением Главного государственного санитарного врача РФ от 10.06.2010 № 64 «Об утверждении СанПиН 2.1.2.2645-10»), разделам I-II «Положения о признании помещения жилым помещением, жилого помещения непригодным для проживания и многоквартирного дома аварийным и подлежащим сносу или реконструкции», утвержденным постановлением Правительства РФ от 28.01.2006 № 47 и техническим характеристикам, указанным в Техническом задании (приложение № 1 к Контракту).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>454698.00</sumMax>
+                            <price>454698.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4546.98</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>22734.90</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С момента заключения контракта по 30 ноября 2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000019</positionNumber>
+                        <extNumber>35604</extNumber>
+                        <orderNumber>14</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81010035341351350322</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>454698.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.10.21</code>
+                                <name>Покупка и продажа собственного жилого недвижимого имущества</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение жилого помещения.</contractSubjectName>
+                        <contractMaxPrice>454698.00</contractMaxPrice>
+                        <payments>454698.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-09-30T16:01:23.031+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.10.11.000</code>
+                                <name>Услуги по покупке и продаже жилых зданий и занимаемых ими земельных участков</name>
+                            </OKPD2>
+                            <name>приобретение жилого помещения </name>
+                            <minRequirement>Продавец обязуется передать Покупателю принадлежащее ему на праве собственности жилое помещение, в соответствии с условиями Контракта. Качество товара должно соответствовать требованиям СанПиН 2.1.2.2645-10 «Санитарно – эпидемиологические требования к условиям проживания в жилых зданиях и помещениях» (утвержденным постановлением Главного государственного санитарного врача РФ от 10.06.2010 № 64 «Об утверждении СанПиН 2.1.2.2645-10»), разделам I-II «Положения о признании помещения жилым помещением, жилого помещения непригодным для проживания и многоквартирного дома аварийным и подлежащим сносу или реконструкции», утвержденным постановлением Правительства РФ от 28.01.2006 № 47 и техническим характеристикам, указанным в Техническом задании (приложение № 1 к Контракту).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>454698.00</sumMax>
+                            <price>454698.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4546.98</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>22734.90</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>С момента заключения контракта по 30 ноября 2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000010</positionNumber>
+                        <extNumber>33127</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320554570323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>3780000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации, в спортивно-оздоровительном лагере.</contractSubjectName>
+                        <contractMaxPrice>3780000.00</contractMaxPrice>
+                        <payments>3780000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-12T19:49:51.829+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации, в спортивно-оздоровительном лагере</name>
+                            <minRequirement>Сроки (периоды) оказания услуг: с момента заключения государственного контракта по 31 августа  2016 г. (по заявке Заказчика).
+Количество направляемых детей, находящихся в трудной жизненной ситуации (далее - детей) – 200 человек. 
+Продолжительность 1 заезда – 21 день. 
+График заездов - по согласованию Сторон. Количество заездов – 1.
+Место оказания услуг – Республика Адыгея.
+      Исполнитель должен обеспечить отдых и оздоровление детей, качественное 5-разовое питание, организацию оздоровительных мероприятий, а также благоприятные для проживания номера с размещением не более 6 человек в одном номере.
+Исполнитель должен обеспечить соответствие оказываемых услуг требованиям, предъявляемым законодательством Российской Федерации и санитарных правил и норм (СанПиН).</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3780000.00</sumMax>
+                            <price>18900.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>200.00</quantity>
+                            <quantityCurrentYear>200.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>37800.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>189000.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>август 2016</contractExecutionStages>
+                            <periodicity>С момента заключения государственного контракта по 31 августа  2016 г.(по заявке Заказчика). Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 день.
+График заездов - по согласованию Сторон. Количество заездов - 1.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000002</positionNumber>
+                        <extNumber>25666</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320500000323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>17010000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации отдыха и оздоровления детей в загородном туристическом лагере.</contractSubjectName>
+                        <contractMaxPrice>17010000.00</contractMaxPrice>
+                        <payments>17010000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-30T14:47:39.071+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей в загородном туристическом лагере.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг – май - август  2016 г. (по заявке Заказчика).
+Количество детей, всего – 900 чел. 
+Продолжительность 1 заезда (периода оздоровления) – 21 день.
+Место оказания услуг – Республика Адыгея.
+         График заездов - по согласованию Сторон ( в график заезда могут быть внесены согласованные изменения). 
+Количество заездов - 3. Исполнитель должен обеспечить отдых и оздоровление детей, качественное 5-разовое питание, организацию оздоровительных мероприятий, а также благоприятные для проживания номера с размещением не более 6 человек в одном номере. Исполнитель должен обеспечить:
+1. Соответствие оказываемых услуг  требованиям Постановления Главного государственного санитарного врача РФ от 27.12.2013 № 73 «Об утверждении СанПиН 2.4.4.3155-13 «Санитарно-эпидемиологические требования к устройству, содержанию и организации работы стационарных организаций отдыха и оздоровления детей» (далее СанПиН 2.4.4.3155-13),  СанПиН 2.3.2.1078-01 «Гигиенические требования безопасности и пищевой ценности пищевых продуктов», СанПиН 2.3.2.1940-05 «Организация детского питания», а также действующим правилам пожарной безопасности.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>17010000.00</sumMax>
+                            <price>18900.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>900.00</quantity>
+                            <quantityCurrentYear>900.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>170100.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>850500.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>июнь 2016; июль 2016; август 2016</contractExecutionStages>
+                            <periodicity>Май - август  2016 г. (по заявке Заказчика).Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 дней. График заездов - по согласованию Сторон. Количество заездов - 3.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000006</positionNumber>
+                        <extNumber>25677</extNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320500000323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1663200.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>81007075320554570323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>3465000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации, и детей в сопровождении взрослых в оздоровительном учреждении на Черноморском побережье.</contractSubjectName>
+                        <contractMaxPrice>5128200.00</contractMaxPrice>
+                        <payments>5128200.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-12T19:49:51.829+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей, находящихся в трудной жизненной ситуации в оздоровительном учреждении на Черноморском побережье.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг: с момента заключения государственного контракта по 31 августа  2016 г. (по заявке Заказчика).
+Количество направляемых лиц:
+дети в возрасте от 7  до 16 лет (включительно), находящиеся в трудной жизненной ситуации  (далее – дети) – 150 человек;
+Продолжительность 1 заезда – 21 день.
+Количество заездов – 1.
+График заезда - по согласованию Сторон. 
+Место оказания услуг: по месту нахождения оздоровительного учреждения Исполнителя на территории Краснодарского края (Анапа, Анапский район).
+Исполнитель должен обеспечить:
+- соответствие оказываемых услуг требованиям, предъявляемым законодательством Российской Федерации и санитарных правил и норм (СанПиН);
+- организацию доставки детей из г. Майкопа к месту оздоровления и обратно в г. Майкоп;
+- организацию проживания детей в комфортабельных номерах с количеством мест в номере не более 5; 
+- организацию для детей 5-разового питания в день. Медицинское обеспечение детей:
+- наличие оснащенного медицинского блока и квалифицированного медицинского персонала;
+ - предоставление лечебных процедур (физиотерапии, кислородные коктейли, аэрофитотерапия, ЛФК, массаж);
+- наличие действующей лицензии на осуществление медицинской деятельности:
+при осуществлении санаторно-курортной помощи по: педиатрии, физиотерапии;
+при осуществлении доврачебной медицинской помощи по: медицинскому массажу, сестринскому делу в педиатрии, физиотерапии.
+
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3465000.00</sumMax>
+                            <price>23100.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>150.00</quantity>
+                            <quantityCurrentYear>150.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей в сопровождении взрослых в оздоровительном учреждении на Черноморском побережье.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг: с момента заключения государственного контракта по 31 августа  2016 г. (по заявке Заказчика).
+Количество направляемых лиц:
+дети, нуждающиеся в сопровождении одного из родителей (законных представителей) – 36 человек (18 детей и 18 сопровождающих взрослых). 
+Продолжительность 1 заезда – 21 день.
+Количество заездов – 1.
+График заезда - по согласованию Сторон. 
+Место оказания услуг: по месту нахождения оздоровительного учреждения Исполнителя на территории Краснодарского края (Анапа, Анапский район).
+Исполнитель должен обеспечить:
+- соответствие оказываемых услуг требованиям, предъявляемым законодательством Российской Федерации и санитарных правил и норм (СанПиН);
+- организацию доставки детей и сопровождающих взрослых из г. Майкопа к месту оздоровления и обратно в г. Майкоп;
+- организацию проживания:
+детей в сопровождении взрослых в комфортабельных номерах с количеством мест в номере – не более 4;
+- организацию питания:
+- для детей 5-разовое питание в день;
+- для взрослых 3-х разовое питание.
+Медицинское обеспечение детей, направленных в сопровождении взрослых:
+- наличие оснащенного медицинского блока и квалифицированного медицинского персонала;
+ - предоставление лечебных процедур (физиотерапии, кислородные коктейли, аэрофитотерапия, ЛФК, массаж);
+- наличие действующей лицензии на осуществление медицинской деятельности:
+при осуществлении санаторно-курортной помощи по: педиатрии, физиотерапии;
+при осуществлении доврачебной медицинской помощи по: медицинскому массажу, сестринскому делу в педиатрии, физиотерапии.
+
+ </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1663200.00</sumMax>
+                            <price>46200.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>36.00</quantity>
+                            <quantityCurrentYear>36.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>51282.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>256410.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Август  2016 г.</contractExecutionStages>
+                            <periodicity>с момента заключения государственного контракта по 31 августа  2016 г. (по заявке Заказчика). Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 день.
+График заездов - по согласованию Сторон. Количество заездов - 1.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000023001000005</positionNumber>
+                        <extNumber>25674</extNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81007075320500000323</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>13860000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.4</code>
+                                <name>Деятельность санаторно-курортных организаций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по организации отдыха и оздоровления детей в оздоровительном учреждении на Черноморском побережье.</contractSubjectName>
+                        <contractMaxPrice>13860000.00</contractMaxPrice>
+                        <payments>13860000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2015-12-30T14:47:39.071+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.140</code>
+                                <name>Услуги санаторно-курортных организаций</name>
+                            </OKPD2>
+                            <name>Оказание услуг по организации отдыха и оздоровления детей в оздоровительном учреждении на Черноморском побережье.</name>
+                            <minRequirement>Сроки (периоды) оказания услуг – май - август  2016 г. (по заявке Заказчика). Количество детей, всего – 600 чел. Продолжительность 1 заезда (периода оздоровления) – 21 день. Место оказания услуг – Краснодарский край,  Анапский район. График заездов - по согласованию Сторон ( в график заезда могут быть внесены согласованные изменения). Количество заездов - 3. Исполнитель должен обеспечить: отдых и оздоровление детей; доставку детей к месту отдыха на Черноморском побережье  и обратно комфортабельными автобусами в соответствии с Правилами организованной перевозки группы  детей  автобусами (утв. постановлением Правительства РФ от 17 декабря 2013 г. N 1177). Наличие договора фрахтования, заключенного фрахтовщиком и фрахтователем в письменной форме; качественное 5-разовое питание; организацию оздоровительных мероприятий; а также благоприятные для проживания номера с размещением не более 5 человек в одном номере. Исполнитель должен обеспечить:
+1. Соответствие оказываемых услуг  требованиям Постановления Главного государственного санитарного врача РФ от 27.12.2013 № 73 «Об утверждении СанПиН 2.4.4.3155-13 «Санитарно-эпидемиологические требования к устройству, содержанию и организации работы стационарных организаций отдыха и оздоровления детей» (далее СанПиН 2.4.4.3155-13),  СанПиН 2.3.2.1078-01 «Гигиенические требования безопасности и пищевой ценности пищевых продуктов», СанПиН 2.3.2.1940-05 «Организация детского питания», а также действующим правилам пожарной безопасности.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>13860000.00</sumMax>
+                            <price>23100.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>600.00</quantity>
+                            <quantityCurrentYear>600.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>138600.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>693000.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>июнь 2016; июль 2016; август 2016</contractExecutionStages>
+                            <periodicity>Май - август  2016 г. (по заявке Заказчика).Продолжительность 1 заезда (периода оздоровления, длительность 1 курса оздоровления) – 21 дней.
+График заездов - по согласованию Сторон. Количество заездов - 3.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>81010045320400000244</code>
+                                    <amount>280000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>81007075320500000323</code>
+                                    <amount>36356.41</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>81010045320300000244</code>
+                                    <amount>456200.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>81010035400100000244</code>
+                                    <amount>348900.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>81010035340200004323</code>
+                                    <amount>99253.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>81010035330600000244</code>
+                                    <amount>135400.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>81010035310800000244</code>
+                                    <amount>380000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>81010025311100000244</code>
+                                    <amount>50000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>81010065360100440244</code>
+                                    <amount>1023400.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>81007075320554570323</code>
+                                    <amount>18504.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>2828013.41</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>31291260.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>112780756.41</sumContractMaxPrice>
+                    <sumPaymentsTotal>114468650.41</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=12116920</url>
+            <signature>TUlJTlp3WUpLb1pJaHZjTkFRY0NvSUlOV0RDQ0RWUUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drM01JSUpNekNDQ09LZ0F3SUJBZ0lER2ErRk1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EZ3hOakEzTURFME5sb1hEVEUzTVRFeE5qQTNNREUwTmxvd2dnSkZNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV4TVRneE5qRTBPREVXTUJRR0JTcUZBMlFERWdzd05qUXlOREF6T1RBek5ERWhNQjhHQ1NxR1NJYjNEUUVKQVJZU2JXbHVkSEoxWkY5eVlVQnRZV2xzTG5KMU1Rc3dDUVlEVlFRR0V3SlNWVEU4TURvR0ExVUVDQXd6TURFZzBLRFF0ZEdCMEwvUmc5Q3gwTHZRdU5DNjBMQWcwSkRRdE5HTDBMUFF0ZEdQSUNqUWtOQzAwWXZRczlDMTBZOHBNUmt3RndZRFZRUUhEQkRRc3k0ZzBKelFzTkM1MExyUXZ0Qy9NWGt3ZHdZRFZRUUtESERRbk5DNDBMM1F1TkdCMFlMUXRkR0EwWUhSZ3RDeTBMNGcwWUxSZ05HRDBMVFFzQ0RRdUNEUmdkQyswWWJRdU5DdzBMdlJqTkM5MEw3UXM5QytJTkdBMExEUXQ5Q3kwTGpSZ3RDNDBZOGcwS0RRdGRHQjBML1JnOUN4MEx2UXVOQzYwTGdnMEpEUXROR0wwTFBRdGRHUE1WMHdXd1lEVlFRTERGVFF2dEdDMExUUXRkQzdJTkMvMEw0ZzBMN1JnTkN6MExEUXZkQzQwTGZRc05HRzBMalF1Q0RRczlDKzBZSFJnOUMwMExEUmdOR0IwWUxRc3RDMTBMM1F2ZEdMMFlVZzBMZlFzTkM2MFlQUXY5QyswTG94TGpBc0JnTlZCQ29NSmRDZTBMclJnZEN3MEwzUXNDRFFrTkM3MFl6UXROQzIwTFhSZ05DNDBMWFFzdEM5MExBeEZUQVRCZ05WQkFRTUROQ1gwTFhSaGRDKzBMTFFzREVvTUNZR0ExVUVEQXdmMEwzUXNOR0gwTERRdTlHTTBMM1F1TkM2SU5DKzBZTFF0TkMxMEx2UXNERTdNRGtHQTFVRUF3d3kwSmZRdGRHRjBMN1FzdEN3SU5DZTBMclJnZEN3MEwzUXNDRFFrTkM3MFl6UXROQzIwTFhSZ05DNDBMWFFzdEM5MExBd1l6QWNCZ1lxaFFNQ0FoTXdFZ1lIS29VREFnSWtBQVlIS29VREFnSWVBUU5EQUFSQUVmbkcvZHBidnMwRC8xTHFCVWRVODZuMmROUzh5dWd5bitDUkUxUi9CWTZWOVJVelBqdm1NeVdkN3FrSVA1TEZtNkZCdmNIcGlORmRpRWxmMDQwMHlxT0NCSnN3Z2dTWE1Bd0dBMVVkRXdFQi93UUNNQUF3SFFZRFZSMGdCQll3RkRBSUJnWXFoUU5rY1FFd0NBWUdLb1VEWkhFQ01EMEdBMVVkRVFRMk1EU2dFZ1lEVlFRTW9Bc1RDVGd4TlRFMk5EZ3lPYUFiQmdvcWhRTURQWjdYTmdFRm9BMFRDekF4TnpZeU1EQXdNREl6aGdFd01EWUdCU3FGQTJSdkJDME1LeUxRbXRHQTBMalF2OUdDMEw3UW45R0EwTDRnUTFOUUlpQW8wTExRdGRHQTBZSFF1TkdQSURNdU5pa3dnZ0ZoQmdVcWhRTmtjQVNDQVZZd2dnRlNERVFpMEpyUmdOQzQwTC9SZ3RDKzBKL1JnTkMrSUVOVFVDSWdLTkN5MExYUmdOR0IwTGpSanlBekxqWXBJQ2pRdU5HQjBML1F2dEM3MEwzUXRkQzkwTGpRdFNBeUtReG9JdENmMFlEUXZ0Q3owWURRc05DODBMelF2ZEMrTGRDdzBML1F2OUN3MFlEUXNOR0MwTDNSaTlDNUlOQzYwTDdRdk5DLzBMdlF0ZEM2MFlFZ0l0Q3UwTDNRdU5HQjBMWFJnTkdDTGRDVDBKN1FvZENpSWk0ZzBKTFF0ZEdBMFlIUXVOR1BJREl1TVNJTVQ5Q2gwTFhSZ05HQzBMalJoTkM0MExyUXNOR0NJTkdCMEw3UXZ0R0MwTExRdGRHQzBZSFJndEN5MExqUmp5RGloSllnMEtIUXBDOHhNalF0TWpjek9DRFF2dEdDSURBeExqQTNMakl3TVRVTVQ5Q2gwTFhSZ05HQzBMalJoTkM0MExyUXNOR0NJTkdCMEw3UXZ0R0MwTExRdGRHQzBZSFJndEN5MExqUmp5RGloSllnMEtIUXBDOHhNamd0TWpnM09DRFF2dEdDSURJd0xqQTJMakl3TVRZd0RnWURWUjBQQVFIL0JBUURBZ1BvTUQwR0ExVWRKUVEyTURRR0NDc0dBUVVGQndNQ0JnZ3JCZ0VGQlFjREJBWU9Lb1VEQXoyZTF6WUJCZ01FQVFJR0RpcUZBd005bnRjMkFRWURCQUVFTUNzR0ExVWRFQVFrTUNLQUR6SXdNVFl3T0RFMk1EY3dNVEV4V29FUE1qQXhOekV4TVRZd056QXhNVEZhTUlJQmp3WURWUjBqQklJQmhqQ0NBWUtBRko1eERnL2F0QUVvWHovaXk0OWxGWmNDUjR5cm9ZSUJaYVNDQVdFd2dnRmRNUmd3RmdZSktvWklodmNOQVFrQ0V3bFRaWEoyWlhJZ1EwRXhJREFlQmdrcWhraUc5dzBCQ1FFV0VYVmpYMlpyUUhKdmMydGhlbTVoTG5KMU1Sd3dHZ1lEVlFRSURCTTNOeURRc3k0ZzBKelF2dEdCMExyUXN0Q3dNUm93R0FZSUtvVURBNEVEQVFFU0REQXdOemN4TURVMk9EYzJNREVZTUJZR0JTcUZBMlFCRWcweE1EUTNOemszTURFNU9ETXdNU3d3S2dZRFZRUUpEQ1BSZzlDNzBMalJodEN3SU5DWTBMdlJqTkM0MEwzUXV0Q3dMQ0RRdE5DKzBMd2dOekVWTUJNR0ExVUVCd3dNMEp6UXZ0R0IwTHJRc3RDd01Rc3dDUVlEVlFRR0V3SlNWVEU0TURZR0ExVUVDZ3d2MEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXRTRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MEw0eFB6QTlCZ05WQkFNTU50Q2owS1lnMEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXM5QytJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXNJSUJBVEJlQmdOVkhSOEVWekJWTUNtZ0o2QWxoaU5vZEhSd09pOHZZM0pzTG5KdmMydGhlbTVoTG5KMUwyTnliQzltYXpBeExtTnliREFvb0NhZ0pJWWlhSFIwY0RvdkwyTnliQzVtYzJackxteHZZMkZzTDJOeWJDOW1hekF4TG1OeWJEQWRCZ05WSFE0RUZnUVVKUkhBMVZyaDdmVURhRitsbEN1OTIzVG8zZHd3Q0FZR0tvVURBZ0lEQTBFQVdmVzY3SFAvMlRJdFhoMEpxTjBUR1g5M3dXOFRnTGFLTlZUZjhwRkpTSVN2NDVnZ3ExaTdaaEs2ZXpSMk8rNkRXeVBHMFNLMHhqRGV0T2I4bSswZ1lER0NBL2N3Z2dQekFnRUJNSUlCWmpDQ0FWMHhHREFXQmdrcWhraUc5dzBCQ1FJVENWTmxjblpsY2lCRFFURWdNQjRHQ1NxR1NJYjNEUUVKQVJZUmRXTmZabXRBY205emEyRjZibUV1Y25VeEhEQWFCZ05WQkFnTUV6YzNJTkN6TGlEUW5OQyswWUhRdXRDeTBMQXhHakFZQmdncWhRTURnUU1CQVJJTU1EQTNOekV3TlRZNE56WXdNUmd3RmdZRktvVURaQUVTRFRFd05EYzNPVGN3TVRrNE16QXhMREFxQmdOVkJBa01JOUdEMEx2UXVOR0cwTEFnMEpqUXU5R00wTGpRdmRDNjBMQXNJTkMwMEw3UXZDQTNNUlV3RXdZRFZRUUhEQXpRbk5DKzBZSFF1dEN5MExBeEN6QUpCZ05WQkFZVEFsSlZNVGd3TmdZRFZRUUtEQy9RcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDMUlOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRdmpFL01EMEdBMVVFQXd3MjBLUFFwaURRcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDejBMNGcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDd0FnTVpyNFV3Q2dZR0tvVURBZ0lKQlFDZ2dnSW9NQmdHQ1NxR1NJYjNEUUVKQXpFTEJna3Foa2lHOXcwQkJ3RXdIQVlKS29aSWh2Y05BUWtGTVE4WERURTJNVEF3TWpFd05Ea3dOMW93THdZSktvWklodmNOQVFrRU1TSUVJQ21WQnd4VlJJaGo5S0F2VUlrck84ejZuNytFVXZwOVlSQ3dJOU5EaHJhMU1JSUJ1d1lMS29aSWh2Y05BUWtRQWk4eGdnR3FNSUlCcGpDQ0FhSXdnZ0dlTUFnR0JpcUZBd0lDQ1FRZyt5VGhtLzM4bFF1UDBGUmZXL0xYYTczdnpXOHBZSVBIUi9nSVZncERuZHd3Z2dGdU1JSUJaYVNDQVdFd2dnRmRNUmd3RmdZSktvWklodmNOQVFrQ0V3bFRaWEoyWlhJZ1EwRXhJREFlQmdrcWhraUc5dzBCQ1FFV0VYVmpYMlpyUUhKdmMydGhlbTVoTG5KMU1Sd3dHZ1lEVlFRSURCTTNOeURRc3k0ZzBKelF2dEdCMExyUXN0Q3dNUm93R0FZSUtvVURBNEVEQVFFU0REQXdOemN4TURVMk9EYzJNREVZTUJZR0JTcUZBMlFCRWcweE1EUTNOemszTURFNU9ETXdNU3d3S2dZRFZRUUpEQ1BSZzlDNzBMalJodEN3SU5DWTBMdlJqTkM0MEwzUXV0Q3dMQ0RRdE5DKzBMd2dOekVWTUJNR0ExVUVCd3dNMEp6UXZ0R0IwTHJRc3RDd01Rc3dDUVlEVlFRR0V3SlNWVEU0TURZR0ExVUVDZ3d2MEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXRTRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MEw0eFB6QTlCZ05WQkFNTU50Q2owS1lnMEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXM5QytJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXNBSURHYStGTUFvR0JpcUZBd0lDRXdVQUJFQ1hsM2pZc3NuVjZySUlzd3lGVndPOWdrMVAwa3p2TFR1M2FTSU5JOWFSZHVpZDJiKzhocU5xV1VpaENzTHhDNyswalA0VHpSTm51QzdOUUxmUVdEbE4=</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

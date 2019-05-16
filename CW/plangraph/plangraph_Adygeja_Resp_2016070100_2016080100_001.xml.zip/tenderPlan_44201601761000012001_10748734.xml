@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>10748734</id>
+            <planNumber>44201601761000012001</planNumber>
+            <year>2016</year>
+            <versionNumber>8</versionNumber>
+            <owner>
+                <regNum>01761000012</regNum>
+                <fullName>УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ НАЛОГОВОЙ СЛУЖБЫ ПО РЕСПУБЛИКЕ АДЫГЕЯ</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-06-28T12:53:35.694+03:00</createDate>
+            <description>план-график  2016год</description>
+            <confirmDate>2016-07-01T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-07-01T14:56:37.834+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>01761000012</regNum>
+                <fullName>УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ НАЛОГОВОЙ СЛУЖБЫ ПО РЕСПУБЛИКЕ АДЫГЕЯ</fullName>
+                <shortName>УФНС России по Республике Адыгея</shortName>
+                <postAddress>Российская Федерация, 385009, Адыгея Респ, Майкоп г, ПРИВОКЗАЛЬНАЯ, 331, -</postAddress>
+                <factAddress>Российская Федерация, 385009, Адыгея Респ, Майкоп г, ПРИВОКЗАЛЬНАЯ, 331, -</factAddress>
+                <INN>0105043805</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Гедугошева</lastName>
+            <firstName>Мариет</firstName>
+            <middleName>Адамовна</middleName>
+            <phone>8 8772-536353</phone>
+            <email>u011202@r01.nalog.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000001</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18201063940019244340</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>466263.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>46.71.2</code>
+                                <name>Торговля оптовая моторным топливом, включая авиационный бензин</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поставка моторного топлива  (дизельное топливо, бензин неэтилированный АИ-95)</contractSubjectName>
+                        <contractMaxPrice>466263.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-04T10:41:50.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>46.71.12.000</code>
+                                <name>Услуги по оптовой торговле моторным топливом, включая авиационный бензин</name>
+                            </OKPD2>
+                            <name>поставка моторного топлива  (бензин неэтилированный АИ-95)</name>
+                            <minRequirement>поставка моторного топлива  (бензин неэтилированный АИ-95)</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>373923.00</sumMax>
+                            <price>37.77</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>9900.00</quantity>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>46.71.12.000</code>
+                                <name>Услуги по оптовой торговле моторным топливом, включая авиационный бензин</name>
+                            </OKPD2>
+                            <name>поставка моторного топлива  (дизельное топливо, бензин неэтилированный АИ-95)</name>
+                            <minRequirement>поставка моторного топлива  (дизельное топливо)</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>92340.00</sumMax>
+                            <price>34.20</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2700.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4662.60</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>46626.30</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>июнь 2016</contractExecutionStages>
+                            <periodicity>по требованию заказчика</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000006</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18201063940290019244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>274666.64</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.25.1</code>
+                                <name>Деятельность по обеспечению пожарной безопасности</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>выполнение работ по техническому обслуживанию охранно-пожарной сигнализации, систем видеонаблюдения, систем контроля и управления доступом на объекте: Управление Федеральной налоговой службы по Республике Адыгея</contractSubjectName>
+                        <contractMaxPrice>274666.64</contractMaxPrice>
+                        <payments>274666.64</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-03-28T18:05:21.648+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>84.25.11.120</code>
+                                <name>Услуги по обеспечению пожарной безопасности</name>
+                            </OKPD2>
+                            <name>выполнение работ по техническому обслуживанию охранно-пожарной сигнализации, систем видеонаблюдения, систем контроля и управления доступом на объекте: Управление Федеральной налоговой службы по Республике Адыгея</name>
+                            <internationalName>выполнение работ по техническому обслуживанию охранно-пожарной сигнализации, систем видеонаблюдения, систем контроля и управления доступом на объекте: Управление Федеральной налоговой службы по Республике Адыгея</internationalName>
+                            <minRequirement>выполнение работ по техническому обслуживанию охранно-пожарной сигнализации, систем видеонаблюдения, систем контроля и управления доступом на объекте: Управление Федеральной налоговой службы по Республике Адыгея</minRequirement>
+                            <OKEI>
+                                <code>362</code>
+                                <name>Месяц</name>
+                            </OKEI>
+                            <sumMax>274666.64</sumMax>
+                            <price>34333.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>8.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2746.67</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>82399.99</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>в течении 2016 года</contractExecutionStages>
+                            <periodicity>ежемесячно в течении 2016 года</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000009</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18201063940290019244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>171247.50</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.12.1</code>
+                                <name>Производство бумаги</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поставка бумаги для офисной техники формата А4 </contractSubjectName>
+                        <contractMaxPrice>171247.50</contractMaxPrice>
+                        <payments>171247.50</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-07-01T14:56:37.834+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.14.119</code>
+                                <name>Бумага для печати прочая</name>
+                            </OKPD2>
+                            <name>поставка бумаги для офисной техники формата А4 </name>
+                            <minRequirement>поставка бумаги для офисной техники формата А4 </minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>171247.50</sumMax>
+                            <price>228.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>750.00</quantity>
+                            <quantityCurrentYear>750.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1712.50</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>51374.30</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>однократно, август 2016</contractExecutionStages>
+                            <periodicity>однократно, август 2016</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000007</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18201063940290019242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>220141.35</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>28.23.2</code>
+                                <name>Производство фотокопировальных машин, офисных машин для офсетной печати и прочих офисных машин и оборудования и их составных частей</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поставка многофункционального устройства, оптического привода, источника бесперебойного питания</contractSubjectName>
+                        <contractMaxPrice>220141.35</contractMaxPrice>
+                        <payments>220141.35</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-04-11T17:42:19.308+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>источник бесперебойного питания</name>
+                            <internationalName>источник бесперебойного питания</internationalName>
+                            <minRequirement>источник бесперебойного питания</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>96100.00</sumMax>
+                            <price>9610.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>многофункциональное устройство</name>
+                            <internationalName>многофункциональное устройство</internationalName>
+                            <minRequirement>многофункциональное устройство</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>116494.68</sumMax>
+                            <price>29123.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>оптический привод</name>
+                            <internationalName>оптический привод</internationalName>
+                            <minRequirement>оптический привод</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>7546.67</sumMax>
+                            <price>7546.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2201.41</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>66042.41</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>однократно, июнь 2016</contractExecutionStages>
+                            <periodicity>однократно, июнь 2016</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000010</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18201063940290019244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>138724.64</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.23</code>
+                                <name>Производство бумажных канцелярских принадлежностей</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>32.99.2</code>
+                                <name>Производство пишущих принадлежностей</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>22.29.2</code>
+                                <name>Производство прочих изделий из пластмасс, не включенных в другие группировки</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>20.30.1</code>
+                                <name>Производство красок и лаков на основе полимеров</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>25.99.2</code>
+                                <name>Производство прочих металлических изделий</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поставка канцелярских принадлежностей </contractSubjectName>
+                        <contractMaxPrice>138724.64</contractMaxPrice>
+                        <payments>138724.64</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-07-01T14:56:37.834+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.11.150</code>
+                                <name>Бумага клейкая или гуммированная</name>
+                            </OKPD2>
+                            <name>бумага для заметок с клейким краем</name>
+                            <minRequirement>бумага для заметок с клейким краем</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3867.00</sumMax>
+                            <price>38.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.193</code>
+                                <name>Папки и обложки из бумаги или картона</name>
+                            </OKPD2>
+                            <name>папка с прижимом </name>
+                            <minRequirement>папка с прижимом </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>286.70</sumMax>
+                            <price>28.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>скобы для степлера </name>
+                            <minRequirement>скобы для степлера №10</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>3667.50</sumMax>
+                            <price>14.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>250.00</quantity>
+                            <quantityCurrentYear>250.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.190</code>
+                                <name>Принадлежности канцелярские прочие из бумаги или картона</name>
+                            </OKPD2>
+                            <name>бумага для заметок в прозрачном пластиковом боксе</name>
+                            <minRequirement>бумага для заметок в прозрачном пластиковом боксе</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>17100.00</sumMax>
+                            <price>114.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>150.00</quantity>
+                            <quantityCurrentYear>150.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.12.110</code>
+                                <name>Ручки шариковые</name>
+                            </OKPD2>
+                            <name>ручка гелевая, черная </name>
+                            <minRequirement>ручка гелевая, черная </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>7667.50</sumMax>
+                            <price>30.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>250.00</quantity>
+                            <quantityCurrentYear>250.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>кнопки силовые</name>
+                            <minRequirement>кнопки силовые</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>145.00</sumMax>
+                            <price>29.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.12.110</code>
+                                <name>Ручки шариковые</name>
+                            </OKPD2>
+                            <name>ручка гелевая, синяя </name>
+                            <minRequirement>ручка гелевая, синяя </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>7667.50</sumMax>
+                            <price>30.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>250.00</quantity>
+                            <quantityCurrentYear>250.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>58.19.13.120</code>
+                                <name>Календари печатные</name>
+                            </OKPD2>
+                            <name>календарь 2017, настольный перекидной </name>
+                            <minRequirement>календарь 2017, настольный перекидной </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>4167.00</sumMax>
+                            <price>41.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>файлы-вкладыши, А4</name>
+                            <minRequirement>файлы-вкладыши, А4</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>4450.05</sumMax>
+                            <price>296.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>15.00</quantity>
+                            <quantityCurrentYear>15.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.12.110</code>
+                                <name>Конверты, письма-секретки</name>
+                            </OKPD2>
+                            <name>папка-конверт на кнопке </name>
+                            <minRequirement>папка-конверт на кнопке </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>800.00</sumMax>
+                            <price>16.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>50.00</quantity>
+                            <quantityCurrentYear>50.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>скобы №23 мм</name>
+                            <minRequirement>скобы №23 мм</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>79.00</sumMax>
+                            <price>79.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>скобы для степлера </name>
+                            <minRequirement>скобы для степлера №24/6</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>4457.50</sumMax>
+                            <price>17.83</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>250.00</quantity>
+                            <quantityCurrentYear>250.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.52.10.190</code>
+                                <name>Клеи прочие</name>
+                            </OKPD2>
+                            <name>клей ПВА </name>
+                            <minRequirement>клей ПВА </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>326.60</sumMax>
+                            <price>16.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.11.150</code>
+                                <name>Бумага клейкая или гуммированная</name>
+                            </OKPD2>
+                            <name>скотч прозрачный </name>
+                            <minRequirement>скотч прозрачный </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1060.00</sumMax>
+                            <price>53.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.52.10.190</code>
+                                <name>Клеи прочие</name>
+                            </OKPD2>
+                            <name>клеящий карандаш </name>
+                            <minRequirement>клеящий карандаш </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>17596.00</sumMax>
+                            <price>106.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>166.00</quantity>
+                            <quantityCurrentYear>166.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>скрепки никелированные </name>
+                            <minRequirement>скрепки никелированные </minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>1500.00</sumMax>
+                            <price>15.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.193</code>
+                                <name>Папки и обложки из бумаги или картона</name>
+                            </OKPD2>
+                            <name>папка - регистратор с арочным механизмом, 50 мм</name>
+                            <minRequirement>папка - регистратор с арочным механизмом, 50 мм</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>12500.00</sumMax>
+                            <price>125.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.19.73.120</code>
+                                <name>Изделия культурно-бытового назначения и хозяйственного обихода резиновые формовые (включая спортивные изделия из резины)</name>
+                            </OKPD2>
+                            <name>ластик </name>
+                            <minRequirement>ластик </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>839.70</sumMax>
+                            <price>9.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>90.00</quantity>
+                            <quantityCurrentYear>90.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.71.11.120</code>
+                                <name>Ножницы</name>
+                            </OKPD2>
+                            <name>ножницы </name>
+                            <minRequirement>ножницы </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>605.00</sumMax>
+                            <price>121.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>степлер №24/6</name>
+                            <minRequirement>степлер №24/6</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>380.00</sumMax>
+                            <price>76.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.51.33.141</code>
+                                <name>Линейки</name>
+                            </OKPD2>
+                            <name>линейка прозрачная </name>
+                            <minRequirement>линейка прозрачная </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>75.00</sumMax>
+                            <price>15.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>зажим для бумаг </name>
+                            <minRequirement>зажим для бумаг 25мм</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>864.00</sumMax>
+                            <price>6.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>144.00</quantity>
+                            <quantityCurrentYear>144.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.130</code>
+                                <name>Скоросшиватели (папки) из бумаги или картона</name>
+                            </OKPD2>
+                            <name>скоросшиватель картонный Дело </name>
+                            <minRequirement>скоросшиватель картонный Дело </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>14850.00</sumMax>
+                            <price>9.90</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1500.00</quantity>
+                            <quantityCurrentYear>1500.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>скрепки оцинкованные 50мм</name>
+                            <minRequirement>скрепки оцинкованные 50мм</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>480.00</sumMax>
+                            <price>24.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>степлер №10</name>
+                            <minRequirement>степлер №10</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>535.00</sumMax>
+                            <price>107.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.15.110</code>
+                                <name>Карандаши простые и цветные с грифелями в твердой оболочке</name>
+                            </OKPD2>
+                            <name>карандаш чернографитный с ластиком </name>
+                            <minRequirement>карандаш чернографитный с ластиком </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1050.00</sumMax>
+                            <price>7.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>150.00</quantity>
+                            <quantityCurrentYear>150.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>зажим для бумаг </name>
+                            <minRequirement>зажим для бумаг 19мм</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>576.00</sumMax>
+                            <price>4.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>144.00</quantity>
+                            <quantityCurrentYear>144.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.193</code>
+                                <name>Папки и обложки из бумаги или картона</name>
+                            </OKPD2>
+                            <name>папка на резинке </name>
+                            <minRequirement>папка на резинке </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>625.05</sumMax>
+                            <price>41.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>15.00</quantity>
+                            <quantityCurrentYear>15.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.130</code>
+                                <name>Скоросшиватели (папки) из бумаги или картона</name>
+                            </OKPD2>
+                            <name>папка-скоросшиватель, пластик, верхний прозрачный лист, нижний цветной  </name>
+                            <minRequirement>папка-скоросшиватель, пластик, верхний прозрачный лист, нижний цветной  </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>750.00</sumMax>
+                            <price>15.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>50.00</quantity>
+                            <quantityCurrentYear>50.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.14.119</code>
+                                <name>Бумага для печати прочая</name>
+                            </OKPD2>
+                            <name>бумага А3</name>
+                            <minRequirement>бумага А3</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>1452.00</sumMax>
+                            <price>484.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.00</quantity>
+                            <quantityCurrentYear>3.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.30.24.119</code>
+                                <name>Краски полиграфические специального назначения прочие</name>
+                            </OKPD2>
+                            <name>корректирующая лента </name>
+                            <minRequirement>корректирующая лента </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>4500.00</sumMax>
+                            <price>50.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>90.00</quantity>
+                            <quantityCurrentYear>90.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.193</code>
+                                <name>Папки и обложки из бумаги или картона</name>
+                            </OKPD2>
+                            <name>папка на двух кольцах </name>
+                            <minRequirement>папка на двух кольцах </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>666.70</sumMax>
+                            <price>66.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.12.110</code>
+                                <name>Ручки шариковые</name>
+                            </OKPD2>
+                            <name>ручка шариковая, синяя</name>
+                            <minRequirement>ручка шариковая, синяя</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>6134.00</sumMax>
+                            <price>30.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>200.00</quantity>
+                            <quantityCurrentYear>200.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.30.24.119</code>
+                                <name>Краски полиграфические специального назначения прочие</name>
+                            </OKPD2>
+                            <name>текстовыделитель </name>
+                            <minRequirement>текстовыделитель </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>2070.00</sumMax>
+                            <price>23.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>90.00</quantity>
+                            <quantityCurrentYear>90.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.193</code>
+                                <name>Папки и обложки из бумаги или картона</name>
+                            </OKPD2>
+                            <name>папка - регистратор  с арочным механизмом </name>
+                            <minRequirement>папка - регистратор  с арочным механизмом 75 мм</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>12800.00</sumMax>
+                            <price>128.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.30.24.119</code>
+                                <name>Краски полиграфические специального назначения прочие</name>
+                            </OKPD2>
+                            <name>штемпельная краска, синяя</name>
+                            <minRequirement>штемпельная краска, синяя</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>291.99</sumMax>
+                            <price>97.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.00</quantity>
+                            <quantityCurrentYear>3.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>папка - уголок </name>
+                            <minRequirement>папка - уголок </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1099.50</sumMax>
+                            <price>7.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>150.00</quantity>
+                            <quantityCurrentYear>150.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.23.000</code>
+                                <name>Машины офисные прочие</name>
+                            </OKPD2>
+                            <name>дыракол </name>
+                            <minRequirement>дыракол на 20 листов</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>743.35</sumMax>
+                            <price>148.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1387.24</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>41617.40</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>однократно, август 2016</contractExecutionStages>
+                            <periodicity>однократно, август 2016</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000003</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18201063940290019244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>914195.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поставка моторного топлива </contractSubjectName>
+                        <contractMaxPrice>914195.00</contractMaxPrice>
+                        <payments>914195.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-02-04T10:41:50.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>47.30.10.000</code>
+                                <name>Услуги по розничной торговле моторным топливом в специализированных магазинах</name>
+                            </OKPD2>
+                            <name>поставка моторного топлива (дизельное топливо)</name>
+                            <internationalName>поставка моторного топлива (дизельное топливо)</internationalName>
+                            <minRequirement>поставка моторного топлива (дизельное топливо)</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>185715.00</sumMax>
+                            <price>41.27</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4500.00</quantity>
+                            <quantityCurrentYear>4500.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>47.30.10.000</code>
+                                <name>Услуги по розничной торговле моторным топливом в специализированных магазинах</name>
+                            </OKPD2>
+                            <name>поставка моторного топлива (бензин Аи-95)</name>
+                            <internationalName>поставка моторного топлива  (бензин Аи-95)</internationalName>
+                            <minRequirement>поставка моторного топлива  (бензин Аи-95)</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>728480.00</sumMax>
+                            <price>45.53</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>16000.00</quantity>
+                            <quantityCurrentYear>16000.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>9141.95</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>91419.50</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>ежедневного, по требованию заказчика</contractExecutionStages>
+                            <periodicity>ежедневного, по требованию заказчика</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000002</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18201063940290019244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>48543.70</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <amountKVRs>
+                            <KVR>
+                                <code>244</code>
+                            </KVR>
+                        </amountKVRs>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.29</code>
+                                <name>Производство прочих изделий из бумаги и картона</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>изготовление из материала исполнителя и поставка бланков деклараций </contractSubjectName>
+                        <contractMaxPrice>48543.70</contractMaxPrice>
+                        <payments>48543.70</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>ZK44</code>
+                            <name>Запрос котировок</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-04T10:41:50.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.29.19.190</code>
+                                <name>Изделия прочие из бумаги и картона, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>изготовление из материала исполнителя и поставка бланков деклараций </name>
+                            <internationalName>изготовление из материала исполнителя и поставка бланков деклараций 
+</internationalName>
+                            <minRequirement>изготовление из материала исполнителя и поставка бланков деклараций 
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>48543.70</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>39495.00</quantity>
+                            <quantityCurrentYear>39495.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages> февраль </contractExecutionStages>
+                            <periodicity>однократно, февраль</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000008</positionNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>18201063940290019242</code>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>28.23.2</code>
+                                <name>Производство фотокопировальных машин, офисных машин для офсетной печати и прочих офисных машин и оборудования и их составных частей</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поставка расходных материалов и запасных частей (аккумуляторные батареи для источников бесперебойного питания ИБП, жесткие диски, оперативная память DDR 2, кабель витая пара, картриджи)</contractSubjectName>
+                        <contractMaxPrice>257013.06</contractMaxPrice>
+                        <payments>257013.06</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-04-11T17:42:19.308+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>жесткий диск</name>
+                            <internationalName>жесткий диск</internationalName>
+                            <minRequirement>жесткий диск</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>36686.68</sumMax>
+                            <price>9171.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>аккумуляторная батарея для источника бесперебойного питания (ИБП)</name>
+                            <internationalName>аккумуляторная батарея для источника бесперебойного питания (ИБП)</internationalName>
+                            <minRequirement>аккумуляторная батарея для источника бесперебойного питания (ИБП)</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>34522.72</sumMax>
+                            <price>2157.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>16.00</quantity>
+                            <quantityCurrentYear>16.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>кабель витая пара</name>
+                            <internationalName>кабель витая пара</internationalName>
+                            <minRequirement>кабель витая пара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>5518.33</sumMax>
+                            <price>5518.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>картридж</name>
+                            <internationalName>картридж</internationalName>
+                            <minRequirement>картридж</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>138680.63</sumMax>
+                            <price>12607.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>11.00</quantity>
+                            <quantityCurrentYear>11.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>картридж черный</name>
+                            <internationalName>картридж черный</internationalName>
+                            <minRequirement>картридж черный</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>19898.00</sumMax>
+                            <price>9949.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>оперативная память DDR 2</name>
+                            <internationalName>оперативная память DDR 2</internationalName>
+                            <minRequirement>оперативная память DDR 2</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>21706.70</sumMax>
+                            <price>2170.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2570.13</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>77103.92</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>однократно, июнь 2016</contractExecutionStages>
+                            <periodicity>однократно, июнь 2016</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000004</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18201063940290019244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>164752.50</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.12.1</code>
+                                <name>Производство бумаги</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поставка бумаги для офисной техники формата А4</contractSubjectName>
+                        <contractMaxPrice>164752.50</contractMaxPrice>
+                        <payments>164752.50</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-02-11T17:33:01.034+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.14.119</code>
+                                <name>Бумага для печати прочая</name>
+                            </OKPD2>
+                            <name>поставка бумаги для офисной техники формата А4</name>
+                            <internationalName>поставка бумаги для офисной техники формата А4</internationalName>
+                            <minRequirement>поставка бумаги для офисной техники формата А4</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>164752.50</sumMax>
+                            <price>219.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>750.00</quantity>
+                            <quantityCurrentYear>750.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1650.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>16475.25</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>однократно</contractExecutionStages>
+                            <periodicity>однократно </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601761000012001000005</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18201063940290019242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>312915.38</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>28.23.2</code>
+                                <name>Производство фотокопировальных машин, офисных машин для офсетной печати и прочих офисных машин и оборудования и их составных частей</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поставка расходных материалов для нужд Управления Федеральной налоговой службы по Республике Адыгея</contractSubjectName>
+                        <contractMaxPrice>312915.38</contractMaxPrice>
+                        <payments>312915.38</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-03-01T16:33:32.851+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>картридж</name>
+                            <internationalName>картридж</internationalName>
+                            <minRequirement>картридж</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>122464.00</sumMax>
+                            <price>3827.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>32.00</quantity>
+                            <quantityCurrentYear>32.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>картридж</name>
+                            <internationalName>картридж</internationalName>
+                            <minRequirement>картридж</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>15726.68</sumMax>
+                            <price>3931.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>фотобарабан</name>
+                            <internationalName>фотобарабан</internationalName>
+                            <minRequirement>фотобарабан</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>26260.33</sumMax>
+                            <price>26260.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>картридж черный</name>
+                            <internationalName>картридж черный</internationalName>
+                            <minRequirement>картридж черный</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>10620.33</sumMax>
+                            <price>10620.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>картридж</name>
+                            <internationalName>картридж</internationalName>
+                            <minRequirement>картридж</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>117392.04</sumMax>
+                            <price>9782.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                            <quantityCurrentYear>12.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.26.000</code>
+                                <name>Части и принадлежности фотокопировальных аппаратов</name>
+                            </OKPD2>
+                            <name>тонер-туба</name>
+                            <internationalName>тонер-туба</internationalName>
+                            <minRequirement>тонер-туба</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>20452.00</sumMax>
+                            <price>10226.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>3129.15</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>93874.61</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>однократно, апрель 2016</contractExecutionStages>
+                            <periodicity>однократно, апрель 2016</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>18201063940290019242</code>
+                                    <amount>255000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>18201063940290019244</code>
+                                    <amount>1100000.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1355000.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>1229488.93</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>13578800.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>3808656.07</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=10748734</url>
+            <signature>TUlJTk9RWUpLb1pJaHZjTkFRY0NvSUlOS2pDQ0RTWUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drSk1JSUpCVENDQ0xTZ0F3SUJBZ0lERElOZE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMU1EWXdNekEyTXpRd01sb1hEVEUyTURrd016QTJNelF3TWxvd2dnSDJNUm93R0FZSUtvVURBNEVEQVFFU0REQXdNREV3TlRBME16Z3dOVEVXTUJRR0JTcUZBMlFERWdzd05qQXdNelUwTURVd01ERVlNQllHQlNxRkEyUUJFZzB4TURRd01UQXdOVFV5TURrMU1SOHdIUVlKS29aSWh2Y05BUWtCRmhCMU1ERkFjakF4TG01aGJHOW5MbkoxTVFzd0NRWURWUVFHRXdKU1ZURThNRG9HQTFVRUNBd3pNREVnMEtEUXRkR0IwTC9SZzlDeDBMdlF1TkM2MExBZzBKRFF0TkdMMExQUXRkR1BJQ2pRa05DMDBZdlFzOUMxMFk4cE1SVXdFd1lEVlFRSERBelFuTkN3MExuUXV0QyswTDh4UlRCREJnTlZCQW9NUE5DajBLVFFuZENoSU5DZzBMN1JnZEdCMExqUXVDRFF2OUMrSU5DZzBMWFJnZEMvMFlQUXNkQzcwTGpRdXRDMUlOQ1EwTFRSaTlDejBMWFJqekVtTUNRR0ExVUVLZ3dkMEp6UXNOR0EwTGpRdGRHQ0lOQ1EwTFRRc05DODBMN1FzdEM5MExBeEhUQWJCZ05WQkFRTUZOQ1QwTFhRdE5HRDBMUFF2dEdJMExYUXN0Q3dNVmd3VmdZRFZRUU1ERS9RbDlDdzBMelF0ZEdCMFlMUXVOR0MwTFhRdTlHTUlOQzkwTERSaDlDdzBMdlJqTkM5MExqUXV0Q3dJTkMrMFlMUXROQzEwTHZRc0NEUXZ0Q3gwTFhSZ2RDLzBMWFJoOUMxMEwzUXVOR1BNVHN3T1FZRFZRUURERExRazlDMTBMVFJnOUN6MEw3UmlOQzEwTExRc0NEUW5OQ3cwWURRdU5DMTBZSWcwSkRRdE5DdzBMelF2dEN5MEwzUXNEQmpNQndHQmlxRkF3SUNFekFTQmdjcWhRTUNBaVFBQmdjcWhRTUNBaDRCQTBNQUJFRElKYkF5ZGVFWG96UWpXMW5DWUhUSHpjTHJwUlRsV1JVWU1tNkdKZUhmc3N6UmYvMDFlNG10OHJPZWNkemd0ZkhaQUY0UTFPTmFvWWI0czdlczk1TkJvNElFdkRDQ0JMZ3dEQVlEVlIwVEFRSC9CQUl3QURBZEJnTlZIU0FFRmpBVU1BZ0dCaXFGQTJSeEFUQUlCZ1lxaFFOa2NRSXdXQVlEVlIwUkJGRXdUNkFTQmdOVkJBeWdDeE1KTlRJNE1UQTBNVEkyb0JrR0NpcUZBd005bnRjMkFRZWdDeE1KTURFd05UQXhNREF4b0JzR0NpcUZBd005bnRjMkFRV2dEUk1MTURFM05qRXdNREF3TVRLR0FUQXdOZ1lGS29VRFpHOEVMUXdySXRDYTBZRFF1TkMvMFlMUXZ0Q2YwWURRdmlCRFUxQWlJQ2pRc3RDMTBZRFJnZEM0MFk4Z015NDJLVENDQVdFR0JTcUZBMlJ3QklJQlZqQ0NBVklNUkNMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWtnS05DNDBZSFF2OUMrMEx2UXZkQzEwTDNRdU5DMUlESXBER2dpMEovUmdOQyswTFBSZ05DdzBMelF2TkM5MEw0dDBMRFF2OUMvMExEUmdOQ3cwWUxRdmRHTDBMa2cwTHJRdnRDODBML1F1OUMxMExyUmdTQWkwSzdRdmRDNDBZSFF0ZEdBMFlJdDBKUFFudENoMEtJaUxpRFFrdEMxMFlEUmdkQzQwWThnTWk0eElneFAwS0hRdGRHQTBZTFF1TkdFMExqUXV0Q3cwWUlnMFlIUXZ0QyswWUxRc3RDMTBZTFJnZEdDMExMUXVOR1BJT0tFbGlEUW9kQ2tMekV5TkMweU1qTTRJTkMrMFlJZ01EUXVNVEF1TWpBeE13eFAwS0hRdGRHQTBZTFF1TkdFMExqUXV0Q3cwWUlnMFlIUXZ0QyswWUxRc3RDMTBZTFJnZEdDMExMUXVOR1BJT0tFbGlEUW9kQ2tMekV5T0MweU1UYzFJTkMrMFlJZ01qQXVNRFl1TWpBeE16QU9CZ05WSFE4QkFmOEVCQU1DQStnd1F3WURWUjBsQkR3d09nWUlLd1lCQlFVSEF3SUdEaXFGQXdNOW50YzJBUVlEQkFFQkJnNHFoUU1EUFo3WE5nRUdBd1FCQWdZT0tvVURBejJlMXpZQkJnTUVBUVF3S3dZRFZSMFFCQ1F3SW9BUE1qQXhOVEEyTURNd05qTXlORGhhZ1E4eU1ERTJNRGt3TWpBMk16UXdNbG93Z2dHUEJnTlZIU01FZ2dHR01JSUJnb0FVbm5FT0Q5cTBBU2hmUCtMTGoyVVZsd0pIakt1aGdnRmxwSUlCWVRDQ0FWMHhHREFXQmdrcWhraUc5dzBCQ1FJVENWTmxjblpsY2lCRFFURWdNQjRHQ1NxR1NJYjNEUUVKQVJZUmRXTmZabXRBY205emEyRjZibUV1Y25VeEhEQWFCZ05WQkFnTUV6YzNJTkN6TGlEUW5OQyswWUhRdXRDeTBMQXhHakFZQmdncWhRTURnUU1CQVJJTU1EQTNOekV3TlRZNE56WXdNUmd3RmdZRktvVURaQUVTRFRFd05EYzNPVGN3TVRrNE16QXhMREFxQmdOVkJBa01JOUdEMEx2UXVOR0cwTEFnMEpqUXU5R00wTGpRdmRDNjBMQXNJTkMwMEw3UXZDQTNNUlV3RXdZRFZRUUhEQXpRbk5DKzBZSFF1dEN5MExBeEN6QUpCZ05WQkFZVEFsSlZNVGd3TmdZRFZRUUtEQy9RcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDMUlOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRdmpFL01EMEdBMVVFQXd3MjBLUFFwaURRcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDejBMNGcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDd2dnRUJNRjRHQTFVZEh3UlhNRlV3S2FBbm9DV0dJMmgwZEhBNkx5OWpjbXd1Y205emEyRjZibUV1Y25VdlkzSnNMMlpyTURFdVkzSnNNQ2lnSnFBa2hpSm9kSFJ3T2k4dlkzSnNMbVp6Wm1zdWJHOWpZV3d2WTNKc0wyWnJNREV1WTNKc01CMEdBMVVkRGdRV0JCVFRySWc5MnlwYlB6RDhTQkpFWHRNamZhaWNBVEFJQmdZcWhRTUNBZ01EUVFCOWFtMm1QV2ZEU0J0V2pSbzh6NFNMdHQzcDJocmhJS1BrL2ZkT3ZDSTFBcmExaFJHNkhBRktWUm1hcmIxdzArUWNEa2FmS2ttZ0s0OEViZmhJeGF6Tk1ZSUQ5ekNDQS9NQ0FRRXdnZ0ZtTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExBQ0F3eURYVEFLQmdZcWhRTUNBZ2tGQUtDQ0FpZ3dHQVlKS29aSWh2Y05BUWtETVFzR0NTcUdTSWIzRFFFSEFUQWNCZ2txaGtpRzl3MEJDUVV4RHhjTk1UWXdOekF4TVRFd01EVTRXakF2QmdrcWhraUc5dzBCQ1FReElnUWdkOGhHdEZGSGdNcThVNXFndDZwbFQ1ZUV3dy8rWS9XYmdOa0VyTm5IMnRZd2dnRzdCZ3NxaGtpRzl3MEJDUkFDTHpHQ0Fhb3dnZ0dtTUlJQm9qQ0NBWjR3Q0FZR0tvVURBZ0lKQkNBN2YzZ0NoKzN4ZTVTb21rYXZWMjhrYVpBTlhKYzNqOGkxTmNybEJXekM4RENDQVc0d2dnRmxwSUlCWVRDQ0FWMHhHREFXQmdrcWhraUc5dzBCQ1FJVENWTmxjblpsY2lCRFFURWdNQjRHQ1NxR1NJYjNEUUVKQVJZUmRXTmZabXRBY205emEyRjZibUV1Y25VeEhEQWFCZ05WQkFnTUV6YzNJTkN6TGlEUW5OQyswWUhRdXRDeTBMQXhHakFZQmdncWhRTURnUU1CQVJJTU1EQTNOekV3TlRZNE56WXdNUmd3RmdZRktvVURaQUVTRFRFd05EYzNPVGN3TVRrNE16QXhMREFxQmdOVkJBa01JOUdEMEx2UXVOR0cwTEFnMEpqUXU5R00wTGpRdmRDNjBMQXNJTkMwMEw3UXZDQTNNUlV3RXdZRFZRUUhEQXpRbk5DKzBZSFF1dEN5MExBeEN6QUpCZ05WQkFZVEFsSlZNVGd3TmdZRFZRUUtEQy9RcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDMUlOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRdmpFL01EMEdBMVVFQXd3MjBLUFFwaURRcE5DMTBMVFF0ZEdBMExEUXU5R00wTDNRdnRDejBMNGcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDd0FnTU1nMTB3Q2dZR0tvVURBZ0lUQlFBRVFIb1hBc3o4L0VOODZxWko0dXZITTEzQkt0bGF2eWgzL3kyLzZJZmJNajZDYnlFVzUrWTF1UmJYcG05TGtabytGU3BkMkd6UEkvcTQyNUNDWHNlUDRTOD0=</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

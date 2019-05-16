@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>12875280</id>
+            <planNumber>44201603763000337001</planNumber>
+            <year>2016</year>
+            <versionNumber>13</versionNumber>
+            <owner>
+                <regNum>03763000337</regNum>
+                <fullName>Муниципальное бюджетное дошкольное образовательное учреждение "Детский сад общеразвивающего вида № 4"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-11-17T15:10:35.544+03:00</createDate>
+            <description>План-график закупок товаров, работ, услуг.</description>
+            <confirmDate>2016-11-22T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-11-22T15:27:08.302+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000337</regNum>
+                <fullName>Муниципальное бюджетное дошкольное образовательное учреждение "Детский сад общеразвивающего вида № 4"</fullName>
+                <shortName>МБДОУ "Детский сад общеразвивающего вида № 4"</shortName>
+                <postAddress>Российская Федерация, 385019, Адыгея Респ, Майкоп г, Шоссейная, 18-а, -</postAddress>
+                <factAddress>Российская Федерация, 385019, Адыгея Респ, Майкоп г, Шоссейная, 18-а, -</factAddress>
+                <INN>0105064883</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000</code>
+                <name>город Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Власова</lastName>
+            <firstName>Ольга</firstName>
+            <middleName>Евгеньевна</middleName>
+            <phone>8(8772)565007</phone>
+            <email>mbdou_4@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000337001000001</positionNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>90207011510101000244</code>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>95.11</code>
+                                <name>Ремонт компьютеров и периферийного компьютерного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по заправке, восстановлению и замене картриджей</contractSubjectName>
+                        <contractMaxPrice>11790.00</contractMaxPrice>
+                        <payments>11790.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>03763000098</regNum>
+                                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ДОШКОЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "ДЕТСКИЙ САД ОБЩЕРАЗВИВАЮЩЕГО ВИДА № 53"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo>Техническая ошибка</additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-04-18T12:33:00.324+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по замене картриджей</name>
+                            <minRequirement>Новый картридж перед становкой должен находиться в заводской упаковке без признаков её нарушения, должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>4980.00</sumMax>
+                            <price>4980.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по восстановлению картриджей</name>
+                            <minRequirement>: после проведения восстановления картриджи должны соответствовать всем техническим характеристикам, быть заправлены качественным и 100% совместимым тонером и при необходимости замены содержать новые детали — фотобарабан, ракель, ролик заряда, магнитный вал, чип.
+Восстановленные картриджи должны иметь индивидуальную упаковку, обеспечивающую их безопасную транспортировку и хранение, имеющую антистатические свойства, обеспечивающие изоляцию светового потока, с указанием модели картриджа и вложенной распечаткой тестовой страницы.
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>650.00</sumMax>
+                            <price>650.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по заправке  картриджей</name>
+                            <minRequirement>- работы по заправке картриджей должны быть выполнены в соответствии с нормативами, предусмотренными действующим законодательством, как в  отношении документального оформления оказанных услуг, так и в отношении экологических норм и требований техники безопасности;
+- не допускается эффект грязного/серого листа (фона) при печати на белой бумаге, дефектов изображения, размытого или нечёткого изображения, пятен, точек, фона, в том числе и на оборотной стороне отпечатка и любых дефектов при печати  всего ресурса заправленного картриджа;
+- внешний вид картриджа после заправки должен быть без дефектов и явных и видимых поломок;
+- при выполнении работ недопустимо использование  комплектующих изделий и расходных материалов, бывших в употреблении;
+- использование только оригинального тонера для каждого типа картриджей, используемый тонер должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации;
+- заправленный картридж должен обеспечивать ресурс работы не менее ресурса оригинального картриджа;
+- расход тонера на 1000 листов должен составлять не менее 95% в сравнении с оригинальным.
+- исключить просыпание тонера внутрь принтера;
+- обеспечить герметичность картриджа после заправки, т.е. картриджи должны быть чистыми; 
+- обеспечить очистку от остатков старого тонера.
+Заправка осуществляется в сервисном центре Исполнителя. Качество и безопасность работ должны соответствовать установленным стандартам. Исполнитель несёт все расходы по замене или ремонту дефектной продукции, выявленной Заказчиком, если дефект не зависит от условий хранения или неправильного обращения.
+Заправленные картриджи должны иметь индивидуальную упаковку, обеспечивающую их безопасную транспортировку и хранение, имеющую антистатические свойства, обеспечивающие изоляцию светового потока, с указанием модел</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>6160.00</sumMax>
+                            <price>6160.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% начальной (максимальной) цены Контракта</procedure>
+                            <amount>117.90</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5 % начальной (максимальной) цены Контракта</procedure>
+                            <amount>589.50</amount>
+                        </contractFinCondition>
+                        <advance>не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>по мере необходимости</contractExecutionStages>
+                            <periodicity>в течение 3-х (трех) рабочих дней, с момента поступления заявки</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>На основании Постановления Правительства Российской Федерации от 29.12.2015 г. № 1457 запрещено выполнение работ, оказание услуг для обеспечения государственных и муниципальных нужд на территории Российской Федерации организациям, находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемым гражданами Турецкой Республики и (или) организациям, находящимся под юрисдикцией Турецкой Республики.</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>5000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>95000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000223</code>
+                                    <amount>20000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000223</code>
+                                    <amount>80000.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                    <purchaseAmountLess400>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>00000000000000000340</code>
+                                    <amount>174164.80</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000340</code>
+                                    <amount>119452.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>197732.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000340</code>
+                                    <amount>342368.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000340</code>
+                                    <amount>981410.16</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>256297.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000223</code>
+                                    <amount>261966.44</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess400>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>200000.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>2333390.40</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>11790.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>0.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>2545180.40</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=12875280</url>
+            <signature>TUlJTldRWUpLb1pJaHZjTkFRY0NvSUlOU2pDQ0RVWUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drcE1JSUpKVENDQ05TZ0F3SUJBZ0lERVdPVE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMU1URXhOekV4TWprek1Wb1hEVEUzTURJeE56RXhNamt6TVZvd2dnSElNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV3TXprNE5URTVPVEVXTUJRR0JTcUZBMlFERWdzd05UazNOak01TURFeE16RVlNQllHQlNxRkEyUUJFZzB4TVRFd01UQTFNREF5T0RjMU1SNHdIQVlKS29aSWh2Y05BUWtCRmc5dFltUnZkVjgwUUcxaGFXd3VjblV4Q3pBSkJnTlZCQVlUQWxKVk1Ud3dPZ1lEVlFRSURETXdNU0RRb05DMTBZSFF2OUdEMExIUXU5QzQwTHJRc0NEUWtOQzAwWXZRczlDMTBZOGdLTkNRMExUUmk5Q3owTFhSanlreEZUQVRCZ05WQkFjTUROQ2MwTERRdWRDNjBMN1F2ekZiTUZrR0ExVUVDZ3hTMEp6UWtkQ1UwSjdRb3lBaTBKVFF0ZEdDMFlIUXV0QzQwTGtnMFlIUXNOQzBJTkMrMExIUmlkQzEwWURRc05DMzBMTFF1TkN5MExEUmp0R0owTFhRczlDK0lOQ3kwTGpRdE5Dd0lPS0VsaUEwSWpFb01DWUdBMVVFS2d3ZjBKN1F1OUdNMExQUXNDRFFsZEN5MExQUXRkQzkwWXpRdGRDeTBMM1FzREVYTUJVR0ExVUVCQXdPMEpMUXU5Q3cwWUhRdnRDeTBMQXhIVEFiQmdOVkJBd01GTkNYMExEUXN0QzEwTFRSZzlHTzBZblFzTkdQTVRjd05RWURWUVFEREM3UWt0QzcwTERSZ2RDKzBMTFFzQ0RRbnRDNzBZelFzOUN3SU5DVjBMTFFzOUMxMEwzUmpOQzEwTExRdmRDd01HTXdIQVlHS29VREFnSVRNQklHQnlxRkF3SUNKQUFHQnlxRkF3SUNIZ0VEUXdBRVFIWC9KWnZoZmxxVFlzNU5TWUpRS2RlMzFLT1VtZ0hWcFc2NkFOZzd0bDQ0QUhYSkZucVQvbE9KSE05ZVZCWG5PdmFIQ25rdWxJOWtMVzVJVDh2amdUZWpnZ1VLTUlJRkJqQU1CZ05WSFJNQkFmOEVBakFBTUIwR0ExVWRJQVFXTUJRd0NBWUdLb1VEWkhFQk1BZ0dCaXFGQTJSeEFqQjRCZ05WSFJFRWNUQnZvQk1HQTFVRURLQU1Fd294TVRFd01UWXlPVEEwb0JrR0NpcUZBd005bnRjMkFRZWdDeE1KTURFd05UQXhNREF4b0JzR0NpcUZBd005bnRjMkFRV2dEUk1MTURNM05qTXdNREF6TXplZ0hRWUtLb1VEQXoyZTF6WUJDS0FQRXcwd016YzJNekF3TURBd016SXhoZ0V3TURZR0JTcUZBMlJ2QkMwTUt5TFFtdEdBMExqUXY5R0MwTDdRbjlHQTBMNGdRMU5RSWlBbzBMTFF0ZEdBMFlIUXVOR1BJRE11Tmlrd2dnRmhCZ1VxaFFOa2NBU0NBVll3Z2dGU0RFUWkwSnJSZ05DNDBML1JndEMrMEovUmdOQytJRU5UVUNJZ0tOQ3kwTFhSZ05HQjBMalJqeUF6TGpZcElDalF1TkdCMEwvUXZ0QzcwTDNRdGRDOTBMalF0U0F5S1F4b0l0Q2YwWURRdnRDejBZRFFzTkM4MEx6UXZkQytMZEN3MEwvUXY5Q3cwWURRc05HQzBMM1JpOUM1SU5DNjBMN1F2TkMvMEx2UXRkQzYwWUVnSXRDdTBMM1F1TkdCMExYUmdOR0NMZENUMEo3UW9kQ2lJaTRnMEpMUXRkR0EwWUhRdU5HUElESXVNU0lNVDlDaDBMWFJnTkdDMExqUmhOQzQwTHJRc05HQ0lOR0IwTDdRdnRHQzBMTFF0ZEdDMFlIUmd0Q3kwTGpSanlEaWhKWWcwS0hRcEM4eE1qUXRNakl6T0NEUXZ0R0NJREEwTGpFd0xqSXdNVE1NVDlDaDBMWFJnTkdDMExqUmhOQzQwTHJRc05HQ0lOR0IwTDdRdnRHQzBMTFF0ZEdDMFlIUmd0Q3kwTGpSanlEaWhKWWcwS0hRcEM4eE1qZ3RNakUzTlNEUXZ0R0NJREl3TGpBMkxqSXdNVE13RGdZRFZSMFBBUUgvQkFRREFnUG9NSEVHQTFVZEpRUnFNR2dHQ0NzR0FRVUZCd01DQmc0cWhRTURQWjdYTmdFR0F3UUJBUVlPS29VREF6MmUxellCQmdNRUFRSUdEaXFGQXdNOW50YzJBUVlEQkFFREJnNHFoUU1EUFo3WE5nRUdBd1FCQkFZTktvVURBejJlMXpZQkJnTUZBUVlOS29VREF6MmUxellCQmdNRkFqQXJCZ05WSFJBRUpEQWlnQTh5TURFMU1URXhOekV4TWprd05scUJEekl3TVRjd01qRTJNVEV5T1RNeFdqQ0NBWThHQTFVZEl3U0NBWVl3Z2dHQ2dCU2VjUTRQMnJRQktGOC80c3VQWlJXWEFrZU1xNkdDQVdXa2dnRmhNSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTENDQVFFd1hnWURWUjBmQkZjd1ZUQXBvQ2VnSllZamFIUjBjRG92TDJOeWJDNXliM05yWVhwdVlTNXlkUzlqY213dlptc3dNUzVqY213d0tLQW1vQ1NHSW1oMGRIQTZMeTlqY213dVpuTm1heTVzYjJOaGJDOWpjbXd2Wm1zd01TNWpjbXd3SFFZRFZSME9CQllFRk85MzRJZVZnV2FzQ1JHQ2M0WGd6NFlnNDMyL01BZ0dCaXFGQXdJQ0F3TkJBTUNsTjBoN3U5bTBIM3JxT3J5QjV3ekd4WHg4dFZEK2ZQRmlvc3hpZkQxNnV1UTZhVjA3aGVxV2NtL0R4UjZibmptaEhzb2M2SDROYjhncnU4b1dJaUV4Z2dQM01JSUQ4d0lCQVRDQ0FXWXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzQUlERVdPVE1Bb0dCaXFGQXdJQ0NRVUFvSUlDS0RBWUJna3Foa2lHOXcwQkNRTXhDd1lKS29aSWh2Y05BUWNCTUJ3R0NTcUdTSWIzRFFFSkJURVBGdzB4TmpFeE1qSXhNVE13TlRGYU1DOEdDU3FHU0liM0RRRUpCREVpQkNEbjdvT0hkVnJVMnNoZnhlZFJ5Z2ljbU5pQVo0b0tFbWw2U05TTmZDMUdLakNDQWJzR0N5cUdTSWIzRFFFSkVBSXZNWUlCcWpDQ0FhWXdnZ0dpTUlJQm5qQUlCZ1lxaFFNQ0Fna0VJRUppZkdWazNQTXExcHpSemV2OWFlTHNOR3ZnM3dBRDVJWEl6b3UrbFRQcE1JSUJiakNDQVdXa2dnRmhNSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTEFDQXhGamt6QUtCZ1lxaFFNQ0FoTUZBQVJBS3NWaVJVRk44Yms2eFBDZWQ4SlBEVXJCbG11WVZIWVdxdnVyNDJ3OVVGcm90R1g1bTJIY3pDVnNZZ2dtSEFidjVmeWQycXh0aDU0YmV4bm04SkFVa2c9PQ==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>13062458</id>
+            <planNumber>44201603762000036002</planNumber>
+            <year>2016</year>
+            <versionNumber>6</versionNumber>
+            <owner>
+                <regNum>03762000036</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "АДЫГЕЙСКАЯ РЕСПУБЛИКАНСКАЯ СТАНЦИЯ ПО БОРЬБЕ С БОЛЕЗНЯМИ ЖИВОТНЫХ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-11-27T21:18:43.996+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-11-25T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-11-27T21:21:05.343+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000036</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "АДЫГЕЙСКАЯ РЕСПУБЛИКАНСКАЯ СТАНЦИЯ ПО БОРЬБЕ С БОЛЕЗНЯМИ ЖИВОТНЫХ"</fullName>
+                <shortName>ГБУ РА "АДЫГЕЙСКАЯ РСББЖ"</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ул ЗАГОРОДНАЯ, 4</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ул ЗАГОРОДНАЯ, 4</factAddress>
+                <INN>0105042618</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Новиков</lastName>
+            <firstName>Сергей</firstName>
+            <middleName>Владимирович</middleName>
+            <phone>7-8772-534971</phone>
+            <email>torgi_serg@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000036002000002</positionNumber>
+                        <extNumber>37589</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>167000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>75.00.1</code>
+                                <name>Деятельность ветеринарная для сельскохозяйственных животных</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение дезинфицирующих средств и ветеринарных препаратов, индивидуальных средств защиты</contractSubjectName>
+                        <contractMaxPrice>167000.00</contractMaxPrice>
+                        <payments>167000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2016-11-06T22:01:40.563+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>21.20.10.243</code>
+                                <name>Препараты для уничтожения эктопаразитов (включая чесоточного клеща), инсектициды и репелленты</name>
+                            </OKPD2>
+                            <name>средство для борьбы с эктопаразитами животных (Циперил 10% или аналоги)</name>
+                            <minRequirement>Соответствовать ГОСТам, срок окончания годности препарата на момент поставки должен быть не менее 18 месяцев</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>30000.00</sumMax>
+                            <price>3000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>21.20.10.156</code>
+                                <name>Препараты антибактериальные и противомикробные для лечения заболеваний кожи</name>
+                            </OKPD2>
+                            <name>средство для лечения и профилактики кровепаразитарных болезней у животных (Пиро-стоп или аналоги)</name>
+                            <minRequirement>Соответствовать ГОСТам, срок окончания годности препарата на момент поставки должен быть не менее 18 месяцев</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>12300.00</sumMax>
+                            <price>12300.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.50.13.190</code>
+                                <name>Инструменты и приспособления, применяемые в медицинских целях, прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Пробирка вакуумная гематологическая 4-7 мл., пластиковая</name>
+                            <minRequirement>Соответствовать ГОСТам</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>2820.00</sumMax>
+                            <price>5.64</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>500.00</quantity>
+                            <quantityCurrentYear>500.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.50.13.110</code>
+                                <name>Шприцы, иглы, катетеры, канюли и аналогичные инструменты</name>
+                            </OKPD2>
+                            <name>Иглы 21G</name>
+                            <minRequirement>Соответствовать ГОСТам</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>11520.00</sumMax>
+                            <price>7.20</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1600.00</quantity>
+                            <quantityCurrentYear>1600.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>21.20.10.243</code>
+                                <name>Препараты для уничтожения эктопаразитов (включая чесоточного клеща), инсектициды и репелленты</name>
+                            </OKPD2>
+                            <name>средство для борьбы с эктопаразитами животных (Бутокс или аналоги)</name>
+                            <minRequirement>Соответствовать ГОСТам, срок окончания годности препарата на момент поставки должен быть не менее 18 месяцев</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>32000.00</sumMax>
+                            <price>3200.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>21.20.10.156</code>
+                                <name>Препараты антибактериальные и противомикробные для лечения заболеваний кожи</name>
+                            </OKPD2>
+                            <name>средство для лечения и профилактики кровепаразитарных болезней у животных (Бабезан или аналоги)</name>
+                            <minRequirement>Соответствовать ГОСТам, срок окончания годности препарата на момент поставки должен быть не менее 18 месяцев</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>12520.00</sumMax>
+                            <price>12520.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>14.12.11.120</code>
+                                <name>Костюмы мужские производственные и профессиональные</name>
+                            </OKPD2>
+                            <name>Костюм  защитный одноразовый «Каспер»</name>
+                            <minRequirement>Соответствовать ГОСТам</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>14400.00</sumMax>
+                            <price>160.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>90.00</quantity>
+                            <quantityCurrentYear>90.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.50.13.190</code>
+                                <name>Инструменты и приспособления, применяемые в медицинских целях, прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Пробирка вакуумная со стабилизатором свертывания крови серологическая-7 мл., пластиковая</name>
+                            <minRequirement>Соответствовать ГОСТам</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>13440.00</sumMax>
+                            <price>8.40</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1600.00</quantity>
+                            <quantityCurrentYear>1600.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>21.20.10.158</code>
+                                <name>Антисептики и дезинфицирующие препараты</name>
+                            </OKPD2>
+                            <name>дезинфицирующее средство (Арбицид или аналог)</name>
+                            <minRequirement>Соответствовать ГОСТам, срок окончания годности препарата на момент поставки должен быть не менее 18 месяцев</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>38000.00</sumMax>
+                            <price>380.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1670.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>8350.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Одноразово в течении 10 дней с момента подписания контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361032</code>
+                                    <name>Организациям инвалидов (в соответствии со статьей 29 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000036002000003</positionNumber>
+                        <extNumber>39147</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>001</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>598850.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка бензина неэтилированного с октановым числом не менее 92</contractSubjectName>
+                        <contractMaxPrice>598850.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2016-11-27T21:21:05.343+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.110</code>
+                                <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу</name>
+                            </OKPD2>
+                            <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу</name>
+                            <minRequirement>Предоставление товара в любое время удобное для Заказчика, доступ к личному кабинету для контроля ГСМ</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>598850.00</sumMax>
+                            <price>41.30</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>14500.00</quantity>
+                            <quantityCurrentYear>14500.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>5988.50</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>29942.50</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>В любое время с момента заключения контракта до его исполнения.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000036002000001</positionNumber>
+                        <extNumber>35358</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>001</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>191650.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка бензина неэтилированного с октановым числом не менее 92</contractSubjectName>
+                        <contractMaxPrice>191650.00</contractMaxPrice>
+                        <payments>191650.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-09-22T11:16:15.272+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.110</code>
+                                <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу</name>
+                            </OKPD2>
+                            <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу</name>
+                            <minRequirement>Предоставление товара в любое время удобное для Заказчика, доступ к личному кабинету для контроля ГСМ
+</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>191650.00</sumMax>
+                            <price>38.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5000.00</quantity>
+                            <quantityCurrentYear>5000.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1916.50</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>9582.50</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>В любое время с момента заключения контракта до его исполнения.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>0.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>358650.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>957500.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=13062458</url>
+            <signature>TUlJT1lBWUpLb1pJaHZjTkFRY0NvSUlPVVRDQ0RrMENBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dvd01JSUtMRENDQ2R1Z0F3SUJBZ0lERStlQ01BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1ESXlNREV5TWpNME5Gb1hEVEUzTURVeU1ERXlNak0wTkZvd2dnSEtNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRE13TVRZeE9EUXdOekVXTUJRR0JTcUZBMlFERWdzd05qWTVPVEU0TVRBeE56RWhNQjhHQ1NxR1NJYjNEUUVKQVJZU2RHOXlaMmxmYzJWeVowQnRZV2xzTG5KMU1Rc3dDUVlEVlFRR0V3SlNWVEU4TURvR0ExVUVDQXd6TURFZzBLRFF0ZEdCMEwvUmc5Q3gwTHZRdU5DNjBMQWcwSkRRdE5HTDBMUFF0ZEdQSUNqUWtOQzAwWXZRczlDMTBZOHBNUlV3RXdZRFZRUUhEQXpRbk5DdzBMblF1dEMrMEw4eE5qQTBCZ05WQkFvTUxkQ1QwSkhRb3lEUW9OQ1FJQ0xRa05DVTBLdlFrOUNWMEpuUW9kQ2EwSkRRcnlEUW9OQ2gwSkhRa2RDV0lqRUtNQWdHQTFVRUN4TUJJREVxTUNnR0ExVUVLZ3doMEpIUXNOQzUwTGZRdGRHQ0lOQ2cwWVBSZ2RDNzBMRFF2ZEMrMExMUXVOR0hNUk13RVFZRFZRUUVEQXJRbXRDKzBMM1F2dEN5TVNFd0h3WURWUVFNREJqUW9OR0QwTHJRdnRDeTBMN1F0TkM0MFlMUXRkQzcwWXd4TURBdUJna3Foa2lHOXcwQkNRSVRJVEV1TWk0Mk5ETXVNeTQyTVM0eExqRXVOaTQxTURJM01UQXVNeTQwTGpJdU1URTFNRE1HQTFVRUF3d3MwSnJRdnRDOTBMN1FzaURRa2RDdzBMblF0OUMxMFlJZzBLRFJnOUdCMEx2UXNOQzkwTDdRc3RDNDBZY3dZekFjQmdZcWhRTUNBaE13RWdZSEtvVURBZ0lrQUFZSEtvVURBZ0llQVFOREFBUkFhQ3hVVFIreHlmLzVONFNZenpMN2xBRjZLcFQ1VktNY0NYM0FiUHg2MHRUaUVvb3MwYnNFbm1RaUkzNVhPVXV6TE4za2pPK29wOENQU2kzMklSWmZhS09DQmc4d2dnWUxNQXdHQTFVZEV3RUIvd1FDTUFBd0hRWURWUjBnQkJZd0ZEQUlCZ1lxaFFOa2NRRXdDQVlHS29VRFpIRUNNSHdHQTFVZEVRUjFNSE9nRWdZRFZRUU1vQXNUQ1RJeU1EQTVNVEF3TXFBYkJnb3FoUU1EUFo3WE5nRUZvQTBUQ3pBek56WXlNREF3TURNMm9CNEdDU3FHU0liM0RRRUpGS0FSREEvRGtUSTNOVFZmUzA5T1QxWmZRbEtnSFFZS0tvVURBejJlMXpZQkNLQVBFdzB3TXpjMk1qQXdNREF3TURnNGhnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWt3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qY3pPQ0RRdnRHQ0lEQXhMakEzTGpJd01UVU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qRTNOU0RRdnRHQ0lESXdMakEyTGpJd01UTXdEZ1lEVlIwUEFRSC9CQVFEQWdQNE1JSUJjQVlEVlIwbEJJSUJaekNDQVdNR0NDc0dBUVVGQndNQkJnZ3JCZ0VGQlFjREFnWUlLd1lCQlFVSEF3UUdDQ3FGQXdJQkJnZ0ZCZzhxaFFNRFBRRUJCcDdYTmdNRUFRRUdEeXFGQXdNOUFRRUdudGMyQXdRQkFnWVBLb1VEQXowQkFRYWUxellEQkFFREJnOHFoUU1EUFFFQkJwN1hOZ01FQVFRR0R5cUZBd005QVFFR250YzJBd1FCQlFZUEtvVURBejBCQVFhZTF6WURCQUVHQmc4cWhRTURQUUVCQnA3WE5nTUVBUWNHRHlxRkF3TTlBUUVHbnRjMkF3UUJDQVlQS29VREF6MEJBUWFlMXpZREJBRUpCZzhxaFFNRFBRRUJCcDdYTmdNRUFRb0dEeXFGQXdNOUFRRUdudGMyQXdRQkN3WVBLb1VEQXowQkFRYWUxellEQkFFTUJnOHFoUU1EUFFFQkJwN1hOZ01FQVE0R0RpcUZBd005bnRjMkFRWURCQUVCQmc0cWhRTURQWjdYTmdFR0F3UUJBZ1lPS29VREF6MmUxellCQmdNRUFRTUdEaXFGQXdNOW50YzJBUVlEQkFFRUJnMHFoUU1EUFo3WE5nRUdBd1VCQmcwcWhRTURQWjdYTmdFR0F3VUNNQ3NHQTFVZEVBUWtNQ0tBRHpJd01UWXdNakl3TVRJeU16TXdXb0VQTWpBeE56QTFNakF4TWpJek16QmFNSUlCandZRFZSMGpCSUlCaGpDQ0FZS0FGSjV4RGcvYXRBRW9Yei9peTQ5bEZaY0NSNHlyb1lJQlphU0NBV0V3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0lJQkFUQmVCZ05WSFI4RVZ6QlZNQ21nSjZBbGhpTm9kSFJ3T2k4dlkzSnNMbkp2YzJ0aGVtNWhMbkoxTDJOeWJDOW1hekF4TG1OeWJEQW9vQ2FnSklZaWFIUjBjRG92TDJOeWJDNW1jMlpyTG14dlkyRnNMMk55YkM5bWF6QXhMbU55YkRBZEJnTlZIUTRFRmdRVVBNbnZPNzlrcmpOVW4rZGtlMS9GbmhmUms3a3dDQVlHS29VREFnSURBMEVBV2M0NmdMRFErMXU2V3Q0aDNYS1M3eXljanU1SFdMZG1FZUxWMjduNFRzcmVVaW9OTXZrR0pCbHpHS2FLUDdJVDgvK2pjZG54dk1LVXdQR09semVrdERHQ0EvY3dnZ1B6QWdFQk1JSUJaakNDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3QWdNVDU0SXdDZ1lHS29VREFnSUpCUUNnZ2dJb01CZ0dDU3FHU0liM0RRRUpBekVMQmdrcWhraUc5dzBCQndFd0hBWUpLb1pJaHZjTkFRa0ZNUThYRFRFMk1URXlOekU0TWpBeE9Wb3dMd1lKS29aSWh2Y05BUWtFTVNJRUlIS0IzNkJoSWpSTnRjWFdGZnhFSFJaejZMdjh4TmYrcGRWbDFDVDBhbWpsTUlJQnV3WUxLb1pJaHZjTkFRa1FBaTh4Z2dHcU1JSUJwakNDQWFJd2dnR2VNQWdHQmlxRkF3SUNDUVFnbzJBUStvbGgxZm9oMHJDV01rRVkvd0JuNTJabklobElkbG9jZlFGUUJhQXdnZ0Z1TUlJQlphU0NBV0V3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJREUrZUNNQW9HQmlxRkF3SUNFd1VBQkVBREt5ZGY4Y1RuT054OTYyVjc4dXAxZ0JRTXAzTk5SL3NCWjZlMTdjMkhnRS9VMUp2UUpGVUxkOVQySUZOcGRSSzBCU2ZHL2tBNmNtSmJDTnZmeDNZUg==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>11938170</id>
+            <planNumber>44201603760000001001</planNumber>
+            <year>2016</year>
+            <versionNumber>3</versionNumber>
+            <owner>
+                <regNum>03760000001</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "КОМПЛЕКСНЫЙ ЦЕНТР СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ НАСЕЛЕНИЯ В ГОРОДЕ МАЙКОПЕ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-09-20T15:40:04.860+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-09-20T11:31:42.823+03:00</confirmDate>
+            <publishDate>2016-09-29T17:41:51.364+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03760000001</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "КОМПЛЕКСНЫЙ ЦЕНТР СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ НАСЕЛЕНИЯ В ГОРОДЕ МАЙКОПЕ"</fullName>
+                <shortName>ГБУ РА "КЦСОН в г. Майкопе"</shortName>
+                <postAddress>Российская Федерация, 385006, Адыгея Респ, Майкоп г, ЖУКОВСКОГО, 59</postAddress>
+                <factAddress>Российская Федерация, 385006, Адыгея Респ, Майкоп г, ЖУКОВСКОГО, 59</factAddress>
+                <INN>0105027666</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Карчава</lastName>
+            <firstName>Анжелика</firstName>
+            <middleName>Зауровна</middleName>
+            <phone>8-8772-525866</phone>
+            <fax>8-8772-522779</fax>
+            <email>kcsonmaykop@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603760000001001000002</positionNumber>
+                        <extNumber>36022</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1546875.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>45.11.1</code>
+                                <name>Торговля оптовая легковыми автомобилями и легкими автотранспортными средствами</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка автомобиля для нужд государственного бюджетного учреждения Республики Адыгея "Комплексный центр социального обслуживания населения в городе Майкопе"</contractSubjectName>
+                        <contractMaxPrice>1546875.00</contractMaxPrice>
+                        <payments>1546875.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-09-29T17:41:51.364+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>29.10.59.390</code>
+                                <name>Средства автотранспортные специального назначения прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Поставка автомобиля </name>
+                            <minRequirement>поставка автомобиля специального 
+для перевозки лиц с ограниченными физическими возможностями</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1546875.00</sumMax>
+                            <price>1546875.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>15468.75</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>77343.75</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>в течение 40 (сорока) дней со дня заключения контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлено
+</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603760000001001000001</positionNumber>
+                        <extNumber>33868</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>740091.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>45.11.2</code>
+                                <name>Торговля розничная легковыми автомобилями и легкими автотранспортными средствами в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка легкового автомобиля для нужд ГБУ РА «Комплексный центр социального обслуживания населения в г. Майкопе»для нужд ГБУ РА «Комплексный центр социального обслуживания населения в г. Майкопе»</contractSubjectName>
+                        <contractMaxPrice>740091.00</contractMaxPrice>
+                        <payments>740091.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-03T17:14:17.673+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>29.10.22.000</code>
+                                <name>Средства транспортные с двигателем с искровым зажиганием, с рабочим объемом цилиндров более 1500 см3, новые</name>
+                            </OKPD2>
+                            <name>Поставка легкового автомобиля </name>
+                            <minRequirement>Поставка легкового автомобиля: тип двигателя-бензиновый; максимальная мощность- не менее 123 л.с.; объем двигателя-не менее 1591 см3
+ Поставщик обязуется осуществить поставку легкового автомобиля в соответствии со Спецификацией (приложение№1 к  Контракту), а Заказчик принять и оплатить поставленный Товар в порядке и на условиях, предусмотренных Контрактом.
+Поставка Товара должна быть произведена в течение 14 (четырнадцати) календарных дней, со дня заключения контракта. 
+Доставка Товара до места нахождения Заказчика осуществ-ляется силами и за счет Поставщика.
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>740091.00</sumMax>
+                            <price>740091.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>7400.91</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>37004.55</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>В течение 14 (четырнадцати) календарных дней, со дня заключения контракта.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлено
+</prohibitions>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>1356828.71</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1356828.71</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>2096919.71</sumContractMaxPrice>
+                    <sumPaymentsTotal>3643794.71</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11938170</url>
+            <signature>TUlJTXJnWUpLb1pJaHZjTkFRY0NvSUlNbnpDQ0RKc0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2doK01JSUllakNDQ0NtZ0F3SUJBZ0lERm81UU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EVXhNVEUwTURBek9Gb1hEVEUzTURneE1URTBNREF6T0Zvd2dnR1dNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV3TWpFNE1qQTFOREVXTUJRR0JTcUZBMlFERWdzd056VTJOREExTnpZNE1URWlNQ0FHQ1NxR1NJYjNEUUVKQVJZVGEyTnpiMjV0WVhscmIzQkFiV0ZwYkM1eWRURUxNQWtHQTFVRUJoTUNVbFV4UERBNkJnTlZCQWdNTXpBeElOQ2cwTFhSZ2RDLzBZUFFzZEM3MExqUXV0Q3dJTkNRMExUUmk5Q3owTFhSanlBbzBKRFF0TkdMMExQUXRkR1BLVEVWTUJNR0ExVUVCd3dNMEp6UXNOQzUwTHJRdnRDL01UY3dOUVlEVlFRS0RDN1FrOUNSMEtNZzBLRFFrQ0FpMEpyUXB0Q2gwSjdRblNEUXNpRFFzeTRnMEp6UXNOQzUwTHJRdnRDLzBMVWlNU293S0FZRFZRUXFEQ0hRa05DOTBMYlF0ZEM3MExqUXV0Q3dJTkNYMExEUmc5R0EwTDdRc3RDOTBMQXhGekFWQmdOVkJBUU1EdENhMExEUmdOR0gwTERRc3RDd01TRXdId1lEVlFRTURCalFydEdBMExqUmdkQzYwTDdRdmRHQjBZUFF1OUdNMFlJeE9UQTNCZ05WQkFNTU1OQ2EwTERSZ05HSDBMRFFzdEN3SU5DUTBMM1F0dEMxMEx2UXVOQzYwTEFnMEpmUXNOR0QwWURRdnRDeTBMM1FzREJqTUJ3R0JpcUZBd0lDRXpBU0JnY3FoUU1DQWlRQUJnY3FoUU1DQWg0QkEwTUFCRUFsNmVNeGlHTzRVZ2hySk15UUEzcjlkN255Y0UwQ2pJNVIzNENVZGxoV0UvdlYzb014dkNTUS82eERUOXY1Mmo3ZU5aNlVQSHo4Yjc4d3MxWUtnUGd5bzRJRWtUQ0NCSTB3REFZRFZSMFRBUUgvQkFJd0FEQWRCZ05WSFNBRUZqQVVNQWdHQmlxRkEyUnhBVEFJQmdZcWhRTmtjUUl3UFFZRFZSMFJCRFl3TktBU0JnTlZCQXlnQ3hNSk5UQTFNVFExT1RNMW9Cc0dDaXFGQXdNOW50YzJBUVdnRFJNTE1ETTNOakF3TURBd01ER0dBVEF3TmdZRktvVURaRzhFTFF3ckl0Q2EwWURRdU5DLzBZTFF2dENmMFlEUXZpQkRVMUFpSUNqUXN0QzEwWURSZ2RDNDBZOGdNeTQyS1RDQ0FXRUdCU3FGQTJSd0JJSUJWakNDQVZJTVJDTFFtdEdBMExqUXY5R0MwTDdRbjlHQTBMNGdRMU5RSWlBbzBMTFF0ZEdBMFlIUXVOR1BJRE11TmlrZ0tOQzQwWUhRdjlDKzBMdlF2ZEMxMEwzUXVOQzFJRElwREdnaTBKL1JnTkMrMExQUmdOQ3cwTHpRdk5DOTBMNHQwTERRdjlDLzBMRFJnTkN3MFlMUXZkR0wwTGtnMExyUXZ0QzgwTC9RdTlDMTBMclJnU0FpMEs3UXZkQzQwWUhRdGRHQTBZSXQwSlBRbnRDaDBLSWlMaURRa3RDMTBZRFJnZEM0MFk4Z01pNHhJZ3hQMEtIUXRkR0EwWUxRdU5HRTBMalF1dEN3MFlJZzBZSFF2dEMrMFlMUXN0QzEwWUxSZ2RHQzBMTFF1TkdQSU9LRWxpRFFvZENrTHpFeU5DMHlOek00SU5DKzBZSWdNREV1TURjdU1qQXhOUXhQMEtIUXRkR0EwWUxRdU5HRTBMalF1dEN3MFlJZzBZSFF2dEMrMFlMUXN0QzEwWUxSZ2RHQzBMTFF1TkdQSU9LRWxpRFFvZENrTHpFeU9DMHlNVGMxSU5DKzBZSWdNakF1TURZdU1qQXhNekFPQmdOVkhROEJBZjhFQkFNQ0ErZ3dNd1lEVlIwbEJDd3dLZ1lJS3dZQkJRVUhBd0lHRGlxRkF3TTludGMyQVFZREJBRUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkJEQXJCZ05WSFJBRUpEQWlnQTh5TURFMk1EVXhNVEUwTURBeE0xcUJEekl3TVRjd09ERXhNVFF3TURFeldqQ0NBWThHQTFVZEl3U0NBWVl3Z2dHQ2dCU2VjUTRQMnJRQktGOC80c3VQWlJXWEFrZU1xNkdDQVdXa2dnRmhNSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTENDQVFFd1hnWURWUjBmQkZjd1ZUQXBvQ2VnSllZamFIUjBjRG92TDJOeWJDNXliM05yWVhwdVlTNXlkUzlqY213dlptc3dNUzVqY213d0tLQW1vQ1NHSW1oMGRIQTZMeTlqY213dVpuTm1heTVzYjJOaGJDOWpjbXd2Wm1zd01TNWpjbXd3SFFZRFZSME9CQllFRkNHMUV0cWhTOEhFSEVIU3RsWXB3TVZtQm5yTk1BZ0dCaXFGQXdJQ0F3TkJBR2FPdlhIVzZPVXkvaVd1SjEzTmp2dWJFV3B3QTFrV1poVEZZamY5YW5BV20ybUxvdEU4clBvYlpOWXN1TXhEZEtxcE9QYVMwWFgxNlpqaUlXZTZ1TUl4Z2dQM01JSUQ4d0lCQVRDQ0FXWXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzQUlERm81UU1Bb0dCaXFGQXdJQ0NRVUFvSUlDS0RBWUJna3Foa2lHOXcwQkNRTXhDd1lKS29aSWh2Y05BUWNCTUJ3R0NTcUdTSWIzRFFFSkJURVBGdzB4TmpBNU1qa3hORFF4TlROYU1DOEdDU3FHU0liM0RRRUpCREVpQkNEUFRDWk5nZitZbnFIYU44d3lhVWxjUEFsTnVVdHlZbHQ3VmpyYWNEVnRYRENDQWJzR0N5cUdTSWIzRFFFSkVBSXZNWUlCcWpDQ0FhWXdnZ0dpTUlJQm5qQUlCZ1lxaFFNQ0Fna0VJTGVJZ1BMeWtWa1YvblZpZnVyUGZTVFZTdDk4ZWZmdmY4RnpMamN6UmNNcE1JSUJiakNDQVdXa2dnRmhNSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTEFDQXhhT1VEQUtCZ1lxaFFNQ0FoTUZBQVJBRW5yclNpeDE2cEJFSlVFMlZ3Wkl4QXVnNG9RQnJFMDYzd0hldW4vMlNwQTBPa3BLZm9mK0FMVUg5Q1NmY05HcmhMODRiRllKc0NzekJDTjAvb2x6YlE9PQ==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

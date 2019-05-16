@@ -1,0 +1,2016 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11357772</id>
+            <planNumber>44201603762000052001</planNumber>
+            <year>2016</year>
+            <versionNumber>6</versionNumber>
+            <owner>
+                <regNum>03762000052</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ КАЗЕННОЕ  УЧРЕЖДЕНИЕ  РЕСПУБЛИКИ АДЫГЕЯ "ЦЕНТР ЗАНЯТОСТИ НАСЕЛЕНИЯ ГОРОДА МАЙКОПА"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-08-10T16:21:05.472+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-08-10T16:06:15.913+03:00</confirmDate>
+            <publishDate>2016-08-11T09:41:04.751+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000052</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ КАЗЕННОЕ  УЧРЕЖДЕНИЕ  РЕСПУБЛИКИ АДЫГЕЯ "ЦЕНТР ЗАНЯТОСТИ НАСЕЛЕНИЯ ГОРОДА МАЙКОПА"</fullName>
+                <shortName>ГКУ РА "ЦЗН города Майкопа"</shortName>
+                <postAddress>Российская Федерация, 385008, Адыгея Респ, Майкоп г, ПИРОГОВА, 138/А</postAddress>
+                <factAddress>Российская Федерация, 385008, Адыгея Респ, Майкоп г, ПИРОГОВА, 138/А</factAddress>
+                <INN>0105033194</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Белогубова</lastName>
+            <firstName>Наталья</firstName>
+            <middleName>Сергеевна</middleName>
+            <phone>8-8772-555926</phone>
+            <email>centerz@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000015</positionNumber>
+                        <extNumber>33772</extNumber>
+                        <orderNumber>15</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000005610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>263340.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Обучение безработных граждан по профессии «Охранник 6 разряда»</contractSubjectName>
+                        <contractMaxPrice>263340.00</contractMaxPrice>
+                        <payments>263340.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-01T15:40:11.182+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19.000</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Обучение безработных граждан по профессии </name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>263340.00</sumMax>
+                            <price>13167.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>5266.80</amount>
+                        </purchaseFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016г.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000013</positionNumber>
+                        <extNumber>29212</extNumber>
+                        <orderNumber>13</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>79000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Оператор заправочных станций » в 2016 году</contractSubjectName>
+                        <contractMaxPrice>79000.00</contractMaxPrice>
+                        <payments>79000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Оператор заправочных станций » в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>79000.00</sumMax>
+                            <price>7900.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2370.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>7900.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000014</positionNumber>
+                        <extNumber>29218</extNumber>
+                        <orderNumber>14</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>127500.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Маникюрша» в 2016 году</contractSubjectName>
+                        <contractMaxPrice>127500.00</contractMaxPrice>
+                        <payments>127500.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Маникюрша» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>127500.00</sumMax>
+                            <price>8500.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>15.00</quantity>
+                            <quantityCurrentYear>15.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>3825.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>12750.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000012</positionNumber>
+                        <extNumber>29207</extNumber>
+                        <orderNumber>12</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>154660.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Оператор котельной» в 2016 году</contractSubjectName>
+                        <contractMaxPrice>154660.00</contractMaxPrice>
+                        <payments>154660.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Оператор котельной» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>154660.00</sumMax>
+                            <price>7733.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4639.80</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>15466.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000001</positionNumber>
+                        <extNumber>29190</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>201750.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Оператор электронно-вычислительных и вычислительных машин»  в 2016 году.</contractSubjectName>
+                        <contractMaxPrice>201750.00</contractMaxPrice>
+                        <payments>201750.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Оператор                              электронно-вычислительных и вычислительных машин»  в 2016 году.</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>201750.00</sumMax>
+                            <price>20175.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>6052.50</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>20175.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000007</positionNumber>
+                        <extNumber>29194</extNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>95000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Оператор электронно-вычислительных и вычислительных машин» в 2016 году.</contractSubjectName>
+                        <contractMaxPrice>95000.00</contractMaxPrice>
+                        <payments>95000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Оператор                                  электронно-вычислительных и вычислительных машин» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>95000.00</sumMax>
+                            <price>9500.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2850.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>9500.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок окаания услуг до 31.12.2016года</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000010</positionNumber>
+                        <extNumber>29201</extNumber>
+                        <orderNumber>10</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>322500.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Парикмахер» в 2016 году</contractSubjectName>
+                        <contractMaxPrice>322500.00</contractMaxPrice>
+                        <payments>322500.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Парикмахер» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>322500.00</sumMax>
+                            <price>21500.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>15.00</quantity>
+                            <quantityCurrentYear>15.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>6450.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>32250.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000006</positionNumber>
+                        <extNumber>29229</extNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>96670.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Визажист» в 2016 году</contractSubjectName>
+                        <contractMaxPrice>96670.00</contractMaxPrice>
+                        <payments>96670.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Визажист» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>96670.00</sumMax>
+                            <price>9667.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2900.10</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>9667.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000009</positionNumber>
+                        <extNumber>29197</extNumber>
+                        <orderNumber>9</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>90000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Бухгалтер» в 2016 году.</contractSubjectName>
+                        <contractMaxPrice>90000.00</contractMaxPrice>
+                        <payments>90000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Обучение безработных граждан по Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Бухгалтер» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>90000.00</sumMax>
+                            <price>6000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>15.00</quantity>
+                            <quantityCurrentYear>15.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2700.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>9000.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000017</positionNumber>
+                        <extNumber>35423</extNumber>
+                        <orderNumber>17</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015400150270244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>770000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.39</code>
+                                <name>Производство прочих отделочных и завершающих работ</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Работы по ремонту здания ГКУ РА «ЦЗН города Майкопа»  в соответствии с требованиями государственной программы «Доступная среда».</contractSubjectName>
+                        <contractMaxPrice>770000.00</contractMaxPrice>
+                        <payments>770000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-11T09:41:04.751+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.39.11.190</code>
+                                <name>Работы отделочные декоративные прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>работы по ремонту здания ГКУ РА «ЦЗН города Майкопа»  в соответствии с требованиями государственной программы «Доступная среда»</name>
+                            <minRequirement>Согласно документации</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>770000.00</sumMax>
+                            <price>770000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>7700.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>38500.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Согласно документации</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000003</positionNumber>
+                        <extNumber>29221</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>140000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Водитель автомобиля категории С» в 2016 году</contractSubjectName>
+                        <contractMaxPrice>140000.00</contractMaxPrice>
+                        <payments>140000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Водитель автомобиля категории С» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>140000.00</sumMax>
+                            <price>14000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4200.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>14000.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000002</positionNumber>
+                        <extNumber>29219</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>159340.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Кассир торгового зала» в 2016 году</contractSubjectName>
+                        <contractMaxPrice>159340.00</contractMaxPrice>
+                        <payments>159340.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Кассир торгового зала» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>159340.00</sumMax>
+                            <price>7967.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>4780.20</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>15934.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000004</positionNumber>
+                        <extNumber>29222</extNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>120000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Водитель автомобиля категории В» в 2016 году</contractSubjectName>
+                        <contractMaxPrice>120000.00</contractMaxPrice>
+                        <payments>120000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Водитель автомобиля категории В» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>120000.00</sumMax>
+                            <price>12000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>3600.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>12000.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000008</positionNumber>
+                        <extNumber>29195</extNumber>
+                        <orderNumber>8</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>339990.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Охранник»  в 2016 году</contractSubjectName>
+                        <contractMaxPrice>339990.00</contractMaxPrice>
+                        <payments>339990.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Охранник»  в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>339990.00</sumMax>
+                            <price>11333.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>30.00</quantity>
+                            <quantityCurrentYear>30.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>10199.70</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>33999.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг  до 31.12.2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000005</positionNumber>
+                        <extNumber>29225</extNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>94670.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Повар» в 2016 году</contractSubjectName>
+                        <contractMaxPrice>94670.00</contractMaxPrice>
+                        <payments>94670.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Повар» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил
+</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>94670.00</sumMax>
+                            <price>9467.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2840.10</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>9467.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000016</positionNumber>
+                        <extNumber>35419</extNumber>
+                        <orderNumber>16</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>836040154001R0270244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>299786.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.39</code>
+                                <name>Производство прочих отделочных и завершающих работ</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>работы по ремонту здания ГКУ РА «ЦЗН города Майкопа»  в соответствии с требованиями государственной программы «Доступная среда» .</contractSubjectName>
+                        <contractMaxPrice>299786.00</contractMaxPrice>
+                        <payments>299786.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-11T09:41:04.751+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.39.11.190</code>
+                                <name>Работы отделочные декоративные прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>работы по ремонту здания ГКУ РА «ЦЗН города Майкопа»  в соответствии с требованиями государственной программы «Доступная среда» </name>
+                            <minRequirement>Согласно документации </minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>299786.00</sumMax>
+                            <price>299786.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2997.86</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>14989.30</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Согласно документации</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000052001000011</positionNumber>
+                        <extNumber>29205</extNumber>
+                        <orderNumber>11</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>70000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Основы предпринимательской деятельности» в 2016 году</contractSubjectName>
+                        <contractMaxPrice>70000.00</contractMaxPrice>
+                        <payments>70000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-25T15:42:52.224+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.42.19</code>
+                                <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и (или) дополнительному профессиональному образованию безработных граждан, состоящих на учете в ГКУ РА «ЦЗН города Майкопа», женщин, находящихся в отпуске по уходу за ребенком до достижения им возраста трех лет, незанятых граждан, которым в соответствии с законодательством Российской Федерации назначена трудовая пенсия по старости и которые стремятся возобновить трудовую деятельность по профессии «Основы предпринимательской деятельности» в 2016 году</name>
+                            <minRequirement>предлагаемые услуги должны соответствовать требованиям технического задания и выполняться в строгом соответствии с требованиями государственных стандартов, технических условий, санитарных норм и правил</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>70000.00</sumMax>
+                            <price>7000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2100.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>7000.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Срок оказания услуг до 31.12.2016 года.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>00000005610100000244</code>
+                                    <amount>466760.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>83604015630200500244</code>
+                                    <amount>775360.16</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>83604015610100000244</code>
+                                    <amount>698100.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>836040154001R0270244</code>
+                                    <amount>28100.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000005630200500244</code>
+                                    <amount>28354.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1996674.16</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>1655626.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>5420880.16</sumContractMaxPrice>
+                    <sumPaymentsTotal>5420880.16</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11357772</url>
+            <signature>TUlJTkRnWUpLb1pJaHZjTkFRY0NvSUlNL3pDQ0RQc0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqZU1JSUkyakNDQ0ltZ0F3SUJBZ0lERllhSU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EUXhNVEV5TlRZd01Gb1hEVEUzTURjeE1URXlOVFl3TUZvd2dnR3BNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV3TWpJd05URTRNVEVXTUJRR0JTcUZBMlFERWdzd05UazNOalF5TlRZeE1URWVNQndHQ1NxR1NJYjNEUUVKQVJZUFkyVnVkR1Z5ZWtCdFlXbHNMbkoxTVFzd0NRWURWUVFHRXdKU1ZURThNRG9HQTFVRUNBd3pNREVnMEtEUXRkR0IwTC9SZzlDeDBMdlF1TkM2MExBZzBKRFF0TkdMMExQUXRkR1BJQ2pRa05DMDBZdlFzOUMxMFk4cE1SVXdFd1lEVlFRSERBelFuTkN3MExuUXV0QyswTDh4T1RBM0JnTlZCQW9NTU5DVDBKclFveURRb05DUUlDTFFwdENYMEowZzBMUFF2dEdBMEw3UXROQ3dJTkNjMExEUXVkQzYwTDdRdjlDd0lqRXFNQ2dHQTFVRUtnd2gwSjNRc05HQzBMRFF1OUdNMFk4ZzBLSFF0ZEdBMExQUXRkQzEwTExRdmRDd01SMHdHd1lEVlFRRURCVFFrZEMxMEx2UXZ0Q3owWVBRc2RDKzBMTFFzREVxTUNnR0ExVUVEQXdoMEpMUXRkQzAwWVBSaWRDNDBMa2cwTEhSZzlHRjBMUFFzTkM3MFlMUXRkR0FNVDh3UFFZRFZRUURERGJRa2RDMTBMdlF2dEN6MFlQUXNkQyswTExRc0NEUW5kQ3cwWUxRc05DNzBZelJqeURRb2RDMTBZRFFzOUMxMExYUXN0QzkwTEF3WXpBY0JnWXFoUU1DQWhNd0VnWUhLb1VEQWdJa0FBWUhLb1VEQWdJZUFRTkRBQVJBTXo2M1FQeW5XOFZFdUc5Um1qMDBFL2l0bklTY3RXb2hBTnNxYUdSZ2cxVjNPMVBqMzVIeTF2TXRhZThKckZJdzd2UlVrVE9ZQWs4ZjU3VEdvZjlvaXFPQ0JONHdnZ1RhTUF3R0ExVWRFd0VCL3dRQ01BQXdIUVlEVlIwZ0JCWXdGREFJQmdZcWhRTmtjUUV3Q0FZR0tvVURaSEVDTUZ3R0ExVWRFUVJWTUZPZ0VnWURWUVFNb0FzVENUTXpNVEUxTVRFMU5xQWJCZ29xaFFNRFBaN1hOZ0VGb0EwVEN6QXpOell5TURBd01EVXlvQjBHQ2lxRkF3TTludGMyQVFpZ0R4TU5NRE0zTmpJd01EQXdNREExTTRZQk1EQTJCZ1VxaFFOa2J3UXREQ3NpMEpyUmdOQzQwTC9SZ3RDKzBKL1JnTkMrSUVOVFVDSWdLTkN5MExYUmdOR0IwTGpSanlBekxqWXBNSUlCWVFZRktvVURaSEFFZ2dGV01JSUJVZ3hFSXRDYTBZRFF1TkMvMFlMUXZ0Q2YwWURRdmlCRFUxQWlJQ2pRc3RDMTBZRFJnZEM0MFk4Z015NDJLU0FvMExqUmdkQy8wTDdRdTlDOTBMWFF2ZEM0MExVZ01pa01hQ0xRbjlHQTBMN1FzOUdBMExEUXZOQzgwTDNRdmkzUXNOQy8wTC9Rc05HQTBMRFJndEM5MFl2UXVTRFF1dEMrMEx6UXY5QzcwTFhRdXRHQklDTFFydEM5MExqUmdkQzEwWURSZ2kzUWs5Q2UwS0hRb2lJdUlOQ1MwTFhSZ05HQjBMalJqeUF5TGpFaURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEkwTFRJM016Z2cwTDdSZ2lBd01TNHdOeTR5TURFMURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEk0TFRJeE56VWcwTDdSZ2lBeU1DNHdOaTR5TURFek1BNEdBMVVkRHdFQi93UUVBd0lENkRCaEJnTlZIU1VFV2pCWUJnZ3JCZ0VGQlFjREFnWU9Lb1VEQXoyZTF6WUJCZ01FQVFFR0RpcUZBd005bnRjMkFRWURCQUVDQmc0cWhRTURQWjdYTmdFR0F3UUJCQVlOS29VREF6MmUxellCQmdNRkFRWU5Lb1VEQXoyZTF6WUJCZ01GQWpBckJnTlZIUkFFSkRBaWdBOHlNREUyTURReE1URXlOVFV5TkZxQkR6SXdNVGN3TnpFeE1USTFOVEkwV2pDQ0FZOEdBMVVkSXdTQ0FZWXdnZ0dDZ0JTZWNRNFAyclFCS0Y4LzRzdVBaUldYQWtlTXE2R0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQ0NBUUV3WGdZRFZSMGZCRmN3VlRBcG9DZWdKWVlqYUhSMGNEb3ZMMk55YkM1eWIzTnJZWHB1WVM1eWRTOWpjbXd2Wm1zd01TNWpjbXd3S0tBbW9DU0dJbWgwZEhBNkx5OWpjbXd1Wm5ObWF5NXNiMk5oYkM5amNtd3ZabXN3TVM1amNtd3dIUVlEVlIwT0JCWUVGQk1ac2xlVU1OeW5acmpGQ0x0STlxSjQvYnpWTUFnR0JpcUZBd0lDQXdOQkFOTFd3aUxPWEYvS0VEV2VkRTFBQlZ5WWI5WHBnUTR2R05FTmtrSk00Rm9lQm00aHo1UUVydW9pZjhENUFJTGUvVEs4MGs4NnA5eG03YVlVMER2a0wvc3hnZ1AzTUlJRDh3SUJBVENDQVdZd2dnRmRNUmd3RmdZSktvWklodmNOQVFrQ0V3bFRaWEoyWlhJZ1EwRXhJREFlQmdrcWhraUc5dzBCQ1FFV0VYVmpYMlpyUUhKdmMydGhlbTVoTG5KMU1Sd3dHZ1lEVlFRSURCTTNOeURRc3k0ZzBKelF2dEdCMExyUXN0Q3dNUm93R0FZSUtvVURBNEVEQVFFU0REQXdOemN4TURVMk9EYzJNREVZTUJZR0JTcUZBMlFCRWcweE1EUTNOemszTURFNU9ETXdNU3d3S2dZRFZRUUpEQ1BSZzlDNzBMalJodEN3SU5DWTBMdlJqTkM0MEwzUXV0Q3dMQ0RRdE5DKzBMd2dOekVWTUJNR0ExVUVCd3dNMEp6UXZ0R0IwTHJRc3RDd01Rc3dDUVlEVlFRR0V3SlNWVEU0TURZR0ExVUVDZ3d2MEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXRTRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MEw0eFB6QTlCZ05WQkFNTU50Q2owS1lnMEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXM5QytJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXNBSURGWWFJTUFvR0JpcUZBd0lDQ1FVQW9JSUNLREFZQmdrcWhraUc5dzBCQ1FNeEN3WUpLb1pJaHZjTkFRY0JNQndHQ1NxR1NJYjNEUUVKQlRFUEZ3MHhOakE0TVRFd05qTTRNakZhTUM4R0NTcUdTSWIzRFFFSkJERWlCQ0JwWlpUc0ZYTDZCWG9BK0NUdHNCYlExVmhJSkZ6NGVvNVlHTlBiUkxJUmZ6Q0NBYnNHQ3lxR1NJYjNEUUVKRUFJdk1ZSUJxakNDQWFZd2dnR2lNSUlCbmpBSUJnWXFoUU1DQWdrRUlCREY4VElFOVZHbkpYM2Q5TGJPQ0xGL3ZDVXkzUmdXSlVPRFgwV3IrTFIzTUlJQmJqQ0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeFdHaURBS0JnWXFoUU1DQWhNRkFBUkFlU00yZDMvTU1MZS81KzdCdGludGRab3lLcVplS3lwRy9RcXA0V3lqN1NQdU5kcnMzSFdyemp5NEpXcGZLM1ExQWNJNnVQL2Q0ZTZUS1J0bCtZODBndz09</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

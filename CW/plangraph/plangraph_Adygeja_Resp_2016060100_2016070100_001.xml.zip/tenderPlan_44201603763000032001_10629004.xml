@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>10629004</id>
+            <planNumber>44201603763000032001</planNumber>
+            <year>2016</year>
+            <versionNumber>10</versionNumber>
+            <owner>
+                <regNum>03763000032</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "НАЧАЛЬНАЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 26"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-06-20T12:22:07.537+03:00</createDate>
+            <description>Закупка для нужд МБОУ "НОШ № 26"</description>
+            <confirmDate>2016-01-21T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-06-20T12:29:43.796+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000032</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "НАЧАЛЬНАЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 26"</fullName>
+                <shortName>МБОУ "НОШ № 26"</shortName>
+                <postAddress>Российская Федерация, 385060, Адыгея Респ, Майкоп г, Ханская ст-ца, Интернациональная, 112</postAddress>
+                <factAddress>Российская Федерация, 385060, Адыгея Респ, Майкоп г, Ханская ст-ца, Интернациональная, 112</factAddress>
+                <INN>0105032017</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Арешкина</lastName>
+            <firstName>Елена</firstName>
+            <middleName>Ивановна</middleName>
+            <phone>8(8772)565250</phone>
+            <email>nosch-26@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000032001000001</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000225</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>2800.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>95.11</code>
+                                <name>Ремонт компьютеров и периферийного компьютерного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по заправке, восстановлению и замене картриджей</contractSubjectName>
+                        <contractMaxPrice>2800.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                        </jointBiddingInfo>
+                        <positionPublishDate>2016-03-18T17:05:25.145+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по заправке, восстановлению и замене картриджей.</name>
+                            <minRequirement>Заправка: работы по заправке картриджей должны быть выполненыв соответствии с нормативами; не допускается эффект грязного/серого листа, дефектов изображения; при выполнении работы недопустимо использование комплектующих изделий и расходных материалов бывших в употреблении; использование только оригинального тонера для каждого типа картриджей; исключить просыпание тонера внутрь принтера; заправка осуществляется в сервисном центре Исполнителя. Заправленные картриджи должны иметь индивидуальную упаковку.
+Восстановление: после проведения восстановления картриджи должны соответствовать всем техническим характеристикам, содержать новые детали: фотобарабан, ракель, ролик заряда, магнитный вал, чип.
+Замена: новый картридж должен находиться в заводской упаковке без признаков ее нарушения.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>2.80</sumMax>
+                            <price>0.28</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% начальной (максимальной цены контракта)</procedure>
+                            <amount>0.28</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% начальной (максимальной цены контракта)</procedure>
+                            <amount>1.40</amount>
+                        </contractFinCondition>
+                        <advance>Аванс не предесмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>по мере необходимости</contractExecutionStages>
+                            <periodicity>в течение 3-х (трех) дней, с момента поступления заявки</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>12041000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>2800000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000340</code>
+                                    <amount>581760.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>1705000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>10000000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000340</code>
+                                    <amount>4200000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>5000000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>51200000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>1185000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000310</code>
+                                    <amount>42000000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>5064000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>8100000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>1500000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000221</code>
+                                    <amount>30000000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>800000.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>176176760.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>2800.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>0.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>176179560.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=10629004</url>
+            <signature>TUlJTTRnWUpLb1pJaHZjTkFRY0NvSUlNMHpDQ0RNOENBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dpeU1JSUlyakNDQ0YyZ0F3SUJBZ0lERlZGSE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EUXdOREE1TlRRMU4xb1hEVEUzTURjd05EQTVOVFExTjFvd2dnRnRNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV3TXpnd09UTTROekVXTUJRR0JTcUZBMlFERWdzd05qQTBNekUwTXpReE1qRWZNQjBHQ1NxR1NJYjNEUUVKQVJZUWJtOXpZMmd0TWpaQWJXRnBiQzV5ZFRFTE1Ba0dBMVVFQmhNQ1VsVXhQREE2QmdOVkJBZ01NekF4SU5DZzBMWFJnZEMvMFlQUXNkQzcwTGpRdXRDd0lOQ1EwTFRSaTlDejBMWFJqeUFvMEpEUXROR0wwTFBRdGRHUEtURVZNQk1HQTFVRUJ3d00wSnpRc05DNTBMclF2dEMvTVNFd0h3WURWUVFLREJqUW5OQ1IwSjdRb3lBaTBKM1FudENvSU9LRWxpQXlOaUl4SkRBaUJnTlZCQ29NRzlDVjBMdlF0ZEM5MExBZzBKalFzdEN3MEwzUXZ0Q3kwTDNRc0RFWk1CY0dBMVVFQkF3UTBKRFJnTkMxMFlqUXV0QzQwTDNRc0RFWk1CY0dBMVVFREF3UTBKVFF1TkdBMExYUXV0R0MwTDdSZ0RFMU1ETUdBMVVFQXd3czBKRFJnTkMxMFlqUXV0QzQwTDNRc0NEUWxkQzcwTFhRdmRDd0lOQ1kwTExRc05DOTBMN1FzdEM5MExBd1l6QWNCZ1lxaFFNQ0FoTXdFZ1lIS29VREFnSWtBQVlIS29VREFnSWVBUU5EQUFSQUIwTzVyZVpiakNCWmhDdWJEN1E2bkE4Qk1LVU9NK05WZjBNRmtQZEtBa0RtWVBPUTJpUjhVdjFWRjZnRW9VU1VuTFhTYWRRRm9qSzBMT2VXUm1CR3ZhT0NCTzR3Z2dUcU1Bd0dBMVVkRXdFQi93UUNNQUF3SFFZRFZSMGdCQll3RkRBSUJnWXFoUU5rY1FFd0NBWUdLb1VEWkhFQ01Gd0dBMVVkRVFSVk1GT2dFZ1lEVlFRTW9Bc1RDVFF3TkRFd05UTTBNNkFiQmdvcWhRTURQWjdYTmdFRm9BMFRDekF6TnpZek1EQXdNRE15b0IwR0NpcUZBd005bnRjMkFRaWdEeE1OTURNM05qTXdNREF3TURBeU9ZWUJNREEyQmdVcWhRTmtid1F0RENzaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwTUlJQllRWUZLb1VEWkhBRWdnRldNSUlCVWd4RUl0Q2EwWURRdU5DLzBZTFF2dENmMFlEUXZpQkRVMUFpSUNqUXN0QzEwWURSZ2RDNDBZOGdNeTQyS1NBbzBMalJnZEMvMEw3UXU5QzkwTFhRdmRDNDBMVWdNaWtNYUNMUW45R0EwTDdRczlHQTBMRFF2TkM4MEwzUXZpM1FzTkMvMEwvUXNOR0EwTERSZ3RDOTBZdlF1U0RRdXRDKzBMelF2OUM3MExYUXV0R0JJQ0xRcnRDOTBMalJnZEMxMFlEUmdpM1FrOUNlMEtIUW9pSXVJTkNTMExYUmdOR0IwTGpSanlBeUxqRWlERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJMExUSTNNemdnMEw3UmdpQXdNUzR3Tnk0eU1ERTFERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJNExUSXhOelVnMEw3UmdpQXlNQzR3Tmk0eU1ERXpNQTRHQTFVZER3RUIvd1FFQXdJRDZEQnhCZ05WSFNVRWFqQm9CZ2dyQmdFRkJRY0RBZ1lPS29VREF6MmUxellCQmdNRUFRRUdEaXFGQXdNOW50YzJBUVlEQkFFQ0JnNHFoUU1EUFo3WE5nRUdBd1FCQXdZT0tvVURBejJlMXpZQkJnTUVBUVFHRFNxRkF3TTludGMyQVFZREJRRUdEU3FGQXdNOW50YzJBUVlEQlFJd0t3WURWUjBRQkNRd0lvQVBNakF4TmpBME1EUXdPVFUwTXpSYWdROHlNREUzTURjd05EQTVOVFF6TkZvd2dnR1BCZ05WSFNNRWdnR0dNSUlCZ29BVW5uRU9EOXEwQVNoZlArTExqMlVWbHdKSGpLdWhnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dnZ0VCTUY0R0ExVWRId1JYTUZVd0thQW5vQ1dHSTJoMGRIQTZMeTlqY213dWNtOXphMkY2Ym1FdWNuVXZZM0pzTDJack1ERXVZM0pzTUNpZ0pxQWtoaUpvZEhSd09pOHZZM0pzTG1aelptc3ViRzlqWVd3dlkzSnNMMlpyTURFdVkzSnNNQjBHQTFVZERnUVdCQlJGYm9rMEZ6S0R1NTZ2YWJWZmJ0MTdpUmRQSURBSUJnWXFoUU1DQWdNRFFRQmZQVEIzd3ZvdnN5djVGZlBLcGFrK0FjOGVjTGNZbkZycXRxL2JaQVlsZlRaMS92dXFnT0NJOS9BbXhCRGJxZ3hiZ0dMRU9jMjQ2c0E0K25JblNtRWNNWUlEOXpDQ0EvTUNBUUV3Z2dGbU1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeFZSUnpBS0JnWXFoUU1DQWdrRkFLQ0NBaWd3R0FZSktvWklodmNOQVFrRE1Rc0dDU3FHU0liM0RRRUhBVEFjQmdrcWhraUc5dzBCQ1FVeER4Y05NVFl3TmpJd01Ea3lPVFEzV2pBdkJna3Foa2lHOXcwQkNRUXhJZ1FnOHJOVzIxVFBZRzhhTW82RlFzU1U0QlAvOTdXeVFiQ0hNMDIrUU1aWUVOa3dnZ0c3QmdzcWhraUc5dzBCQ1JBQ0x6R0NBYW93Z2dHbU1JSUJvakNDQVo0d0NBWUdLb1VEQWdJSkJDQ2xaN3BOczBiai9oR0RnaGZOU0YyZk9IUUpIMm5XSm5GakFUK0IwM0VMR3pDQ0FXNHdnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dBZ01WVVVjd0NnWUdLb1VEQWdJVEJRQUVRSWpoNmlPMkVGZmd3NFJFMnNocFZQQlAyaE8xSUtNSS8xTFQ2Y3ZJSEloeG1uZER6bGxibGVoME5uQkprMk1lS3dCeXhqZ2ZvSkRpREt6TGpUSnc4NG89</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

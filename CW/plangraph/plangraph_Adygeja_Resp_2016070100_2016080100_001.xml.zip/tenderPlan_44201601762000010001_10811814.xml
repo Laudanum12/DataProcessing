@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>10811814</id>
+            <planNumber>44201601762000010001</planNumber>
+            <year>2016</year>
+            <versionNumber>5</versionNumber>
+            <owner>
+                <regNum>01762000010</regNum>
+                <fullName>Центральная избирательная комиссия Республики Адыгея</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-07-01T11:29:48.607+03:00</createDate>
+            <description>План-график размещения заказов на поставку товаров, выполнение работ, оказание услуг для обеспечения нужд Центральной избирательной комиссии Республики Адыгея</description>
+            <confirmDate>2015-12-23T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-07-01T11:55:18.557+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>01762000010</regNum>
+                <fullName>Центральная избирательная комиссия Республики Адыгея</fullName>
+                <shortName>ЦИК Адыгеи</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Пионерская, 199, -</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Пионерская, 199, -</factAddress>
+                <INN>0105020597</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000001</code>
+                <name>г Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Денисенко</lastName>
+            <firstName>Ольга</firstName>
+            <middleName>Фанюсовна</middleName>
+            <phone>8(8772) 523137</phone>
+            <email>iksrf-01@yandex.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201601762000010001000001</positionNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>30801079440090019880</code>
+                                <amount>95100.00</amount>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.20</code>
+                                <name>Производство компьютеров и периферийного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка оргтехники</contractSubjectName>
+                        <contractMaxPrice>95100.00</contractMaxPrice>
+                        <payments>95100.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-07-01T11:55:18.557+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.16.110</code>
+                                <name>Клавиатуры</name>
+                            </OKPD2>
+                            <name>Клавиатура в комплекте с манипулятором мышь</name>
+                            <minRequirement>В соответствии с техническим заданием</minRequirement>
+                            <OKEI>
+                                <code>839</code>
+                                <name>Комплект</name>
+                            </OKEI>
+                            <sumMax>12300.00</sumMax>
+                            <price>12300.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.17.110</code>
+                                <name>Мониторы, подключаемые к компьютеру</name>
+                            </OKPD2>
+                            <name>Монитор</name>
+                            <minRequirement>В соответствии с техническим заданием</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>17700.00</sumMax>
+                            <price>17700.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.13.000</code>
+                                <name>Машины вычислительные электронные цифровые, содержащие в одном корпусе центральный процессор и устройство ввода и вывода, объединенные или нет для автоматической обработки данных</name>
+                            </OKPD2>
+                            <name>Системный блок</name>
+                            <minRequirement>В соответствии с техническим заданием</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>76164.00</sumMax>
+                            <price>25388.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>950.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>4760.00</amount>
+                        </contractFinCondition>
+                        <advance>30%</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.09.2016</contractExecutionStages>
+                            <periodicity>В течение  7 дней с даты подписания контракта</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8445051</code>
+                                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минэкономразвития России № 155 от 25.03.2014</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>82301076750100400244</code>
+                                    <amount>352513.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>30801079490090019242</code>
+                                    <amount>265900.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>82301076750400800244</code>
+                                    <amount>111000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>82301076750300700880</code>
+                                    <amount>400000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>30801079490090019244</code>
+                                    <amount>427900.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>30801079440090019880</code>
+                                    <amount>145300.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1702613.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>2157900.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>1797713.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=10811814</url>
+            <signature>TUlJTkVBWUpLb1pJaHZjTkFRY0NvSUlOQVRDQ0RQMENBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqZ01JSUkzRENDQ0l1Z0F3SUJBZ0lER0NheU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EWXlOekV6TURVek9Gb1hEVEUzTURreU56RXpNRFV6T0Zvd2dnSG9NUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV4TXpZeE5qY3dPREVXTUJRR0JTcUZBMlFERWdzd05UYzNPREkyTVRBNU9ERWdNQjRHQ1NxR1NJYjNEUUVKQVJZUk1ERmpaV055WVVCNVlXNWtaWGd1Y25VeEN6QUpCZ05WQkFZVEFsSlZNVHd3T2dZRFZRUUlERE13TVNEUW9OQzEwWUhRdjlHRDBMSFF1OUM0MExyUXNDRFFrTkMwMFl2UXM5QzEwWThnS05DUTBMVFJpOUN6MExYUmp5a3hHVEFYQmdOVkJBY01FTkN6TGlEUW5OQ3cwTG5RdXRDKzBMOHhiVEJyQmdOVkJBb01aTkNtMExYUXZkR0MwWURRc05DNzBZelF2ZEN3MFk4ZzBMalF0OUN4MExqUmdOQ3cwWUxRdGRDNzBZelF2ZEN3MFk4ZzBMclF2dEM4MExqUmdkR0IwTGpSanlEUW9OQzEwWUhRdjlHRDBMSFF1OUM0MExyUXVDRFFrTkMwMFl2UXM5QzEwWTh4SmpBa0JnTlZCQ29NSGRDZTBMdlJqTkN6MExBZzBLVFFzTkM5MFk3UmdkQyswTExRdmRDd01Sc3dHUVlEVlFRRURCTFFsTkMxMEwzUXVOR0IwTFhRdmRDNjBMNHhPekE1QmdOVkJBd01NdENUMEx2UXNOQ3kwTDNSaTlDNUlOR0IwTC9RdGRHRzBMalFzTkM3MExqUmdkR0NMZEdOMExyUmdkQy8wTFhSZ05HQ01Ua3dOd1lEVlFRRERERFFsTkMxMEwzUXVOR0IwTFhRdmRDNjBMNGcwSjdRdTlHTTBMUFFzQ0RRcE5DdzBMM1JqdEdCMEw3UXN0QzkwTEF3WXpBY0JnWXFoUU1DQWhNd0VnWUhLb1VEQWdJa0FBWUhLb1VEQWdJZUFRTkRBQVJBYVhsNXlNL0QxeW5EMXZKZkNoM3RyQSticTAzM1QzeUtJd0hTVjgydGt0bUs1dWRiMGdMWUtaSDZnQkwyYTFxYWdZd2d4MkorK2M4aGRFdzMvMXZMVEtPQ0JLRXdnZ1NkTUF3R0ExVWRFd0VCL3dRQ01BQXdIUVlEVlIwZ0JCWXdGREFJQmdZcWhRTmtjUUV3Q0FZR0tvVURaSEVDTUQwR0ExVWRFUVEyTURTZ0VnWURWUVFNb0FzVENUWXlOREV6TWpZek1hQWJCZ29xaFFNRFBaN1hOZ0VGb0EwVEN6QXhOell5TURBd01ERXdoZ0V3TURZR0JTcUZBMlJ2QkMwTUt5TFFtdEdBMExqUXY5R0MwTDdRbjlHQTBMNGdRMU5RSWlBbzBMTFF0ZEdBMFlIUXVOR1BJRE11Tmlrd2dnRmhCZ1VxaFFOa2NBU0NBVll3Z2dGU0RFUWkwSnJSZ05DNDBML1JndEMrMEovUmdOQytJRU5UVUNJZ0tOQ3kwTFhSZ05HQjBMalJqeUF6TGpZcElDalF1TkdCMEwvUXZ0QzcwTDNRdGRDOTBMalF0U0F5S1F4b0l0Q2YwWURRdnRDejBZRFFzTkM4MEx6UXZkQytMZEN3MEwvUXY5Q3cwWURRc05HQzBMM1JpOUM1SU5DNjBMN1F2TkMvMEx2UXRkQzYwWUVnSXRDdTBMM1F1TkdCMExYUmdOR0NMZENUMEo3UW9kQ2lJaTRnMEpMUXRkR0EwWUhRdU5HUElESXVNU0lNVDlDaDBMWFJnTkdDMExqUmhOQzQwTHJRc05HQ0lOR0IwTDdRdnRHQzBMTFF0ZEdDMFlIUmd0Q3kwTGpSanlEaWhKWWcwS0hRcEM4eE1qUXRNamN6T0NEUXZ0R0NJREF4TGpBM0xqSXdNVFVNVDlDaDBMWFJnTkdDMExqUmhOQzQwTHJRc05HQ0lOR0IwTDdRdnRHQzBMTFF0ZEdDMFlIUmd0Q3kwTGpSanlEaWhKWWcwS0hRcEM4eE1qZ3RNakUzTlNEUXZ0R0NJREl3TGpBMkxqSXdNVE13RGdZRFZSMFBBUUgvQkFRREFnUG9NRU1HQTFVZEpRUThNRG9HQ0NzR0FRVUZCd01DQmc0cWhRTURQWjdYTmdFR0F3UUJBUVlPS29VREF6MmUxellCQmdNRUFRSUdEaXFGQXdNOW50YzJBUVlEQkFFRU1Dc0dBMVVkRUFRa01DS0FEekl3TVRZd05qSTNNVE13TlRJd1dvRVBNakF4TnpBNU1qY3hNekExTWpCYU1JSUJqd1lEVlIwakJJSUJoakNDQVlLQUZKNXhEZy9hdEFFb1h6L2l5NDlsRlpjQ1I0eXJvWUlCWmFTQ0FXRXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzSUlCQVRCZUJnTlZIUjhFVnpCVk1DbWdKNkFsaGlOb2RIUndPaTh2WTNKc0xuSnZjMnRoZW01aExuSjFMMk55YkM5bWF6QXhMbU55YkRBb29DYWdKSVlpYUhSMGNEb3ZMMk55YkM1bWMyWnJMbXh2WTJGc0wyTnliQzltYXpBeExtTnliREFkQmdOVkhRNEVGZ1FVdGdzUjZnajF5L2t5VjRPNHRqN3JqK2RCdEJJd0NBWUdLb1VEQWdJREEwRUFEcC8xSko1YS92L1pwQ3NoS1hQQ29xc1greXNFbnNDYjIyb3BBWVlBMlNLczRLVUlVclhadVVFUUdKZ2ZxZXh1bzgwV0NSbHBoR0FmdVpEaDQxOTNFREdDQS9jd2dnUHpBZ0VCTUlJQlpqQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dBZ01ZSnJJd0NnWUdLb1VEQWdJSkJRQ2dnZ0lvTUJnR0NTcUdTSWIzRFFFSkF6RUxCZ2txaGtpRzl3MEJCd0V3SEFZSktvWklodmNOQVFrRk1ROFhEVEUyTURjd01UQTROVFV5TVZvd0x3WUpLb1pJaHZjTkFRa0VNU0lFSUZ4a2ovajhSNzd4YmJxQjZMa3pjbXE5NHBmREduVlRrRHF1aGxhcWthOG9NSUlCdXdZTEtvWklodmNOQVFrUUFpOHhnZ0dxTUlJQnBqQ0NBYUl3Z2dHZU1BZ0dCaXFGQXdJQ0NRUWdPS0ZuYWdLckZyeEtoRHY1QWRkekhNUVNHV0h4MkRwTEF2Z1NhcW9La2ljd2dnRnVNSUlCWmFTQ0FXRXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzQUlER0NheU1Bb0dCaXFGQXdJQ0V3VUFCRUNNTUY4ZEpVT2hLWGJ6bExYR2NMdkVGd1VEYnFmWm1KMGJWZ3RNZ0g1WEZJbUZGZ2JKMzlON0xIM3J3eWdwWXNDVkpCb1QyNTlMbXpuWTJJWWVuNVZ6</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

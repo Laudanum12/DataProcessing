@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11206726</id>
+            <externalId>e729879d-5c0b-424c-9218-3b36ad04d0d8</externalId>
+            <planNumber>44201699111111451004</planNumber>
+            <year>2016</year>
+            <versionNumber>2</versionNumber>
+            <owner>
+                <regNum>99111111451</regNum>
+                <fullName>Р1 ФО ТЕСТ</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-07-30T11:54:19.226+03:00</createDate>
+            <description>План график на 2016 год</description>
+            <confirmDate>2016-01-09T13:42:42.000+03:00</confirmDate>
+            <publishDate>2016-07-30T11:55:53.945+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>99111111451</regNum>
+                <fullName>Р1 ФО ТЕСТ</fullName>
+                <shortName>Р1 ФО ТЕСТ</shortName>
+                <postAddress>Российская Федерация, 423060, Адыгея Респ, Красногвардейское с, Ильинка, 15</postAddress>
+                <factAddress>Российская Федерация, 423060, Адыгея Респ, Красногвардейское с, Ильинка, 15</factAddress>
+                <INN>5000001451</INN>
+                <KPP>500001001</KPP>
+            </customer>
+            <OKTMO>
+                <code>92701000</code>
+                <name>город Казань</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Епифанцева</lastName>
+            <firstName>Жанна</firstName>
+            <middleName>Николаевна</middleName>
+            <phone>4012 990616</phone>
+            <fax>4012 990616</fax>
+            <email>ufk35@roskazna.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201699111111451004000004</positionNumber>
+                        <extNumber>5</extNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>10001063920490019242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>200400.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>95.11</code>
+                                <name>Ремонт компьютеров и периферийного компьютерного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по техническому обслуживанию вычислительной техники</contractSubjectName>
+                        <contractMaxPrice>200400.00</contractMaxPrice>
+                        <payments>200400.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-07-30T11:42:37.381+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Услуги по техническому обслуживанию и регламентно-профилактическому ремонту вычислительной техники  </name>
+                            <minRequirement>В соответствии с технической документацией</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>501.00</quantity>
+                            <quantityCurrentYear>501.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2004.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>60120.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>Ежеквартально</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201699111111451004000003</positionNumber>
+                        <extNumber>4</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>10001063920490019242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>175000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.20</code>
+                                <name>Производство компьютеров и периферийного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка системных блоков</contractSubjectName>
+                        <contractMaxPrice>175000.00</contractMaxPrice>
+                        <payments>175000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2016-07-30T11:42:37.381+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.15</code>
+                                <name>Машины вычислительные электронные цифровые прочие, содержащие или не содержащие в одном корпусе одно или два из следующих устройств для автоматической обработки данных: запоминающие устройства, устройства ввода, устройства вывода</name>
+                            </OKPD2>
+                            <name>Системный блок  </name>
+                            <minRequirement>В соответствии с технической документацией</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1750.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>52500.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>К указанному сроку</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201699111111451004000006</positionNumber>
+                        <extNumber>1</extNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>10001063920490019242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1023000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>28.23.2</code>
+                                <name>Производство фотокопировальных машин, офисных машин для офсетной печати и прочих офисных машин и оборудования и их составных частей</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка расходных материалов для оргтехники</contractSubjectName>
+                        <contractMaxPrice>1023000.00</contractMaxPrice>
+                        <payments>1023000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionPublishDate>2016-07-30T11:42:37.381+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.25</code>
+                                <name>Части и принадлежности прочих офисных машин</name>
+                            </OKPD2>
+                            <name>Расходные материалы для принтера Тип 2  </name>
+                            <minRequirement>В соответствии с технической документацией
+
+Расходные материалы для принтера Тип 2</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.25</code>
+                                <name>Части и принадлежности прочих офисных машин</name>
+                            </OKPD2>
+                            <name>Расходные материалы для принтера Тип 3  </name>
+                            <minRequirement>В соответствии с технической документацией
+
+Расходные материалы для принтера Тип 3</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>475000.00</sumMax>
+                            <price>5000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.25</code>
+                                <name>Части и принадлежности прочих офисных машин</name>
+                            </OKPD2>
+                            <name>Расходные материалы для принтера Тип 4  </name>
+                            <minRequirement>В соответствии с технической документацией
+
+Расходные материалы для принтера Тип 4</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>505000.00</sumMax>
+                            <price>5000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>28.23.25</code>
+                                <name>Части и принадлежности прочих офисных машин</name>
+                            </OKPD2>
+                            <name>Расходные материалы для копировального аппарата  </name>
+                            <minRequirement>В соответствии с технической документацией
+
+Расходные материалы для копировального аппарата</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>20000.00</sumMax>
+                            <price>20000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>10230.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>306900.00</amount>
+                        </contractFinCondition>
+                        <advance>34504,20</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>К указанному сроку</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>
+В соответствии с приказом Минэкономразвития России от 25 марта 2014 г. N 155 "Об условиях допуска товаров, происходящих из иностранных государств, для целей осуществления закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд"
+</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201699111111451004000005</positionNumber>
+                        <extNumber>2</extNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>10001063920490019242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>31080.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.80</code>
+                                <name>Производство незаписанных магнитных и оптических технических носителей информации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка магнитных и оптических носителей информации</contractSubjectName>
+                        <contractMaxPrice>31080.00</contractMaxPrice>
+                        <payments>31080.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-07-30T11:42:37.381+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.80.13</code>
+                                <name>Носители данных прочие, включая матрицы и основы для производства дисков</name>
+                            </OKPD2>
+                            <name>Магнитный носитель информации  </name>
+                            <minRequirement>В соответствии с технической документацией
+
+Магнитный носитель информации</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>400.00</sumMax>
+                            <price>200.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.80.13</code>
+                                <name>Носители данных прочие, включая матрицы и основы для производства дисков</name>
+                            </OKPD2>
+                            <name>Мобильные носители информации (USB-флеш)  </name>
+                            <minRequirement>В соответствии с технической документацией
+
+Мобильные носители информации (USB-флеш)</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>16000.00</sumMax>
+                            <price>400.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.80.13</code>
+                                <name>Носители данных прочие, включая матрицы и основы для производства дисков</name>
+                            </OKPD2>
+                            <name>Оптический носитель информации (в т. ч. повышенной плотности)  </name>
+                            <minRequirement>В соответствии с технической документацией
+
+Оптический носитель информации (в т. ч. повышенной плотности)</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>14680.00</sumMax>
+                            <price>20.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>310.80</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>9324.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>К указанному сроку</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>
+В соо11111тствии с приказом Минэкономразвития России от 25 марта 2014 г. N 155 "Об условиях допуска товаров, происходящих из иностранных государств, для целей осуществления закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд"
+</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201699111111451004000001</positionNumber>
+                        <extNumber>3</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>10001063920490019242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>280000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.20</code>
+                                <name>Производство компьютеров и периферийного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка устройств печати и МФУ</contractSubjectName>
+                        <contractMaxPrice>280000.00</contractMaxPrice>
+                        <payments>280000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-07-30T11:42:37.381+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.18</code>
+                                <name>Устройства периферийные с двумя или более функциями: печать данных, копирование, сканирование, прием и передача факсимильных сообщений</name>
+                            </OKPD2>
+                            <name>Принтер (МФУ) тип 3  </name>
+                            <minRequirement>В соответствии с технической документацией
+Принтер лазерный формата А4</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>6.00</quantity>
+                            <quantityCurrentYear>6.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.18</code>
+                                <name>Устройства периферийные с двумя или более функциями: печать данных, копирование, сканирование, прием и передача факсимильных сообщений</name>
+                            </OKPD2>
+                            <name>Принтер (МФУ) тип 2  </name>
+                            <minRequirement>В соответствии с технической документацией
+Принтер лазерный формата А3</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2800.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>84000.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>К указанному сроку</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201699111111451004000002</positionNumber>
+                        <extNumber>6</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>10001063920490019242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>271999.20</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>33.14</code>
+                                <name>Ремонт электрического оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по регламентно-профилактическому обслуживанию систем бесперебойного питания</contractSubjectName>
+                        <contractMaxPrice>271999.20</contractMaxPrice>
+                        <payments>244999.20</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-07-30T11:55:53.945+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>33.14.19</code>
+                                <name>Услуги по ремонту и техническому обслуживанию прочего профессионального электрического оборудования</name>
+                            </OKPD2>
+                            <name>Техническое обслуживание и регламентно-профилактический ремонт систем бесперебойного питания   3500</name>
+                            <minRequirement>В соответствии с технической документацией</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>110.00</quantity>
+                            <quantityCurrentYear>110.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2719.99</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>81599.76</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>Ежеквартально</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>10001063920490019242</code>
+                                    <amount>92000.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                    <purchaseAmountLess400>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>10001063920490019242</code>
+                                    <amount>92000.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess400>
+                    <teachingService>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>10001063920490019244</code>
+                                    <amount>140000.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </teachingService>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>92000.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>92000.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>48608000.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>6785590.44</sumContractMaxPrice>
+                    <sumPaymentsTotal>2305479.20</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11206726</url>
+            <signature>TUlJTkJ3WUpLb1pJaHZjTkFRY0NvSUlNK0RDQ0RQUUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dpM01JSUlzekNDQ0dLZ0F3SUJBZ0lDQ0Qwd0NBWUdLb1VEQWdJRE1JSUJiakVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01WQXdUZ1lEVlFRRERFZlFvdEMxMFlIUmd0QyswTExSaTlDNUlOQ2owS1lnMEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXM5QytJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXNEQWVGdzB4TlRFd016QXhNVFV5TXpoYUZ3MHhOekF4TXpBeE1UVXlNemhhTUlJQm5ERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EVXdNREF3TURFME5URXhGakFVQmdVcWhRTmtBeElMTlRJMU5ETXpOemcxTlRZeEdEQVdCZ1VxaFFOa0FSSU5NVEV4TVRFeE1URXhNVEV4T1RFZ01CNEdDU3FHU0liM0RRRUpBUllSZEdWemRHOXZjMEI1WVc1a1pYZ3VjblV4Q3pBSkJnTlZCQVlUQWxKVk1Sd3dHZ1lEVlFRSURCTTNOeURRc3k0ZzBKelF2dEdCMExyUXN0Q3dNUlV3RXdZRFZRUUhEQXpRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ05WQkFvTUVkQ2dNU0RRcE5DZUlOQ2kwSlhRb2RDaU1TZ3dKZ1lEVlFRcURCL1FrdEN3MFlIUXVOQzcwTGpRdVNEUW45QzEwWUxSZ05DKzBMTFF1TkdITVNJd0lBWURWUVFFREJuUW90R0EwTGpSaE5DKzBMM1F2dEN5TGRDaTBMWFJnZEdDTVRvd09BWURWUVFNRERIUW85Qy8wTDdRdTlDOTBMN1F2TkMrMFlmUXRkQzkwTDNSaTlDNUlOR0IwTC9RdGRHRzBMalFzTkM3MExqUmdkR0NNVUl3UUFZRFZRUURERG5Rb3RHQTBMalJoTkMrMEwzUXZ0Q3lMZENpMExYUmdkR0NJTkNTMExEUmdkQzQwTHZRdU5DNUlOQ2YwTFhSZ3RHQTBMN1FzdEM0MFljd1l6QWNCZ1lxaFFNQ0FoTXdFZ1lIS29VREFnSWtBQVlIS29VREFnSWVBUU5EQUFSQU1zaHptUm04bWQvQm1jbVk1QXEyVGpkb0xYTFNCSW5ValNIZWk0dDZ0YjNMYlZZRmJUZ0p0NXFzSUU2V1ZyUFpIdXdyM051TFFhK3V2N1NNdkZJZ2dLT0NCTFF3Z2dTd01Bd0dBMVVkRXdFQi93UUNNQUF3SFFZRFZSMGdCQll3RkRBSUJnWXFoUU5rY1FFd0NBWUdLb1VEWkhFQ01Ga0dBMVVkRVFSU01GQ2dFd1lEVlFRTW9Bd1RDakV3TWpneE9ERTFNem1nR1FZS0tvVURBejJlMXpZQkI2QUxFd2sxTURBd01ERXdNREdnR3dZS0tvVURBejJlMXpZQkJhQU5Fd3M1T1RFeE1URXhNVFExTVlZQk1EQTJCZ1VxaFFOa2J3UXREQ3NpMEpyUmdOQzQwTC9SZ3RDKzBKL1JnTkMrSUVOVFVDSWdLTkN5MExYUmdOR0IwTGpSanlBekxqWXBNSUlCWVFZRktvVURaSEFFZ2dGV01JSUJVZ3hFSXRDYTBZRFF1TkMvMFlMUXZ0Q2YwWURRdmlCRFUxQWlJQ2pRc3RDMTBZRFJnZEM0MFk4Z015NDJLU0FvMExqUmdkQy8wTDdRdTlDOTBMWFF2ZEM0MExVZ01pa01hQ0xRbjlHQTBMN1FzOUdBMExEUXZOQzgwTDNRdmkzUXNOQy8wTC9Rc05HQTBMRFJndEM5MFl2UXVTRFF1dEMrMEx6UXY5QzcwTFhRdXRHQklDTFFydEM5MExqUmdkQzEwWURSZ2kzUWs5Q2UwS0hRb2lJdUlOQ1MwTFhSZ05HQjBMalJqeUF5TGpFaURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEl4TFRFNE5Ua2cwTDdSZ2lBeE55NHdOaTR5TURFeURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEk0TFRJeE56VWcwTDdSZ2lBeU1DNHdOaTR5TURFek1BNEdBMVVkRHdFQi93UUVBd0lENkRBakJnTlZIU1VFSERBYUJnZ3JCZ0VGQlFjREFnWU9Lb1VEQXoyZTF6WUJCZ01FQVFJd0t3WURWUjBRQkNRd0lvQVBNakF4TlRFd016QXhNVFV5TXpaYWdROHlNREUzTURFeU9URXhOVEl6T0Zvd2dnR2dCZ05WSFNNRWdnR1hNSUlCazRBVXZKaXloMFZBbExzUEpyQkI2ejhjU0VlOE5teWhnZ0YycElJQmNqQ0NBVzR4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRlFNRTRHQTFVRUF3eEgwS0xRdGRHQjBZTFF2dEN5MFl2UXVTRFFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQ0NBUUV3WkFZRFZSMGZCRjB3V3pBcm9DbWdKNFlsYUhSMGNEb3ZMMk55YkM1bWMyWnJMbXh2WTJGc0wyTnliQzkwWlhOME1EQXhMbU55YkRBc29DcWdLSVltYUhSMGNEb3ZMMk55YkM1eWIzTnJZWHB1WVM1eWRTOWpjbXd2ZEdWemREQXdNUzVqY213d0hRWURWUjBPQkJZRUZJUVRYTVM2a2tzcGIzY2ZONHo3dzBPdzRxMHBNQWdHQmlxRkF3SUNBd05CQU5mYVo5Qy9oaUk3YldsQlI2UzAxUDVtUVhHb0ZoMjhzL3RuWTFiWXQ3L2VmZ01lODdWcVZzMVcwd1VOSFZwRDM5NThiMHJ0WlBkSHZ1TXJ3elpKZFRNeGdnUVhNSUlFRXdJQkFUQ0NBWFl3Z2dGdU1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4VURCT0JnTlZCQU1NUjlDaTBMWFJnZEdDMEw3UXN0R0wwTGtnMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3QWdJSVBUQUtCZ1lxaFFNQ0Fna0ZBS0NDQWpnd0dBWUpLb1pJaHZjTkFRa0RNUXNHQ1NxR1NJYjNEUUVIQVRBY0Jna3Foa2lHOXcwQkNRVXhEeGNOTVRZd056TXdNRGcxTlRVd1dqQXZCZ2txaGtpRzl3MEJDUVF4SWdRZ01iS3h5TVBWY25WZGRUZ1JOTndlYnphY0ZkZW5XWCs5M0kzQ1F2M2RaUDB3Z2dITEJnc3Foa2lHOXcwQkNSQUNMekdDQWJvd2dnRzJNSUlCc2pDQ0FhNHdDQVlHS29VREFnSUpCQ0Jwc2RSQkJ4N09VMkQ5cUl0ZmtvNkNuZWRyaVA0Wk5CWnJGNWsvRWpzWGxqQ0NBWDR3Z2dGMnBJSUJjakNDQVc0eEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akZRTUU0R0ExVUVBd3hIMEtMUXRkR0IwWUxRdnRDeTBZdlF1U0RRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTEFDQWdnOU1Bb0dCaXFGQXdJQ0V3VUFCRURhejhGWUVBSVNZZmt1VFgyNXhBU2sxMGtEMlkxRit2ZEo0dDhMNWx3c2ZBUndQeUlPalBCczRmRmVqK2Z4aWFpQ2pTWnRlbkVtdElOVVI0L1AyNTQy</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>13190216</id>
+            <planNumber>44201603762000009001</planNumber>
+            <year>2016</year>
+            <versionNumber>6</versionNumber>
+            <owner>
+                <regNum>03762000009</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "ЦЕНТР ЗАНЯТОСТИ НАСЕЛЕНИЯ КРАСНОГВАРДЕЙСКОГО РАЙОНА"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-12-02T12:42:51.206+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-11-30T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-12-02T12:44:14.345+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000009</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "ЦЕНТР ЗАНЯТОСТИ НАСЕЛЕНИЯ КРАСНОГВАРДЕЙСКОГО РАЙОНА"</fullName>
+                <shortName>ГКУ РА "ЦЗН КРАСНОГВАРДЕЙСКОГО РАЙОНА"</shortName>
+                <postAddress>Российская Федерация, 385300, Адыгея Респ, Красногвардейское с, ул ЛЕНИНА, 147</postAddress>
+                <factAddress>Российская Федерация, 385300, Адыгея Респ, Красногвардейское с, ул ЛЕНИНА, 147</factAddress>
+                <INN>0102004068</INN>
+                <KPP>010101001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Гончаров</lastName>
+            <firstName>Роман</firstName>
+            <middleName>Константинович</middleName>
+            <phone>7-87778-51224</phone>
+            <fax>7-87778-51430</fax>
+            <email>grom73@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000009001000005</positionNumber>
+                        <extNumber>30300</extNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>52800.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>78.30</code>
+                                <name>Деятельность по подбору персонала прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Сыродел"</contractSubjectName>
+                        <contractMaxPrice>52800.00</contractMaxPrice>
+                        <payments>52800.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-01T17:43:49.980+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.41.99.000</code>
+                                <name>Услуги в области дополнительного образования прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Сыродел"</name>
+                            <minRequirement>Осуществление обучения слушателей на основании учебного плана в соответствии с установленными нормами и требованиями, предъявляемыми к профессиональному обучению и дополнительному профессиональному образованию</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>52800.00</sumMax>
+                            <price>6600.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1584.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>5280.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>В течение всего срока обучения, предусмотренного техническим заданием и учебным планом.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000009001000008</positionNumber>
+                        <extNumber>39492</extNumber>
+                        <orderNumber>8</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015630200500244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>134000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.12</code>
+                                <name>Государственное регулирование деятельности в области здравоохранения, образования, социально-культурного развития и других социальных услуг, кроме социального обеспечения</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по сопровождению, технической поддержке и сервисному обслуживанию программных продуктов "Катарсис" в службе занятости населения Республики Адыгея</contractSubjectName>
+                        <contractMaxPrice>134000.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01762000016</regNum>
+                                <fullName>УПРАВЛЕНИЕ ГОСУДАРСТВЕННОЙ СЛУЖБЫ ЗАНЯТОСТИ НАСЕЛЕНИЯ РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo></additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-12-02T12:44:14.345+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.02.30.000</code>
+                                <name>Услуги по технической поддержке информационных технологий</name>
+                            </OKPD2>
+                            <name>Оказание услуг по сопровождению, технической поддержке и сервисному обслуживанию программных продуктов "Катарсис" в службе занятости населения Республики Адыгея</name>
+                            <minRequirement>Услуги по сопровождению Программных продуктов «Катарсис» оказываются в соответствии с ГОСТ Р ИСО/МЭК 14764-2002.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>134000.00</sumMax>
+                            <price>134000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1340.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>6700.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Со дня подписания контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000009001000006</positionNumber>
+                        <extNumber>30303</extNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>76666.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>78.30</code>
+                                <name>Деятельность по подбору персонала прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Швея"</contractSubjectName>
+                        <contractMaxPrice>76666.00</contractMaxPrice>
+                        <payments>76666.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-01T17:43:49.980+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.41.99.000</code>
+                                <name>Услуги в области дополнительного образования прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Швея"</name>
+                            <minRequirement>Осуществление обучения слушателей на основании учебного плана в соответствии с установленными нормами и требованиями, предъявляемыми к профессиональному обучению и дополнительному профессиональному образованию</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>76666.00</sumMax>
+                            <price>9583.30</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2299.98</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>7666.60</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>В течение всего срока обучения, предусмотренного техническим заданием и учебным планом.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000009001000007</positionNumber>
+                        <extNumber>35395</extNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015630200500244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>22000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>78.30</code>
+                                <name>Деятельность по подбору персонала прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка и установка сплит-системы в административном здании ГКУ РА ЦЗН Красногвардейского района</contractSubjectName>
+                        <contractMaxPrice>22000.00</contractMaxPrice>
+                        <payments>22000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-10T15:35:40.949+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>28.25.12.190</code>
+                                <name>Оборудование для кондиционирования воздуха прочее, не включенное в другие группировки</name>
+                            </OKPD2>
+                            <name>Поставка и установка сплит-системы в административном здании ГКУ РА ЦЗН Красногвардейского района</name>
+                            <minRequirement>Цена Контракта представляет собой общую стоимость всех выполняемых работ. 
+Цена Контракта включает все расходы, связанные с выполнением предусмотренных контрактом работ, в том числе: расходы на приобретение оборудования, материалов, заработную плату, стоимость сопутствующих услуг, транспортные расходы, командировочные расходы, все налоги, сборы, другие обязательные платежи, а также иные расходы Исполнителя, связанные с выполнением условий Контракта.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>22000.00</sumMax>
+                            <price>22000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>220.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>2200.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>В течении 7 дней с момента заключения контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000009001000009</positionNumber>
+                        <extNumber>39494</extNumber>
+                        <orderNumber>9</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015630200500244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>146946.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>84.12</code>
+                                <name>Государственное регулирование деятельности в области здравоохранения, образования, социально-культурного развития и других социальных услуг, кроме социального обеспечения</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по технической поддержке сети защищенных каналов передачи данных на базе программных продуктов VipNet CUSTOM в службе занятости населения Республики Адыгея</contractSubjectName>
+                        <contractMaxPrice>146946.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01762000016</regNum>
+                                <fullName>УПРАВЛЕНИЕ ГОСУДАРСТВЕННОЙ СЛУЖБЫ ЗАНЯТОСТИ НАСЕЛЕНИЯ РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo></additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-12-02T12:44:14.345+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.02.30.000</code>
+                                <name>Услуги по технической поддержке информационных технологий</name>
+                            </OKPD2>
+                            <name>Оказание услуг по технической поддержке сети защищенных каналов передачи данных на базе программных продуктов VipNet CUSTOM в службе занятости населения Республики Адыгея</name>
+                            <minRequirement>Оказание услуг по технической поддержке сети защищенных каналов передачи данных на базе программных продуктов VipNet CUSTOM в службе занятости населения Республики Адыгея</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>146946.00</sumMax>
+                            <price>146946.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1469.46</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>7347.30</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Со дня подписания контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>8632417</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000009001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>81440.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>78.30</code>
+                                <name>Деятельность по подбору персонала прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Повар"</contractSubjectName>
+                        <contractMaxPrice>81440.00</contractMaxPrice>
+                        <payments>81440.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo>Внесение изменений в соответствие с Постановлением Правительства Российской Федерации №1457 от 29 декабря 2015 года</additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-03-23T11:47:32.735+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.41.99.000</code>
+                                <name>Услуги в области дополнительного образования прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Повар"</name>
+                            <minRequirement>Осуществление обучения слушателей на основании учебного плана в соответствии с установленными нормами и требованиями, предъявляемыми к профессиональному обучению и дополнительному профессиональному образованию</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>81440.00</sumMax>
+                            <price>10180.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>8.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1628.80</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Обеспечение исполнения контракта может быть представлено в виде безотзывной банковской гарантии или передачи заказчику в залог денежных средств, в том числе в форме вклада (депозита), в размере обеспечения исполнения контракта</procedure>
+                            <amount>8144.00</amount>
+                        </contractFinCondition>
+                        <advance>30% - 24,43200  тыс. рублей</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Обучение должно быть завершено не позднее 25 декабря 2016 года.</contractExecutionStages>
+                            <periodicity>Осуществляется Образовательным учреждением с даты начала учебного процесса и окончания обучения, указанных в приказах Образовательного учреждения о зачислении и выпуске безработных граждан, направленных на обучение Заказчиком.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям, находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000009001000003</positionNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>76666.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>78.30</code>
+                                <name>Деятельность по подбору персонала прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Швея"</contractSubjectName>
+                        <contractMaxPrice>76666.00</contractMaxPrice>
+                        <payments>76666.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo>Внесение изменений в соответствие с Постановлением Правительства Российской Федерации №1457 от 29 декабря 2015 года</additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-03-23T11:47:32.735+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.41.99.000</code>
+                                <name>Услуги в области дополнительного образования прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Швея"</name>
+                            <minRequirement>Осуществление обучения слушателей на основании учебного плана в соответствии с установленными нормами и требованиями, предъявляемыми к профессиональному обучению и дополнительному профессиональному образованию</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>76666.00</sumMax>
+                            <price>9583.30</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>8.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2299.98</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Обеспечение исполнения контракта может быть представлено в виде безотзывной банковской гарантии или передачи заказчику в залог денежных средств, в том числе в форме вклада (депозита), в размере обеспечения исполнения контракта</procedure>
+                            <amount>7666.60</amount>
+                        </contractFinCondition>
+                        <advance>30% - 22,99980 тыс. рублей</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Обучение должно быть завершено не позднее 25 декабря 2016 года.</contractExecutionStages>
+                            <periodicity>Осуществляется Образовательным учреждением с даты начала учебного процесса и окончания обучения, указанных в приказах Образовательного учреждения о зачислении и выпуске безработных граждан, направленных на обучение Заказчиком.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям, находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000009001000004</positionNumber>
+                        <extNumber>30297</extNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>81440.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>78.30</code>
+                                <name>Деятельность по подбору персонала прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Повар"</contractSubjectName>
+                        <contractMaxPrice>81440.00</contractMaxPrice>
+                        <payments>81440.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-01T17:43:49.980+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.41.99.000</code>
+                                <name>Услуги в области дополнительного образования прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Повар"</name>
+                            <minRequirement>Осуществление обучения слушателей на основании учебного плана в соответствии с установленными нормами и требованиями, предъявляемыми к профессиональному обучению и дополнительному профессиональному образованию</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>81440.00</sumMax>
+                            <price>10180.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1628.80</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>8144.00</amount>
+                        </contractFinCondition>
+                        <advance>30.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>В течение всего срока обучения, предусмотренного техническим заданием и учебным планом.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям,находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000009001000002</positionNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>83604015610100000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>52800.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>78.30</code>
+                                <name>Деятельность по подбору персонала прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Сыродел"</contractSubjectName>
+                        <contractMaxPrice>52800.00</contractMaxPrice>
+                        <payments>52800.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo>Внесение изменений в соответствие с Постановлением Правительства Российской Федерации №1457 от 29 декабря 2015 года</additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-03-23T11:47:32.735+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.41.99.000</code>
+                                <name>Услуги в области дополнительного образования прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Оказание услуг по профессиональному обучению и дополнительному профессиональному образованию безработных граждан по профессии "Сыродел"</name>
+                            <minRequirement>Осуществление обучения слушателей на основании учебного плана в соответствии с установленными нормами и требованиями, предъявляемыми к профессиональному обучению и дополнительному профессиональному образованию</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>52800.00</sumMax>
+                            <price>6600.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>8.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>1584.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Обеспечение исполнения контракта может быть представлено в виде безотзывной банковской гарантии или передачи заказчику в залог денежных средств, в том числе в форме вклада (депозита), в размере обеспечения исполнения контракта.</procedure>
+                            <amount>5280.00</amount>
+                        </contractFinCondition>
+                        <advance>30% - 15,84000 тыс. рублей</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Обучение должно быть завершено не позднее 25 декабря 2016 года.</contractExecutionStages>
+                            <periodicity>Осуществляется Образовательным учреждением с даты начала учебного процесса и окончания обучения, указанных в приказах Образовательного учреждения о зачислении и выпуске безработных граждан, направленных на обучение Заказчиком.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Установлен запрет на выполнение(оказание) работ(услуг) организациям, находящимся под юрисдикцией Турецкой республики, а также организациям, контролируемыми гражданами Турецкой республики и (или) организациями, находящимся под юрисдикцией Турецкой республики (в соответствии с Постановлением Правительства РФ № 1457 от 29.12.2015)</prohibitions>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>83604015610100000244</code>
+                                    <amount>686500.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>83610035610152900244</code>
+                                    <amount>47700.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>83604015630200500244</code>
+                                    <amount>733113.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1467313.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>81440.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>1700219.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>2192071.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=13190216</url>
+            <signature>TUlJTlpRWUpLb1pJaHZjTkFRY0NvSUlOVmpDQ0RWSUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drMU1JSUpNVENDQ09DZ0F3SUJBZ0lESE5vZU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1URXpNREE0TkRnME5sb1hEVEU0TURNd01qQTRORGcwTmxvd2dnR1dNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNREl3TURVNU1ESTVOekVXTUJRR0JTcUZBMlFERWdzd05qSXpNVGd4TURJeU1URWRNQnNHQ1NxR1NJYjNEUUVKQVJZT1ozSnZiVGN6UUcxaGFXd3VjblV4Q3pBSkJnTlZCQVlUQWxKVk1Ua3dOd1lEVlFRSURERFFvTkMxMFlIUXY5R0QwTEhRdTlDNDBMclFzQ0RRa05DMDBZdlFzOUMxMFk4Z0tOQ1EwTFRSaTlDejBMWFJqeWt4TGpBc0JnTlZCQWNNSmRHQkx0Q2EwWURRc05HQjBMM1F2dEN6MExMUXNOR0EwTFRRdGRDNTBZSFF1dEMrMExVeFRUQkxCZ05WQkFvTVJOQ1QwSnJRb3lEUW9OQ1FJTkNtMEpmUW5TRFFtdEdBMExEUmdkQzkwTDdRczlDeTBMRFJnTkMwMExYUXVkR0IwTHJRdnRDejBMNGcwWURRc05DNTBMN1F2ZEN3TVNZd0pBWURWUVFxREIzUW9kQzEwWURRczlDMTBMa2cwSmpRc3RDdzBMM1F2dEN5MExqUmh6RVpNQmNHQTFVRUJBd1EwSnpRdnRDNzBZZlFzTkM5MEw3UXNqRTNNRFVHQTFVRUF3d3UwSnpRdnRDNzBZZlFzTkM5MEw3UXNpRFFvZEMxMFlEUXM5QzEwTGtnMEpqUXN0Q3cwTDNRdnRDeTBMalJoekJqTUJ3R0JpcUZBd0lDRXpBU0JnY3FoUU1DQWlRQUJnY3FoUU1DQWg0QkEwTUFCRUJlKzA4RTllVVlGeFRrS1pwSGpRb2JERFN6ZzhwcnRZdFIrOHV1Vjc2TnowU3RvbWlBNHhodnJKSGtZUEhybTZPWDVUWk5UU3A0QWZCdDN5L09NOE9xbzRJRlNEQ0NCVVF3REFZRFZSMFRBUUgvQkFJd0FEQWRCZ05WSFNBRUZqQVVNQWdHQmlxRkEyUnhBVEFJQmdZcWhRTmtjUUl3WFFZRFZSMFJCRll3VktBVEJnTlZCQXlnREJNS01URXlPVEV3TVRRd002QWJCZ29xaFFNRFBaN1hOZ0VGb0EwVEN6QXpOell5TURBd01EQTVvQjBHQ2lxRkF3TTludGMyQVFpZ0R4TU5NRE0zTmpJd01EQXdNREF4TllZQk1EQTJCZ1VxaFFOa2J3UXREQ3NpMEpyUmdOQzQwTC9SZ3RDKzBKL1JnTkMrSUVOVFVDSWdLTkN5MExYUmdOR0IwTGpSanlBekxqWXBNSUlCWVFZRktvVURaSEFFZ2dGV01JSUJVZ3hFSXRDYTBZRFF1TkMvMFlMUXZ0Q2YwWURRdmlCRFUxQWlJQ2pRc3RDMTBZRFJnZEM0MFk4Z015NDJLU0FvMExqUmdkQy8wTDdRdTlDOTBMWFF2ZEM0MExVZ01pa01hQ0xRbjlHQTBMN1FzOUdBMExEUXZOQzgwTDNRdmkzUXNOQy8wTC9Rc05HQTBMRFJndEM5MFl2UXVTRFF1dEMrMEx6UXY5QzcwTFhRdXRHQklDTFFydEM5MExqUmdkQzEwWURSZ2kzUWs5Q2UwS0hRb2lJdUlOQ1MwTFhSZ05HQjBMalJqeUF5TGpFaURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEkwTFRJM016Z2cwTDdSZ2lBd01TNHdOeTR5TURFMURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEk0TFRJNE56Z2cwTDdSZ2lBeU1DNHdOaTR5TURFMk1BNEdBMVVkRHdFQi93UUVBd0lENkRDQnlRWURWUjBsQklIQk1JRytCZ2dyQmdFRkJRY0RBZ1lPS29VREF6MmUxellCQmdNRUFRRUdEaXFGQXdNOW50YzJBUVlEQkFFQ0JnNHFoUU1EUFo3WE5nRUdBd1FCQXdZT0tvVURBejJlMXpZQkJnTUVBUVFHRFNxRkF3TTludGMyQVFZREJRRUdEU3FGQXdNOW50YzJBUVlEQlFJR0NTcUZBd09CZXdVQ0FRWUpLb1VEQTRGN0JRSUNCZ2txaFFNRGdYc0ZBZ01HQ1NxRkF3T0Jld1VDQkFZSktvVURBNEY3QlFJRkJna3FoUU1EZ1hzRkFnWUdDQ3FGQXdPQmV3Z0JCZ2dxaFFNRGdYc0lBakFyQmdOVkhSQUVKREFpZ0E4eU1ERTJNVEV6TURBNE5EazFNRnFCRHpJd01UZ3dNekF5TURnME9EUTJXakNDQVk4R0ExVWRJd1NDQVlZd2dnR0NnQlNlY1E0UDJyUUJLRjgvNHN1UFpSV1hBa2VNcTZHQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExDQ0FRRXdYZ1lEVlIwZkJGY3dWVEFwb0NlZ0pZWWphSFIwY0RvdkwyTnliQzV5YjNOcllYcHVZUzV5ZFM5amNtd3ZabXN3TVM1amNtd3dLS0Ftb0NTR0ltaDBkSEE2THk5amNtd3Vabk5tYXk1c2IyTmhiQzlqY213dlptc3dNUzVqY213d0hRWURWUjBPQkJZRUZLNGZtbnFJemlQMWtFa1ltbHhZWm9oVDJSanBNQWdHQmlxRkF3SUNBd05CQUlyakxLMmpIcHNjU2xtRGtlWURhS2pCYnd0TU5sN3E5eHQ3MW00SU9zWG9sZWsxaXpJQnRXREZCSHE2V1d6TGQvK29LVzVuRUhBSGovL2hsZ2oxU1RjeGdnUDNNSUlEOHdJQkFUQ0NBV1l3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJREhOb2VNQW9HQmlxRkF3SUNDUVVBb0lJQ0tEQVlCZ2txaGtpRzl3MEJDUU14Q3dZSktvWklodmNOQVFjQk1Cd0dDU3FHU0liM0RRRUpCVEVQRncweE5qRXlNREl3T1RRME1EWmFNQzhHQ1NxR1NJYjNEUUVKQkRFaUJDQk9DYnRlTWtUclo1M2swUCtWNUlyVTZMSWx3RWx6Sjk0UUQwbjdjMXJDRkRDQ0Fic0dDeXFHU0liM0RRRUpFQUl2TVlJQnFqQ0NBYVl3Z2dHaU1JSUJuakFJQmdZcWhRTUNBZ2tFSUdHL3lqUmkxM1crV25QQUN5SDNwQnZDRk5SZU13aUN3ZEZabnRNQTRaamdNSUlCYmpDQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExBQ0F4emFIakFLQmdZcWhRTUNBaE1GQUFSQWVqRjRkYVUvVUR6dllVcjRTZzdMYndkdjNZVHBHOVdXQUdJbGNRRWFGVWtpRlRhaXR0ak83clNpYjNESFdESHEvS1Q5TVZ4RXJYb0JPRmtqZmV4c0V3PT0=</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

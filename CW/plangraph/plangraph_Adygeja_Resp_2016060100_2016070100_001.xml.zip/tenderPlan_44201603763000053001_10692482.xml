@@ -1,0 +1,3156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>10692482</id>
+            <planNumber>44201603763000053001</planNumber>
+            <year>2016</year>
+            <versionNumber>20</versionNumber>
+            <owner>
+                <regNum>03763000053</regNum>
+                <fullName>АДМИНИСТРАЦИЯ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ТЕУЧЕЖСКИЙ РАЙОН"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-06-23T15:09:28.609+03:00</createDate>
+            <description>План график 2016г</description>
+            <confirmDate>2016-01-22T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-06-23T15:13:12.491+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000053</regNum>
+                <fullName>АДМИНИСТРАЦИЯ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ТЕУЧЕЖСКИЙ РАЙОН"</fullName>
+                <shortName>Администрация МО "Теучежский район"</shortName>
+                <postAddress>Российская Федерация, 385230, Адыгея Респ, Теучежский р-н, Понежукай аул, Октябрьская, 33</postAddress>
+                <factAddress>Российская Федерация, 385230, Адыгея Респ, Теучежский р-н, Понежукай аул, Октябрьская, 33</factAddress>
+                <INN>0107007270</INN>
+                <KPP>010701001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79633430101</code>
+                <name>аул Понежукай</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Наниз</lastName>
+            <firstName>Альбина</firstName>
+            <middleName>Тагировна</middleName>
+            <phone>88777297709</phone>
+            <fax>88777297619</fax>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000004</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>260000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка автомобильного бензина АИ 95</contractSubjectName>
+                        <contractMaxPrice>260000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-22T14:04:45.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>47.30.10.000</code>
+                                <name>Услуги по розничной торговле моторным топливом в специализированных магазинах</name>
+                            </OKPD2>
+                            <name>Поставка автомобильного бензина АИ 95</name>
+                            <minRequirement>ГОСТ 2084-77</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>260000.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5400.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8445051</code>
+                                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минэкономразвития России № 155 от 25.03.2014</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361033</code>
+                                    <name>Учреждениям и предприятиям уголовно-исполнительной системы (в соответствии со Статьей 28  Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361036</code>
+                                    <name>Участникам, привлекающим Субъекты малого предпринимательства в качестве соисполнителей, субподрядчиков для исполнения контракта, и участникам, привлекающим Социально ориентированные некоммерческие организации в качестве соисполнителей, субподрядчиков для исполнения контракта (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000030</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90905025П703R0180412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>42.21</code>
+                                <name>Строительство инженерных коммуникаций для водоснабжения и водоотведения, газоснабжения</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>реконструкция водопроводных сетей</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.22.11.130</code>
+                                <name>Работы водопроводные взаимосвязанные</name>
+                            </OKPD2>
+                            <name>реконструкция водопроводных сетей</name>
+                            <minRequirement>своевременное выполнение работ</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.12.2016г</contractExecutionStages>
+                            <periodicity>30.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000035</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>18.12</code>
+                                <name>Прочие виды полиграфической деятельности</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поздравительные открытки</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>58.19.11.000</code>
+                                <name>Открытки почтовые печатные, открытки поздравительные и прочая издательская продукция печатная</name>
+                            </OKPD2>
+                            <name>открытки поздравительные</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1000.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016г</contractExecutionStages>
+                            <periodicity>30.04.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000043</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>904200.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.1</code>
+                                <name>Торговля розничная моторным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Бензин автомобильный АИ-92 </contractSubjectName>
+                        <contractMaxPrice>904200.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-06-07T11:18:37.581+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21</code>
+                                <name>Топливо моторное, включая автомобильный и авиационный бензин</name>
+                            </OKPD2>
+                            <name>Бензин автомобильный АИ-92 </name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>904200.00</sumMax>
+                            <price>41100.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>22000.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000016</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901135410000020244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>2601600.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.30.1</code>
+                                <name>Производство коммуникационной аппаратуры, радио- и телевизионной передающей аппаратуры, телевизионных камер</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>услуги по техническому обслуживанию и ремонту приборов и инструментов для нов ига ции. управления. измерения контроля испытаний и прочих целей </contractSubjectName>
+                        <contractMaxPrice>2601600.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-22T14:04:45.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.30.1</code>
+                                <name>Аппаратура коммуникационная, аппаратура радио- или телевизионная передающая;  телевизионные камеры</name>
+                            </OKPD2>
+                            <name>услуги по техническому обслуживанию и ремонту приборов и инструментов для нов ига ции. управления. измерения контроля испытаний и прочих целей </name>
+                            <minRequirement>Своевременное оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361036</code>
+                                    <name>Участникам, привлекающим Субъекты малого предпринимательства в качестве соисполнителей, субподрядчиков для исполнения контракта, и участникам, привлекающим Социально ориентированные некоммерческие организации в качестве соисполнителей, субподрядчиков для исполнения контракта (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361033</code>
+                                    <name>Учреждениям и предприятиям уголовно-исполнительной системы (в соответствии со Статьей 28  Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8445051</code>
+                                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минэкономразвития России № 155 от 25.03.2014</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000027</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>02.10.11</code>
+                                <name>Выращивание посадочного материала лесных растений (саженцев, сеянцев)</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>саженцы березы</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>02.10.11.200</code>
+                                <name>Саженцы деревьев и кустарников</name>
+                            </OKPD2>
+                            <name>саженцы березы</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>50.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016г</contractExecutionStages>
+                            <periodicity>30.04.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000042</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>221900.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Бензин автомобильный АИ 95</contractSubjectName>
+                        <contractMaxPrice>221900.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-06-07T11:18:37.581+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>47.30.10</code>
+                                <name>Услуги по розничной торговле моторным топливом в специализированных магазинах</name>
+                            </OKPD2>
+                            <name>Бензин автомобильный АИ 95</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>221900.00</sumMax>
+                            <price>41100.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5400.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000018</positionNumber>
+                        <orderNumber>18</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901066110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>62.03.13</code>
+                                <name>Деятельность по сопровождению компьютерных систем</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>сопровождение программного обеспечения</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.03.12.130</code>
+                                <name>Услуги по сопровождению компьютерных систем</name>
+                            </OKPD2>
+                            <name>Сопровождение пргораммного обеспечения</name>
+                            <minRequirement>своевременное предоставление услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000032</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>9091101591000004Ф244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>93.19</code>
+                                <name>Деятельность в области спорта прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>мяч футбольный</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>93.19.19.000</code>
+                                <name>Услуги в области спорта и отдыха прочие</name>
+                            </OKPD2>
+                            <name>мяч футбольный</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>28.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016г</contractExecutionStages>
+                            <periodicity>30.04.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000040</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90910045560150820412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>191500.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>909100455601R0820412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>567500.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.10.21</code>
+                                <name>Покупка и продажа собственного жилого недвижимого имущества</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение жилого помещения для детей сирот и детей, оставшихся без попечения родителей, а также детей, находящихся под опекой и попечительством</contractSubjectName>
+                        <contractMaxPrice>759000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-05-16T15:46:39.922+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.10.11.000</code>
+                                <name>Услуги по покупке и продаже жилых зданий и занимаемых ими земельных участков</name>
+                            </OKPD2>
+                            <name>Приобретение жилого помещения для детей сирот и детей, оставшихся без попечения родителей, а также детей, находящихся под опекой и попечительством</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>759000.00</sumMax>
+                            <price>759000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.07.2016г</contractExecutionStages>
+                            <periodicity>30.07.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000011</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>319300.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>62.03.13</code>
+                                <name>Деятельность по сопровождению компьютерных систем</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Сопровождение программного обеспечения</contractSubjectName>
+                        <contractMaxPrice>319300.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>1</id>
+                                <name>Изменение более чем на 10% стоимости планируемых к приобретению товаров, работ, услуг, выявленные в результате подготовки к размещению конкретного заказа</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-03-11T15:05:39.602+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.03.12.130</code>
+                                <name>Услуги по сопровождению компьютерных систем</name>
+                            </OKPD2>
+                            <name>Сопровождение программного обеспечения</name>
+                            <minRequirement>Своевременное предоставление услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>319300.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000013</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка автомобильного бензина АИ 95</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>47.30.10.000</code>
+                                <name>Услуги по розничной торговле моторным топливом в специализированных магазинах</name>
+                            </OKPD2>
+                            <name>Поставка автомобильного бензина АИ 95</name>
+                            <minRequirement>ГОСТ 20-84-77</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2400.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>06.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000021</positionNumber>
+                        <orderNumber>22</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901136310000020244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1800000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.39</code>
+                                <name>Производство прочих отделочных и завершающих работ</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>ремонт фасада здания старой школы </contractSubjectName>
+                        <contractMaxPrice>1800000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-08T13:54:17.197+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.39.1</code>
+                                <name>Работы завершающие и отделочные в зданиях и сооружениях, прочие</name>
+                            </OKPD2>
+                            <name>ремонт фасада здания старой школы </name>
+                            <minRequirement>своевременное выполнение работ </minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1800000.00</sumMax>
+                            <price>1800000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000006</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>45.20</code>
+                                <name>Техническое обслуживание и ремонт автотранспортных средств</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Техническое обслуживание и ремонт автотранспортных средств</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>45.20.1</code>
+                                <name>Услуги по техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств</name>
+                            </OKPD2>
+                            <name>Техническое обслуживание и ремонт автотранспортных средств</name>
+                            <minRequirement>своевременное оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>13.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000041</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901135Л40660340244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>3432000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>53.10.2</code>
+                                <name>Деятельность почтовой связи, связанная с пересылкой письменной корреспонденции</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>оказание услуг по предпочтовой подготовке регистрируемых почтовых отправлений, сопровождению, документообороту постановлений об административных правонарушениях, зафиксированных аппаратно-програмными комплексами "Арена" в Теучежском районе</contractSubjectName>
+                        <contractMaxPrice>3432000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-05-20T10:30:38.475+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>53.10.12.000</code>
+                                <name>Услуги почтовой связи общего пользования, связанные с письменной корреспонденцией</name>
+                            </OKPD2>
+                            <name>оказание услуг по предпочтовой подготовке регистрируемых почтовых отправлений, сопровождению, документообороту постановлений об административных правонарушениях, зафиксированных аппаратно-програмными комплексами "Арена" в Теучежском районе</name>
+                            <minRequirement>своевременное оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3432000.00</sumMax>
+                            <price>54920.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>62490.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000028</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901136310000020244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>18.12</code>
+                                <name>Прочие виды полиграфической деятельности</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>почетная лента</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>18.12.19.190</code>
+                                <name>Услуги печатные прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>почетна лента</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016г</contractExecutionStages>
+                            <periodicity>30.04.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000039</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90910045560150820412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>191500.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>909100455601R0820412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>567500.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.10.21</code>
+                                <name>Покупка и продажа собственного жилого недвижимого имущества</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Приобретение жилого помещения для детей сирот и детей, оставшихся без попечения родителей, а также детей находящихся под опекой и попечительством</contractSubjectName>
+                        <contractMaxPrice>759000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-08T13:46:17.150+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.10.11.000</code>
+                                <name>Услуги по покупке и продаже жилых зданий и занимаемых ими земельных участков</name>
+                            </OKPD2>
+                            <name>Приобретение жилого помещения для детей сирот и детей, оставшихся без попечения родителей, а также детей находящихся под опекой и попечительством</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>759000.00</sumMax>
+                            <price>759000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.07.2016г</contractExecutionStages>
+                            <periodicity>30.07.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000033</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>28.30.4</code>
+                                <name>Производство косилок для газонов, парков или спортивных площадок</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>запчасти к бензокосе</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>28.30.40.000</code>
+                                <name>Косилки для газонов, парков или спортивных площадок</name>
+                            </OKPD2>
+                            <name>запчасти к бензокосе</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016г</contractExecutionStages>
+                            <periodicity>30.04.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000024</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.23</code>
+                                <name>Подготовка кадров высшей квалификации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Подготовка кадров высшей квалификации</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.21.11.000</code>
+                                <name>Услуги в области дистанционного среднего профессионального образования в информационно-коммуникационной сети Интернет</name>
+                            </OKPD2>
+                            <name>На оказание образовательных услуг в виде обучения по образовательной программе "О контактной системе в сфере закупок</name>
+                            <minRequirement>Своевременная оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000019</positionNumber>
+                        <orderNumber>19</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901036110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>45.20.1</code>
+                                <name>Техническое обслуживание и ремонт легковых автомобилей и легких грузовых автотранспортных средств</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Техническое обслуживание и ремонт автотранспортных средств</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>45.20.1</code>
+                                <name>Услуги по техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств</name>
+                            </OKPD2>
+                            <name>Техническое обслуживание и ремонт автотранспортных средств</name>
+                            <minRequirement>своевременное оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000009</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>46.43</code>
+                                <name>Торговля оптовая бытовыми электротоварами</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка электротоваров</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>47.54.10.000</code>
+                                <name>Услуги по розничной торговле бытовыми электротоварами в специализированных магазинах</name>
+                            </OKPD2>
+                            <name>Поставка электротоваров</name>
+                            <minRequirement>Своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>350.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000038</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901135850160320244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1485000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>33.20</code>
+                                <name>Монтаж промышленных машин и оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>модернизация 2-х технических средств фото-видеофиксации нарушений дорожного движения "Арена" и их установку на территории муниципального образования "Теучежский район"</contractSubjectName>
+                        <contractMaxPrice>1485000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-25T16:19:26.145+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>33.20.42.000</code>
+                                <name>Услуги по монтажу профессионального электронного оборудования</name>
+                            </OKPD2>
+                            <name>модернизация 2-х технических средств фото-видеофиксации нарушений дорожного движения "Арена" и их установку на территории муниципального образования "Теучежский район"</name>
+                            <minRequirement>своевременное оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1485000.00</sumMax>
+                            <price>742500.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>14800.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>74300.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.12.2016г</contractExecutionStages>
+                            <periodicity>30.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000014</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.11</code>
+                                <name>Торговля розничная бензином и дизельным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка автомобильного бензина АИ 92</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>47.30.10.000</code>
+                                <name>Услуги по розничной торговле моторным топливом в специализированных магазинах</name>
+                            </OKPD2>
+                            <name>Поставка автомобильного бензина АИ 92</name>
+                            <minRequirement>ГОСТ 2084-77</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2800.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>03.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000012</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>36000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>36.00.2</code>
+                                <name>Распределение воды для питьевых и промышленных нужд</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Холодное водоснабжение</contractSubjectName>
+                        <contractMaxPrice>36000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-22T14:04:45.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>36.00.11</code>
+                                <name>Вода питьевая</name>
+                            </OKPD2>
+                            <name>Холодное водоснабжение</name>
+                            <minRequirement>В соответствии с гигиеническими нормативами СанПиН 2.1.4.1074-01, СанПиН2.04.02-84 уровень давления не менее 0,5ат</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>36000.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000036</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>53.10.2</code>
+                                <name>Деятельность почтовой связи, связанная с пересылкой письменной корреспонденции</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>почтовые конверты</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>53.10.12.000</code>
+                                <name>Услуги почтовой связи общего пользования, связанные с письменной корреспонденцией</name>
+                            </OKPD2>
+                            <name>почтовые конверты</name>
+                            <minRequirement>своевременная отправка корреспонденции</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1000.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.016г</contractExecutionStages>
+                            <periodicity>30.04.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000022</positionNumber>
+                        <orderNumber>23</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>300000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.20</code>
+                                <name>Производство компьютеров и периферийного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>оргтехника</contractSubjectName>
+                        <contractMaxPrice>300000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-03-28T15:51:27.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.20.11.110</code>
+                                <name>Компьютеры портативные массой не более 10 кг, такие как ноутбуки, планшетные компьютеры, карманные компьютеры, в том числе совмещающие функции мобильного телефонного аппарата</name>
+                            </OKPD2>
+                            <name>оргтехника</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>300000.00</sumMax>
+                            <price>43000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>7.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000029</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90905025П70350180412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>42.21</code>
+                                <name>Строительство инженерных коммуникаций для водоснабжения и водоотведения, газоснабжения</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>реконструкция водопроводных сетей</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.22.11.130</code>
+                                <name>Работы водопроводные взаимосвязанные</name>
+                            </OKPD2>
+                            <name>рконструкция водопроводных сетей</name>
+                            <minRequirement>своевременное выполнение работ</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.12.2016г</contractExecutionStages>
+                            <periodicity>30.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000025</positionNumber>
+                        <orderNumber>41</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>20.30.1</code>
+                                <name>Производство красок и лаков на основе полимеров</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>краска для дорожной разметки</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>20.30.11.110</code>
+                                <name>Лаки на основе акриловых или виниловых полимеров в водной среде</name>
+                            </OKPD2>
+                            <name>краска для дорожной разметки</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016г</contractExecutionStages>
+                            <periodicity>30.04.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000008</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>220000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг связи</contractSubjectName>
+                        <contractMaxPrice>220000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-22T14:04:45.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.190</code>
+                                <name>Услуги фиксированной телефонной связи - предоставление доступа и телефонные соединения, прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг связи</name>
+                            <minRequirement>Предоставление услуг телефонной интернет связи,круглосуточно</minRequirement>
+                            <OKEI>
+                                <code>362</code>
+                                <name>Месяц</name>
+                            </OKEI>
+                            <sumMax>220000.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000034</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>18.14</code>
+                                <name>Деятельность брошюровочно-переплетная и отделочная и сопутствующие услуги</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>переплет документов</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>18.14.10.000</code>
+                                <name>Услуги переплетные и связанные с переплетом и отделкой книг и аналогичных изделий</name>
+                            </OKPD2>
+                            <name>переплет документов</name>
+                            <minRequirement>своевременное предоставление услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>29.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016г</contractExecutionStages>
+                            <periodicity>30.04.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000007</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>165000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.12.1</code>
+                                <name>Передача электроэнергии</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка электроэнергии</contractSubjectName>
+                        <contractMaxPrice>165000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-22T14:04:45.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.11.10</code>
+                                <name>Электроэнергия</name>
+                            </OKPD2>
+                            <name>Поставка электроэнергии</name>
+                            <minRequirement>Круглосуточная поставка электроэнергии</minRequirement>
+                            <OKEI>
+                                <code>362</code>
+                                <name>Месяц</name>
+                            </OKEI>
+                            <sumMax>165000.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000017</positionNumber>
+                        <orderNumber>17</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901036110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>62.03.13</code>
+                                <name>Деятельность по сопровождению компьютерных систем</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Сопровождение программного обеспечения</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>62.03.12.130</code>
+                                <name>Услуги по сопровождению компьютерных систем</name>
+                            </OKPD2>
+                            <name>Сопровождение программного обеспечения</name>
+                            <minRequirement>Своевременное предоставление услуги</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>800000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.30.1</code>
+                                <name>Торговля розничная моторным топливом в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка бензина АИ 92</contractSubjectName>
+                        <contractMaxPrice>800000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-22T14:04:45.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.100</code>
+                                <name>Бензин автомобильный</name>
+                            </OKPD2>
+                            <name>Поставка бензина АИ 92</name>
+                            <minRequirement>ГОСТ 2084-77</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>768680000.00</sumMax>
+                            <price>34940.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>22000.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>02. 2016г-06.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8445051</code>
+                                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минэкономразвития России № 155 от 25.03.2014</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361033</code>
+                                    <name>Учреждениям и предприятиям уголовно-исполнительной системы (в соответствии со Статьей 28  Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361036</code>
+                                    <name>Участникам, привлекающим Субъекты малого предпринимательства в качестве соисполнителей, субподрядчиков для исполнения контракта, и участникам, привлекающим Социально ориентированные некоммерческие организации в качестве соисполнителей, субподрядчиков для исполнения контракта (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000031</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90905025510000020412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>543600.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>90905025П70350180412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>3424650.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>90905025П703R0180412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1467710.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>42.21</code>
+                                <name>Строительство инженерных коммуникаций для водоснабжения и водоотведения, газоснабжения</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>реконструкция водопроводных сетей</contractSubjectName>
+                        <contractMaxPrice>5435960.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.22.11.130</code>
+                                <name>Работы водопроводные взаимосвязанные</name>
+                            </OKPD2>
+                            <name>реконструкция водопроводных сетей</name>
+                            <minRequirement>своевременное выполнение работ</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>5435960.00</sumMax>
+                            <price>5435960.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.12.2016г</contractExecutionStages>
+                            <periodicity>30.12.2016г</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000026</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>23.52.1</code>
+                                <name>Производство негашеной, гашеной и гидравлической извести</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Известь негашенная</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>23.52.10.110</code>
+                                <name>Известь негашеная</name>
+                            </OKPD2>
+                            <name>Известь негашенная</name>
+                            <minRequirement>своевременна поставка товара</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>350.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.04.2016г</contractExecutionStages>
+                            <periodicity>30.04.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000003</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>45.31.2</code>
+                                <name>Деятельность агентов по оптовой торговле автомобильными деталями, узлами и принадлежностями</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка запчастей к служебным автотранспортным средствам</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>45.31.12.000</code>
+                                <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                            </OKPD2>
+                            <name>Поставка запчастей к служебным автотранспортным средствам</name>
+                            <minRequirement>Своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>45.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>Своевременная поставка товара</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000010</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>46.73.4</code>
+                                <name>Торговля оптовая лакокрасочными материалами</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка хозяйственных товаров</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>25.73.1</code>
+                                <name>Инструмент ручной, используемый в сельском хозяйстве, садоводстве или лесном хозяйстве</name>
+                            </OKPD2>
+                            <name>Поставка хозяйственных товаров</name>
+                            <minRequirement>Своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>30.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000023</positionNumber>
+                        <orderNumber>24</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90910045560150820412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>191500.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>909100455601R0820412</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>567500.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.10.21</code>
+                                <name>Покупка и продажа собственного жилого недвижимого имущества</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>приобретение жилого помещения для детей сирот и детей, оставшихся без попечения родителей, а также детей, находящихся под опекой и попечительством</contractSubjectName>
+                        <contractMaxPrice>759000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-16T15:46:39.922+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.10.11.000</code>
+                                <name>Услуги по покупке и продаже жилых зданий и занимаемых ими земельных участков</name>
+                            </OKPD2>
+                            <name>приобретение жилого помещения для детей сирот и детей, оставшихся без попечения родителей, а также детей, находящихся под опекой и попечительством</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>759000.00</sumMax>
+                            <price>759000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.06.2016г</contractExecutionStages>
+                            <periodicity>30.06.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000037</positionNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>90901136310000020244</code>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>68.31.52</code>
+                                <name>Предоставление посреднических услуг при оценке нежилого недвижимого имущества за вознаграждение или на договорной основе</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Предоставление посреднических услуг при оценке нежилого недвижимого имущества за вознаграждение или на договорной основе</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>68.31.16.120</code>
+                                <name>Услуги посреднические при оценке нежилого недвижимого имущества за вознаграждение или на договорной основе</name>
+                            </OKPD2>
+                            <name>Услуги посреднические при оценке нежилого недвижимого имущества за вознаграждение или на договорной основе</name>
+                            <minRequirement>своевременное оказание услуг</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>18.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>30.12.2016г</contractExecutionStages>
+                            <periodicity>30.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000015</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>22.11</code>
+                                <name>Производство резиновых шин, покрышек и камер; восстановление резиновых шин и покрышек</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка автошин</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>22.11.1</code>
+                                <name>Шины, покрышки и камеры резиновые новые</name>
+                            </OKPD2>
+                            <name>Поставка автошин</name>
+                            <minRequirement>Своевременная поставка автошин</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>16.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000005</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>82.1</code>
+                                <name>Деятельность административно-хозяйственная и вспомогательная деятельность по обеспечению функционирования организации</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Услуги по заправке картриджей</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>82.11.10.000</code>
+                                <name>Услуги в области административного обслуживания комплексные</name>
+                            </OKPD2>
+                            <name>Услуги по заправке картриджей</name>
+                            <minRequirement>Своевременное представление услуги</minRequirement>
+                            <OKEI>
+                                <code>362</code>
+                                <name>Месяц</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000002</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901046110000040244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.23</code>
+                                <name>Производство бумажных канцелярских принадлежностей</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Канцелярские принадлежности</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-22T09:46:26.924+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.11.110</code>
+                                <name>Бумага копировальная</name>
+                            </OKPD2>
+                            <name>Канцелярские принадлежности</name>
+                            <minRequirement>Своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>450.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016г</contractExecutionStages>
+                            <periodicity>Своевременная поставка товара</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000053001000020</positionNumber>
+                        <orderNumber>21</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90901136310000020244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.30.18</code>
+                                <name>Производство телевизионных камер</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Устройство видеонаблюдения</contractSubjectName>
+                        <contractMaxPrice>0.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-20T10:30:38.475+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.30.13.000</code>
+                                <name>Камеры телевизионные</name>
+                            </OKPD2>
+                            <name>Камеры телевизионные</name>
+                            <minRequirement>своевременная поставка товара</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>0.00</sumMax>
+                            <price>0.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>31.12.2016</contractExecutionStages>
+                            <periodicity>31.12.2016г</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361036</code>
+                                    <name>Участникам, привлекающим Субъекты малого предпринимательства в качестве соисполнителей, субподрядчиков для исполнения контракта, и участникам, привлекающим Социально ориентированные некоммерческие организации в качестве соисполнителей, субподрядчиков для исполнения контракта (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8445051</code>
+                                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минэкономразвития России № 155 от 25.03.2014</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361033</code>
+                                    <name>Учреждениям и предприятиям уголовно-исполнительной системы (в соответствии со Статьей 28  Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>90904095410000030244</code>
+                                    <amount>42000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>9091101591000004Ф244</code>
+                                    <amount>135000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90901136310000020244</code>
+                                    <amount>623000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90901046110000040244</code>
+                                    <amount>1200000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90901136700053910244</code>
+                                    <amount>199400.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>2199400.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>9242560.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>14924960.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>22457360.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=10692482</url>
+            <signature>TUlJTlFRWUpLb1pJaHZjTkFRY0NvSUlOTWpDQ0RTNENBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drUk1JSUpEVENDQ0x5Z0F3SUJBZ0lEQ3NlMU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMU1EUXhOREEyTkRNeE1Wb1hEVEUyTURjeE5EQTJORE14TVZvd2dnSCtNUm93R0FZSUtvVURBNEVEQVFFU0REQXdNREV3TnpBd056STNNREVXTUJRR0JTcUZBMlFERWdzd05qVTJOekU1TURNNE56RVlNQllHQlNxRkEyUUJFZzB4TURNd01UQXdOalkxTXpJd01SNHdIQVlKS29aSWh2Y05BUWtCRmc5d2JtZGZabWx1UUcxaGFXd3VjblV4Q3pBSkJnTlZCQVlUQWxKVk1Ud3dPZ1lEVlFRSURETXdNU0RRb05DMTBZSFF2OUdEMExIUXU5QzQwTHJRc0NEUWtOQzAwWXZRczlDMTBZOGdLTkNRMExUUmk5Q3owTFhSanlreElqQWdCZ05WQkFjTUdkQ3cwWVBRdXlEUW45QyswTDNRdGRDMjBZUFF1dEN3MExreGVUQjNCZ05WQkFvTWNOQ1EwTFRRdk5DNDBMM1F1TkdCMFlMUmdOQ3cwWWJRdU5HUElOQzgwWVBRdmRDNDBZYlF1TkMvMExEUXU5R00wTDNRdnRDejBMNGcwTDdRc2RHQTBMRFF0OUMrMExMUXNOQzkwTGpSanlBaTBLTFF0ZEdEMFlmUXRkQzIwWUhRdXRDNDBMa2cwWURRc05DNTBMN1F2U0l4S2pBb0JnTlZCQ29NSWRDUTBMdlJqTkN4MExqUXZkQ3dJTkNpMExEUXM5QzQwWURRdnRDeTBMM1FzREVUTUJFR0ExVUVCQXdLMEozUXNOQzkwTGpRdHpFc01Db0dBMVVFREF3ajBKUFF1OUN3MExMUXZkR0wwTGtnMFlIUXY5QzEwWWJRdU5DdzBMdlF1TkdCMFlJeE5UQXpCZ05WQkFNTUxOQ2QwTERRdmRDNDBMY2cwSkRRdTlHTTBMSFF1TkM5MExBZzBLTFFzTkN6MExqUmdOQyswTExRdmRDd01HTXdIQVlHS29VREFnSVRNQklHQnlxRkF3SUNKQUFHQnlxRkF3SUNIZ0VEUXdBRVFBbCsvUUNVVTZlNFd0eVhHS0JFWkxSTmVYY2tiam54dEJONnQ3RlpBV003cjdxd2NvQmZqM3NuTGZKRXEyNkVlbmt6YzdVditMSUt0K2prc1hrT0tzS2pnZ1M4TUlJRXVEQU1CZ05WSFJNQkFmOEVBakFBTUIwR0ExVWRJQVFXTUJRd0NBWUdLb1VEWkhFQk1BZ0dCaXFGQTJSeEFqQllCZ05WSFJFRVVUQlBvQklHQTFVRURLQUxFd2swTURreE1ETTJNRG1nR1FZS0tvVURBejJlMXpZQkI2QUxFd2t3TVRBM01ERXdNREdnR3dZS0tvVURBejJlMXpZQkJhQU5Fd3N3TXpjMk16QXdNREExTTRZQk1EQTJCZ1VxaFFOa2J3UXREQ3NpMEpyUmdOQzQwTC9SZ3RDKzBKL1JnTkMrSUVOVFVDSWdLTkN5MExYUmdOR0IwTGpSanlBekxqWXBNSUlCWVFZRktvVURaSEFFZ2dGV01JSUJVZ3hFSXRDYTBZRFF1TkMvMFlMUXZ0Q2YwWURRdmlCRFUxQWlJQ2pRc3RDMTBZRFJnZEM0MFk4Z015NDJLU0FvMExqUmdkQy8wTDdRdTlDOTBMWFF2ZEM0MExVZ01pa01hQ0xRbjlHQTBMN1FzOUdBMExEUXZOQzgwTDNRdmkzUXNOQy8wTC9Rc05HQTBMRFJndEM5MFl2UXVTRFF1dEMrMEx6UXY5QzcwTFhRdXRHQklDTFFydEM5MExqUmdkQzEwWURSZ2kzUWs5Q2UwS0hRb2lJdUlOQ1MwTFhSZ05HQjBMalJqeUF5TGpFaURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEkwTFRJeU16Z2cwTDdSZ2lBd05DNHhNQzR5TURFekRFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEk0TFRJeE56VWcwTDdSZ2lBeU1DNHdOaTR5TURFek1BNEdBMVVkRHdFQi93UUVBd0lENkRCREJnTlZIU1VFUERBNkJnZ3JCZ0VGQlFjREFnWU9Lb1VEQXoyZTF6WUJCZ01FQVFFR0RpcUZBd005bnRjMkFRWURCQUVDQmc0cWhRTURQWjdYTmdFR0F3UUJCREFyQmdOVkhSQUVKREFpZ0E4eU1ERTFNRFF4TkRBMk5ESXlPRnFCRHpJd01UWXdOekUwTURZME1qSTRXakNDQVk4R0ExVWRJd1NDQVlZd2dnR0NnQlNlY1E0UDJyUUJLRjgvNHN1UFpSV1hBa2VNcTZHQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExDQ0FRRXdYZ1lEVlIwZkJGY3dWVEFwb0NlZ0pZWWphSFIwY0RvdkwyTnliQzV5YjNOcllYcHVZUzV5ZFM5amNtd3ZabXN3TVM1amNtd3dLS0Ftb0NTR0ltaDBkSEE2THk5amNtd3Vabk5tYXk1c2IyTmhiQzlqY213dlptc3dNUzVqY213d0hRWURWUjBPQkJZRUZBWGF6V0pXL3hNSHd3M01vVjBrZnJEbmo4T3NNQWdHQmlxRkF3SUNBd05CQUoreFYrMTVoQ1lPYURwekltemJoYmpuTmRuSW04SkZUYVZnSTBFVUM0SUFDK01rTUt0NlZxMFJpdk5ad0k2aFlNN25oMGNaUzFoRlJIYkJpVEh5cUFJeGdnUDNNSUlEOHdJQkFUQ0NBV1l3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJRENzZTFNQW9HQmlxRkF3SUNDUVVBb0lJQ0tEQVlCZ2txaGtpRzl3MEJDUU14Q3dZSktvWklodmNOQVFjQk1Cd0dDU3FHU0liM0RRRUpCVEVQRncweE5qQTJNak14TVRFeU5UWmFNQzhHQ1NxR1NJYjNEUUVKQkRFaUJDRFM2Y0VJYzJJL2Rra3ArcXZCZHNMdldDdUlwQWpXMEtQOFBzNHVQOTRmdVRDQ0Fic0dDeXFHU0liM0RRRUpFQUl2TVlJQnFqQ0NBYVl3Z2dHaU1JSUJuakFJQmdZcWhRTUNBZ2tFSUZGeDVUOWQxVCtsV1VtanUwVTVRNWhnRDJRN1h4U1RmaEtJQXVSaXRpU1pNSUlCYmpDQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExBQ0F3ckh0VEFLQmdZcWhRTUNBaE1GQUFSQTVZZjhTSWdUZklFS2FvVXlaSDZvVDFGaEdIdkZlZkI1eFdGMXhzN1AzUHEzd3JaeTJMajZvLzBBcFA5VkZYZWdEckszV2NGQUVmOTRRUm9JMHRxaGRRPT0=</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

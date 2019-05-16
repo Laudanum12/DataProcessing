@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11204980</id>
+            <planNumber>44201603762000078001</planNumber>
+            <year>2016</year>
+            <versionNumber>7</versionNumber>
+            <owner>
+                <regNum>03762000078</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "ЦЕНТР СПОРТИВНОЙ ПОДГОТОВКИ ПО КОННОМУ СПОРТУ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-07-29T17:13:42.482+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-07-29T17:17:49.953+03:00</confirmDate>
+            <publishDate>2016-07-29T17:14:46.554+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000078</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ "ЦЕНТР СПОРТИВНОЙ ПОДГОТОВКИ ПО КОННОМУ СПОРТУ"</fullName>
+                <shortName>ГБУ РА "ЦСП по конному спорту"</shortName>
+                <postAddress>Российская Федерация, 385077, Адыгея Респ, Майкоп г, Гавердовский х, Гагарина 2-я, 13, -</postAddress>
+                <factAddress>Российская Федерация, 385077, Адыгея Респ, Майкоп г, Гавердовский х, Гагарина 2-я, 13, -</factAddress>
+                <INN>0105038259</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79000000</code>
+                <name>Муниципальные образования Республики Адыгеи (Адыгеи)</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Иваненко</lastName>
+            <firstName>Павел</firstName>
+            <middleName>Михайлович</middleName>
+            <phone>8-8772-517466</phone>
+            <email>adygsport@yandex.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000078001000003</positionNumber>
+                        <extNumber>25651</extNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>720000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>01.19.1</code>
+                                <name>Выращивание однолетних кормовых культур</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка овса</contractSubjectName>
+                        <contractMaxPrice>720000.00</contractMaxPrice>
+                        <payments>720000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-07-29T17:14:46.554+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>01.11.33</code>
+                                <name>Овес</name>
+                            </OKPD2>
+                            <name>Овес</name>
+                            <minRequirement>Овес не должен иметь затхлого, солодового, плесневого постороннего запаха. Без примесей посторонних злаков (горох, ячмень, просо и т.п.).
+Овес должен быть с нормальным цветом и блеском, и вкусом. Зерно должно быть гладкое, полное, высоко натуральное, хорошо вызревшее, цельное, без гнилых, плесневых и проросших зерен.
+</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>720000.00</sumMax>
+                            <price>9.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>80000.00</quantity>
+                            <quantityCurrentYear>80000.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>7200.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>36000.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Поставка всего объема, предусмотренного контрактом в течение 15 календарных дней со дня заключения контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000078001000001</positionNumber>
+                        <extNumber>25597</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>81207025Г20300600241</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>360000.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2018</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2019</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2020</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2021</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2022</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2023</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2024</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2025</year>
+                                    <yearAmount>0.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>01.19.1</code>
+                                <name>Выращивание однолетних кормовых культур</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка овса</contractSubjectName>
+                        <contractMaxPrice>360000.00</contractMaxPrice>
+                        <payments>360000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-28T19:34:19.260+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>01.11.33</code>
+                                <name>Овес</name>
+                            </OKPD2>
+                            <name>Овес</name>
+                            <minRequirement>Овес не должен иметь затхлого, солодового, плесневого постороннего запаха. Без примесей посторонних злаков (горох, ячмень, просо и т.п.).
+Овес должен быть с нормальным цветом и блеском, и вкусом. Зерно должно быть гладкое, полное, высоко натуральное, хорошо вызревшее, цельное, без гнилых, плесневых и проросших зерен.
+</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>360000.00</sumMax>
+                            <price>9.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>40000.00</quantity>
+                            <quantityCurrentYear>40000.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>3600.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>18000.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Поставка всего объема, предусмотренного контрактом в течение 15 календарных дней со дня заключения контракта</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000078001000002</positionNumber>
+                        <extNumber>25650</extNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>521600.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>01.19.9</code>
+                                <name>Выращивание прочих однолетних культур, не включенных в другие группировки</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка сена</contractSubjectName>
+                        <contractMaxPrice>521600.00</contractMaxPrice>
+                        <payments>521600.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-19T15:54:54.952+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.91.10.110</code>
+                                <name>Корма растительные</name>
+                            </OKPD2>
+                            <name>Сено</name>
+                            <minRequirement>Сено не должно иметь затхлого, плесневелого и гнилостного запаха. В сене массовая доля сухого вещества должна быть не менее 83% (влаги не более 17%). </minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>521600.00</sumMax>
+                            <price>3.26</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>160000.00</quantity>
+                            <quantityCurrentYear>160000.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>5216.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>26080.00</amount>
+                        </contractFinCondition>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Со дня заключения контракта по июль 2016 г.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>1335140.52</amount>
+                                </KVR>
+                                <KVR>
+                                    <code>113</code>
+                                    <amount>179000.00</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1514140.52</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>1241600.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>3174140.52</sumContractMaxPrice>
+                    <sumPaymentsTotal>2755740.52</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11204980</url>
+            <signature>TUlJTlNBWUpLb1pJaHZjTkFRY0NvSUlOT1RDQ0RUVUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drWU1JSUpGRENDQ01PZ0F3SUJBZ0lERnZFWE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EVXlNekEyTWpnek9Gb1hEVEUzTURneU16QTJNamd6T0Zvd2dnSFRNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV3TlRVek1EUXhOVEVXTUJRR0JTcUZBMlFERWdzd05Ua3dOREUxTlRRMU5URWlNQ0FHQ1NxR1NJYjNEUUVKQVJZVFlXUjVaM053YjNKMFFIbGhibVJsZUM1eWRURUxNQWtHQTFVRUJoTUNVbFV4UERBNkJnTlZCQWdNTXpBeElOQ2cwTFhSZ2RDLzBZUFFzZEM3MExqUXV0Q3dJTkNRMExUUmk5Q3owTFhSanlBbzBKRFF0TkdMMExQUXRkR1BLVEVWTUJNR0ExVUVCd3dNMEp6UXNOQzUwTHJRdnRDL01Xd3dhZ1lEVlFRS0RHUFFrOUNSMEtNZzBLRFFrQ0FpMEtiUXRkQzkwWUxSZ0NEUmdkQy8wTDdSZ05HQzBMalFzdEM5MEw3UXVTRFF2OUMrMExUUXM5QyswWUxRdnRDeTBMclF1Q0RRdjlDK0lOQzYwTDdRdmRDOTBMN1F2TkdESU5HQjBML1F2dEdBMFlMUmd5SXhNREF1QmdOVkJDb01KOUNRMEx2UXRkQzYwWUhRc05DOTBMVFJnQ0RRbTlDMTBMN1F2ZEM0MExUUXZ0Q3kwTGpSaHpFWk1CY0dBMVVFQkF3UTBKRFF1OUMxMExyUmdkQzEwTFhRc2pFWk1CY0dBMVVFREF3UTBKVFF1TkdBMExYUXV0R0MwTDdSZ0RGQk1EOEdBMVVFQXd3NDBKRFF1OUMxMExyUmdkQzEwTFhRc2lEUWtOQzcwTFhRdXRHQjBMRFF2ZEMwMFlBZzBKdlF0ZEMrMEwzUXVOQzAwTDdRc3RDNDBZY3dZekFjQmdZcWhRTUNBaE13RWdZSEtvVURBZ0lrQUFZSEtvVURBZ0llQVFOREFBUkE1RmVxV0wvUk80Z1dySHBmTGpST2V5eVlmZUMxdnV2NEp3SjRmdGNsb3poelBxZmY1dGhHQnBXVVN5WCs5dHBQcWlhWTB4ejQxR3NUMndrVDBRMVM5S09DQk80d2dnVHFNQXdHQTFVZEV3RUIvd1FDTUFBd0hRWURWUjBnQkJZd0ZEQUlCZ1lxaFFOa2NRRXdDQVlHS29VRFpIRUNNRndHQTFVZEVRUlZNRk9nRWdZRFZRUU1vQXNUQ1RVeE5qRTNORFV5T0tBYkJnb3FoUU1EUFo3WE5nRUZvQTBUQ3pBek56WXlNREF3TURjNG9CMEdDaXFGQXdNOW50YzJBUWlnRHhNTk1ETTNOakl3TURBd01EQXhNWVlCTURBMkJnVXFoUU5rYndRdERDc2kwSnJSZ05DNDBML1JndEMrMEovUmdOQytJRU5UVUNJZ0tOQ3kwTFhSZ05HQjBMalJqeUF6TGpZcE1JSUJZUVlGS29VRFpIQUVnZ0ZXTUlJQlVneEVJdENhMFlEUXVOQy8wWUxRdnRDZjBZRFF2aUJEVTFBaUlDalFzdEMxMFlEUmdkQzQwWThnTXk0MktTQW8wTGpSZ2RDLzBMN1F1OUM5MExYUXZkQzQwTFVnTWlrTWFDTFFuOUdBMEw3UXM5R0EwTERRdk5DODBMM1F2aTNRc05DLzBML1FzTkdBMExEUmd0QzkwWXZRdVNEUXV0QyswTHpRdjlDNzBMWFF1dEdCSUNMUXJ0QzkwTGpSZ2RDMTBZRFJnaTNRazlDZTBLSFFvaUl1SU5DUzBMWFJnTkdCMExqUmp5QXlMakVpREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTBMVEkzTXpnZzBMN1JnaUF3TVM0d055NHlNREUxREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTRMVEl4TnpVZzBMN1JnaUF5TUM0d05pNHlNREV6TUE0R0ExVWREd0VCL3dRRUF3SUQ2REJ4QmdOVkhTVUVhakJvQmdnckJnRUZCUWNEQWdZT0tvVURBejJlMXpZQkJnTUVBUUVHRGlxRkF3TTludGMyQVFZREJBRUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkF3WU9Lb1VEQXoyZTF6WUJCZ01FQVFRR0RTcUZBd005bnRjMkFRWURCUUVHRFNxRkF3TTludGMyQVFZREJRSXdLd1lEVlIwUUJDUXdJb0FQTWpBeE5qQTFNak13TmpJNE1qUmFnUTh5TURFM01EZ3lNekEyTWpneU5Gb3dnZ0dQQmdOVkhTTUVnZ0dHTUlJQmdvQVVubkVPRDlxMEFTaGZQK0xMajJVVmx3SkhqS3VoZ2dGbHBJSUJZVENDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3Z2dFQk1GNEdBMVVkSHdSWE1GVXdLYUFub0NXR0kyaDBkSEE2THk5amNtd3VjbTl6YTJGNmJtRXVjblV2WTNKc0wyWnJNREV1WTNKc01DaWdKcUFraGlKb2RIUndPaTh2WTNKc0xtWnpabXN1Ykc5allXd3ZZM0pzTDJack1ERXVZM0pzTUIwR0ExVWREZ1FXQkJTaVd6Rm92UVVnSm1lWEcvVzQzWXZpTzcyT2p6QUlCZ1lxaFFNQ0FnTURRUUNNUU92b0lwNmN5QmppNGs2dGV3N1Q5d1YvRERFdVRwbnJOSlVRc2xCUWlaZHlJb2Y3c2FEN2lMUkQ4ZUlpMWgxb3BvT05iQ0hJa1lsdjNkYzM1RzlDTVlJRDl6Q0NBL01DQVFFd2dnRm1NSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTEFDQXhieEZ6QUtCZ1lxaFFNQ0Fna0ZBS0NDQWlnd0dBWUpLb1pJaHZjTkFRa0RNUXNHQ1NxR1NJYjNEUUVIQVRBY0Jna3Foa2lHOXcwQkNRVXhEeGNOTVRZd056STVNVE14TnpNMldqQXZCZ2txaGtpRzl3MEJDUVF4SWdRZ0R1WVdSNlYzZEhZanphUE44STMxbmlGcVorajBDV2NUbXEyRXV2MEtxbjR3Z2dHN0Jnc3Foa2lHOXcwQkNSQUNMekdDQWFvd2dnR21NSUlCb2pDQ0FaNHdDQVlHS29VREFnSUpCQ0JEdDBSLzE2ZE9naXlvaTFEbTZ6aWh0QkczU3BLNGVTeG5CakRtSlV2Q0tEQ0NBVzR3Z2dGbHBJSUJZVENDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3QWdNVzhSY3dDZ1lHS29VREFnSVRCUUFFUUhTODFZK1l2cHBJVU96TVU5T1BZSzRiMWdVbGZtSTNqdDVBQUJBVG9XbkRtblpqcUt0MitTZGw5VFZwNzJxYVoxdjltcmFhTE1tOUVzc3hLanB3TmtFPQ==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

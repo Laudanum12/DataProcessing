@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>13561236</id>
+            <planNumber>44201604761000001001</planNumber>
+            <year>2016</year>
+            <versionNumber>2</versionNumber>
+            <owner>
+                <regNum>04761000001</regNum>
+                <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ДОРОЖНОЕ ЭКСПЛУАТАЦИОННОЕ ПРЕДПРИЯТИЕ № 109"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-12-19T13:16:49.720+03:00</createDate>
+            <description>План график на 2016г.</description>
+            <confirmDate>2016-12-19T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-12-19T15:17:44.332+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>04761000001</regNum>
+                <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ДОРОЖНОЕ ЭКСПЛУАТАЦИОННОЕ ПРЕДПРИЯТИЕ № 109"</fullName>
+                <shortName>ОАО "ДЭП № 109"</shortName>
+                <postAddress>Российская Федерация, 385140, Адыгея Респ, Тахтамукайский р-н, Яблоновский пгт, Морская, 9</postAddress>
+                <factAddress>Российская Федерация, 385140, Адыгея Респ, Тахтамукайский р-н, Яблоновский пгт, Морская, 9</factAddress>
+                <INN>0107019798</INN>
+                <KPP>010701001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79630159051</code>
+                <name>пгт Яблоновский</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Файзулин </lastName>
+            <firstName>Рашид </firstName>
+            <middleName>Владимирович</middleName>
+            <phone>88777192016</phone>
+            <fax>88777192016</fax>
+            <email>oaodep109@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201604761000001001000002</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>200</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>123317.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>69.20.1</code>
+                                <name>Деятельность по проведению финансового аудита</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Услуги по проведению ежегодной аудиторской проверки ведения бухгалтерского учета и финансовой (бухгалтерской) отчетности АО «ДЭП №109» за  2016г.</contractSubjectName>
+                        <contractMaxPrice>123317.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-12-19T15:17:44.332+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>69.20.10.000</code>
+                                <name>Услуги по проведению финансового аудита</name>
+                            </OKPD2>
+                            <name>Услуги по проведению ежегодной аудиторской проверки ведения бухгалтерского учета и финансовой (бухгалтерской) отчетности АО «ДЭП №109» за  2016г.</name>
+                            <minRequirement>Единые требования к участникам (в соответствии с частью 1 cтатьи 31 Федерального закона № 44-ФЗ)</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>123317.00</sumMax>
+                            <price>123317.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>0.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Обеспечение заявки на участие в открытом конкурсе производится путем внесения денежных средств на расчетный счет заказчика, указанный в конкурсной документации.</procedure>
+                            <amount>2466.34</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии или внесением денежных средств на расчетный счет заказчика, указанный в конкурсной документации
+
+</procedure>
+                            <amount>6165.85</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>01.2017-04.2017</contractExecutionStages>
+                            <periodicity>01.2017-04.2017</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>В соответствии с постановлением Правительства Российской Федерации от 29 декабря 2015 г. № 1457 установлен запрет допуска работ (услуг), выполнение (оказание) которых на территории Российской Федерации осуществляется организациями, находящимися под юрисдикцией Турецкой Республики, а также организациями, контролируемыми гражданами Турецкой Республики и (или) организациями, находящимися под юрисдикцией Турецкой Республики.</prohibitions>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>8632419</code>
+                                    <name>Единые требования к участникам (в соответствии  с частью 2.1 статьи 31 Федерального закона № 44-ФЗ)</name>
+                                    <content>в соответствии с пунктами 3-5,7,9, 10 части 1 статьи 31 Федерального закона №44-ФЗ 
+</content>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201604761000001001000001</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>000</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>177333.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>69.20.1</code>
+                                <name>Деятельность по проведению финансового аудита</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>услуги по проведению ежегодной аудиторской проверки ведения бухгалтерского учета и финансовой (бухгалтерской) отчетности АО «ДЭП №109» за 2015г.</contractSubjectName>
+                        <contractMaxPrice>177333.00</contractMaxPrice>
+                        <payments>177333.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>OK44</code>
+                            <name>Открытый конкурс</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-04-28T17:02:12.498+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>69.20.1</code>
+                                <name>Услуги по проведению финансового аудита</name>
+                            </OKPD2>
+                            <name>услуги по проведению ежегодной аудиторской проверки ведения бухгалтерского учета и финансовой (бухгалтерской) отчетности АО «ДЭП №109» за 2015г.</name>
+                            <minRequirement>цена,  опыт, квалификация</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>177333.00</sumMax>
+                            <price>177333.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>исполнение заявки обеспечивается внесением денежных средств на указанный заказчиком счет</procedure>
+                            <amount>3547.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>исполнение обеспечения контракта обеспечивается внесением денежных средств на указанный заказчиком счет или предоставлением банковской гарантии</procedure>
+                            <amount>8867.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>07.2016</contractExecutionStages>
+                            <periodicity>1</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>В соответствии с постановлением Правительства Российской Федерации от 29 декабря 2015 г. № 1457 установлен запрет допуска работ (услуг), выполнение (оказание) которых на территории Российской Федерации осуществляется организациями, находящимися под юрисдикцией Турецкой Республики, а также организациями, контролируемыми гражданами Турецкой Республики и (или) организациями, находящимися под юрисдикцией Турецкой Республики</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>0.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>177333.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>177333.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>300650.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=13561236</url>
+            <signature>TUlJTk9BWUpLb1pJaHZjTkFRY0NvSUlOS1RDQ0RTVUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drSU1JSUpCRENDQ0xPZ0F3SUJBZ0lERTA5aU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1ESXdNVEUwTWpjd05Wb1hEVEUzTURVd01URTBNamN3TlZvd2dnSGtNUm93R0FZSUtvVURBNEVEQVFFU0REVXdNVFl3TXpJeE5ESXdPVEVXTUJRR0JTcUZBMlFERWdzeE1USTVPRFV6TnpBMk56RWdNQjRHQ1NxR1NJYjNEUUVKQVJZUmIyRnZaR1Z3TVRBNVFHMWhhV3d1Y25VeEN6QUpCZ05WQkFZVEFsSlZNVHd3T2dZRFZRUUlERE13TVNEUW9OQzEwWUhRdjlHRDBMSFF1OUM0MExyUXNDRFFrTkMwMFl2UXM5QzEwWThnS05DUTBMVFJpOUN6MExYUmp5a3hKakFrQmdOVkJBY01IZEMvMEw3UmdTN1FyOUN4MEx2UXZ0QzkwTDdRc3RHQjBMclF1TkM1TVY4d1hRWURWUVFLREZiUWtOQ2VJQ0xRbE5DKzBZRFF2dEMyMEwzUXZ0QzFJTkdOMExyUmdkQy8wTHZSZzlDdzBZTFFzTkdHMExqUXZ0QzkwTDNRdnRDMUlOQy8wWURRdGRDMDBML1JnTkM0MFkvUmd0QzQwTFVnNG9TV01UQTVJakVzTUNvR0ExVUVLZ3dqMEtEUXNOR0kwTGpRdENEUWt0QzcwTERRdE5DNDBMelF1TkdBMEw3UXN0QzQwWWN4R1RBWEJnTlZCQVFNRU5DazBMRFF1ZEMzMFlQUXU5QzQwTDB4TURBdUJnTlZCQXdNSjlDVDBMWFF2ZEMxMFlEUXNOQzcwWXpRdmRHTDBMa2cwTFRRdU5HQTBMWFF1dEdDMEw3UmdERTlNRHNHQTFVRUF3dzAwS1RRc05DNTBMZlJnOUM3MExqUXZTRFFvTkN3MFlqUXVOQzBJTkNTMEx2UXNOQzAwTGpRdk5DNDBZRFF2dEN5MExqUmh6QmpNQndHQmlxRkF3SUNFekFTQmdjcWhRTUNBaVFBQmdjcWhRTUNBaDRCQTBNQUJFQkcrY2MzdkxrV2FIUWVUQ1pWYjh3dmpuQjlsdnpxZU02Wk5mSGVINStYU0NndWZwajY5REk3eWFrSXdvMXdEYnR3aHAxVXF2dG1tQ0pWWG80cFg1ZUlvNElFelRDQ0JNa3dEQVlEVlIwVEFRSC9CQUl3QURBZEJnTlZIU0FFRmpBVU1BZ0dCaXFGQTJSeEFUQUlCZ1lxaFFOa2NRSXdXUVlEVlIwUkJGSXdVS0FUQmdOVkJBeWdEQk1LTVRJeU5ERXlNakkxTnFBWkJnb3FoUU1EUFo3WE5nRUhvQXNUQ1RBeE1EY3dNVEF3TWFBYkJnb3FoUU1EUFo3WE5nRUZvQTBUQ3pBME56WXhNREF3TURBeGhnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWt3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qY3pPQ0RRdnRHQ0lEQXhMakEzTGpJd01UVU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qRTNOU0RRdnRHQ0lESXdMakEyTGpJd01UTXdEZ1lEVlIwUEFRSC9CQVFEQWdQb01GTUdBMVVkSlFSTU1Fb0dDQ3NHQVFVRkJ3TUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkFRWU9Lb1VEQXoyZTF6WUJCZ01FQVFJR0RpcUZBd005bnRjMkFRWURCQUVEQmc0cWhRTURQWjdYTmdFR0F3UUJCREFyQmdOVkhSQUVKREFpZ0E4eU1ERTJNREl3TVRFME1qZ3lNVnFCRHpJd01UY3dOVEF4TVRReU9ESXhXakNDQVk4R0ExVWRJd1NDQVlZd2dnR0NnQlNlY1E0UDJyUUJLRjgvNHN1UFpSV1hBa2VNcTZHQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExDQ0FRRXdYZ1lEVlIwZkJGY3dWVEFwb0NlZ0pZWWphSFIwY0RvdkwyTnliQzV5YjNOcllYcHVZUzV5ZFM5amNtd3ZabXN3TVM1amNtd3dLS0Ftb0NTR0ltaDBkSEE2THk5amNtd3Vabk5tYXk1c2IyTmhiQzlqY213dlptc3dNUzVqY213d0hRWURWUjBPQkJZRUZGRFl3TUlVMjQzbFdaWHI2dVphbWhnNHZXMWlNQWdHQmlxRkF3SUNBd05CQUhNMGFSUy9QM2Fzdnh1M1FMVzltdGxBZC9pNnZ6UnUxemhETHhQRC9pWWtsUWJIeUpCV3I2bVFlY2s1blF5Ry9WVEZoUmdYb1Eza2c4UXZveVlxNkpjeGdnUDNNSUlEOHdJQkFUQ0NBV1l3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJREUwOWlNQW9HQmlxRkF3SUNDUVVBb0lJQ0tEQVlCZ2txaGtpRzl3MEJDUU14Q3dZSktvWklodmNOQVFjQk1Cd0dDU3FHU0liM0RRRUpCVEVQRncweE5qRXlNVGt4TWpFM05ETmFNQzhHQ1NxR1NJYjNEUUVKQkRFaUJDQzdCUGZrdUZvb2x2ZG84VDBRclJBaFY5Q09aL3pzRk5iZjBPSDIwTHhXd1RDQ0Fic0dDeXFHU0liM0RRRUpFQUl2TVlJQnFqQ0NBYVl3Z2dHaU1JSUJuakFJQmdZcWhRTUNBZ2tFSUp4L0NNSklJQktOeE1qcDBHMmNMMGZQb1orY25WVTdIVG9BNE9xUE1vcUNNSUlCYmpDQ0FXV2tnZ0ZoTUlJQlhURVlNQllHQ1NxR1NJYjNEUUVKQWhNSlUyVnlkbVZ5SUVOQk1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMVkxOW1hMEJ5YjNOcllYcHVZUzV5ZFRFY01Cb0dBMVVFQ0F3VE56Y2cwTE11SU5DYzBMN1JnZEM2MExMUXNERWFNQmdHQ0NxRkF3T0JBd0VCRWd3d01EYzNNVEExTmpnM05qQXhHREFXQmdVcWhRTmtBUklOTVRBME56YzVOekF4T1Rnek1ERXNNQ29HQTFVRUNRd2owWVBRdTlDNDBZYlFzQ0RRbU5DNzBZelF1TkM5MExyUXNDd2cwTFRRdnRDOElEY3hGVEFUQmdOVkJBY01ETkNjMEw3UmdkQzYwTExRc0RFTE1Ba0dBMVVFQmhNQ1VsVXhPREEyQmdOVkJBb01MOUNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExVZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEMrTVQ4d1BRWURWUVFERERiUW85Q21JTkNrMExYUXROQzEwWURRc05DNzBZelF2ZEMrMExQUXZpRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MExBQ0F4TlBZakFLQmdZcWhRTUNBaE1GQUFSQTJsYjJFOWRwQm9BanFsU0ExeDhCNlg3bFozekEwc05Qcmx0R29Cakp0QncwR0Q2Vjd0bkFOdk1VS2sxOUN4V3JZaVVobmtMQ3NFVXRLSTBNUUZKdjlnPT0=</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

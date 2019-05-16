@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>10134342</id>
+            <planNumber>44201603763000093001</planNumber>
+            <year>2016</year>
+            <versionNumber>5</versionNumber>
+            <owner>
+                <regNum>03763000093</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 7"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-05-18T18:17:53.001+03:00</createDate>
+            <description>План-график закупок МБОУ "СОШ № 7" МО "Город Майкоп" на 2016г.</description>
+            <confirmDate>2016-08-01T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-08-01T17:34:01.108+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000093</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 7"</fullName>
+                <shortName>МБОУ "СОШ № 7"</shortName>
+                <postAddress>Российская Федерация, 385020, Адыгея Респ, Майкоп г, Курганная, 331, -</postAddress>
+                <factAddress>Российская Федерация, 385020, Адыгея Респ, Майкоп г, Курганная, 331, -</factAddress>
+                <INN>0105033074</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000001</code>
+                <name>г Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Гиршберг</lastName>
+            <firstName>Галина</firstName>
+            <middleName>Григорьевна</middleName>
+            <phone>8-903-466-30-58</phone>
+            <email>school7.maykop@list.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000093001000002</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>240000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.32.1</code>
+                                <name>Установка дверей (кроме автоматических и вращающихся), окон, дверных и оконных рам из дерева или прочих материалов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName> 
+Замена оконных блоков. Совместный электронный аукцион.</contractSubjectName>
+                        <contractMaxPrice>240000.00</contractMaxPrice>
+                        <payments>240000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-01T17:34:01.108+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.32.10.110</code>
+                                <name>Работы по установке дверных и оконных блоков и коробок, навеске дверных полотен (кроме дверей автоматического действия и вращающихся дверей), окон, оконных створок, планчатых створок, дверей гаражного типа и т. п. из любых материалов</name>
+                            </OKPD2>
+                            <name> 
+Замена оконных блоков. Совместный электронный аукцион.</name>
+                            <minRequirement> Окна метало-пластиковые в комплекте с москитной сеткой, откосами, подоконной доской. Цвет белый , профиль трехкамерный. Гарантия в соответствии с требования предъявляемыми к данному виду работ(услкг) российским законодательством</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>240000.00</sumMax>
+                            <price>240000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявки, пероечисляются на счет электронной площадки в банке</procedure>
+                            <amount>2400.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Денежные средства перечисляются на расчетный счет заказчика в соответсвии с аукционной документацией </procedure>
+                            <amount>12000.00</amount>
+                        </contractFinCondition>
+                        <advance>не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>нет этапа</contractExecutionStages>
+                            <periodicity>периодичность не предусмотрена </periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000093001000001</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>225</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>8680.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>95.11</code>
+                                <name>Ремонт компьютеров и периферийного компьютерного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по заправке, восстановлению и замене картриджей.
+
+  
+
+ОКПД    95.11.10.000 Услуги по ремонту компьютеров и периферийного оборудования</contractSubjectName>
+                        <contractMaxPrice>8680.00</contractMaxPrice>
+                        <payments>8680.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-03-19T12:16:11.047+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по заправке, восстановлению и замене картриджей.
+
+  
+
+ОКПД    95.11.10.000 Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            <minRequirement>Заправка: 
+- работы по заправке картриджей должны быть выполнены в соответствии с нормативами, предусмотренными действующим законодательством, как в  отношении документального оформления оказанных услуг, так и в отношении экологических норм и требований техники безопасности;
+- не допускается эффект грязного/серого листа (фона) при печати на белой бумаге, дефектов изображения, размытого или нечёткого изображения, пятен, точек, фона, в том числе и на оборотной стороне отпечатка и любых дефектов при печати  всего ресурса заправленного картриджа;
+- внешний вид картриджа после заправки должен быть без дефектов и явных и видимых поломок;
+- при выполнении работ недопустимо использование  комплектующих изделий и расходных материалов, бывших в употреблении;
+- использование только оригинального тонера для каждого типа картриджей, используемый тонер должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации;
+- заправленный картридж должен обеспечивать ресурс работы не менее ресурса оригинального картриджа;
+- расход тонера на 1000 листов должен составлять не менее 95% в сравнении с оригинальным.
+- исключить просыпание тонера внутрь принтера;
+- обеспечить герметичность картриджа после заправки, т.е. картриджи должны быть чистыми; 
+- обеспечить очистку от остатков старого тонера.
+Заправка осуществляется в сервисном центре Исполнителя. Качество и безопасность работ должны соответствовать установленным стандартам. Исполнитель несёт все расходы по замене или ремонту дефектной продукции, выявленной Заказчиком, если дефект не зависит от условий хранения или неправильного обращения.
+Заправленные картриджи должны иметь индивидуальную упаковку, обеспечивающую их безопасную транспортировку и хранение, имеющую антистатические свойства, обеспечивающие изоляцию светового потока, с ука</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>8680.00</sumMax>
+                            <price>280.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>31.00</quantity>
+                            <quantityCurrentYear>31.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% начальной (максимальной) цены Контракта</procedure>
+                            <amount>86.80</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5 % начальной (максимальной) цены Контракта</procedure>
+                            <amount>434.00</amount>
+                        </contractFinCondition>
+                        <advance>аванс не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>по мере необходимости</contractExecutionStages>
+                            <periodicity>по мере необходимости в течение 3-х (трех) рабочих дней, с момента поступления заявки</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>436867.10</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess100>
+                    <purchaseAmountLess400>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>981540.00</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess400>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>436867.10</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>981540.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>8680.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>5074630.74</sumContractMaxPrice>
+                    <sumPaymentsTotal>1667087.10</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=10134342</url>
+            <signature>TUlJTmV3WUpLb1pJaHZjTkFRY0NvSUlOYkRDQ0RXZ0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dsTE1JSUpSekNDQ1BhZ0F3SUJBZ0lERDQxU01BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMU1Ea3hOVEE1TVRFeU4xb1hEVEUyTVRJeE5UQTVNVEV5TjFvd2dnSHJNUm93R0FZSUtvVURBNEVEQVFFU0RESXpOVE13TURZMk5qWXhNekVXTUJRR0JTcUZBMlFERWdzd05UWTJOVGN5TkRBNE5ERVlNQllHQlNxRkEyUUJFZzB4TURJd01UQXdOekE1TVRZMk1TVXdJd1lKS29aSWh2Y05BUWtCRmhaelkyaHZiMnczTG0xaGVXdHZjRUJzYVhOMExuSjFNUXN3Q1FZRFZRUUdFd0pTVlRFOE1Eb0dBMVVFQ0F3ek1ERWcwS0RRdGRHQjBML1JnOUN4MEx2UXVOQzYwTEFnMEpEUXROR0wwTFBRdGRHUElDalFrTkMwMFl2UXM5QzEwWThwTVJVd0V3WURWUVFIREF6UW5OQ3cwTG5RdXRDKzBMOHhXakJZQmdOVkJBb01VZENjMEpIUW50Q2pJQ0xRb2RHQTBMWFF0TkM5MFkvUmp5RFF2dEN4MFluUXRkQyswTEhSZ05DdzBMZlF2dEN5MExEUmd0QzEwTHZSak5DOTBMRFJqeURSaU5DNjBMN1F1OUN3SU9LRWxpQTNJakVzTUNvR0ExVUVLZ3dqMEpQUXNOQzcwTGpRdmRDd0lOQ1QwWURRdU5DejBMN1JnTkdNMExYUXN0QzkwTEF4R1RBWEJnTlZCQVFNRU5DVDBMalJnTkdJMExIUXRkR0EwTE14TGpBc0JnTlZCQXdNSmRDajBZZlF1TkdDMExYUXU5R01JTkM0MEwzUmhOQyswWURRdk5DdzBZTFF1TkM2MExneFBUQTdCZ05WQkFNTU5OQ1QwTGpSZ05HSTBMSFF0ZEdBMExNZzBKUFFzTkM3MExqUXZkQ3dJTkNUMFlEUXVOQ3owTDdSZ05HTTBMWFFzdEM5MExBd1l6QWNCZ1lxaFFNQ0FoTXdFZ1lIS29VREFnSWtBQVlIS29VREFnSWVBUU5EQUFSQUZ5clZFOHJnUlgyT080K0VGREV5WExZSUtkSjQzOXNrTmV1S0d1RGplZEtsMTNtRkRrRHQ2VE5lQ1VjbFVDUXI5dUFaOXlLQXNQRlRXQ1UvSHpvd0c2T0NCUWt3Z2dVRk1Bd0dBMVVkRXdFQi93UUNNQUF3SFFZRFZSMGdCQll3RkRBSUJnWXFoUU5rY1FFd0NBWUdLb1VEWkhFQ01IY0dBMVVkRVFSd01HNmdFZ1lEVlFRTW9Bc1RDVGt3T1RBNU1qQXpPYUFaQmdvcWhRTURQWjdYTmdFSG9Bc1RDVEF4TURVd01UQXdNYUFiQmdvcWhRTURQWjdYTmdFRm9BMFRDekF6TnpZek1EQXdNRGt6b0IwR0NpcUZBd005bnRjMkFRaWdEeE1OTURNM05qTXdNREF3TURFd09ZWUJNREEyQmdVcWhRTmtid1F0RENzaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwTUlJQllRWUZLb1VEWkhBRWdnRldNSUlCVWd4RUl0Q2EwWURRdU5DLzBZTFF2dENmMFlEUXZpQkRVMUFpSUNqUXN0QzEwWURSZ2RDNDBZOGdNeTQyS1NBbzBMalJnZEMvMEw3UXU5QzkwTFhRdmRDNDBMVWdNaWtNYUNMUW45R0EwTDdRczlHQTBMRFF2TkM4MEwzUXZpM1FzTkMvMEwvUXNOR0EwTERSZ3RDOTBZdlF1U0RRdXRDKzBMelF2OUM3MExYUXV0R0JJQ0xRcnRDOTBMalJnZEMxMFlEUmdpM1FrOUNlMEtIUW9pSXVJTkNTMExYUmdOR0IwTGpSanlBeUxqRWlERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJMExUSXlNemdnMEw3UmdpQXdOQzR4TUM0eU1ERXpERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJNExUSXhOelVnMEw3UmdpQXlNQzR3Tmk0eU1ERXpNQTRHQTFVZER3RUIvd1FFQXdJRDZEQnhCZ05WSFNVRWFqQm9CZ2dyQmdFRkJRY0RBZ1lPS29VREF6MmUxellCQmdNRUFRRUdEaXFGQXdNOW50YzJBUVlEQkFFQ0JnNHFoUU1EUFo3WE5nRUdBd1FCQXdZT0tvVURBejJlMXpZQkJnTUVBUVFHRFNxRkF3TTludGMyQVFZREJRRUdEU3FGQXdNOW50YzJBUVlEQlFJd0t3WURWUjBRQkNRd0lvQVBNakF4TlRBNU1UVXdPVEV3TXpGYWdROHlNREUyTVRJeE5UQTVNVEF6TVZvd2dnR1BCZ05WSFNNRWdnR0dNSUlCZ29BVW5uRU9EOXEwQVNoZlArTExqMlVWbHdKSGpLdWhnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dnZ0VCTUY0R0ExVWRId1JYTUZVd0thQW5vQ1dHSTJoMGRIQTZMeTlqY213dWNtOXphMkY2Ym1FdWNuVXZZM0pzTDJack1ERXVZM0pzTUNpZ0pxQWtoaUpvZEhSd09pOHZZM0pzTG1aelptc3ViRzlqWVd3dlkzSnNMMlpyTURFdVkzSnNNQjBHQTFVZERnUVdCQlM3OEF6WnduWFZJbWh6QkcyQk94aDN1VzRxNkRBSUJnWXFoUU1DQWdNRFFRRGg5Um13TElwelNrT3VaRjdCS2tJaU1LUkJvWXZwRkRVNDZtYkMvdTJuYWZOdWx3N3dESjh3SllyTzhXb2VVamMwUHNmcldsTUN3U0pwNnFpN3J0dnhNWUlEOXpDQ0EvTUNBUUV3Z2dGbU1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBdytOVWpBS0JnWXFoUU1DQWdrRkFLQ0NBaWd3R0FZSktvWklodmNOQVFrRE1Rc0dDU3FHU0liM0RRRUhBVEFjQmdrcWhraUc5dzBCQ1FVeER4Y05NVFl3T0RBeE1UUXlOek15V2pBdkJna3Foa2lHOXcwQkNRUXhJZ1FnU1RyRlRiUENxZFY3dGl3RFZZTlMzVTNwUDBZSUd2eEgxa2VocEhxZXFJa3dnZ0c3QmdzcWhraUc5dzBCQ1JBQ0x6R0NBYW93Z2dHbU1JSUJvakNDQVo0d0NBWUdLb1VEQWdJSkJDQzRTem5HdC9hUjFhRFhvOE1RdG9MK29mQWtrUXBIcWtxS3dLMjR5WXNzcmpDQ0FXNHdnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dBZ01QalZJd0NnWUdLb1VEQWdJVEJRQUVRSUQ2d0RBNEZNYThlNW80RjVWQXlPMFQwRjJuYjNUajFiSlZTMnkrS09Ca1J6MXgxV20rckNwQ0xYcFQ1S1NBbWZLUWNzM00yWnZldjBZR240U0ltNEE9</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

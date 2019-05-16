@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>10558194</id>
+            <planNumber>44201603763000275001</planNumber>
+            <year>2016</year>
+            <versionNumber>11</versionNumber>
+            <owner>
+                <regNum>03763000275</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 15</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-06-15T09:42:49.641+03:00</createDate>
+            <description>план график размещения заказов</description>
+            <confirmDate>2016-01-18T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-06-15T09:46:38.007+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000275</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 15</fullName>
+                <shortName>МБОУ СОШ №15</shortName>
+                <postAddress>Российская Федерация, 385796, Адыгея Респ, Майкопский р-н, Хамышки с, СОВЕТСКАЯ, 15</postAddress>
+                <factAddress>Российская Федерация, 385796, Адыгея Респ, Майкопский р-н, Хамышки с, СОВЕТСКАЯ, 15</factAddress>
+                <INN>0104008580</INN>
+                <KPP>010401001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79622407</code>
+                <name>Даховское</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Никифорова </lastName>
+            <firstName>Анжелика</firstName>
+            <middleName>Сергеевна</middleName>
+            <phone>5-58-48</phone>
+            <email>mcoh15@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000275001000004</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90307027100201000611</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>61335.52</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90</code>
+                                <name>Деятельность в области медицины прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Совместный аукцион на проведение ежегодного медицинского осмотра на 2016 год</contractSubjectName>
+                        <contractMaxPrice>61335.52</contractMaxPrice>
+                        <payments>61335.52</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000018</regNum>
+                                <fullName>АДМИНИСТРАЦИЯ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "МАЙКОПСКИЙ РАЙОН"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-29T15:21:24.050+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.190</code>
+                                <name>Услуги в области медицины прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Прохождение ежегодного медицинского осмотра на 2016 год мужчинами</name>
+                            <minRequirement>качественное оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>11556.65</sumMax>
+                            <price>2311.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.190</code>
+                                <name>Услуги в области медицины прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Прохождение ежегодного медицинского осмотра на 2016 год женщинами после 40 лет</name>
+                            <minRequirement>качественное оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>36223.92</sumMax>
+                            <price>3018.66</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                            <quantityCurrentYear>12.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.19.190</code>
+                                <name>Услуги в области медицины прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>прохождение ежегодного медицинского осмотра на 2016 год женщинами до 40 лет</name>
+                            <minRequirement>качественное оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>13554.95</sumMax>
+                            <price>2710.99</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>613.36</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>3066.78</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>С момента заключения контракта в течении 60 дней</contractExecutionStages>
+                            <periodicity>Не предусмотренно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000275001000005</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90307027100201000611</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>4884.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>81.29</code>
+                                <name>Деятельность по чистке и уборке прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Совместный аукцион на проведение дератизации, дезинсекции на 2 полугодие 2016 года</contractSubjectName>
+                        <contractMaxPrice>4884.00</contractMaxPrice>
+                        <payments>4884.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000018</regNum>
+                                <fullName>АДМИНИСТРАЦИЯ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "МАЙКОПСКИЙ РАЙОН"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-15T09:46:38.007+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>81.29.11.000</code>
+                                <name>Услуги по дезинфекции, дезинсекции и дератизации</name>
+                            </OKPD2>
+                            <name>дератизация</name>
+                            <minRequirement>качественное оказание услуги</minRequirement>
+                            <OKEI>
+                                <code>055</code>
+                                <name>Квадратный метр</name>
+                            </OKEI>
+                            <sumMax>4884.00</sumMax>
+                            <price>4.07</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1200.00</quantity>
+                            <quantityCurrentYear>1200.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1%</procedure>
+                            <amount>48.84</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5%</procedure>
+                            <amount>244.20</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>С момента заключения контракта в течении 6 месяцев</contractExecutionStages>
+                            <periodicity>Не предусмотренно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000275001000001</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90307027100201000611</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>780.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>37.00</code>
+                                <name>Сбор и обработка сточных вод</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Сан.очистка</contractSubjectName>
+                        <contractMaxPrice>780.00</contractMaxPrice>
+                        <payments>780.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:51:33.795+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>37.00.11.120</code>
+                                <name>Услуги по транспортированию сточных вод</name>
+                            </OKPD2>
+                            <name>Сан.очистка</name>
+                            <minRequirement>Качественное оказание услуги </minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>780.00</sumMax>
+                            <price>217.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.60</quantity>
+                            <quantityCurrentYear>3.60</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно </contractExecutionStages>
+                            <periodicity>Ежемесячно </periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000275001000003</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90307017100101000611</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>148350.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>02.20</code>
+                                <name>Лесозаготовки</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>совместный аукцион на поставку твердого топлива (дров)</contractSubjectName>
+                        <contractMaxPrice>148350.00</contractMaxPrice>
+                        <payments>148350.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000018</regNum>
+                                <fullName>АДМИНИСТРАЦИЯ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "МАЙКОПСКИЙ РАЙОН"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-11T15:38:11.400+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>02.20.14.116</code>
+                                <name>Дрова дубовые</name>
+                            </OKPD2>
+                            <name>Дрова</name>
+                            <minRequirement>Качество товара должно соответствовать действующему законодательству РФ</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>148350.00</sumMax>
+                            <price>1500.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>98.90</quantity>
+                            <quantityCurrentYear>98.90</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1 % от НМЦК</procedure>
+                            <amount>1483.50</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5 % от НМЦК</procedure>
+                            <amount>7417.50</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>5 дней с момента заключения контракта </contractExecutionStages>
+                            <periodicity> Не предусмотрено </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000275001000002</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90307027100201000611</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>4580.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Услуги по предоставлению телефонной связи </contractSubjectName>
+                        <contractMaxPrice>4580.00</contractMaxPrice>
+                        <payments>4580.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:51:33.795+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.110</code>
+                                <name>Услуги по предоставлению внутризоновых, междугородных и международных телефонных соединений</name>
+                            </OKPD2>
+                            <name>Услуги по предоставлению телефонной связи </name>
+                            <minRequirement>Качественное оказание услуг </minRequirement>
+                            <sumMax>4580.00</sumMax>
+                            <price>4580.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно </contractExecutionStages>
+                            <periodicity>Ежемесячно </periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>90307027100201200612</code>
+                                    <amount>24300.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90307027100260090611</code>
+                                    <amount>74000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90307027100401300612</code>
+                                    <amount>49000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90307027100201000611</code>
+                                    <amount>436400.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>583700.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>737410.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>803629.52</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=10558194</url>
+            <signature>TUlJTnN3WUpLb1pJaHZjTkFRY0NvSUlOcERDQ0RhQUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dtRE1JSUpmekNDQ1M2Z0F3SUJBZ0lERGo3SU1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMU1EY3lNekEzTlRnek4xb1hEVEUyTVRBeU16QTNOVGd6TjFvd2dnSVpNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFF3TURRNE9ESTVNREVXTUJRR0JTcUZBMlFERWdzd05qWTFOVGd5TkRBNU1ERVlNQllHQlNxRkEyUUJFZzB4TURJd01UQXdOekV5TVRZNU1TQXdIZ1lKS29aSWh2Y05BUWtCRmhGaFoyRm1aWFpoT0RKQWJXRnBiQzV5ZFRFTE1Ba0dBMVVFQmhNQ1VsVXhQREE2QmdOVkJBZ01NekF4SU5DZzBMWFJnZEMvMFlQUXNkQzcwTGpRdXRDd0lOQ1EwTFRSaTlDejBMWFJqeUFvMEpEUXROR0wwTFBRdGRHUEtUR0JtRENCbFFZRFZRUUhESUdOMEtEUXZ0R0IwWUhRdU5DNTBZSFF1dEN3MFk4ZzBLVFF0ZEMwMExYUmdOQ3cwWWJRdU5HUExDQXpPRFUzT1RZc0lOQ1EwTFRSaTlDejBMWFJqeURRb05DMTBZSFF2eXdnMEp6UXNOQzUwTHJRdnRDLzBZSFF1dEM0MExrZzBZQXQwTDBzSU5DbDBMRFF2TkdMMFlqUXV0QzRJTkdCTENEUW9kQ2UwSkxRbGRDaTBLSFFtdENRMEs4c0lERTFNUjR3SEFZRFZRUUtEQlhRbk5DUjBKN1FveURRb2RDZTBLZ2c0b1NXTVRVeEtqQW9CZ05WQkNvTUlkQ2UwTHZRdGRDeklOQ1MwTHZRc05DMDBMalF2TkM0MFlEUXZ0Q3kwTGpSaHpFYk1Ca0dBMVVFQkF3UzBKelF2dEM2MFlEUXZ0R0QwWUhRdnRDeU1Sa3dGd1lEVlFRTURCRFFsTkM0MFlEUXRkQzYwWUxRdnRHQU1UMHdPd1lEVlFRREREVFFuTkMrMExyUmdOQyswWVBSZ2RDKzBMSWcwSjdRdTlDMTBMTWcwSkxRdTlDdzBMVFF1TkM4MExqUmdOQyswTExRdU5HSE1HTXdIQVlHS29VREFnSVRNQklHQnlxRkF3SUNKQUFHQnlxRkF3SUNIZ0VEUXdBRVFPUkRHVGFUY2dQcUJqeEN6VDU5b1c3UW5uWG1hMisrN0s0WDV4dGNWSkJGZUdMTGZucXl4eXpZNlB0dWREKzNzc3hSNXVlbUxEdktoeWxnMktlWjAyaWpnZ1VUTUlJRkR6QU1CZ05WSFJNQkFmOEVBakFBTUIwR0ExVWRJQVFXTUJRd0NBWUdLb1VEWkhFQk1BZ0dCaXFGQTJSeEFqQjNCZ05WSFJFRWNEQnVvQklHQTFVRURLQUxFd2szTWpFeE5qQXlNVENnR1FZS0tvVURBejJlMXpZQkI2QUxFd2t3TVRBME1ERXdNREdnR3dZS0tvVURBejJlMXpZQkJhQU5Fd3N3TXpjMk16QXdNREkzTmFBZEJnb3FoUU1EUFo3WE5nRUlvQThURFRBek56WXpNREF3TURBeE56T0dBVEF3TmdZRktvVURaRzhFTFF3ckl0Q2EwWURRdU5DLzBZTFF2dENmMFlEUXZpQkRVMUFpSUNqUXN0QzEwWURSZ2RDNDBZOGdNeTQyS1RDQ0FXRUdCU3FGQTJSd0JJSUJWakNDQVZJTVJDTFFtdEdBMExqUXY5R0MwTDdRbjlHQTBMNGdRMU5RSWlBbzBMTFF0ZEdBMFlIUXVOR1BJRE11TmlrZ0tOQzQwWUhRdjlDKzBMdlF2ZEMxMEwzUXVOQzFJRElwREdnaTBKL1JnTkMrMExQUmdOQ3cwTHpRdk5DOTBMNHQwTERRdjlDLzBMRFJnTkN3MFlMUXZkR0wwTGtnMExyUXZ0QzgwTC9RdTlDMTBMclJnU0FpMEs3UXZkQzQwWUhRdGRHQTBZSXQwSlBRbnRDaDBLSWlMaURRa3RDMTBZRFJnZEM0MFk4Z01pNHhJZ3hQMEtIUXRkR0EwWUxRdU5HRTBMalF1dEN3MFlJZzBZSFF2dEMrMFlMUXN0QzEwWUxSZ2RHQzBMTFF1TkdQSU9LRWxpRFFvZENrTHpFeU5DMHlNak00SU5DKzBZSWdNRFF1TVRBdU1qQXhNd3hQMEtIUXRkR0EwWUxRdU5HRTBMalF1dEN3MFlJZzBZSFF2dEMrMFlMUXN0QzEwWUxSZ2RHQzBMTFF1TkdQSU9LRWxpRFFvZENrTHpFeU9DMHlNVGMxSU5DKzBZSWdNakF1TURZdU1qQXhNekFPQmdOVkhROEJBZjhFQkFNQ0ErZ3dld1lEVlIwbEJIUXdjZ1lJS3dZQkJRVUhBd0VHQ0NzR0FRVUZCd01DQmc0cWhRTURQWjdYTmdFR0F3UUJBUVlPS29VREF6MmUxellCQmdNRUFRSUdEaXFGQXdNOW50YzJBUVlEQkFFREJnNHFoUU1EUFo3WE5nRUdBd1FCQkFZTktvVURBejJlMXpZQkJnTUZBUVlOS29VREF6MmUxellCQmdNRkFqQXJCZ05WSFJBRUpEQWlnQTh5TURFMU1EY3lNekEzTlRjME5scUJEekl3TVRZeE1ESXlNRGMxT0RNM1dqQ0NBWThHQTFVZEl3U0NBWVl3Z2dHQ2dCU2VjUTRQMnJRQktGOC80c3VQWlJXWEFrZU1xNkdDQVdXa2dnRmhNSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTENDQVFFd1hnWURWUjBmQkZjd1ZUQXBvQ2VnSllZamFIUjBjRG92TDJOeWJDNXliM05yWVhwdVlTNXlkUzlqY213dlptc3dNUzVqY213d0tLQW1vQ1NHSW1oMGRIQTZMeTlqY213dVpuTm1heTVzYjJOaGJDOWpjbXd2Wm1zd01TNWpjbXd3SFFZRFZSME9CQllFRkUwa1BJRWN6UEIrVjEvd0g4eG5ybGxYNDZrR01BZ0dCaXFGQXdJQ0F3TkJBR0Jud2lialpqTHIxWkdiS25qbWxuM3VtWmlGUnBmSE1rb0FrOXpIOHRuMEtaVXRiNTQzeCtCUmJTOFdodlpsaEl0aEJmazdiYWI4cStkYVdHRTEvcTR4Z2dQM01JSUQ4d0lCQVRDQ0FXWXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzQUlERGo3SU1Bb0dCaXFGQXdJQ0NRVUFvSUlDS0RBWUJna3Foa2lHOXcwQkNRTXhDd1lKS29aSWh2Y05BUWNCTUJ3R0NTcUdTSWIzRFFFSkJURVBGdzB4TmpBMk1UVXdOalEyTlRkYU1DOEdDU3FHU0liM0RRRUpCREVpQkNBS2dUdE03SFUrS1d5dklXOVVsUFJNVkpxWkJMRHJNT1kxNnIySVpXVmdQekNDQWJzR0N5cUdTSWIzRFFFSkVBSXZNWUlCcWpDQ0FhWXdnZ0dpTUlJQm5qQUlCZ1lxaFFNQ0Fna0VJRFA2OFVkNVFKUzFxRXRQOXZLdGt5dXROcE5EczNlOHZJQjgxN1gzaU8yNk1JSUJiakNDQVdXa2dnRmhNSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTEFDQXc0K3lEQUtCZ1lxaFFNQ0FoTUZBQVJBNDQyL1pTQStQalNFNUdSVHg5NWphOW1CUHpFRVBPb25lUmZvMVBkcFpSYm9RbEdaSXU0L2I3dUNmQzgrRy9KcGNYMnNSOU5YbjMyOG9QSS9xSU9xbFE9PQ==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

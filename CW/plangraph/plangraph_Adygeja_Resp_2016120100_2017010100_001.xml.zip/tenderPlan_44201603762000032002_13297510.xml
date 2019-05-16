@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>13297510</id>
+            <externalId>39925</externalId>
+            <planNumber>44201603762000032002</planNumber>
+            <year>2016</year>
+            <versionNumber>1</versionNumber>
+            <owner>
+                <regNum>03762000032</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ  "КОШЕХАБЛЬСКАЯ РАЙОННАЯ СТАНЦИЯ ПО БОРЬБЕ С БОЛЕЗНЯМИ  ЖИВОТНЫХ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-12-07T17:35:59.756+03:00</createDate>
+            <description>План - график на 2016 год</description>
+            <confirmDate>2016-12-07T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-12-07T17:36:54.964+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03762000032</regNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ АДЫГЕЯ  "КОШЕХАБЛЬСКАЯ РАЙОННАЯ СТАНЦИЯ ПО БОРЬБЕ С БОЛЕЗНЯМИ  ЖИВОТНЫХ"</fullName>
+                <shortName>ГБУ РА "КОШЕХАБЛЬСКАЯ РСББЖ"</shortName>
+                <postAddress>Российская Федерация, 385400, Адыгея Респ, Кошехабль аул, ул КУРАШИНОВА, 24</postAddress>
+                <factAddress>Российская Федерация, 385400, Адыгея Респ, Кошехабль аул, ул КУРАШИНОВА, 24</factAddress>
+                <INN>0103008139</INN>
+                <KPP>010101001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79615420101</code>
+                <name>аул Кошехабль</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Атласкиров</lastName>
+            <firstName>Руслан</firstName>
+            <middleName>Нурбиевич</middleName>
+            <phone>8-908-6860186</phone>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603762000032002000001</positionNumber>
+                        <extNumber>39921</extNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>44000.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>21.20.2</code>
+                                <name>Производство материалов, применяемых в медицинских целях</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Дезинфицирующие средства для обработки животных</contractSubjectName>
+                        <contractMaxPrice>44000.00</contractMaxPrice>
+                        <payments>44000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <positionPublishDate>2016-12-07T17:36:54.964+03:00</positionPublishDate>
+                        <noPublicDiscussion>true</noPublicDiscussion>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>21.20.21.138</code>
+                                <name>Анатоксины, применяемые в ветеринарии</name>
+                            </OKPD2>
+                            <name>Энтомазан</name>
+                            <minRequirement>срока годности на момент поставки не менее 10 месяцев до окончания </minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>30000.00</sumMax>
+                            <price>1000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>30.00</quantity>
+                            <quantityCurrentYear>30.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>21.20.21.138</code>
+                                <name>Анатоксины, применяемые в ветеринарии</name>
+                            </OKPD2>
+                            <name>Креалин</name>
+                            <minRequirement>срока годности на момент поставки не менее 10 месяцев до окончания </minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр;^кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>14000.00</sumMax>
+                            <price>700.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>0.00</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Не предусмотрено</contractExecutionStages>
+                            <periodicity>Одноразово</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не установлено</prohibitions>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <extFillOrderNumber>false</extFillOrderNumber>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>167000.00</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>167000.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>211000.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>211000.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=13297510</url>
+            <signature>TUlJTkxnWUpLb1pJaHZjTkFRY0NvSUlOSHpDQ0RSc0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqK01JSUkrakNDQ0ttZ0F3SUJBZ0lERjJ3ak1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EWXdOakEzTkRReU9Wb1hEVEUzTURrd05qQTNORFF5T1Zvd2dnR3ZNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRE13TURBM01UQXdPVEVXTUJRR0JTcUZBMlFERWdzd05qQTBNamsyTnpRMU16RXFNQ2dHQ1NxR1NJYjNEUUVKQVJZYmEyOXphR1ZvWVdKc2MydDVMWE5oWVdSalFHbHVZbTk0TG5KMU1Rc3dDUVlEVlFRR0V3SlNWVEU4TURvR0ExVUVDQXd6TURFZzBLRFF0ZEdCMEwvUmc5Q3gwTHZRdU5DNjBMQWcwSkRRdE5HTDBMUFF0ZEdQSUNqUWtOQzAwWXZRczlDMTBZOHBNUjh3SFFZRFZRUUhEQmJRc0M0ZzBKclF2dEdJMExYUmhkQ3cwTEhRdTlHTU1Ud3dPZ1lEVlFRS0REUFFrOUNSMEtNZzBLRFFrQ0FpMEpyUXZ0R0kwTFhSaGRDdzBMSFF1OUdNMFlIUXV0Q3cwWThnMEtEUW9kQ1IwSkhRbGlJeEtEQW1CZ05WQkNvTUg5Q2cwWVBSZ2RDNzBMRFF2U0RRbmRHRDBZRFFzZEM0MExYUXN0QzQwWWN4SFRBYkJnTlZCQVFNRk5DUTBZTFF1OUN3MFlIUXV0QzQwWURRdnRDeU1Sc3dHUVlEVlFRTURCTFFuZEN3MFlmUXNOQzcwWXpRdmRDNDBMb3hQVEE3QmdOVkJBTU1OTkNRMFlMUXU5Q3cwWUhRdXRDNDBZRFF2dEN5SU5DZzBZUFJnZEM3MExEUXZTRFFuZEdEMFlEUXNkQzQwTFhRc3RDNDBZY3dZekFjQmdZcWhRTUNBaE13RWdZSEtvVURBZ0lrQUFZSEtvVURBZ0llQVFOREFBUkFoSjdUMXdGZUVqbFlzc1RpUHBiaHVtQTErN2tpMlE1ZUZISDl1eGw0cVFtelJjWlJ6RlZSRjFqalpZcnc4Qm96YzJaMTN2L0pDT0dlWEprRE9Jak13YU9DQlBnd2dnVDBNQXdHQTFVZEV3RUIvd1FDTUFBd0hRWURWUjBnQkJZd0ZEQUlCZ1lxaFFOa2NRRXdDQVlHS29VRFpIRUNNRndHQTFVZEVRUlZNRk9nRWdZRFZRUU1vQXNUQ1RZd016RXdOREUxTXFBYkJnb3FoUU1EUFo3WE5nRUZvQTBUQ3pBek56WXlNREF3TURNeW9CMEdDaXFGQXdNOW50YzJBUWlnRHhNTk1ETTNOakl3TURBd01EQTJOWVlCTURBMkJnVXFoUU5rYndRdERDc2kwSnJSZ05DNDBML1JndEMrMEovUmdOQytJRU5UVUNJZ0tOQ3kwTFhSZ05HQjBMalJqeUF6TGpZcE1JSUJZUVlGS29VRFpIQUVnZ0ZXTUlJQlVneEVJdENhMFlEUXVOQy8wWUxRdnRDZjBZRFF2aUJEVTFBaUlDalFzdEMxMFlEUmdkQzQwWThnTXk0MktTQW8wTGpSZ2RDLzBMN1F1OUM5MExYUXZkQzQwTFVnTWlrTWFDTFFuOUdBMEw3UXM5R0EwTERRdk5DODBMM1F2aTNRc05DLzBML1FzTkdBMExEUmd0QzkwWXZRdVNEUXV0QyswTHpRdjlDNzBMWFF1dEdCSUNMUXJ0QzkwTGpSZ2RDMTBZRFJnaTNRazlDZTBLSFFvaUl1SU5DUzBMWFJnTkdCMExqUmp5QXlMakVpREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTBMVEkzTXpnZzBMN1JnaUF3TVM0d055NHlNREUxREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTRMVEl4TnpVZzBMN1JnaUF5TUM0d05pNHlNREV6TUE0R0ExVWREd0VCL3dRRUF3SUQ2REI3QmdOVkhTVUVkREJ5QmdnckJnRUZCUWNEQVFZSUt3WUJCUVVIQXdJR0RpcUZBd005bnRjMkFRWURCQUVCQmc0cWhRTURQWjdYTmdFR0F3UUJBZ1lPS29VREF6MmUxellCQmdNRUFRTUdEaXFGQXdNOW50YzJBUVlEQkFFRUJnMHFoUU1EUFo3WE5nRUdBd1VCQmcwcWhRTURQWjdYTmdFR0F3VUNNQ3NHQTFVZEVBUWtNQ0tBRHpJd01UWXdOakEyTURjME5ESXpXb0VQTWpBeE56QTVNRFl3TnpRME1qTmFNSUlCandZRFZSMGpCSUlCaGpDQ0FZS0FGSjV4RGcvYXRBRW9Yei9peTQ5bEZaY0NSNHlyb1lJQlphU0NBV0V3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0lJQkFUQmVCZ05WSFI4RVZ6QlZNQ21nSjZBbGhpTm9kSFJ3T2k4dlkzSnNMbkp2YzJ0aGVtNWhMbkoxTDJOeWJDOW1hekF4TG1OeWJEQW9vQ2FnSklZaWFIUjBjRG92TDJOeWJDNW1jMlpyTG14dlkyRnNMMk55YkM5bWF6QXhMbU55YkRBZEJnTlZIUTRFRmdRVVR6VUtlQXVUQ0NMZjJYR2RTS1crUGxKVEUxTXdDQVlHS29VREFnSURBMEVBZy9zaHFFR3FxQTdQd2NwSXc4UlF1eU5lakxmNkNKL3lmREZRWmlKMWJxQ1hDMWVsQWtGRDZ3Q1RkN2czQVo1cVZCbkFpbmNjckM1WW5WMzU2UGY2cmpHQ0EvY3dnZ1B6QWdFQk1JSUJaakNDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3QWdNWGJDTXdDZ1lHS29VREFnSUpCUUNnZ2dJb01CZ0dDU3FHU0liM0RRRUpBekVMQmdrcWhraUc5dzBCQndFd0hBWUpLb1pJaHZjTkFRa0ZNUThYRFRFMk1USXdOekUwTXpZd01Gb3dMd1lKS29aSWh2Y05BUWtFTVNJRUlCMnQ4a3ljT1d4ZDdCdWpSS1Aybkh5UXFvV3pwUWVqYnhBaFRzQml3M3VYTUlJQnV3WUxLb1pJaHZjTkFRa1FBaTh4Z2dHcU1JSUJwakNDQWFJd2dnR2VNQWdHQmlxRkF3SUNDUVFnb2hCQWVwMnE4WmJacm91WkxvM2xJTG9leVlZUGo5TDlRT2gvQ25CcGRFWXdnZ0Z1TUlJQlphU0NBV0V3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJREYyd2pNQW9HQmlxRkF3SUNFd1VBQkVEbHNKT2tIanhlSWoyL01zZGtCUFpCejNPVnRPQllnMGk5QW94TUZ5R240NjdMQ2hmalBnb2xUczJQclhuY2xGb1gzTURxcHJ1cE1XUnNXSXhVeGZobA==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

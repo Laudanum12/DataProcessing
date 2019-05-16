@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11322728</id>
+            <planNumber>44201603763000253001</planNumber>
+            <year>2016</year>
+            <versionNumber>4</versionNumber>
+            <owner>
+                <regNum>03763000253</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "КОШЕХАБЛЬСКИЙ РАЙОН""СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 1"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-08-08T19:51:02.666+03:00</createDate>
+            <description>План-график закупок товаров, работ, услуг на 2016 год</description>
+            <confirmDate>2016-01-14T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-08-08T20:17:01.503+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000253</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "КОШЕХАБЛЬСКИЙ РАЙОН""СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 1"</fullName>
+                <shortName>МБОУ СОШ № 1</shortName>
+                <postAddress>Российская Федерация, 385400, Адыгея Респ, Кошехабльский р-н, Кошехабль аул, ГАГАРИНА, 53, -</postAddress>
+                <factAddress>Российская Федерация, 385400, Адыгея Респ, Кошехабльский р-н, Кошехабль аул, ГАГАРИНА, 53, -</factAddress>
+                <INN>0103001969</INN>
+                <KPP>010101001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79615420101</code>
+                <name>аул Кошехабль</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Адамиев</lastName>
+            <firstName>Аслан</firstName>
+            <middleName>Амербиевич</middleName>
+            <phone>88777091491</phone>
+            <email>kosh_shkola1@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000001</positionNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>00000000000000000225</code>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>81.29.1</code>
+                                <name>Дезинфекция, дезинсекция, дератизация зданий, промышленного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Проведению дезинфекционных, дезинсекционных и дератизационных работ</contractSubjectName>
+                        <contractMaxPrice>9794.00</contractMaxPrice>
+                        <payments>9794.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-14T15:06:38.775+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>81.29.11.000</code>
+                                <name>Услуги по дезинфекции, дезинсекции и дератизации</name>
+                            </OKPD2>
+                            <name>Дезинсекция (уничтожение насекомых)</name>
+                            <minRequirement>Услуга должна соответствовать современным требованиям, предъявляемым к услугам данного вида</minRequirement>
+                            <OKEI>
+                                <code>055</code>
+                                <name>Квадратный метр</name>
+                            </OKEI>
+                            <sumMax>1394.00</sumMax>
+                            <price>6.97</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>200.00</quantity>
+                            <quantityCurrentYear>200.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>81.29.11.000</code>
+                                <name>Услуги по дезинфекции, дезинсекции и дератизации</name>
+                            </OKPD2>
+                            <name>Дератизация</name>
+                            <minRequirement>Услуга должна соответствовать современным требованиям, предъявляемым к услугам данного вида</minRequirement>
+                            <OKEI>
+                                <code>055</code>
+                                <name>Квадратный метр</name>
+                            </OKEI>
+                            <sumMax>8400.00</sumMax>
+                            <price>1.68</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5000.00</quantity>
+                            <quantityCurrentYear>5000.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>декабрь 2016</contractExecutionStages>
+                            <periodicity>по мере необходимости</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000005</positionNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>12700.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.29.11</code>
+                                <name>Торговля розничная молочными продуктами в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Молоко и молочная продукция</contractSubjectName>
+                        <contractMaxPrice>12700.00</contractMaxPrice>
+                        <payments>12700.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000047</regNum>
+                                <fullName>Администрация муниципального образования "Кошехабльский район"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionPublishDate>2016-04-27T16:53:44.811+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.51.11.110</code>
+                                <name>Молоко питьевое пастеризованное</name>
+                            </OKPD2>
+                            <name>Молоко 2,5%</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>4128.00</sumMax>
+                            <price>43.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>96.00</quantity>
+                            <quantityCurrentYear>96.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.51.30.110</code>
+                                <name>Масло сливочное</name>
+                            </OKPD2>
+                            <name>Масло сливочное</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>8092.00</sumMax>
+                            <price>238.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>34.00</quantity>
+                            <quantityCurrentYear>34.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.51.52.114</code>
+                                <name>Кефир</name>
+                            </OKPD2>
+                            <name>Кефир</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>480.00</sumMax>
+                            <price>40.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                            <quantityCurrentYear>12.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>127.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от начальной (максимальной) цены контракта</procedure>
+                            <amount>635.00</amount>
+                        </contractFinCondition>
+                        <advance>без аванса</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>без этапов</contractExecutionStages>
+                            <periodicity>по предварительной заявке</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000010</positionNumber>
+                        <orderNumber>8</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>16716.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.24.1</code>
+                                <name>Торговля розничная хлебом и хлебобулочными изделиями в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>поставка хлеба и хлебобулочных изделий</contractSubjectName>
+                        <contractMaxPrice>16716.00</contractMaxPrice>
+                        <payments>16716.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000047</regNum>
+                                <fullName>Администрация муниципального образования "Кошехабльский район"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionPublishDate>2016-04-27T16:53:44.811+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.71.11.110</code>
+                                <name>Хлеб и хлебобулочные изделия недлительного хранения</name>
+                            </OKPD2>
+                            <name>Булочка</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>8400.00</sumMax>
+                            <price>15.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>560.00</quantity>
+                            <quantityCurrentYear>560.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.71.11.110</code>
+                                <name>Хлеб и хлебобулочные изделия недлительного хранения</name>
+                            </OKPD2>
+                            <name>Хлеб ржаной</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>2772.00</sumMax>
+                            <price>33.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>84.00</quantity>
+                            <quantityCurrentYear>84.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.71.11.110</code>
+                                <name>Хлеб и хлебобулочные изделия недлительного хранения</name>
+                            </OKPD2>
+                            <name>Хлеб</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>5544.00</sumMax>
+                            <price>33.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>168.00</quantity>
+                            <quantityCurrentYear>168.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>167.16</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от начальной (максимальной) цены контракта</procedure>
+                            <amount>835.80</amount>
+                        </contractFinCondition>
+                        <advance>без аванса</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>без этапов</contractExecutionStages>
+                            <periodicity>по предварительной заяваке</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361032</code>
+                                    <name>Организациям инвалидов (в соответствии со Статьей 29 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361033</code>
+                                    <name>Учреждениям и предприятиям уголовно-исполнительной системы (в соответствии со Статьей 28  Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000003</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>63463.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.29.12</code>
+                                <name>Торговля розничная яйцами в специализированных магазинах</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>47.29.22</code>
+                                <name>Торговля розничная растительными маслами в специализированных магазинах</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>47.29.31</code>
+                                <name>Торговля розничная мукой и макаронными изделиями в специализированных магазинах</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>47.29.32</code>
+                                <name>Торговля розничная крупами в специализированных магазинах</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>47.29.34</code>
+                                <name>Торговля розничная солью в специализированных магазинах</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>47.29.35</code>
+                                <name>Торговля розничная чаем, кофе, какао в специализированных магазинах</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>47.29.39</code>
+                                <name>Торговля розничная прочими пищевыми продуктами в специализированных магазинах, не включенными в другие группировки</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка продуктов питания (бакалея)</contractSubjectName>
+                        <contractMaxPrice>63463.00</contractMaxPrice>
+                        <payments>63463.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000047</regNum>
+                                <fullName>Администрация муниципального образования "Кошехабльский район"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionPublishDate>2016-04-27T16:53:44.811+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.41.54.000</code>
+                                <name>Масло подсолнечное и его фракции рафинированные, но не подвергнутые химической модификации</name>
+                            </OKPD2>
+                            <name>Масло подсолнечное</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>2158.00</sumMax>
+                            <price>83.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>26.00</quantity>
+                            <quantityCurrentYear>26.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.82.13.000</code>
+                                <name>Порошок какао без добавок сахара или других подслащивающих веществ</name>
+                            </OKPD2>
+                            <name>Какао порошок, 100г.</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>1000.00</sumMax>
+                            <price>250.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.61.32.113</code>
+                                <name>Крупа гречневая</name>
+                            </OKPD2>
+                            <name>Крупа гречневая</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>2336.00</sumMax>
+                            <price>73.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>32.00</quantity>
+                            <quantityCurrentYear>32.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>01.47.21.000</code>
+                                <name>Яйца куриные в скорлупе свежие</name>
+                            </OKPD2>
+                            <name>Яйца</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1696.00</sumMax>
+                            <price>5.30</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>320.00</quantity>
+                            <quantityCurrentYear>320.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.73.11.110</code>
+                                <name>Макароны</name>
+                            </OKPD2>
+                            <name>Макароны</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>720.00</sumMax>
+                            <price>36.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.51.52.111</code>
+                                <name>Йогурт</name>
+                            </OKPD2>
+                            <name>Йогурт</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>6000.00</sumMax>
+                            <price>15.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>400.00</quantity>
+                            <quantityCurrentYear>400.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.83.13.120</code>
+                                <name>Чай черный (ферментированный) в упаковках массой не более 3 кг</name>
+                            </OKPD2>
+                            <name>Чай черный </name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>1880.00</sumMax>
+                            <price>470.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>4.00</quantity>
+                            <quantityCurrentYear>4.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.61.21.000</code>
+                                <name>Мука пшеничная и пшенично-ржаная</name>
+                            </OKPD2>
+                            <name>Мука пшеничная </name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>775.00</sumMax>
+                            <price>25.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>31.00</quantity>
+                            <quantityCurrentYear>31.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.61.32.114</code>
+                                <name>Пшено</name>
+                            </OKPD2>
+                            <name>Пшено</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>348.00</sumMax>
+                            <price>29.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                            <quantityCurrentYear>12.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.82.22.144</code>
+                                <name>Конфеты, глазированные шоколадной и шоколадно-молочной глазурью, с начинками между слоями вафель</name>
+                            </OKPD2>
+                            <name>Конфеты шоколадные</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>5472.00</sumMax>
+                            <price>228.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>24.00</quantity>
+                            <quantityCurrentYear>24.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.32.19.110</code>
+                                <name>Соки из фруктов прочие</name>
+                            </OKPD2>
+                            <name>Сок фруктовый</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>12800.00</sumMax>
+                            <price>16.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>800.00</quantity>
+                            <quantityCurrentYear>800.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.82.22.110</code>
+                                <name>Шоколад в упакованном виде</name>
+                            </OKPD2>
+                            <name>Шоколадная плитка</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>25920.00</sumMax>
+                            <price>54.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>480.00</quantity>
+                            <quantityCurrentYear>480.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.61.31.110</code>
+                                <name>Крупа из пшеницы</name>
+                            </OKPD2>
+                            <name>Крупа манная</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>238.00</sumMax>
+                            <price>34.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>7.00</quantity>
+                            <quantityCurrentYear>7.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.61.11.000</code>
+                                <name>Рис шелушеный</name>
+                            </OKPD2>
+                            <name>Рис</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>1512.00</sumMax>
+                            <price>54.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>28.00</quantity>
+                            <quantityCurrentYear>28.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>01.11.62.000</code>
+                                <name>Горох овощной</name>
+                            </OKPD2>
+                            <name>Горох</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>608.00</sumMax>
+                            <price>38.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>16.00</quantity>
+                            <quantityCurrentYear>16.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>634.63</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от начальной (максимальной) цены контракта</procedure>
+                            <amount>3173.15</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>без этапов</contractExecutionStages>
+                            <periodicity>по предварительной заявке</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000009</positionNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>5140.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.22.2</code>
+                                <name>Торговля розничная продуктами из мяса и мяса птицы в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка колбасных изделий</contractSubjectName>
+                        <contractMaxPrice>5140.00</contractMaxPrice>
+                        <payments>5140.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000047</regNum>
+                                <fullName>Администрация муниципального образования "Кошехабльский район"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionPublishDate>2016-04-27T16:53:44.811+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.13.14.112</code>
+                                <name>Сосиски</name>
+                            </OKPD2>
+                            <name>Сосиски</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>2820.00</sumMax>
+                            <price>235.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                            <quantityCurrentYear>12.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.13.14.131</code>
+                                <name>Колбасы (колбаски) полукопченые</name>
+                            </OKPD2>
+                            <name>Колбаса</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>2320.00</sumMax>
+                            <price>232.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>51.40</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от начальной (максимальной) цены контракта</procedure>
+                            <amount>257.00</amount>
+                        </contractFinCondition>
+                        <advance>без аванса</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>без этапов</contractExecutionStages>
+                            <periodicity>по предварительной заявке </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000011</positionNumber>
+                        <orderNumber>9</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>413333.33</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.78.9</code>
+                                <name>Торговля розничная непродовольственными товарами, не включенными в другие группировки, в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Котел наружного размещения</contractSubjectName>
+                        <contractMaxPrice>413333.33</contractMaxPrice>
+                        <payments>413333.33</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-08-08T20:17:01.503+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>25.21.12.000</code>
+                                <name>Котлы водогрейные центрального отопления для производства горячей воды или пара низкого давления</name>
+                            </OKPD2>
+                            <name>Котел наружного размещения</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>413333.33</sumMax>
+                            <price>413333.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>4133.33</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от начальной (максимальной) цены контракта</procedure>
+                            <amount>20666.66</amount>
+                        </contractFinCondition>
+                        <advance>без аванса</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>сентябрь 2016г.</contractExecutionStages>
+                            <periodicity>1 раз</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000007</positionNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>46455.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.22.1</code>
+                                <name>Торговля розничная мясом и мясом птицы, включая субпродукты в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Мясо</contractSubjectName>
+                        <contractMaxPrice>46455.00</contractMaxPrice>
+                        <payments>46455.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000047</regNum>
+                                <fullName>Администрация муниципального образования "Кошехабльский район"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionPublishDate>2016-04-27T16:53:44.811+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.11.11.110</code>
+                                <name>Говядина парная, остывшая или охлажденная</name>
+                            </OKPD2>
+                            <name>Говядина</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>42000.00</sumMax>
+                            <price>350.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>120.00</quantity>
+                            <quantityCurrentYear>120.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.12.10.110</code>
+                                <name>Мясо кур охлажденное</name>
+                            </OKPD2>
+                            <name>Мясо кур</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>4455.00</sumMax>
+                            <price>135.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>33.00</quantity>
+                            <quantityCurrentYear>33.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>464.55</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>2322.75</amount>
+                        </contractFinCondition>
+                        <advance>без аванса</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>без этапов</contractExecutionStages>
+                            <periodicity>по предварительной заявке </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000002</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000225</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>18504.56</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.90.1</code>
+                                <name>Деятельность организаций санитарно-эпидемиологической службы</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Лабораторные исследования</contractSubjectName>
+                        <contractMaxPrice>18504.56</contractMaxPrice>
+                        <payments>18504.56</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-14T15:06:38.775+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.90.15.000</code>
+                                <name>Услуги медицинских лабораторий</name>
+                            </OKPD2>
+                            <name>Лабораторные исследования</name>
+                            <minRequirement>Услуга должна соответствовать современным требованиям, предъявляемым к услугам данного вида</minRequirement>
+                            <sumMax>18504.56</sumMax>
+                            <price>18504.56</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>декабрь 2016</contractExecutionStages>
+                            <periodicity>по мере необходимости</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000004</positionNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>6285.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.29.33</code>
+                                <name>Торговля розничная сахаром в специализированных магазинах</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>47.29.39</code>
+                                <name>Торговля розничная прочими пищевыми продуктами в специализированных магазинах, не включенными в другие группировки</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка продуктов питания (сахар, печенье, томатная паста, дрожжи)</contractSubjectName>
+                        <contractMaxPrice>6285.00</contractMaxPrice>
+                        <payments>6285.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000047</regNum>
+                                <fullName>Администрация муниципального образования "Кошехабльский район"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionPublishDate>2016-04-27T16:53:44.811+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.72.12.120</code>
+                                <name>Печенье сладкое</name>
+                            </OKPD2>
+                            <name>Печенье</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>2584.00</sumMax>
+                            <price>76.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>34.00</quantity>
+                            <quantityCurrentYear>34.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.39.17.111</code>
+                                <name>Пюре и пасты овощные</name>
+                            </OKPD2>
+                            <name>Томатная паста</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>981.00</sumMax>
+                            <price>109.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>9.00</quantity>
+                            <quantityCurrentYear>9.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.81.12.110</code>
+                                <name>Сахар белый свекловичный в твердом состоянии без вкусоароматических или красящих добавок</name>
+                            </OKPD2>
+                            <name>Сахар</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>2400.00</sumMax>
+                            <price>50.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>48.00</quantity>
+                            <quantityCurrentYear>48.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.89.13.119</code>
+                                <name>Дрожжи прочие</name>
+                            </OKPD2>
+                            <name>Дрожжи, 100г.</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>320.00</sumMax>
+                            <price>40.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>8.00</quantity>
+                            <quantityCurrentYear>8.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>62.85</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от начальной (максимальной) цены контракта</procedure>
+                            <amount>314.25</amount>
+                        </contractFinCondition>
+                        <advance>без аванса</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>без этапов</contractExecutionStages>
+                            <periodicity>по предварительной заявке</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361033</code>
+                                    <name>Учреждениям и предприятиям уголовно-исполнительной системы (в соответствии со Статьей 28  Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000008</positionNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>4312.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.23.1</code>
+                                <name>Торговля розничная рыбой и морепродуктами в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка рыбы</contractSubjectName>
+                        <contractMaxPrice>4312.00</contractMaxPrice>
+                        <payments>4312.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000047</regNum>
+                                <fullName>Администрация муниципального образования "Кошехабльский район"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionPublishDate>2016-04-27T16:53:44.811+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.20.13.120</code>
+                                <name>Рыба морская мороженая</name>
+                            </OKPD2>
+                            <name>Рыба </name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>4312.00</sumMax>
+                            <price>154.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>28.00</quantity>
+                            <quantityCurrentYear>28.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>43.12</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от начальной (максимальной) цены контракта</procedure>
+                            <amount>215.60</amount>
+                        </contractFinCondition>
+                        <advance>без аванса</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>без этапов</contractExecutionStages>
+                            <periodicity>по предварительной заявке </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000253001000006</positionNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>18800.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>47.29.11</code>
+                                <name>Торговля розничная молочными продуктами в специализированных магазинах</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Молочная продукция</contractSubjectName>
+                        <contractMaxPrice>18800.00</contractMaxPrice>
+                        <payments>18800.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>01763000047</regNum>
+                                <fullName>Администрация муниципального образования "Кошехабльский район"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionPublishDate>2016-04-27T16:53:44.811+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>10.51.40.113</code>
+                                <name>Сыры твердые</name>
+                            </OKPD2>
+                            <name>Сыр</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>10880.00</sumMax>
+                            <price>320.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>34.00</quantity>
+                            <quantityCurrentYear>34.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.51.40.330</code>
+                                <name>Творог от 4 % до 11 % жирности</name>
+                            </OKPD2>
+                            <name>Творог</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>5232.00</sumMax>
+                            <price>218.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>24.00</quantity>
+                            <quantityCurrentYear>24.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>10.51.52.121</code>
+                                <name>Сметана от 9,0 % до 14,0 % жирности</name>
+                            </OKPD2>
+                            <name>Сметана</name>
+                            <minRequirement>Товар должен соответствовать современным требованиям, предъявляемым к товарам данного вида</minRequirement>
+                            <OKEI>
+                                <code>166</code>
+                                <name>Килограмм</name>
+                            </OKEI>
+                            <sumMax>2688.00</sumMax>
+                            <price>112.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>24.00</quantity>
+                            <quantityCurrentYear>24.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>188.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от начальной (максимальной) цены контракта</procedure>
+                            <amount>940.00</amount>
+                        </contractFinCondition>
+                        <advance>без аванса</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>без этапов</contractExecutionStages>
+                            <periodicity>по предварительной заявке</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361033</code>
+                                    <name>Учреждениям и предприятиям уголовно-исполнительной системы (в соответствии со Статьей 28  Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>00000000000000000244</code>
+                                    <amount>1489776.46</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1489776.46</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>562119.33</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>2105279.35</sumContractMaxPrice>
+                    <sumPaymentsTotal>2105279.35</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11322728</url>
+            <signature>TUlJTTh3WUpLb1pJaHZjTkFRY0NvSUlNNURDQ0RPQUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqRE1JSUl2ekNDQ0c2Z0F3SUJBZ0lERjA5M01BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EWXdNVEUwTkRFek5Wb1hEVEUzTURrd01URTBOREV6TlZvd2dnRjBNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRE13TURjME16RTFOVEVXTUJRR0JTcUZBMlFERWdzd05qYzVPRE13T0RneU5URWpNQ0VHQ1NxR1NJYjNEUUVKQVJZVWEyOXphRjl6YUd0dmJHRXhRRzFoYVd3dWNuVXhDekFKQmdOVkJBWVRBbEpWTVR3d09nWURWUVFJRERNd01TRFFvTkMxMFlIUXY5R0QwTEhRdTlDNDBMclFzQ0RRa05DMDBZdlFzOUMxMFk4Z0tOQ1EwTFRSaTlDejBMWFJqeWt4R3pBWkJnTlZCQWNNRXRDYTBMN1JpTkMxMFlYUXNOQ3gwTHZSakRFZU1Cd0dBMVVFQ2d3VjBKelFrZENlMEtNZzBLSFFudENvSU9LRWxpQXhNU1F3SWdZRFZRUXFEQnZRcnRHQTBMalF1U0RRa2RDKzBZRFF1TkdCMEw3UXN0QzQwWWN4R1RBWEJnTlZCQVFNRU5DUjBMWFF0TkMyMExEUXZkQyswTEl4R1RBWEJnTlZCQXdNRU5DMDBMalJnTkMxMExyUmd0QyswWUF4TlRBekJnTlZCQU1NTE5DUjBMWFF0TkMyMExEUXZkQyswTElnMEs3UmdOQzQwTGtnMEpIUXZ0R0EwTGpSZ2RDKzBMTFF1TkdITUdNd0hBWUdLb1VEQWdJVE1CSUdCeXFGQXdJQ0pBQUdCeXFGQXdJQ0hnRURRd0FFUUVnS3QwMFdtOUdkcmJsMVNnYlAxRjBoNUtpRUZSQ0NIMmZBcWxVbXB3OURrTGZWSllsNG5ZRGJYaTdpa0tHekY2ZFB4ZFBKZWdWN3NOMlZkR0JPbmdLamdnVDRNSUlFOURBTUJnTlZIUk1CQWY4RUFqQUFNQjBHQTFVZElBUVdNQlF3Q0FZR0tvVURaSEVCTUFnR0JpcUZBMlJ4QWpCY0JnTlZIUkVFVlRCVG9CSUdBMVVFREtBTEV3azJNREV4TWpVeU1UT2dHd1lLS29VREF6MmUxellCQmFBTkV3c3dNemMyTXpBd01ESTFNNkFkQmdvcWhRTURQWjdYTmdFSW9BOFREVEF6TnpZek1EQXdNREF5TXpTR0FUQXdOZ1lGS29VRFpHOEVMUXdySXRDYTBZRFF1TkMvMFlMUXZ0Q2YwWURRdmlCRFUxQWlJQ2pRc3RDMTBZRFJnZEM0MFk4Z015NDVLVENDQVdFR0JTcUZBMlJ3QklJQlZqQ0NBVklNUkNMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWtnS05DNDBZSFF2OUMrMEx2UXZkQzEwTDNRdU5DMUlESXBER2dpMEovUmdOQyswTFBSZ05DdzBMelF2TkM5MEw0dDBMRFF2OUMvMExEUmdOQ3cwWUxRdmRHTDBMa2cwTHJRdnRDODBML1F1OUMxMExyUmdTQWkwSzdRdmRDNDBZSFF0ZEdBMFlJdDBKUFFudENoMEtJaUxpRFFrdEMxMFlEUmdkQzQwWThnTWk0eElneFAwS0hRdGRHQTBZTFF1TkdFMExqUXV0Q3cwWUlnMFlIUXZ0QyswWUxRc3RDMTBZTFJnZEdDMExMUXVOR1BJT0tFbGlEUW9kQ2tMekV5TkMweU56TTRJTkMrMFlJZ01ERXVNRGN1TWpBeE5ReFAwS0hRdGRHQTBZTFF1TkdFMExqUXV0Q3cwWUlnMFlIUXZ0QyswWUxRc3RDMTBZTFJnZEdDMExMUXVOR1BJT0tFbGlEUW9kQ2tMekV5T0MweU1UYzFJTkMrMFlJZ01qQXVNRFl1TWpBeE16QU9CZ05WSFE4QkFmOEVCQU1DQStnd2V3WURWUjBsQkhRd2NnWUlLd1lCQlFVSEF3SUdDQ3NHQVFVRkJ3TUVCZzRxaFFNRFBaN1hOZ0VHQXdRQkFRWU9Lb1VEQXoyZTF6WUJCZ01FQVFJR0RpcUZBd005bnRjMkFRWURCQUVEQmc0cWhRTURQWjdYTmdFR0F3UUJCQVlOS29VREF6MmUxellCQmdNRkFRWU5Lb1VEQXoyZTF6WUJCZ01GQWpBckJnTlZIUkFFSkRBaWdBOHlNREUyTURZd01URTBOREV5TkZxQkR6SXdNVGN3T1RBeE1UUTBNVEkwV2pDQ0FZOEdBMVVkSXdTQ0FZWXdnZ0dDZ0JTZWNRNFAyclFCS0Y4LzRzdVBaUldYQWtlTXE2R0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQ0NBUUV3WGdZRFZSMGZCRmN3VlRBcG9DZWdKWVlqYUhSMGNEb3ZMMk55YkM1eWIzTnJZWHB1WVM1eWRTOWpjbXd2Wm1zd01TNWpjbXd3S0tBbW9DU0dJbWgwZEhBNkx5OWpjbXd1Wm5ObWF5NXNiMk5oYkM5amNtd3ZabXN3TVM1amNtd3dIUVlEVlIwT0JCWUVGQ0NmaW4rSm9uS0hVcGNBLzQrS29yMmVDYWdCTUFnR0JpcUZBd0lDQXdOQkFDaEVUUTN2V2JkQXFBSnpIVmhGWGxxeGMzR3k4ZE1zaUdwS2gySXp3VG5NbXZDN0RCT0w1M0h6eWlYUm1vOERSckNDNkhFV0VpQUQyejE5ZFc1cXNJRXhnZ1AzTUlJRDh3SUJBVENDQVdZd2dnRmRNUmd3RmdZSktvWklodmNOQVFrQ0V3bFRaWEoyWlhJZ1EwRXhJREFlQmdrcWhraUc5dzBCQ1FFV0VYVmpYMlpyUUhKdmMydGhlbTVoTG5KMU1Sd3dHZ1lEVlFRSURCTTNOeURRc3k0ZzBKelF2dEdCMExyUXN0Q3dNUm93R0FZSUtvVURBNEVEQVFFU0REQXdOemN4TURVMk9EYzJNREVZTUJZR0JTcUZBMlFCRWcweE1EUTNOemszTURFNU9ETXdNU3d3S2dZRFZRUUpEQ1BSZzlDNzBMalJodEN3SU5DWTBMdlJqTkM0MEwzUXV0Q3dMQ0RRdE5DKzBMd2dOekVWTUJNR0ExVUVCd3dNMEp6UXZ0R0IwTHJRc3RDd01Rc3dDUVlEVlFRR0V3SlNWVEU0TURZR0ExVUVDZ3d2MEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXRTRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MEw0eFB6QTlCZ05WQkFNTU50Q2owS1lnMEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXM5QytJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXNBSURGMDkzTUFvR0JpcUZBd0lDQ1FVQW9JSUNLREFZQmdrcWhraUc5dzBCQ1FNeEN3WUpLb1pJaHZjTkFRY0JNQndHQ1NxR1NJYjNEUUVKQlRFUEZ3MHhOakE0TURneE56RTNNREJhTUM4R0NTcUdTSWIzRFFFSkJERWlCQ0FpaXQ3VThpdEZLTjVvT3dGditvQ0hIQ2JoWFh0aUdncjZTdHI5QUJZMGRUQ0NBYnNHQ3lxR1NJYjNEUUVKRUFJdk1ZSUJxakNDQWFZd2dnR2lNSUlCbmpBSUJnWXFoUU1DQWdrRUlENWJXdkVoYXhLOUIxMlFxemZCL3dkZ1BkN2ZJZENMMU1SVUtoY3RSeGlaTUlJQmJqQ0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeGRQZHpBS0JnWXFoUU1DQWhNRkFBUkFDWW5SWEtYalgrQWFVYnJJSjBuSXJrOWNINUdmcGE5N09VdTFBdnNhSUVwRkZGNCtBUkpYNjZ1ZjM0Y0N5OUNUOGF3YkRCTlBSQ1FGWlV6Y1dmY3lvdz09</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

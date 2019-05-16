@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>13630754</id>
+            <planNumber>44201603763000446001</planNumber>
+            <year>2016</year>
+            <versionNumber>4</versionNumber>
+            <owner>
+                <regNum>03763000446</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "КРАСНОБАШНЕНСКАЯ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 9" Х.ТИХОНОВ ШОВГЕНОВСКОГО РАЙОНА РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-12-22T11:42:55.198+03:00</createDate>
+            <description>план график 2016</description>
+            <confirmDate>2016-12-26T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-12-28T18:10:15.615+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000446</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "КРАСНОБАШНЕНСКАЯ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 9" Х.ТИХОНОВ ШОВГЕНОВСКОГО РАЙОНА РЕСПУБЛИКИ АДЫГЕЯ</fullName>
+                <shortName>МБОУ "КСОШ №9" Х.ТИХОНОВ ШОВГЕНОВСКОГО РАЙОНА РА</shortName>
+                <postAddress>Российская Федерация, 385449, Адыгея Респ, Тихонов х, ул СОВЕТСКАЯ, ДОМ 71/КОРПУС А</postAddress>
+                <factAddress>Российская Федерация, 385449, Адыгея Респ, Тихонов х, ул СОВЕТСКАЯ, ДОМ 71/КОРПУС А</factAddress>
+                <INN>0108003293</INN>
+                <KPP>010101001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79640408136</code>
+                <name>х Тихонов</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Бахурцов</lastName>
+            <firstName>Юрий</firstName>
+            <middleName>Иванович</middleName>
+            <phone>92345</phone>
+            <fax>92345</fax>
+            <email>shovg@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000446001000001</positionNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000000</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>468000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.32.1</code>
+                                <name>Установка дверей (кроме автоматических и вращающихся), окон, дверных и оконных рам из дерева или прочих материалов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>замена окон</contractSubjectName>
+                        <contractMaxPrice>468000.00</contractMaxPrice>
+                        <payments>468000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>3</id>
+                                <name>Отмена заказчиком, уполномоченным органом предусмотренного планом-графиком размещения заказа.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-09-08T12:44:15.354+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.32.10.110</code>
+                                <name>Работы по установке дверных и оконных блоков и коробок, навеске дверных полотен (кроме дверей автоматического действия и вращающихся дверей), окон, оконных створок, планчатых створок, дверей гаражного типа и т. п. из любых материалов</name>
+                            </OKPD2>
+                            <name>замена окон</name>
+                            <minRequirement>в соответствии с техзаданием</minRequirement>
+                            <OKEI>
+                                <code>642</code>
+                                <name>Единица</name>
+                            </OKEI>
+                            <sumMax>468000.00</sumMax>
+                            <price>468000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>в соответствии с документацией</procedure>
+                            <amount>4680.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>в соответствии с документацией</procedure>
+                            <amount>10951.20</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>не предусмотрено</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>36420.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>86000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>8149.65</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000340</code>
+                                    <amount>2500.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>85000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>2250.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>2250.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>34200.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>40000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>18833.72</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>17918.29</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000340</code>
+                                    <amount>16000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000310</code>
+                                    <amount>57594.46</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>2850.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>8149.65</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000226</code>
+                                    <amount>2936.76</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                    <purchaseAmountLess400>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>00000000000000000225</code>
+                                    <amount>395000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000223</code>
+                                    <amount>228341.88</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000221</code>
+                                    <amount>108000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>00000000000000000223</code>
+                                    <amount>222526.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess400>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>421052.53</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>953867.88</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>728521.66</sumContractMaxPrice>
+                    <sumPaymentsTotal>1374920.41</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=13630754</url>
+            <signature>TUlJTlZnWUpLb1pJaHZjTkFRY0NvSUlOUnpDQ0RVTUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drbU1JSUpJakNDQ05HZ0F3SUJBZ0lERWVZSE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMU1USXdNekV5TXpreU1sb1hEVEUzTURNd016RXlNemt5TWxvd2dnSEZNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRGd3TURNd01qQXdOekVXTUJRR0JTcUZBMlFERWdzd05qSXpNVFE1TkRBek5URVlNQllHQlNxRkEyUUJFZzB4TURJd01UQXdOVEV4TURBeE1Sd3dHZ1lKS29aSWh2Y05BUWtCRmcxemFHOTJaMEJ0WVdsc0xuSjFNUXN3Q1FZRFZRUUdFd0pTVlRFOE1Eb0dBMVVFQ0F3ek1ERWcwS0RRdGRHQjBML1JnOUN4MEx2UXVOQzYwTEFnMEpEUXROR0wwTFBRdGRHUElDalFrTkMwMFl2UXM5QzEwWThwTVVvd1NBWURWUVFIREVIUXFOQyswTExRczlDMTBMM1F2dEN5MFlIUXV0QzQwTGtnMFlEUXNOQzUwTDdRdlNEUXNDRFFwZEN3MExyUmc5R0EwTGpRdmRDKzBZWFFzTkN4MEx2UmpERXhNQzhHQTFVRUNnd28wSnpRa2RDZTBLTWcwSnJRb2RDZTBLZ2c0b1NXT1NEUmhTN1FvdEM0MFlYUXZ0QzkwTDdRc2pFaU1DQUdBMVVFS2d3WjBLN1JnTkM0MExrZzBKalFzdEN3MEwzUXZ0Q3kwTGpSaHpFWk1CY0dBMVVFQkF3UTBKSFFzTkdGMFlQUmdOR0cwTDdRc2pFWk1CY0dBMVVFREF3UTBKVFF1TkdBMExYUXV0R0MwTDdSZ0RFek1ERUdBMVVFQXd3cTBKSFFzTkdGMFlQUmdOR0cwTDdRc2lEUXJ0R0EwTGpRdVNEUW1OQ3kwTERRdmRDKzBMTFF1TkdITUdNd0hBWUdLb1VEQWdJVE1CSUdCeXFGQXdJQ0pBQUdCeXFGQXdJQ0hnRURRd0FFUUJtM21YQTcveC85cnZzMkRnNnhEb29kWEJwaEUrQmlhYllkWjRrS3JwdHZaWTBZTmt1ZHFFVWlOaW5aMVliVkdXZDVRSkFSLzJRTEhCV2hIS25LRGRhamdnVUtNSUlGQmpBTUJnTlZIUk1CQWY4RUFqQUFNQjBHQTFVZElBUVdNQlF3Q0FZR0tvVURaSEVCTUFnR0JpcUZBMlJ4QWpCNEJnTlZIUkVFY1RCdm9CTUdBMVVFREtBTUV3b3hNakF5TVRZek5ERTBvQmtHQ2lxRkF3TTludGMyQVFlZ0N4TUpNREV3TVRBeE1EQXhvQnNHQ2lxRkF3TTludGMyQVFXZ0RSTUxNRE0zTmpNd01EQTBORGFnSFFZS0tvVURBejJlMXpZQkNLQVBFdzB3TXpjMk16QXdNREF3TkRZemhnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWt3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qSXpPQ0RRdnRHQ0lEQTBMakV3TGpJd01UTU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qRTNOU0RRdnRHQ0lESXdMakEyTGpJd01UTXdEZ1lEVlIwUEFRSC9CQVFEQWdQb01IRUdBMVVkSlFScU1HZ0dDQ3NHQVFVRkJ3TUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkFRWU9Lb1VEQXoyZTF6WUJCZ01FQVFJR0RpcUZBd005bnRjMkFRWURCQUVEQmc0cWhRTURQWjdYTmdFR0F3UUJCQVlOS29VREF6MmUxellCQmdNRkFRWU5Lb1VEQXoyZTF6WUJCZ01GQWpBckJnTlZIUkFFSkRBaWdBOHlNREUxTVRJd016RXlNemt3TmxxQkR6SXdNVGN3TXpBek1USXpPVEEyV2pDQ0FZOEdBMVVkSXdTQ0FZWXdnZ0dDZ0JTZWNRNFAyclFCS0Y4LzRzdVBaUldYQWtlTXE2R0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQ0NBUUV3WGdZRFZSMGZCRmN3VlRBcG9DZWdKWVlqYUhSMGNEb3ZMMk55YkM1eWIzTnJZWHB1WVM1eWRTOWpjbXd2Wm1zd01TNWpjbXd3S0tBbW9DU0dJbWgwZEhBNkx5OWpjbXd1Wm5ObWF5NXNiMk5oYkM5amNtd3ZabXN3TVM1amNtd3dIUVlEVlIwT0JCWUVGUHhyWVRzYTQ4ejZ1L25oOFFjaEF2YXUvUVRsTUFnR0JpcUZBd0lDQXdOQkFGOStVSExPbVNxTHptVlZUeFBZUVo2U1huU0RZVFkva0hCNGZLdDFRNEdFanVpTy9SdGYyOFIyNkV4WTZkRDdPM2dwWTQxVVF2SzVYays2ZnVYUmtZa3hnZ1AzTUlJRDh3SUJBVENDQVdZd2dnRmRNUmd3RmdZSktvWklodmNOQVFrQ0V3bFRaWEoyWlhJZ1EwRXhJREFlQmdrcWhraUc5dzBCQ1FFV0VYVmpYMlpyUUhKdmMydGhlbTVoTG5KMU1Sd3dHZ1lEVlFRSURCTTNOeURRc3k0ZzBKelF2dEdCMExyUXN0Q3dNUm93R0FZSUtvVURBNEVEQVFFU0REQXdOemN4TURVMk9EYzJNREVZTUJZR0JTcUZBMlFCRWcweE1EUTNOemszTURFNU9ETXdNU3d3S2dZRFZRUUpEQ1BSZzlDNzBMalJodEN3SU5DWTBMdlJqTkM0MEwzUXV0Q3dMQ0RRdE5DKzBMd2dOekVWTUJNR0ExVUVCd3dNMEp6UXZ0R0IwTHJRc3RDd01Rc3dDUVlEVlFRR0V3SlNWVEU0TURZR0ExVUVDZ3d2MEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXRTRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MEw0eFB6QTlCZ05WQkFNTU50Q2owS1lnMEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXM5QytJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXNBSURFZVlITUFvR0JpcUZBd0lDQ1FVQW9JSUNLREFZQmdrcWhraUc5dzBCQ1FNeEN3WUpLb1pJaHZjTkFRY0JNQndHQ1NxR1NJYjNEUUVKQlRFUEZ3MHhOakV5TWpneE5URXdNVEJhTUM4R0NTcUdTSWIzRFFFSkJERWlCQ0JZeWpLZWNxTnNYR3hXWkxXekl3Y1k5VHB5OWcyTnhreFlDekhmN0RYTTNqQ0NBYnNHQ3lxR1NJYjNEUUVKRUFJdk1ZSUJxakNDQWFZd2dnR2lNSUlCbmpBSUJnWXFoUU1DQWdrRUlJdzdFT0hxVHJsUVlTTkorVElycDlYcy96M3lteXlaWVUwYjNGMDIrVVg4TUlJQmJqQ0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeEhtQnpBS0JnWXFoUU1DQWhNRkFBUkFiM2ZVRlBJVTBGd3UwQVZMdlhJNHBsZUVMY0ZNcjZoWG0ybEREeFlVUkpwNHRGY0tHNTZkZlpSVERJWWRKakFYQzdCV2Z1cWQwRW1oVlRXNHd2RWpTZz09</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

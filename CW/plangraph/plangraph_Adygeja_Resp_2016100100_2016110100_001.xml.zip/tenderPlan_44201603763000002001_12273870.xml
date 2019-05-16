@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>12273870</id>
+            <planNumber>44201603763000002001</planNumber>
+            <year>2016</year>
+            <versionNumber>8</versionNumber>
+            <owner>
+                <regNum>03763000002</regNum>
+                <fullName>ФИНАНСОВОЕ УПРАВЛЕНИЕ АДМИНИСТРАЦИИ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ГОРОД МАЙКОП"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-10-13T09:59:12.507+03:00</createDate>
+            <description>План-график размещения заказов на поставки товаров, выполнение работ, оказание услуг для нужд финансового управления администрации муниципального образования "Город Майкоп" на 2016 год</description>
+            <confirmDate>2016-09-30T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-10-13T14:49:46.877+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000002</regNum>
+                <fullName>ФИНАНСОВОЕ УПРАВЛЕНИЕ АДМИНИСТРАЦИИ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ГОРОД МАЙКОП"</fullName>
+                <shortName>Финансовое управление администрации муниципального образования "Город Майкоп"</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Краснооктябрьская, 21, -</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, Краснооктябрьская, 21, -</factAddress>
+                <INN>0105040427</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000001</code>
+                <name>г Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Чеснокова</lastName>
+            <firstName>Ольга </firstName>
+            <middleName>Александровна</middleName>
+            <phone>+7-(8772)-52-18-74</phone>
+            <fax>+7- (8772)-52-26-00</fax>
+            <email>fdmra@maikop.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000002001000004</positionNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90113012620201000730</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1147540.98</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>12810958.90</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>64.19</code>
+                                <name>Денежное посредничество прочее</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по предоставлению кредита в  виде открытия невозобновляемой кредитной линии на финансирование дефицита бюджета, а также погашение долговых обязательств</contractSubjectName>
+                        <contractMaxPrice>13958499.88</contractMaxPrice>
+                        <payments>1147540.98</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-10-13T14:49:46.877+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>64.19.21.000</code>
+                                <name>Услуги по предоставлению кредитов финансовыми организациями юридическим лицам</name>
+                            </OKPD2>
+                            <name>Оказание услуг по предоставлению кредита в  виде открытия невозобновляемой кредитной линии на финансирование дефицита бюджета, а также погашение долговых обязательств</name>
+                            <minRequirement>Предоставление кредита осуществляется в рамках невозобновляемой кредитной линии сроком на 365 дней, лимит выдачи 100000000, свободная выборка кредитных средств в безналичном порядке, без разбивки на транши. Открытие линии - без залога, без поручительства, иного обеспечения обязателств с правом на досрочное полное (частичное) погашение и (или) неполное использование лимитов выдачи. Заказчик не несет ответственности за неиспользование (не полное использование) суммы кредита. Проценты начисляются на фактический остаток задолженности. Уплата процентов производитеся не позднее 27 числа каждого месяца. Остальные требования в соответсвии с технической частью аукциона.</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>13958499.88</sumMax>
+                            <price>13958499.88</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>139585.00</amount>
+                        </purchaseFinCondition>
+                        <advance>Авансирование не предусмотрено</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>11</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Разделение на этапы не предусмотрено</contractExecutionStages>
+                            <periodicity>Свободная выборка кредитных средств</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000002001000003</positionNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90113012620201000730</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>6163114.75</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>15660000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>64.19</code>
+                                <name>Денежное посредничество прочее</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по предоставлению кредита в виде открытия невозобновляемой кредитной линии на покрытие дефицита бюджета</contractSubjectName>
+                        <contractMaxPrice>21823114.75</contractMaxPrice>
+                        <payments>6163114.75</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo>Признание электронного аукционна № 145/16 несостоявшимся </additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-07-15T15:21:03.090+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>64.19.21.000</code>
+                                <name>Услуги по предоставлению кредитов финансовыми организациями юридическим лицам</name>
+                            </OKPD2>
+                            <name>Оказание услуг по предоставлению кредита в виде открытия невозобновляемой кредитной линии на покрытие дефицита бюджета
+</name>
+                            <minRequirement>Предоставление кредита осуществляется в рамках невозобновляемой кредитной линии сроком на 365 дней, лимит выдачи 150000000, свободная выборка кредитных средств в безналичном порядке, без разбивки на транши. Открытие линии - без залога, без поручительства, иного обеспечения обязательств с правом на досрочное полное (частичное) погашение и(или) неполное использование лимитов выдочи. Заказчик не несет ответственности за неиспользованние (не полное использование) суммы кредита. Проценты начисляются на фактический остаток задолженности. Уплата процентов производится не позднее 27 числа каждого месяца. Остальные требования в соответствии с технической частью аукциона.</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>21823114.75</sumMax>
+                            <price>21823114.75</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>218231.15</amount>
+                        </purchaseFinCondition>
+                        <advance>Авансирование не предусмотренно</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Разделение на этапы не предусмотренно</contractExecutionStages>
+                            <periodicity>Свободная выборка кредитных средств</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000002001000002</positionNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90113012620201000730</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>9077158.47</yearAmount>
+                                </yearsList>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>19459506.85</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>64.19</code>
+                                <name>Денежное посредничество прочее</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по предоставлению кредита в виде открытия невозобновляемой кредитной линии на покрытие дефицита бюджета</contractSubjectName>
+                        <contractMaxPrice>28536665.32</contractMaxPrice>
+                        <payments>9077158.47</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo>Данный аукцион признан не состоявшимся (протокол от 04.07.2016 № 249/16).</additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-07-15T15:21:03.090+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>64.19.21.000</code>
+                                <name>Услуги по предоставлению кредитов финансовыми организациями юридическим лицам</name>
+                            </OKPD2>
+                            <name>Оказание услуг по предоставлению кредита в виде открытия невозобновляемой кредитной линии на покрытие дефицита бюджета</name>
+                            <minRequirement>Предоставление кредита осуществляется в рамках невозобновляемой кредитной линии сроком на 365 (триста шестьдесят пять) дней с лимитом выдачи в сумме 200 000 000 (Двести миллионов) рублей со свободной выборкой  кредитных средств  в безналичном порядке, без разбивки на транши.Открытие кредитной линии осуществляется без имущественного залога, без предоставления поручительства и иного обеспечения обязательств, с предоставлением права на досрочное полное или досрочное  частичное погашение кредита без уплаты комиссии и иных платежей за досрочное погашение и (или) не полное использование суммы лимита выдачи. Заказчик не несет ответственности за не использование или использование не в полном объеме кредитных ресурсов в виду отсутствия потребности. Проценты начисляются на фактический остаток задолженности. Погашение  кредита не увеличивает свободного остатка лимита выдачи. Уплата процентов производится не позднее 27 числа  каждого месяца.</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>28536665.32</sumMax>
+                            <price>28536665.32</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% начальной (максимальной) цены контракта</procedure>
+                            <amount>285366.65</amount>
+                        </purchaseFinCondition>
+                        <advance>Авансирование не предусмотрено</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Разделение на этапы не предусмотено</contractExecutionStages>
+                            <periodicity>Свободная выборка кредитных средств</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000002001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>90101062630100010244</code>
+                                <amount>67500.00</amount>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.12.1</code>
+                                <name>Производство бумаги</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка бумаги для нужд финансового управления</contractSubjectName>
+                        <contractMaxPrice>67500.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-06-02T15:51:19.170+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.14.119</code>
+                                <name>Бумага для печати прочая</name>
+                            </OKPD2>
+                            <name>Поставка бумаги для нужд финансового управления</name>
+                            <minRequirement>Формат - А4, категория качества - "С", плотность - 80 г/м?, толщина - не менее 104 мкм, белизна (CIE) - не ниже 146%, белизна (ISO D65/10?) - не ниже 105%, белизна (ISO C/2?) - не ниже 95%, непрозрачность - не менее 91%, жесткость (MD) не менее 125 мН, жесткость (CD) не менее 55 мН, количество листов в пачке - 500, отсутствие ограничений для двусторонней печати</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>67500.00</sumMax>
+                            <price>225.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>300.00</quantity>
+                            <quantityCurrentYear>300.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>675.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <amount>3375.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Разбивка на этапы не предусмотрена</contractExecutionStages>
+                            <periodicity>Товар поставляется в полном объеме единоразово</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>90101062630100010244</code>
+                                    <amount>794500.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101139900000130244</code>
+                                    <amount>44885.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>839385.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>67500.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>30023064.08</sumContractMaxPrice>
+                    <sumPaymentsTotal>65225164.95</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=12273870</url>
+            <signature>TUlJTkVBWUpLb1pJaHZjTkFRY0NvSUlOQVRDQ0RQMENBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqZ01JSUkzRENDQ0l1Z0F3SUJBZ0lERlJuK01BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1ETXlPREV5TURZMU5Gb1hEVEUzTURZeU9ERXlNRFkxTkZvd2dnSHVNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV4TXpNek5UZzFPVEVXTUJRR0JTcUZBMlFERWdzeE1qYzJNREF6T1RRME1ERWVNQndHQ1NxR1NJYjNEUUVKQVJZUFptUnRjbUZBZVdGdVpHVjRMbkoxTVFzd0NRWURWUVFHRXdKU1ZURThNRG9HQTFVRUNBd3pNREVnMEtEUXRkR0IwTC9SZzlDeDBMdlF1TkM2MExBZzBKRFF0TkdMMExQUXRkR1BJQ2pRa05DMDBZdlFzOUMxMFk4cE1SVXdFd1lEVlFRSERBelFuTkN3MExuUXV0QyswTDh4YkRCcUJnTlZCQW9NWTlDazBMalF2ZEN3MEwzUmdkQyswTExRdnRDMUlOR0QwTC9SZ05DdzBMTFF1OUMxMEwzUXVOQzFJTkN3MExUUXZOQzQwTDNRdU5HQjBZTFJnTkN3MFliUXVOQzRJTkNjMEo0Z0l0Q1QwTDdSZ05DKzBMUWcwSnpRc05DNTBMclF2dEMvSWpFS01BZ0dBMVVFQ3hNQklERXVNQ3dHQTFVRUtnd2wwSjdRdTlHTTBMUFFzQ0RRa05DNzBMWFF1dEdCMExEUXZkQzAwWURRdnRDeTBMM1FzREViTUJrR0ExVUVCQXdTMEtmUXRkR0IwTDNRdnRDNjBMN1FzdEN3TVN3d0tnWURWUVFNRENQUWt0QzEwTFRSZzlHSjBMalF1U0RSZ2RDLzBMWFJodEM0MExEUXU5QzQwWUhSZ2pGQk1EOEdBMVVFQXd3NDBLZlF0ZEdCMEwzUXZ0QzYwTDdRc3RDd0lOQ2UwTHZSak5DejBMQWcwSkRRdTlDMTBMclJnZEN3MEwzUXROR0EwTDdRc3RDOTBMQXdZekFjQmdZcWhRTUNBaE13RWdZSEtvVURBZ0lrQUFZSEtvVURBZ0llQVFOREFBUkEyQ2xCRFBuU3p2QzdCTEhqRmFPNG9XM2txQWsyRlhKSFJZUVdSRmVubGk4NWFSenNzMjc4aDRQYVFwQ2pCMTh2NVFBQXhwajVIZnVQRmI5SzdEbVhLYU9DQkpzd2dnU1hNQXdHQTFVZEV3RUIvd1FDTUFBd0hRWURWUjBnQkJZd0ZEQUlCZ1lxaFFOa2NRRXdDQVlHS29VRFpIRUNNRDBHQTFVZEVRUTJNRFNnRWdZRFZRUU1vQXNUQ1RNeU1qRTFNRFkwT2FBYkJnb3FoUU1EUFo3WE5nRUZvQTBUQ3pBek56WXpNREF3TURBeWhnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWt3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qY3pPQ0RRdnRHQ0lEQXhMakEzTGpJd01UVU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qRTNOU0RRdnRHQ0lESXdMakEyTGpJd01UTXdEZ1lEVlIwUEFRSC9CQVFEQWdQb01EMEdBMVVkSlFRMk1EUUdDQ3NHQVFVRkJ3TUNCZ2dyQmdFRkJRY0RCQVlPS29VREF6MmUxellCQmdNRUFRSUdEaXFGQXdNOW50YzJBUVlEQkFFRU1Dc0dBMVVkRUFRa01DS0FEekl3TVRZd016STRNVEl3TmpFeldvRVBNakF4TnpBMk1qZ3hNakEyTVROYU1JSUJqd1lEVlIwakJJSUJoakNDQVlLQUZKNXhEZy9hdEFFb1h6L2l5NDlsRlpjQ1I0eXJvWUlCWmFTQ0FXRXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzSUlCQVRCZUJnTlZIUjhFVnpCVk1DbWdKNkFsaGlOb2RIUndPaTh2WTNKc0xuSnZjMnRoZW01aExuSjFMMk55YkM5bWF6QXhMbU55YkRBb29DYWdKSVlpYUhSMGNEb3ZMMk55YkM1bWMyWnJMbXh2WTJGc0wyTnliQzltYXpBeExtTnliREFkQmdOVkhRNEVGZ1FVMkpLTkFOWnYvb2dTRXhOOUpYY3FnSkxPeUJzd0NBWUdLb1VEQWdJREEwRUFVeldMSXY2QllFNjlRQW44NU8vekM0aHBUZnpLbjNIekM0WTBsTkVYT1k0WGpQcUF5cTBsSVU2WVNOY1Ivd25RUllSY1hhRmJadXU0MlFKdTlSVzRWekdDQS9jd2dnUHpBZ0VCTUlJQlpqQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dBZ01WR2Y0d0NnWUdLb1VEQWdJSkJRQ2dnZ0lvTUJnR0NTcUdTSWIzRFFFSkF6RUxCZ2txaGtpRzl3MEJCd0V3SEFZSktvWklodmNOQVFrRk1ROFhEVEUyTVRBeE16RXhOVEV6TTFvd0x3WUpLb1pJaHZjTkFRa0VNU0lFSUt1NE4ycmtId2xhQTQ2Ti9udGl4cTNLWDN2S1lJVlpwc3pPUUlOTU1ZNlRNSUlCdXdZTEtvWklodmNOQVFrUUFpOHhnZ0dxTUlJQnBqQ0NBYUl3Z2dHZU1BZ0dCaXFGQXdJQ0NRUWdrcE9PNVRvTzFFSnVxMXFTYWdKeVBrelc0ZzZKQlpOdFhnYTU0aWtBQlRzd2dnRnVNSUlCWmFTQ0FXRXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzQUlERlJuK01Bb0dCaXFGQXdJQ0V3VUFCRUNTck0wektVYU9hS1RNNUM5S3ZFYm40Nk04ZVdGMENnWHpVenptZ0Npc1ZISXphdXJ1WUFFd2hNTUdpL2x2K1AxYWxjK3Exam05NVZuK04rNUNLSnFz</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

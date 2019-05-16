@@ -1,0 +1,2950 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11182002</id>
+            <planNumber>44201603763000215001</planNumber>
+            <year>2016</year>
+            <versionNumber>13</versionNumber>
+            <owner>
+                <regNum>03763000215</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ  УЧРЕЖДЕНИЕ "ЦЕНТР АДМИНИСТРАТИВНО-ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-07-28T15:59:32.888+03:00</createDate>
+            <description>План-график на 2016 год.</description>
+            <confirmDate>2016-07-28T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-07-28T16:45:59.959+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000215</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ  УЧРЕЖДЕНИЕ "ЦЕНТР АДМИНИСТРАТИВНО-ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ"</fullName>
+                <shortName>МКУ "ЦАТО"</shortName>
+                <postAddress>Российская Федерация, 385730, Адыгея Респ, Майкопский р-н, Тульский п, Советская, 42, -</postAddress>
+                <factAddress>Российская Федерация, 385730, Адыгея Респ, Майкопский р-н, Тульский п, Советская, 42, -</factAddress>
+                <INN>0104011222</INN>
+                <KPP>010401001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79622000</code>
+                <name>Майкопский муниципальный район</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Питюков</lastName>
+            <firstName>Данил</firstName>
+            <middleName>Николаевич</middleName>
+            <phone>88-7777-5-22-04</phone>
+            <email>mkucato2012@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000007</positionNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1038750.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.11.3</code>
+                                <name>Производство электроэнергии атомными электростанциями, в том числе деятельность по обеспечению работоспособности электростанций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по поставке электроэнергии</contractSubjectName>
+                        <contractMaxPrice>1038750.00</contractMaxPrice>
+                        <payments>1038750.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.11.10.110</code>
+                                <name>Электроэнергия, произведенная электростанциями общего назначения</name>
+                            </OKPD2>
+                            <name>Оказание услуг по поставке электрической энергии.</name>
+                            <minRequirement>Непрерывная поставка.</minRequirement>
+                            <OKEI>
+                                <code>245</code>
+                                <name>Киловатт-час</name>
+                            </OKEI>
+                            <sumMax>1038750.00</sumMax>
+                            <price>8.31</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>125000.00</quantity>
+                            <quantityCurrentYear>125000.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000016</positionNumber>
+                        <orderNumber>16</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>200000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.21</code>
+                                <name>Производство электромонтажных работ</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Установка счетчиков на коммунальные услуги в Архив по ул.Первомайской,222</contractSubjectName>
+                        <contractMaxPrice>200000.00</contractMaxPrice>
+                        <payments>200000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.21.10.210</code>
+                                <name>Работы по установке приборов учета расхода электроэнергии</name>
+                            </OKPD2>
+                            <name>Установка счетчиков на коммунальные услуги в Архив по ул.Первомайской,222</name>
+                            <minRequirement>Качественно и в срок</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>200000.00</sumMax>
+                            <price>200000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с извещением</procedure>
+                            <amount>2000.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>10000.00</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Своевременно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000005</positionNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>8412.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>37.00</code>
+                                <name>Сбор и обработка сточных вод</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по водоотведению.</contractSubjectName>
+                        <contractMaxPrice>8412.00</contractMaxPrice>
+                        <payments>8412.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>37.00.11.110</code>
+                                <name>Услуги по водоотведению сточных вод</name>
+                            </OKPD2>
+                            <name>Оказание услуг по водоотведению</name>
+                            <minRequirement>Непрерывное оказание услуг.</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>8412.00</sumMax>
+                            <price>14.02</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>600.00</quantity>
+                            <quantityCurrentYear>600.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000017</positionNumber>
+                        <orderNumber>17</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>70000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>26.40.3</code>
+                                <name>Производство аппаратуры для записи и воспроизведения звука и изображения</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Установка камер видеонаблюдения в зал заседаний СНД.</contractSubjectName>
+                        <contractMaxPrice>70000.00</contractMaxPrice>
+                        <payments>70000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>26.40.33.110</code>
+                                <name>Видеокамеры</name>
+                            </OKPD2>
+                            <name>Установка камер видеонаблюдения в зал заседаний СНД.</name>
+                            <minRequirement>Качественно и в срок</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>70000.00</sumMax>
+                            <price>70000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с извещением</procedure>
+                            <amount>700.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>3500.00</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотренно</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Своевременно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000008</positionNumber>
+                        <orderNumber>8</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>166080.63</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>80.10</code>
+                                <name>Деятельность частных охранных служб</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>«Оказание услуг по охране объектов муниципального казенного учреждения «Центра административно-технического обслуживания», находящихся по адресам: административное здание №1: 385730, РА, Майкопский район, п. Тульский, ул. Советская,42; административное здание №2: 385730, РА, Майкопский район, п. Тульский, ул. Советская,44» в 1 квартале 2016 года.</contractSubjectName>
+                        <contractMaxPrice>166080.63</contractMaxPrice>
+                        <payments>166080.63</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>80.10.12.000</code>
+                                <name>Услуги охраны</name>
+                            </OKPD2>
+                            <name>«Оказание услуг по охране объектов муниципального казенного учреждения «Центра административно-технического обслуживания», находящихся по адресам: административное здание №1: 385730, РА, Майкопский район, п. Тульский, ул. Советская,42; административное здание №2: 385730, РА, Майкопский район, п. Тульский, ул. Советская,44» в 1 квартале 2016 года.
+</name>
+                            <minRequirement>Исполнитель обеспечивает качество оказываемых услуг в соответствии обязательными требованиями законодательства Российской Федерации, предъявляемыми к услугам указанного вида (рода). Преимущества: Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</minRequirement>
+                            <OKEI>
+                                <code>356</code>
+                                <name>Час</name>
+                            </OKEI>
+                            <sumMax>166080.63</sumMax>
+                            <price>46.73</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3554.00</quantity>
+                            <quantityCurrentYear>3554.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <amount>2392.91</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>11964.54</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотрено</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>В соответствии с контрактом.</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000006</positionNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>100440.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>38.11</code>
+                                <name>Сбор неопасных отходов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по вывозу и размещению мало опасных и неопасных отходов производства и потребления (ТБО) на 2016 год.</contractSubjectName>
+                        <contractMaxPrice>100440.00</contractMaxPrice>
+                        <payments>100440.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>38.11.29.000</code>
+                                <name>Услуги по сбору прочих неопасных отходов, непригодных для повторного использования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по вывозу и размещению малоопасных и неопасных отходов производства и потребления (ТБО) на 2016 год.</name>
+                            <minRequirement>Вывозить  ТБО из стандартных  контейнеров  в  объемах  и  периодичностью согласно заключенному контракту.</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>100440.00</sumMax>
+                            <price>465.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>216.00</quantity>
+                            <quantityCurrentYear>216.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>1004.40</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнитель при заключении настоящего Контракта обязан предоставить Заказчику обеспечение исполнения Контракта в размере 5% начальной (максимальной) цены контракта -5022,00 рублей, а если предложенная в заявке участника закупки цена снижена на двадцать пять и более процентов по отношению к начальной (максимальной) цене контракта, Исполнитель, с учетом положений ст. 37 Федерального закона № 44-ФЗ, предоставляет обеспечение исполнения контракта в размере 5022,00 рублей и информацию, подтверждающую добросовестность Исполнителя в соответствии с ч. 3 ст.37 Федерального закона № 44-ФЗ, либо обеспечение исполнение контракта в размере 7533,00 рублей.
+8.2. Обеспечение исполнения контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона №44-ФЗ и Постановления Правительства РФ от 8 ноября 2013 г. N 1005 "О банковских гарантиях, используемых для целей Федерального закона "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд", или внесением денежных средств на счет Заказчика.
+8.3. Банковская гарантия, предоставляемая Исполнителем в качестве обеспечения исполнения Контракта, должна быть включена в реестр банковских гарантий, размещенный на официальном сайте. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.
+8.4. В случае, если предложенная в заявке участника закупки цена снижена на двадцать пять и более процентов по отношению к начальной (максимальной) цене контракта, участник закупки, с которым заключается контракт, предоставляет обеспечение исполнения контракта с учетом положений статьи 37 Федерального закона № 44-ФЗ.
+8.5.  В ходе исполнения Контракта Исполнитель вправе предоставить Заказчику обеспечение исполнения Контракта, уменьшенное на размер выполненных обязательств, предусмотренных Контрактом, взамен ранее предоставленного обеспечения исполнения Контракта. При этом может </procedure>
+                            <amount>5022.00</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Два раза в неделю</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000018</positionNumber>
+                        <orderNumber>18</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>118908.40</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.23</code>
+                                <name>Производство бумажных канцелярских принадлежностей</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Канцелярские товары</contractSubjectName>
+                        <contractMaxPrice>118908.40</contractMaxPrice>
+                        <payments>118908.40</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-20T13:46:00.477+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Скоросшиватель пластиковый с прозрачным верхом</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1190.00</sumMax>
+                            <price>17.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>70.00</quantity>
+                            <quantityCurrentYear>70.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.130</code>
+                                <name>Скоросшиватели (папки) из бумаги или картона</name>
+                            </OKPD2>
+                            <name>Обложки</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>450.00</sumMax>
+                            <price>4.50</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>100.00</quantity>
+                            <quantityCurrentYear>100.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>26.51.32.190</code>
+                                <name>Инструменты для черчения, разметки или математических расчетов прочие</name>
+                            </OKPD2>
+                            <name>Линейка</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>193.30</sumMax>
+                            <price>19.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.12.110</code>
+                                <name>Ручки шариковые</name>
+                            </OKPD2>
+                            <name>Ручка шариковая черная</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>101.70</sumMax>
+                            <price>10.17</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Степлер</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>660.00</sumMax>
+                            <price>110.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>6.00</quantity>
+                            <quantityCurrentYear>6.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.11.110</code>
+                                <name>Бумага копировальная</name>
+                            </OKPD2>
+                            <name>Бумага А4 цветная</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>723.33</sumMax>
+                            <price>723.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.21.000</code>
+                                <name>Плиты, листы, пленка, лента и прочие плоские полимерные самоклеящиеся формы, в рулонах шириной не более 20 см</name>
+                            </OKPD2>
+                            <name>Скотч узкий</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>120.00</sumMax>
+                            <price>12.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Папка с файлами</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>853.30</sumMax>
+                            <price>85.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>Скобы</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1656.90</sumMax>
+                            <price>23.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>70.00</quantity>
+                            <quantityCurrentYear>70.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.130</code>
+                                <name>Скоросшиватели (папки) из бумаги или картона</name>
+                            </OKPD2>
+                            <name>Папка с арочным механизмом</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>10733.10</sumMax>
+                            <price>153.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>70.00</quantity>
+                            <quantityCurrentYear>70.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.21.000</code>
+                                <name>Плиты, листы, пленка, лента и прочие плоские полимерные самоклеящиеся формы, в рулонах шириной не более 20 см</name>
+                            </OKPD2>
+                            <name>Скотч широкий</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1386.60</sumMax>
+                            <price>69.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Анти степлер</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>443.30</sumMax>
+                            <price>44.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.23.000</code>
+                                <name>Детали для скоросшивателей или папок, канцелярские зажимы и аналогичные канцелярские изделия и скобы в виде полос из недрагоценных металлов</name>
+                            </OKPD2>
+                            <name>Скобы</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>933.10</sumMax>
+                            <price>13.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>70.00</quantity>
+                            <quantityCurrentYear>70.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.130</code>
+                                <name>Скоросшиватели (папки) из бумаги или картона</name>
+                            </OKPD2>
+                            <name>Скоросшиватель картонный</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>7469.00</sumMax>
+                            <price>10.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>700.00</quantity>
+                            <quantityCurrentYear>700.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.11.150</code>
+                                <name>Бумага клейкая или гуммированная</name>
+                            </OKPD2>
+                            <name>Бумага для записей с липким слоем</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1226.80</sumMax>
+                            <price>30.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>40.00</quantity>
+                            <quantityCurrentYear>40.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.93.14.140</code>
+                                <name>Скобы и аналогичные изделия</name>
+                            </OKPD2>
+                            <name>Скрепки</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>480.00</sumMax>
+                            <price>24.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Степлер</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1782.00</sumMax>
+                            <price>297.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>6.00</quantity>
+                            <quantityCurrentYear>6.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.52.10.190</code>
+                                <name>Клеи прочие</name>
+                            </OKPD2>
+                            <name>Клей ПВА</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>450.00</sumMax>
+                            <price>15.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>30.00</quantity>
+                            <quantityCurrentYear>30.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.71.11.110</code>
+                                <name>Ножи (кроме ножей для машин)</name>
+                            </OKPD2>
+                            <name>Нож канцелярский</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1153.40</sumMax>
+                            <price>57.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.130</code>
+                                <name>Скоросшиватели (папки) из бумаги или картона</name>
+                            </OKPD2>
+                            <name>Папка с арочным механизмом</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>2900.00</sumMax>
+                            <price>145.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.12.110</code>
+                                <name>Ручки шариковые</name>
+                            </OKPD2>
+                            <name>Ручка шариковая синяя</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>2034.00</sumMax>
+                            <price>10.17</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>200.00</quantity>
+                            <quantityCurrentYear>200.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.76.190</code>
+                                <name>Бумага копировальная или переводная прочая в рулонах или листах</name>
+                            </OKPD2>
+                            <name>Бумага для факса</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>6760.20</sumMax>
+                            <price>112.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>60.00</quantity>
+                            <quantityCurrentYear>60.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.71.11.120</code>
+                                <name>Ножницы</name>
+                            </OKPD2>
+                            <name>Ножницы</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>696.70</sumMax>
+                            <price>69.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.29.19.190</code>
+                                <name>Изделия прочие из бумаги и картона, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Планинг</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>813.34</sumMax>
+                            <price>406.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.29.19.190</code>
+                                <name>Изделия прочие из бумаги и картона, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Календарь перекидной</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>280.00</sumMax>
+                            <price>40.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>7.00</quantity>
+                            <quantityCurrentYear>7.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.11.110</code>
+                                <name>Бумага копировальная</name>
+                            </OKPD2>
+                            <name>Блок бумаги для записи</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1170.00</sumMax>
+                            <price>39.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>30.00</quantity>
+                            <quantityCurrentYear>30.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.191</code>
+                                <name>Блокноты, записные книжки и книги для записей</name>
+                            </OKPD2>
+                            <name>Ежедневник</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1260.00</sumMax>
+                            <price>420.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.00</quantity>
+                            <quantityCurrentYear>3.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Папка скоросшиватель пластиковый А4</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1213.40</sumMax>
+                            <price>60.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.30.22.160</code>
+                                <name>Замазки</name>
+                            </OKPD2>
+                            <name>Корректор ленточный</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3170.10</sumMax>
+                            <price>105.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>30.00</quantity>
+                            <quantityCurrentYear>30.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Файлы</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>2633.40</sumMax>
+                            <price>131.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.15.110</code>
+                                <name>Карандаши простые и цветные с грифелями в твердой оболочке</name>
+                            </OKPD2>
+                            <name>Карандаш</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>780.00</sumMax>
+                            <price>13.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>60.00</quantity>
+                            <quantityCurrentYear>60.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.73.30.291</code>
+                                <name>Точила ручные</name>
+                            </OKPD2>
+                            <name>Точилка</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>260.00</sumMax>
+                            <price>13.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Папка с файлами</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1780.00</sumMax>
+                            <price>178.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.14.121</code>
+                                <name>Бумага писчая и тетрадная</name>
+                            </OKPD2>
+                            <name>Тетрадь общая</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>150.00</sumMax>
+                            <price>50.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.00</quantity>
+                            <quantityCurrentYear>3.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.130</code>
+                                <name>Скоросшиватели (папки) из бумаги или картона</name>
+                            </OKPD2>
+                            <name>Папка с кольцами</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1246.60</sumMax>
+                            <price>62.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Папка с кнопкой</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>121.31</sumMax>
+                            <price>17.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>7.00</quantity>
+                            <quantityCurrentYear>7.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.59.30.190</code>
+                                <name>Чернила прочие</name>
+                            </OKPD2>
+                            <name>Чернила для печати</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>312.99</sumMax>
+                            <price>104.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3.00</quantity>
+                            <quantityCurrentYear>3.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.13.123</code>
+                                <name>Фломастеры</name>
+                            </OKPD2>
+                            <name>Фломастеры упаковка</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>214.00</sumMax>
+                            <price>107.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.22.13.000</code>
+                                <name>Коробки, ящики, корзины и аналогичные пластмассовые изделия</name>
+                            </OKPD2>
+                            <name>Веер для бумаг</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>248.33</sumMax>
+                            <price>248.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.11.110</code>
+                                <name>Бумага копировальная</name>
+                            </OKPD2>
+                            <name>Бумага А4</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>45849.30</sumMax>
+                            <price>218.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>210.00</quantity>
+                            <quantityCurrentYear>210.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.110</code>
+                                <name>Журналы регистрационные из бумаги или картона</name>
+                            </OKPD2>
+                            <name>Журнал</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1766.65</sumMax>
+                            <price>353.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.13.123</code>
+                                <name>Фломастеры</name>
+                            </OKPD2>
+                            <name>Тексто выделитель </name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>533.40</sumMax>
+                            <price>26.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.99.29.190</code>
+                                <name>Изделия прочие из недрагоценных металлов, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Дырокол</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>728.35</sumMax>
+                            <price>145.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                            <quantityCurrentYear>5.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.13.130</code>
+                                <name>Скоросшиватели (папки) из бумаги или картона</name>
+                            </OKPD2>
+                            <name>Папка с завязками картон</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1600.50</sumMax>
+                            <price>10.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>150.00</quantity>
+                            <quantityCurrentYear>150.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.23.11.150</code>
+                                <name>Бумага клейкая или гуммированная</name>
+                            </OKPD2>
+                            <name>Закладки цветные с липким слоем</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>2300.10</sumMax>
+                            <price>76.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>30.00</quantity>
+                            <quantityCurrentYear>30.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>32.99.12.120</code>
+                                <name>Ручки и маркеры с наконечником из фетра и прочих пористых материалов</name>
+                            </OKPD2>
+                            <name>Маркеры</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>356.70</sumMax>
+                            <price>35.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.52.10.190</code>
+                                <name>Клеи прочие</name>
+                            </OKPD2>
+                            <name>Клей карандаш</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1360.00</sumMax>
+                            <price>34.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>40.00</quantity>
+                            <quantityCurrentYear>40.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.19.73.120</code>
+                                <name>Изделия культурно-бытового назначения и хозяйственного обихода резиновые формовые (включая спортивные изделия из резины)</name>
+                            </OKPD2>
+                            <name>Ластик</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>226.60</sumMax>
+                            <price>11.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>20.00</quantity>
+                            <quantityCurrentYear>20.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.30.22.160</code>
+                                <name>Замазки</name>
+                            </OKPD2>
+                            <name>Коректор жидкий</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>980.10</sumMax>
+                            <price>32.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>30.00</quantity>
+                            <quantityCurrentYear>30.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>25.93.14.140</code>
+                                <name>Скобы и аналогичные изделия</name>
+                            </OKPD2>
+                            <name>Скрепки</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>766.50</sumMax>
+                            <price>15.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>50.00</quantity>
+                            <quantityCurrentYear>50.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>17.29.19.190</code>
+                                <name>Изделия прочие из бумаги и картона, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Календарь настенный трехблочный</name>
+                            <minRequirement>Качественные товары.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1223.30</sumMax>
+                            <price>122.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>22.29.25.000</code>
+                                <name>Принадлежности канцелярские или школьные пластмассовые</name>
+                            </OKPD2>
+                            <name>Папка с файлами</name>
+                            <minRequirement>Качественный новый товар не бывший в употреблении.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1166.70</sumMax>
+                            <price>116.67</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>10.00</quantity>
+                            <quantityCurrentYear>10.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с извещением</procedure>
+                            <amount>1189.08</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>5945.42</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Своевременно</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не предусмотренно</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000009</positionNumber>
+                        <orderNumber>9</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>303036.39</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>80.10</code>
+                                <name>Деятельность частных охранных служб</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по охране объектов муниципального казенного учреждения «Центра административно-технического обслуживания», находящихся по адресам: административное здание №1: 385730, РА, Майкопский район, п. Тульский, ул. Советская,42; административное здание №2: 385730, РА, Майкопский район, п. Тульский, ул. Советская,44 на 2 квартал 2016 года.</contractSubjectName>
+                        <contractMaxPrice>303036.39</contractMaxPrice>
+                        <payments>303036.39</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-20T13:46:00.477+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>80.10.12.000</code>
+                                <name>Услуги охраны</name>
+                            </OKPD2>
+                            <name>Оказание услуг по охране объектов муниципального казенного учреждения «Центра административно-технического обслуживания», находящихся по адресам: административное здание №1: 385730, РА, Майкопский район, п. Тульский, ул. Советская,42; административное здание №2: 385730, РА, Майкопский район, п. Тульский, ул. Советская,44 на 2 квартал 2016 года.</name>
+                            <minRequirement>Охрана зданий и прилегающих территорий от проникновения посторонних лиц, предотвращение краж имущества находящегося в помещениях зданий и на прилегающих территориях, предотвращение порчи имущества. Преимущества: Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</minRequirement>
+                            <OKEI>
+                                <code>356</code>
+                                <name>Час</name>
+                            </OKEI>
+                            <sumMax>303036.39</sumMax>
+                            <price>90.27</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3357.00</quantity>
+                            <quantityCurrentYear>3357.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с извещением</procedure>
+                            <amount>3030.36</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>15151.82</amount>
+                        </contractFinCondition>
+                        <advance>НЕ предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>В соответствии с муниципальным контрактом</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не предусмотренно</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000011</positionNumber>
+                        <orderNumber>11</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>302946.12</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>80.10</code>
+                                <name>Деятельность частных охранных служб</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по охране объектов муниципального казенного учреждения «Центра административно-технического обслуживания», находящихся по адресам: административное здание №1: 385730, РА, Майкопский район, п. Тульский, ул. Советская,42; административное здание №2: 385730, РА, Майкопский район, п. Тульский, ул. Советская,44 на 4 квартал 2016 года.</contractSubjectName>
+                        <contractMaxPrice>302946.12</contractMaxPrice>
+                        <payments>302946.12</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-07-28T16:45:59.959+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>80.10.12.000</code>
+                                <name>Услуги охраны</name>
+                            </OKPD2>
+                            <name>Оказание услуг по охране объектов муниципального казенного учреждения «Центра административно-технического обслуживания», находящихся по адресам: административное здание №1: 385730, РА, Майкопский район, п. Тульский, ул. Советская,42; административное здание №2: 385730, РА, Майкопский район, п. Тульский, ул. Советская,44 на 4 квартал 2016 года.
+</name>
+                            <minRequirement>Охрана зданий и прилегающих территорий от проникновения посторонних лиц, предотвращение краж имущества находящегося в помещениях зданий и на прилегающих территориях, предотвращение порчи имущества. Преимущества: Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</minRequirement>
+                            <OKEI>
+                                <code>356</code>
+                                <name>Час</name>
+                            </OKEI>
+                            <sumMax>302946.12</sumMax>
+                            <price>90.27</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3356.00</quantity>
+                            <quantityCurrentYear>3356.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявки, при проведении электронного аукциона перечисляются на счет оператора электронной площадки в банке</procedure>
+                            <amount>3029.46</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45Федерального закона №44-ФЗ, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedure>
+                            <amount>15147.31</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>В соответствии с муниципальным контрактом</contractExecutionStages>
+                            <periodicity>В соответствии с муниципальным контрактом</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>На основании требований Постановления Правительства Российской Федерации от 29.12.2015г. №1457 «О перечне отдельных видов работ (услуг), выполнение (оказание) которых на территории Российской Федерации организациям, находящимся под юрисдикцией Турецкой Республики, а также организациям, контролируемым гражданами Турецкой Республики и (или) организациям, находящимся под юрисдикцией Турецкой Республики» запрещено с 1 января 2016 года осуществлять, в том числе, выполнение работ, оказание услуг для обеспечения государственных и муниципальных нужд на территории Российской Федерации организациям, находящимся под юрисдикцией Турецкой Республики, а также организациям, контролируемым гражданами Турецкой Республики и (или) организациям, находящимся под юрисдикцией Турецкой Республики.</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000014</positionNumber>
+                        <orderNumber>14</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>336693.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>19.20.1</code>
+                                <name>Производство жидкого топлива</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Закупка бензина для МКУ ЦАТО» на 3-й квартал 2016 года.</contractSubjectName>
+                        <contractMaxPrice>336693.00</contractMaxPrice>
+                        <payments>336693.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-29T12:34:06.305+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.111</code>
+                                <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу вне классов</name>
+                            </OKPD2>
+                            <name>Закупка бензина для МКУ ЦАТО» на 3-й квартал 2016 года. (АИ-92)</name>
+                            <minRequirement>Поставка с АЗС поставщика (самовывоз с автоматизированной заправочной станции по средствам электронного учета), вид заправки – топливная карта. Наличие АЗС поставщика не менее одной на территории п.Тульского Майкопского района  и не менее одной АЗС в  городе  Майкопе Республики Адыгея.</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>247275.00</sumMax>
+                            <price>39.25</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>6300.00</quantity>
+                            <quantityCurrentYear>6300.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.121</code>
+                                <name>Бензин автомобильный с октановым числом более 92, но не более 95 по исследовательскому методу вне классов</name>
+                            </OKPD2>
+                            <name>Закупка бензина для МКУ ЦАТО» на 3-й квартал 2016 года. (АИ-95)</name>
+                            <minRequirement>Поставка с АЗС поставщика (самовывоз с автоматизированной заправочной станции по средствам электронного учета), вид заправки – топливная карта. Наличие АЗС поставщика не менее одной на территории п.Тульского Майкопского района  и не менее одной АЗС в  городе  Майкопе Республики Адыгея.</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>89418.00</sumMax>
+                            <price>42.58</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2100.00</quantity>
+                            <quantityCurrentYear>2100.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с Федеральным законом №44-ФЗ и указанны на www.sberbank-ast.ru</procedure>
+                            <amount>3366.93</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона №44-ФЗ, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedure>
+                            <amount>101007.90</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>В соответствии с муниципальным контрактом</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не предусмотренно</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000002</positionNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>2400.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Услуги междугородной и международной телефонной связи</contractSubjectName>
+                        <contractMaxPrice>2400.00</contractMaxPrice>
+                        <payments>2400.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.110</code>
+                                <name>Услуги по предоставлению внутризоновых, междугородных и международных телефонных соединений</name>
+                            </OKPD2>
+                            <name>Услуги междугородной и международной телефонной связи</name>
+                            <minRequirement>Непрерывная связь</minRequirement>
+                            <OKEI>
+                                <code>362</code>
+                                <name>Месяц</name>
+                            </OKEI>
+                            <sumMax>2400.00</sumMax>
+                            <price>200.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                            <quantityCurrentYear>12.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000010</positionNumber>
+                        <orderNumber>10</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>311792.58</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>80.10</code>
+                                <name>Деятельность частных охранных служб</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по охране объектов муниципального казенного учреждения «Центра административно-технического обслуживания», находящихся по адресам: административное здание №1: 385730, РА, Майкопский район, п.Тульский, ул. Светская,42; административное здание №2: 385730, РА, Майкопский район, п. Тульский, ул. Советская,44 на 3 квартал 2016 года.</contractSubjectName>
+                        <contractMaxPrice>311792.58</contractMaxPrice>
+                        <payments>311792.58</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-29T12:34:06.305+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>80.10.12.000</code>
+                                <name>Услуги охраны</name>
+                            </OKPD2>
+                            <name>Оказание услуг по охране объектов муниципального казенного учреждения «Центра административно-технического обслуживания», находящихся по адресам: административное здание №1: 385730, РА, Майкопский район, п. Тна ульский, ул. Светская,42; административное здание №2: 385730, РА, Майкопский район, п. Тульский, ул. Советская,44 на 3 квартал 2016 года.
+</name>
+                            <minRequirement>Охрана зданий и прилегающих территорий от проникновения посторонних лиц, предотвращение краж имущества находящегося в помещениях зданий и на прилегающих территориях, предотвращение порчи имущества. Преимущества: Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</minRequirement>
+                            <OKEI>
+                                <code>356</code>
+                                <name>Час</name>
+                            </OKEI>
+                            <sumMax>311792.58</sumMax>
+                            <price>90.27</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>3454.00</quantity>
+                            <quantityCurrentYear>3454.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с Федеральным законом №44-ФЗ и указанны на www.sberbank-ast.ru</procedure>
+                            <amount>3117.93</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона №44-ФЗ, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedure>
+                            <amount>15589.63</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>В соответствии с муниципальным контрактом.</contractExecutionStages>
+                            <periodicity>В соответствии с муниципальным контрактом.</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>НЕ предусмотренно</prohibitions>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000003</positionNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1104295.71</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.30.11</code>
+                                <name>Производство пара и горячей воды (тепловой энергии) тепловыми электростанциями</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг отопления</contractSubjectName>
+                        <contractMaxPrice>1104295.71</contractMaxPrice>
+                        <payments>1104295.71</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.30.11.120</code>
+                                <name>Энергия тепловая, отпущенная котельными</name>
+                            </OKPD2>
+                            <name>Оказание услуг отопления</name>
+                            <minRequirement>Непрерывная подача тепла в холодное время года</minRequirement>
+                            <OKEI>
+                                <code>233</code>
+                                <name>Гигакалория</name>
+                            </OKEI>
+                            <sumMax>1104295.71</sumMax>
+                            <price>2858.87</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>386.27</quantity>
+                            <quantityCurrentYear>386.27</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000012</positionNumber>
+                        <orderNumber>12</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>300636.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>19.20</code>
+                                <name>Производство нефтепродуктов</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Закупка бензина для МКУ ЦАТО» на 1-й квартал 2016 года.</contractSubjectName>
+                        <contractMaxPrice>300636.00</contractMaxPrice>
+                        <payments>300636.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.121</code>
+                                <name>Бензин автомобильный с октановым числом более 92, но не более 95 по исследовательскому методу вне классов</name>
+                            </OKPD2>
+                            <name>Закупка бензина для МКУ ЦАТО» на 1-й квартал 2016 года. (АИ-95)</name>
+                            <minRequirement>Поставка с АЗС поставщика (самовывоз с автоматизированной заправочной станции по средствам электронного учета), вид заправки – топливная карта. Наличие АЗС поставщика не менее одной на территории п.Тульского Майкопского района  и не менее одной АЗС в  городе  Майкопе Республики Адыгея.  </minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>80073.00</sumMax>
+                            <price>38.13</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2100.00</quantity>
+                            <quantityCurrentYear>2100.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.111</code>
+                                <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу вне классов</name>
+                            </OKPD2>
+                            <name>Закупка бензина для МКУ ЦАТО» на 1-й квартал 2016 года.(АИ-92)</name>
+                            <minRequirement>Поставка с АЗС поставщика (самовывоз с автоматизированной заправочной станции по средствам электронного учета), вид заправки – топливная карта. Наличие АЗС поставщика не менее одной на территории п.Тульского Майкопского района  и не менее одной АЗС в  городе  Майкопе Республики Адыгея.  </minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>220563.00</sumMax>
+                            <price>35.01</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>6300.00</quantity>
+                            <quantityCurrentYear>6300.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с извещением</procedure>
+                            <amount>3318.63</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>99558.90</amount>
+                        </contractFinCondition>
+                        <advance>Аванс - 99,5589</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000021</positionNumber>
+                        <orderNumber>21</orderNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>90101137B001S0330244</code>
+                                <amount>12207.39</amount>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>90101137B00160330244</code>
+                                <amount>48829.56</amount>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.11.3</code>
+                                <name>Производство электроэнергии атомными электростанциями, в том числе деятельность по обеспечению работоспособности электростанций</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по поставке электрической энергии</contractSubjectName>
+                        <contractMaxPrice>61036.95</contractMaxPrice>
+                        <payments>61036.95</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-03-30T10:00:51.787+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.11.10.110</code>
+                                <name>Электроэнергия, произведенная электростанциями общего назначения</name>
+                            </OKPD2>
+                            <name>Оказание услуг по поставке электрической энергии</name>
+                            <minRequirement>Качественное выполнение услуг</minRequirement>
+                            <OKEI>
+                                <code>245</code>
+                                <name>Киловатт-час</name>
+                            </OKEI>
+                            <sumMax>61036.95</sumMax>
+                            <price>8.31</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>7345.00</quantity>
+                            <quantityCurrentYear>7345.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>Не предусмотренно</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000242</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>3600.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Услуги местной связи</contractSubjectName>
+                        <contractMaxPrice>3600.00</contractMaxPrice>
+                        <payments>3600.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.120</code>
+                                <name>Услуги по предоставлению местных соединений</name>
+                            </OKPD2>
+                            <name>Услуги местной телефонной связи</name>
+                            <minRequirement>непрерывная связь</minRequirement>
+                            <OKEI>
+                                <code>362</code>
+                                <name>Месяц</name>
+                            </OKEI>
+                            <sumMax>3600.00</sumMax>
+                            <price>300.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                            <quantityCurrentYear>12.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000013</positionNumber>
+                        <orderNumber>13</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>328797.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>19.20.1</code>
+                                <name>Производство жидкого топлива</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Закупка бензина для МКУ ЦАТО» на 2-й квартал 2016 года.</contractSubjectName>
+                        <contractMaxPrice>328797.00</contractMaxPrice>
+                        <payments>328797.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-20T13:46:00.477+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.121</code>
+                                <name>Бензин автомобильный с октановым числом более 92, но не более 95 по исследовательскому методу вне классов</name>
+                            </OKPD2>
+                            <name>Закупка бензина для МКУ ЦАТО» на 2-й квартал 2016 года. (АИ-95)</name>
+                            <minRequirement>Поставка с АЗС поставщика (самовывоз с автоматизированной заправочной станции по средствам электронного учета), вид заправки – топливная карта. Наличие АЗС поставщика не менее одной на территории п.Тульского Майкопского района  и не менее одной АЗС в  городе  Майкопе Республики Адыгея.</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>87318.00</sumMax>
+                            <price>41.58</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2100.00</quantity>
+                            <quantityCurrentYear>2100.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.111</code>
+                                <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу вне классов</name>
+                            </OKPD2>
+                            <name>Закупка бензина для МКУ ЦАТО» на 2-й квартал 2016 года. (АИ-92)
+ </name>
+                            <minRequirement>Поставка с АЗС поставщика (самовывоз с автоматизированной заправочной станции по средствам электронного учета), вид заправки – топливная карта. Наличие АЗС поставщика не менее одной на территории п.Тульского Майкопского района  и не менее одной АЗС в  городе  Майкопе Республики Адыгея.</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>241479.00</sumMax>
+                            <price>38.33</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>6300.00</quantity>
+                            <quantityCurrentYear>6300.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с извещением</procedure>
+                            <amount>3287.97</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>98639.10</amount>
+                        </contractFinCondition>
+                        <advance>Аванс  - 98,63910</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не предусмотренно</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000022</positionNumber>
+                        <orderNumber>22</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>4820.55</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.23.11</code>
+                                <name>Торговля природным, сухим (отбензиненным) газом, подаваемым по распределительным сетям по регулируемым государством ценам (тарифам)</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка газа.</contractSubjectName>
+                        <contractMaxPrice>4820.55</contractMaxPrice>
+                        <payments>4820.55</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-04-11T16:52:53.515+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.23.10.110</code>
+                                <name>Услуги по продаже потребителям газа, подаваемого по распределительным трубопроводам</name>
+                            </OKPD2>
+                            <name>Поставка газа.</name>
+                            <minRequirement>Качественно и в соответствии с законодательством к данным услугам.</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>4820.55</sumMax>
+                            <price>6.43</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>750.00</quantity>
+                            <quantityCurrentYear>750.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000020</positionNumber>
+                        <orderNumber>20</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101137B001S0330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>107800.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>90101137B00160330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>431200.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>33.13</code>
+                                <name>Ремонт электронного и оптического оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по техническому обслуживанию аппаратно-программных комплексов (АПК) «Арена» видеоконтроля и видео фиксации</contractSubjectName>
+                        <contractMaxPrice>539000.00</contractMaxPrice>
+                        <payments>539000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-01-29T16:12:41.774+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>33.13.11.000</code>
+                                <name>Услуги по ремонту и техническому обслуживанию инструментов и приборов для измерения, испытаний и навигации</name>
+                            </OKPD2>
+                            <name>Оказание услуг по техническому обслуживанию аппаратно-программных комплексов (АПК) «Арена» видеоконтроля и видео фиксации</name>
+                            <minRequirement>Своевременно и в срок</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>539000.00</sumMax>
+                            <price>539000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с извещением</procedure>
+                            <amount>5390.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>26950.00</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотренно</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000019</positionNumber>
+                        <orderNumber>19</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101137B001S0330244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>52300.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                            <KBK2016>
+                                <code>90101137B00160340244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>209200.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>53.10.4</code>
+                                <name>Деятельность почтовой связи дополнительная</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по приему, обработке и направлению копий постановлений лицам, в отношении которых возбуждено дело об административном правонарушении, полученных с применением работающих в автоматическом режиме специальных технических средств, имеющих функции фото- и киносъемки, видеозаписи, или средств фото- и киносъемки, видеозаписи. </contractSubjectName>
+                        <contractMaxPrice>261500.00</contractMaxPrice>
+                        <payments>261500.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-01-29T16:12:41.774+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>53.10.19.000</code>
+                                <name>Услуги почтовой связи общего пользования прочие</name>
+                            </OKPD2>
+                            <name>Оказание услуг по приему, обработке и направлению копий постановлений лицам, в отношении которых возбуждено дело об административном правонарушении, полученных с применением работающих в автоматическом режиме специальных технических средств, имеющих функции фото- и киносъемки, видеозаписи, или средств фото- и киносъемки, видеозаписи. </name>
+                            <minRequirement>Своевремменно и качественно</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>261500.00</sumMax>
+                            <price>52.30</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5000.00</quantity>
+                            <quantityCurrentYear>5000.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>В соответствии с извещением.</procedure>
+                            <amount>2615.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Срок предоставления обеспечения исполнения контракта до подписания муниципального контракта.</procedure>
+                            <amount>13075.00</amount>
+                        </contractFinCondition>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000015</positionNumber>
+                        <orderNumber>15</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>337512.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>19.20.1</code>
+                                <name>Производство жидкого топлива</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Закупка бензина для МКУ ЦАТО» на 4-й квартал 2016 года.</contractSubjectName>
+                        <contractMaxPrice>337512.00</contractMaxPrice>
+                        <payments>337512.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-07-28T16:45:59.959+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.111</code>
+                                <name>Бензин автомобильный с октановым числом более 80, но не более 92 по исследовательскому методу вне классов</name>
+                            </OKPD2>
+                            <name>Закупка бензина для МКУ ЦАТО» на 4-й квартал 2016 года. (АИ-92)</name>
+                            <minRequirement>Поставка с АЗС поставщика (самовывоз с автоматизированной заправочной станции по средствам электронного учета), вид заправки – топливная карта. Наличие АЗС поставщика не менее одной на территории п.Тульского Майкопского района  и не менее одной АЗС в  городе  Майкопе Республики Адыгея.</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>248094.00</sumMax>
+                            <price>39.38</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>6300.00</quantity>
+                            <quantityCurrentYear>6300.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>19.20.21.121</code>
+                                <name>Бензин автомобильный с октановым числом более 92, но не более 95 по исследовательскому методу вне классов</name>
+                            </OKPD2>
+                            <name>Закупка бензина для МКУ ЦАТО» на 4-й квартал 2016 года. (АИ-95)</name>
+                            <minRequirement>Поставка с АЗС поставщика (самовывоз с автоматизированной заправочной станции по средствам электронного учета), вид заправки – топливная карта. Наличие АЗС поставщика не менее одной на территории п.Тульского Майкопского района  и не менее одной АЗС в  городе  Майкопе Республики Адыгея.</minRequirement>
+                            <OKEI>
+                                <code>112</code>
+                                <name>Литр; Кубический дециметр</name>
+                            </OKEI>
+                            <sumMax>89418.00</sumMax>
+                            <price>42.58</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2100.00</quantity>
+                            <quantityCurrentYear>2100.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесенные в качестве обеспечения заявки, при проведении электронного аукциона перечисляются на счет оператора электронной площадки в банке</procedure>
+                            <amount>3375.12</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45Федерального закона №44-ФЗ, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedure>
+                            <amount>101253.60</amount>
+                        </contractFinCondition>
+                        <advance>Аванс не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>В соответствии с муниципальным контрактом</contractExecutionStages>
+                            <periodicity>В соответствии с муниципальным контрактом</periodicity>
+                        </purchaseGraph>
+                        <prohibitions>Не предусмотренно</prohibitions>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000215001000004</positionNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>90101136100902000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>17832.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>36.00.2</code>
+                                <name>Распределение воды для питьевых и промышленных нужд</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по водоснабжению</contractSubjectName>
+                        <contractMaxPrice>17832.00</contractMaxPrice>
+                        <payments>17832.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-01-19T10:55:46.459+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>36.00.20.130</code>
+                                <name>Услуги по транспортированию и распределению воды по водопроводам</name>
+                            </OKPD2>
+                            <name>Оказание услуг по водоснабжению</name>
+                            <minRequirement>Непрерывная подача холодной воды</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>17832.00</sumMax>
+                            <price>14.86</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1200.00</quantity>
+                            <quantityCurrentYear>1200.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>2</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Ежемесячно</contractExecutionStages>
+                            <periodicity>Непрерывно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>38710.29</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000242</code>
+                                    <amount>7000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>93676.80</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000242</code>
+                                    <amount>60000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101137B001S0330244</code>
+                                    <amount>815.22</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>63208.27</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000242</code>
+                                    <amount>42300.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>72856.22</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000242</code>
+                                    <amount>7000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>75000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>34453.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>59800.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>1400.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>38000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>260347.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>50000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>4900.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>2000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>21000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>95856.30</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>86151.65</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000242</code>
+                                    <amount>30000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>88911.36</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>82560.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>30000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>26603.76</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>6300.13</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>7977.08</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101137B00160330244</code>
+                                    <amount>3260.90</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>2300.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000242</code>
+                                    <amount>17700.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>18000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>4000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>5000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>1500.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>6000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000242</code>
+                                    <amount>13500.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>4960.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>69122.30</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>8703.70</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000242</code>
+                                    <amount>66000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>5319.96</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>40547.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>60000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>8000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90101136100902000244</code>
+                                    <amount>145531.73</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>1866272.67</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>1573204.12</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>7784762.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>7784762.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11182002</url>
+            <signature>TUlJTkV3WUpLb1pJaHZjTkFRY0NvSUlOQkRDQ0RRQUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqak1JSUkzekNDQ0k2Z0F3SUJBZ0lERmsyeE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EUXlPVEV6TlRBek9Gb1hEVEUzTURjeU9URXpOVEF6T0Zvd2dnR1VNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFF3TWpFeU5qRXpOekVXTUJRR0JTcUZBMlFERWdzd05qY3hORGt3TURJMk1ERWlNQ0FHQ1NxR1NJYjNEUUVKQVJZVGJXdDFZMkYwYnpJd01USkFiV0ZwYkM1eWRURUxNQWtHQTFVRUJoTUNVbFV4UERBNkJnTlZCQWdNTXpBeElOQ2cwTFhSZ2RDLzBZUFFzZEM3MExqUXV0Q3dJTkNRMExUUmk5Q3owTFhSanlBbzBKRFF0TkdMMExQUXRkR1BLVEVjTUJvR0ExVUVCd3dUMEw4dTBLTFJnOUM3MFl6UmdkQzYwTGpRdVRFYU1CZ0dBMVVFQ2d3UjBKelFtdENqSUNMUXB0Q1EwS0xRbmlJeE1qQXdCZ05WQkNvTUtkQ1EwTHZRdGRDNjBZSFFzTkM5MExUUmdDRFFrTkM5MExEUmd0QyswTHZSak5DMTBMTFF1TkdITVIwd0d3WURWUVFFREJUUW05QyswTFBRc3RDNDBMM1F0ZEM5MExyUXZqRVpNQmNHQTFVRURBd1EwSlRRdU5HQTBMWFF1dEdDMEw3UmdERkhNRVVHQTFVRUF3dyswSnZRdnRDejBMTFF1TkM5MExYUXZkQzYwTDRnMEpEUXU5QzEwTHJSZ2RDdzBMM1F0TkdBSU5DUTBMM1FzTkdDMEw3UXU5R00wTFhRc3RDNDBZY3dZekFjQmdZcWhRTUNBaE13RWdZSEtvVURBZ0lrQUFZSEtvVURBZ0llQVFOREFBUkFhMXl2T0MxSHNHVmtNYWovMU82ZEdtd2Z6UWZiL05Lc2tiWSt2bUdQamVKWjVyZXpLUVhqbDBISDBhTXB4cXBkMVR6aFo2UXJrYTJUTUMranJIZG1nNk9DQlBnd2dnVDBNQXdHQTFVZEV3RUIvd1FDTUFBd0hRWURWUjBnQkJZd0ZEQUlCZ1lxaFFOa2NRRXdDQVlHS29VRFpIRUNNRndHQTFVZEVRUlZNRk9nRWdZRFZRUU1vQXNUQ1RReU9URTFORGMwTTZBYkJnb3FoUU1EUFo3WE5nRUZvQTBUQ3pBek56WXpNREF3TWpFMW9CMEdDaXFGQXdNOW50YzJBUWlnRHhNTk1ETTNOak13TURBd01ERTFOb1lCTURBMkJnVXFoUU5rYndRdERDc2kwSnJSZ05DNDBML1JndEMrMEovUmdOQytJRU5UVUNJZ0tOQ3kwTFhSZ05HQjBMalJqeUF6TGpZcE1JSUJZUVlGS29VRFpIQUVnZ0ZXTUlJQlVneEVJdENhMFlEUXVOQy8wWUxRdnRDZjBZRFF2aUJEVTFBaUlDalFzdEMxMFlEUmdkQzQwWThnTXk0MktTQW8wTGpSZ2RDLzBMN1F1OUM5MExYUXZkQzQwTFVnTWlrTWFDTFFuOUdBMEw3UXM5R0EwTERRdk5DODBMM1F2aTNRc05DLzBML1FzTkdBMExEUmd0QzkwWXZRdVNEUXV0QyswTHpRdjlDNzBMWFF1dEdCSUNMUXJ0QzkwTGpSZ2RDMTBZRFJnaTNRazlDZTBLSFFvaUl1SU5DUzBMWFJnTkdCMExqUmp5QXlMakVpREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTBMVEkzTXpnZzBMN1JnaUF3TVM0d055NHlNREUxREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTRMVEl4TnpVZzBMN1JnaUF5TUM0d05pNHlNREV6TUE0R0ExVWREd0VCL3dRRUF3SUQ2REI3QmdOVkhTVUVkREJ5QmdnckJnRUZCUWNEQVFZSUt3WUJCUVVIQXdJR0RpcUZBd005bnRjMkFRWURCQUVCQmc0cWhRTURQWjdYTmdFR0F3UUJBZ1lPS29VREF6MmUxellCQmdNRUFRTUdEaXFGQXdNOW50YzJBUVlEQkFFRUJnMHFoUU1EUFo3WE5nRUdBd1VCQmcwcWhRTURQWjdYTmdFR0F3VUNNQ3NHQTFVZEVBUWtNQ0tBRHpJd01UWXdOREk1TVRNMU1ESXdXb0VQTWpBeE56QTNNamt4TXpVd01qQmFNSUlCandZRFZSMGpCSUlCaGpDQ0FZS0FGSjV4RGcvYXRBRW9Yei9peTQ5bEZaY0NSNHlyb1lJQlphU0NBV0V3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0lJQkFUQmVCZ05WSFI4RVZ6QlZNQ21nSjZBbGhpTm9kSFJ3T2k4dlkzSnNMbkp2YzJ0aGVtNWhMbkoxTDJOeWJDOW1hekF4TG1OeWJEQW9vQ2FnSklZaWFIUjBjRG92TDJOeWJDNW1jMlpyTG14dlkyRnNMMk55YkM5bWF6QXhMbU55YkRBZEJnTlZIUTRFRmdRVTdQQ09DMU9MakR0NVpnM0RFaFB1aFJrM0tTd3dDQVlHS29VREFnSURBMEVBdmxiNndaMU5mak5uNVFuQThvTmpnVmQ0S3ZPcUk5bzR2TkpyUEVxWFJYeklSWE5UZkFnYThMcXNpVHNGMnFMTkZmMXB0aHArSWhPZlM4T282UXBtZ1RHQ0EvY3dnZ1B6QWdFQk1JSUJaakNDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3QWdNV1RiRXdDZ1lHS29VREFnSUpCUUNnZ2dJb01CZ0dDU3FHU0liM0RRRUpBekVMQmdrcWhraUc5dzBCQndFd0hBWUpLb1pJaHZjTkFRa0ZNUThYRFRFMk1EY3lPREV6TkRVMU1sb3dMd1lKS29aSWh2Y05BUWtFTVNJRUlKWlVxTU9JeWtmZzcxNGFVVmViVmJ1ajFRZVAzUjlFU1VleU9VV0JZUjg0TUlJQnV3WUxLb1pJaHZjTkFRa1FBaTh4Z2dHcU1JSUJwakNDQWFJd2dnR2VNQWdHQmlxRkF3SUNDUVFnZFgvRlh1ZzFHRjVnZFJRcmhiZTdDbVpvRW8xdnpRcEl3OWJyRXByRW1WQXdnZ0Z1TUlJQlphU0NBV0V3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJREZrMnhNQW9HQmlxRkF3SUNFd1VBQkVCSTdSeExOTHd0SjZtckhzVE41WjNwWk5Pc2lKbmtPclVqemdwVldXei9PZlBBTjcyRW4yam90MEppNFpSSmxWWDNyZ2NwQkhsQjFLckNIQUFwdlBnMw==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

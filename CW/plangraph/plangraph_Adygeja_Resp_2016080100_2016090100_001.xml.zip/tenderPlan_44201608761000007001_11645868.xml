@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>11645868</id>
+            <planNumber>44201608761000007001</planNumber>
+            <year>2016</year>
+            <versionNumber>12</versionNumber>
+            <owner>
+                <regNum>08761000007</regNum>
+                <fullName>Отдел вневедомственной охраны по городу Майкопу - филиал федерального государственного казенного учреждения "Отдел вневедомственной охраны Министерства внутренних дел по Республике Адыгея"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-08-31T16:17:23.997+03:00</createDate>
+            <description>План-график размещения заказов на поставку товаров, выполнение работ, оказание услуг для обеспечения государственных и муниципальных нужд на 2016 год.</description>
+            <confirmDate>2015-12-24T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-08-31T16:52:27.551+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>08761000007</regNum>
+                <fullName>Отдел вневедомственной охраны по городу Майкопу - филиал федерального государственного казенного учреждения "Отдел вневедомственной охраны Министерства внутренних дел по Республике Адыгея"</fullName>
+                <shortName>ОВО по г. Майкопу - филиал ФГКУ ОВО МВД по Республике Адыгея</shortName>
+                <postAddress>Российская Федерация, 385006, Адыгея Респ, Майкоп г, Привокзальная, 116, -</postAddress>
+                <factAddress>Российская Федерация, 385006, Адыгея Респ, Майкоп г, Привокзальная, 116, -</factAddress>
+                <INN>0105067122</INN>
+                <KPP>010543001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000001</code>
+                <name>г Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Бабичев </lastName>
+            <firstName>Александр</firstName>
+            <middleName>Владимирович</middleName>
+            <phone>8(8772)525261</phone>
+            <fax>8(8772)525261</fax>
+            <email>babichev7@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000010</positionNumber>
+                        <orderNumber>10</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049242221</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>190000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>оказание услуг по предоставлению доступа к сети местной телефонной связи, а также предоставление местных телефонных соединений, предоставление доступа к услугам внутризоновой, междугородной и международной телефонной связи, услуги внутризоновой телефонной связи, услуги по передаче внутренней телеграммы</contractSubjectName>
+                        <contractMaxPrice>190000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>1</id>
+                                <name>Изменение более чем на 10% стоимости планируемых к приобретению товаров, работ, услуг, выявленные в результате подготовки к размещению конкретного заказа</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-11T10:08:47.847+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.120</code>
+                                <name>Услуги по предоставлению местных соединений</name>
+                            </OKPD2>
+                            <name>оказание услуг по предоставлению доступа к сети местной телефонной связи, а также предоставление местных телефонных соединений, предоставление доступа к услугам внутризоновой, междугородной и международной телефонной связи, услуги внутризоновой телефонной связи, услуги по передаче внутренней телеграммы</name>
+                            <minRequirement>оператор обязан оказывать абоненту услуги связи в соответствии с законодательством РФ, лицензиями, а также с условиями договора(контракта), устранять неисправности препятствующие пользованию услугой</minRequirement>
+                            <sumMax>190000.00</sumMax>
+                            <price>190000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.03.2016г. по 30.06.2016г.</contractExecutionStages>
+                            <periodicity>ежедневное предоставление услуг связи по междугородному и международному соединению с 00:00  по 24:00 часа</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000006</positionNumber>
+                        <orderNumber>6</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049244223</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>305000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.14</code>
+                                <name>Торговля электроэнергией</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Отпуск (поставка) ГП электроэнергии (мощности)</contractSubjectName>
+                        <contractMaxPrice>305000.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-24T14:51:33.175+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.14.10.000</code>
+                                <name>Услуги по торговле электроэнергией</name>
+                            </OKPD2>
+                            <name>Отпуск (поставка) ГП электроэнергии (мощности)</name>
+                            <minRequirement>Отпуск (поставка) электрической энергии (мощности) должен соответствовать требованиям действующего законодательства РФ. Отпуск (поставка) электрической энергии (мощности), а также отношения по оказанию иных неразрывно связанных процессом снабжения электрической энергией услуг, должен осуществляться в соответствии с правилами , установленными законодательством РФ. ГП обязан поддерживать в точке поставки показатели качества электроэнергии в соответствии с требованиями технических регламентов и иных требований</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>305000.00</sumMax>
+                            <price>305000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.03.2016г. по 28.02.2016г.</contractExecutionStages>
+                            <periodicity>ГП поставляет электрическую энергию ежедневно начиная с 00:00 часов</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000012</positionNumber>
+                        <orderNumber>12</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049242221</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>763000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>оказание услуг по предоставлению доступа к сети местной телефонной связи, а также предоставление местных телефонных соединений, предоставление доступа к услугам внутризоновой, междугородной и международной телефонной связи, услуги внутризоновой телефонной связи, услуги по передаче внутренней телеграммы</contractSubjectName>
+                        <contractMaxPrice>763000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-03T15:23:51.954+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.120</code>
+                                <name>Услуги по предоставлению местных соединений</name>
+                            </OKPD2>
+                            <name>оказание услуг по предоставлению доступа к сети местной телефонной связи, а также предоставление местных телефонных соединений, предоставление доступа к услугам внутризоновой, междугородной и международной телефонной связи, услуги внутризоновой телефонной связи, услуги по передаче внутренней телеграммы</name>
+                            <minRequirement>оператор обязан оказывать абоненту услуги связи в соответствии с законодательством РФ, лицензиями, а также с условиями договора(контракта), устранять неисправности препятствующие пользованию услугой</minRequirement>
+                            <sumMax>763000.00</sumMax>
+                            <price>763000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.10.2016г. по 31.12.2016г.</contractExecutionStages>
+                            <periodicity>ежедневное предоставление услуг связи по междугородному и международному соединению с 00:00  по 24:00 часа</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000011</positionNumber>
+                        <orderNumber>11</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049242221</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1756251.16</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>оказание услуг по предоставлению доступа к сети местной телефонной связи, а также предоставление местных телефонных соединений, предоставление доступа к услугам внутризоновой, междугородной и международной телефонной связи, услуги внутризоновой телефонной связи, услуги по передаче внутренней телеграммы</contractSubjectName>
+                        <contractMaxPrice>1756251.16</contractMaxPrice>
+                        <payments>1756251.16</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>1</id>
+                                <name>Изменение более чем на 10% стоимости планируемых к приобретению товаров, работ, услуг, выявленные в результате подготовки к размещению конкретного заказа</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-17T14:58:32.183+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.120</code>
+                                <name>Услуги по предоставлению местных соединений</name>
+                            </OKPD2>
+                            <name>оказание услуг по предоставлению доступа к сети местной телефонной связи, а также предоставление местных телефонных соединений, предоставление доступа к услугам внутризоновой, междугородной и международной телефонной связи, услуги внутризоновой телефонной связи, услуги по передаче внутренней телеграммы</name>
+                            <minRequirement>оператор обязан оказывать абоненту услуги связи в соответствии с законодательством РФ, лицензиями, а также с условиями договора(контракта), устранять неисправности препятствующие пользованию услугой</minRequirement>
+                            <sumMax>1756251.16</sumMax>
+                            <price>1756251.16</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.06.2016г. по 31.12.2016г.</contractExecutionStages>
+                            <periodicity>ежедневное предоставление услуг связи по междугородному и международному соединению с 00:00  по 24:00 часа</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000003</positionNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049244223</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>66244.52</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.23.11</code>
+                                <name>Торговля природным, сухим (отбензиненным) газом, подаваемым по распределительным сетям по регулируемым государством ценам (тарифам)</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Газ горючий природный, снабженческо - сбытовые услуги, услуги по транспортировке по распределительным сетям ГРО</contractSubjectName>
+                        <contractMaxPrice>66244.52</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>1</id>
+                                <name>Изменение более чем на 10% стоимости планируемых к приобретению товаров, работ, услуг, выявленные в результате подготовки к размещению конкретного заказа</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-10T11:34:25.596+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.23.10.110</code>
+                                <name>Услуги по продаже потребителям газа, подаваемого по распределительным трубопроводам</name>
+                            </OKPD2>
+                            <name>Газ горючий природный, снабженческо - сбытовые услуги, услуги по транспортировке по распределительным сетям ГРО</name>
+                            <minRequirement>Поставщик обязан подавать газ горючий природный надлежащего качества, а ткже обязан оказывать снабженческо - сбытовые услуги, услуги по транспортировке по распределительным сетям ГРО согласно ПАравилам поставки газа в РФ.</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>66244.52</sumMax>
+                            <price>66244.52</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>до 25-го числа текущего месяца 30%;
+остаток за потребленный за истекший месяц газ оплачивается до 25-го числа месяца следующего за расчетным</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.01.2016г. по 30.06.2016г.</contractExecutionStages>
+                            <periodicity>ежедневная поставка газа по распределительным сетям ГРО</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000008</positionNumber>
+                        <orderNumber>8</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049242221</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>6000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг междугородной и международной телефонной связи</contractSubjectName>
+                        <contractMaxPrice>6000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2015-12-30T15:25:21.047+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.110</code>
+                                <name>Услуги по предоставлению внутризоновых, междугородных и международных телефонных соединений</name>
+                            </OKPD2>
+                            <name>Оказание услуг междугородной и международной телефонной связи</name>
+                            <minRequirement>оператор обязан оказывать абоненту услуги связи в соответствии с законодательством РФ, лицензиями, а также с условиями договора(контракта), устранять неисправности препятствующие пользованию услугой</minRequirement>
+                            <sumMax>6000.00</sumMax>
+                            <price>6000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.07.2016г. по 31.12.2016г.</contractExecutionStages>
+                            <periodicity>ежедневное предоставление услуг связи по междугородному и международному соединению с 00:00  по 24:00 часа</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000009</positionNumber>
+                        <orderNumber>9</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049242221</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>537526.83</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>оказание услуг по предоставлению доступа к сети местной телефонной связи, а также предоставление местных телефонных соединений, предоставление доступа к услугам внутризоновой, междугородной и международной телефонной связи, услуги внутризоновой телефонной связи, услуги по передаче внутренней телеграммы</contractSubjectName>
+                        <contractMaxPrice>537526.83</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>1</id>
+                                <name>Изменение более чем на 10% стоимости планируемых к приобретению товаров, работ, услуг, выявленные в результате подготовки к размещению конкретного заказа</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-04T10:43:11.491+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.120</code>
+                                <name>Услуги по предоставлению местных соединений</name>
+                            </OKPD2>
+                            <name>оказание услуг по предоставлению доступа к сети местной телефонной связи, а также предоставление местных телефонных соединений, предоставление доступа к услугам внутризоновой, междугородной и международной телефонной связи, услуги внутризоновой телефонной связи, услуги по передаче внутренней телеграммы</name>
+                            <minRequirement>оператор обязан оказывать абоненту услуги связи в соответствии с законодательством РФ, лицензиями, а также с условиями договора(контракта), устранять неисправности препятствующие пользованию услугой</minRequirement>
+                            <sumMax>537526.83</sumMax>
+                            <price>537526.83</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.01.2016г. по 31.03.2016г.</contractExecutionStages>
+                            <periodicity>ежедневное предоставление услуг связи по междугородному и международному соединению с 00:00  по 24:00 часа</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000004</positionNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049242221</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>6000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>оказание услуг междугородной и международной телефонной связи</contractSubjectName>
+                        <contractMaxPrice>6000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2015-12-30T15:25:21.047+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.110</code>
+                                <name>Услуги по предоставлению внутризоновых, междугородных и международных телефонных соединений</name>
+                            </OKPD2>
+                            <name>оказание услуг междугородной и международной телефонной связи</name>
+                            <minRequirement>оператор обязан оказывать абоненту услуги связи в соответствии с законодательством РФ, лицензиями, а также с условиями договора(контракта), устранять неисправности препятствующие пользованию услугой</minRequirement>
+                            <sumMax>6000.00</sumMax>
+                            <price>6000.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.01.2016г. по 30.06.2016г.</contractExecutionStages>
+                            <periodicity>ежедневное предоставление услуг связи по междугородному и международному соединению с 00:00  по 24:00 часа</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000005</positionNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049244223</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>25600.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>36.00.2</code>
+                                <name>Распределение воды для питьевых и промышленных нужд</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Отпуск питьевой вод, прием сточных вод</contractSubjectName>
+                        <contractMaxPrice>25600.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-24T14:51:33.175+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>36.00.20.130</code>
+                                <name>Услуги по транспортированию и распределению воды по водопроводам</name>
+                            </OKPD2>
+                            <name>Отпуск питьевой вод, прием сточных вод</name>
+                            <minRequirement>Организация водопроводно-канализационного хозяйства обязана осуществлять холодное водоснабжение и водоотведение, обязана подавать через присоединённую водопроводную сеть из центральных систем холодного водоснабжения </minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>25600.00</sumMax>
+                            <price>25600.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.07.2016г. по 28.02.2016г.</contractExecutionStages>
+                            <periodicity>ежедневная подача холодной воды (гарантированного объема подачи воды (в том числе и на нужды пожаротушения), с гарантированным уровнем давления холодной воды в системе водоснабжения в месте присоединения), а также ежедневный прием сточных вод</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000007</positionNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049244223</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>84200.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.23.11</code>
+                                <name>Торговля природным, сухим (отбензиненным) газом, подаваемым по распределительным сетям по регулируемым государством ценам (тарифам)</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Газ горючий природный, снабженческо-сбытовые услуги, услуги по транспортировке по распределительным сетям ГРО</contractSubjectName>
+                        <contractMaxPrice>84200.00</contractMaxPrice>
+                        <payments>0.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-08-31T16:52:27.551+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.23.10.110</code>
+                                <name>Услуги по продаже потребителям газа, подаваемого по распределительным трубопроводам</name>
+                            </OKPD2>
+                            <name>Газ горючий природный, снабженческо-сбытовые услуги, услуги по транспортировке по распределительным сетям ГРО</name>
+                            <minRequirement>Поставщик обязан подавать газ горючий природный надлежащего качества, а ткже обязан оказывать снабженческо - сбытовые услуги, услуги по транспортировке по распределительным сетям ГРО согласно ПАравилам поставки газа в РФ</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>84200.00</sumMax>
+                            <price>84200.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>9</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.09.2016г. по 28.02.2017г.</contractExecutionStages>
+                            <periodicity>ежедневная поставка газа по распределительным сетям ГРО</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000002</positionNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>18803020840049244223</code>
+                                <amount>100000.00</amount>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.14</code>
+                                <name>Торговля электроэнергией</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Отпуск (поставка) ГП электроэнергии (мощности)</contractSubjectName>
+                        <contractMaxPrice>100000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>1</id>
+                                <name>Изменение более чем на 10% стоимости планируемых к приобретению товаров, работ, услуг, выявленные в результате подготовки к размещению конкретного заказа</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-15T09:07:44.141+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.14.10.000</code>
+                                <name>Услуги по торговле электроэнергией</name>
+                            </OKPD2>
+                            <name>Отпуск (поставка) ГП электроэнергии (мощности)</name>
+                            <minRequirement>Отпуск (поставка) электрической энергии (мощности) должен соответствовать требованиям действующего законодательства РФ. Отпуск (поставка) электрической энергии (мощности), а также отношения по оказанию иных неразрывно связанных процессом снабжения электрической энергией услуг, должен осуществляться в соответствии с правилами , установленными законодательством РФ. ГП обязан поддерживать в точке поставки показатели качества электроэнергии в соответствии с требованиями технических регламентов и иных требований.</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>100000.00</sumMax>
+                            <price>100000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>до 10-го числа текущего месяца 30%;
+до 25-го числа текущего месяца 40 %;
+до 18-го числа месяца следующего за расчетным оставшуюся сумму</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.01.2016г. по 30.06.2016г.</contractExecutionStages>
+                            <periodicity>ГП поставляет электрическую энергию ежедневно начиная с 00:00 часов.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000013</positionNumber>
+                        <orderNumber>13</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840390049244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1693422.72</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.90</code>
+                                <name>Деятельность в области телекоммуникаций прочая</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>предоставление во временное пользование комплекса ресурсов для размещения технологического оборудования</contractSubjectName>
+                        <contractMaxPrice>1693422.72</contractMaxPrice>
+                        <payments>1693422.72</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-05-04T10:08:14.348+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.90.10.160</code>
+                                <name>Услуги связи по предоставлению каналов связи</name>
+                            </OKPD2>
+                            <name>предоставление во временное пользование комплекса ресурсов для размещения технологического оборудования</name>
+                            <minRequirement>исполнитель обязан оказывать заказчику услуги по предоставлению во временное пользование комплекса ресурсов для размещения технологического оборудования в соответствии с законодательством РФ, лицензиями, а также с условиями договора(контракта), устранять неисправности препятствующие пользованию услугой, предоставить возможность размещения оборудования в производственных помещениях, обеспечить категорию надежности по энергообеспечению оборудования заказчика</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>1693422.72</sumMax>
+                            <price>1693422.72</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>ежемесячно с 01 по 30(31) числа</contractExecutionStages>
+                            <periodicity>ежедневное предоставление услуг предоставления во временное пользование комплекса ресурсов для размещения технологического оборудования с 00:00 по 24:00 часа</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608761000007001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>18803020840049244223</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>24005.48</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>36.00.2</code>
+                                <name>Распределение воды для питьевых и промышленных нужд</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Отпуск питьевой вод, прием сточных вод</contractSubjectName>
+                        <contractMaxPrice>24005.48</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>1</id>
+                                <name>Изменение более чем на 10% стоимости планируемых к приобретению товаров, работ, услуг, выявленные в результате подготовки к размещению конкретного заказа</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-02-10T15:55:40.402+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>36.00.20.130</code>
+                                <name>Услуги по транспортированию и распределению воды по водопроводам</name>
+                            </OKPD2>
+                            <name>Отпуск питьевой вод, прием сточных вод</name>
+                            <minRequirement>Организация водопроводно-канализационного хозяйства обязана осуществлять холодное водоснабжение и водоотведение, обязана подавать через присоединённую водопроводную сеть из центральных систем холодного водоснабжения холодную(питьевую)воду, а также организация водопроводно-канализационного хозяйства обязана осуществлять прием сточных вод от канализационного выпуска в централизованную систему водоотведения и обеспечивать их транспортировку, очистку и сброс в водный объект</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>24005.48</sumMax>
+                            <price>24005.48</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>7</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>с 01.01.2016г. по 30.06.2016г.</contractExecutionStages>
+                            <periodicity>ежедневная подача холодной воды (гарантированного объема подачи воды (в том числе и на нужды пожаротушения), с гарантированным уровнем давления холодной воды в системе водоснабжения в месте присоединения), а также ежедневный прием сточных вод</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>0.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>5226650.71</sumContractMaxPrice>
+                    <sumPaymentsTotal>5557250.71</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=11645868</url>
+            <signature>TUlJTkR3WUpLb1pJaHZjTkFRY0NvSUlOQURDQ0RQd0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dqZk1JSUkyekNDQ0lxZ0F3SUJBZ0lER2JZZk1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EZ3hOakV5TXpBME5sb1hEVEUzTVRFeE5qRXlNekEwTmxvd2dnSFhNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFF3TVRrM01qWTNNekVXTUJRR0JTcUZBMlFERWdzd05qTTVNVFU1TkRZNE9ERWdNQjRHQ1NxR1NJYjNEUUVKQVJZUlltRmlhV05vWlhZM1FHMWhhV3d1Y25VeEN6QUpCZ05WQkFZVEFsSlZNVHd3T2dZRFZRUUlERE13TVNEUW9OQzEwWUhRdjlHRDBMSFF1OUM0MExyUXNDRFFrTkMwMFl2UXM5QzEwWThnS05DUTBMVFJpOUN6MExYUmp5a3hGVEFUQmdOVkJBY01ETkNjMExEUXVkQzYwTDdRdnpGVk1GTUdBMVVFQ2d4TTBKN1FrdENlSU5DLzBMNGcwTE11MEp6UXNOQzUwTHJRdnRDLzBZTWdMZEdFMExqUXU5QzQwTERRdXlEUXBOQ1QwSnJRb3lEUW50Q1MwSjRnMEp6UWt0Q1VJTkMvMEw0ZzBLRFFrREVQTUEwR0ExVUVDd3dHMEpEUW85Q2ZNVFF3TWdZRFZRUXFEQ3ZRa05DNzBMWFF1dEdCMExEUXZkQzAwWUFnMEpMUXU5Q3cwTFRRdU5DODBMalJnTkMrMExMUXVOR0hNUmN3RlFZRFZRUUVEQTdRa2RDdzBMSFF1TkdIMExYUXNqRWhNQjhHQTFVRURBd1kwSzdSZ05DNDBZSFF1dEMrMEwzUmdkR0QwTHZSak5HQ01VTXdRUVlEVlFRREREclFrZEN3MExIUXVOR0gwTFhRc2lEUWtOQzcwTFhRdXRHQjBMRFF2ZEMwMFlBZzBKTFF1OUN3MExUUXVOQzgwTGpSZ05DKzBMTFF1TkdITUdNd0hBWUdLb1VEQWdJVE1CSUdCeXFGQXdJQ0pBQUdCeXFGQXdJQ0hnRURRd0FFUUoxRi81MjZ6QzVaTndyN3hpVnVEWEdJM2FMV0ZibFZtQ2Z2dmUvNm52SC9QNnkxSlZhNmIwR3FxTk1NVVNMT3FTVmcxZE1tRHYyQWxTNDFyS29uQk9LamdnU3hNSUlFclRBTUJnTlZIUk1CQWY4RUFqQUFNQjBHQTFVZElBUVdNQlF3Q0FZR0tvVURaSEVCTUFnR0JpcUZBMlJ4QWpBOUJnTlZIUkVFTmpBMG9CSUdBMVVFREtBTEV3azRNRGt4TVRBek16Q2dHd1lLS29VREF6MmUxellCQmFBTkV3c3dPRGMyTVRBd01EQXdONFlCTURBMkJnVXFoUU5rYndRdERDc2kwSnJSZ05DNDBML1JndEMrMEovUmdOQytJRU5UVUNJZ0tOQ3kwTFhSZ05HQjBMalJqeUF6TGpZcE1JSUJZUVlGS29VRFpIQUVnZ0ZXTUlJQlVneEVJdENhMFlEUXVOQy8wWUxRdnRDZjBZRFF2aUJEVTFBaUlDalFzdEMxMFlEUmdkQzQwWThnTXk0MktTQW8wTGpSZ2RDLzBMN1F1OUM5MExYUXZkQzQwTFVnTWlrTWFDTFFuOUdBMEw3UXM5R0EwTERRdk5DODBMM1F2aTNRc05DLzBML1FzTkdBMExEUmd0QzkwWXZRdVNEUXV0QyswTHpRdjlDNzBMWFF1dEdCSUNMUXJ0QzkwTGpSZ2RDMTBZRFJnaTNRazlDZTBLSFFvaUl1SU5DUzBMWFJnTkdCMExqUmp5QXlMakVpREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTBMVEkzTXpnZzBMN1JnaUF3TVM0d055NHlNREUxREUvUW9kQzEwWURSZ3RDNDBZVFF1TkM2MExEUmdpRFJnZEMrMEw3Umd0Q3kwTFhSZ3RHQjBZTFFzdEM0MFk4ZzRvU1dJTkNoMEtRdk1USTRMVEk0TnpnZzBMN1JnaUF5TUM0d05pNHlNREUyTUE0R0ExVWREd0VCL3dRRUF3SUQ2REJUQmdOVkhTVUVUREJLQmdnckJnRUZCUWNEQWdZT0tvVURBejJlMXpZQkJnTUVBUUVHRGlxRkF3TTludGMyQVFZREJBRUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkF3WU9Lb1VEQXoyZTF6WUJCZ01FQVFRd0t3WURWUjBRQkNRd0lvQVBNakF4TmpBNE1UWXhNak13TXpCYWdROHlNREUzTVRFeE5qRXlNekF6TUZvd2dnR1BCZ05WSFNNRWdnR0dNSUlCZ29BVW5uRU9EOXEwQVNoZlArTExqMlVWbHdKSGpLdWhnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dnZ0VCTUY0R0ExVWRId1JYTUZVd0thQW5vQ1dHSTJoMGRIQTZMeTlqY213dWNtOXphMkY2Ym1FdWNuVXZZM0pzTDJack1ERXVZM0pzTUNpZ0pxQWtoaUpvZEhSd09pOHZZM0pzTG1aelptc3ViRzlqWVd3dlkzSnNMMlpyTURFdVkzSnNNQjBHQTFVZERnUVdCQlNRcWNEWDBVWDhkZGVpL0pZQTNuZ0FRTWJWaXpBSUJnWXFoUU1DQWdNRFFRQVk0ZE5aa1djeGMyVUlpRElHZThRSTU1OTJOYWROMmd3SXlxUytTaEwyUGNvbWFCc0VneFBQTjNlbklmMVcwQjgrdHdxcENmSEFqQXR3YzN5M3hzR0pNWUlEOXpDQ0EvTUNBUUV3Z2dGbU1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeG0ySHpBS0JnWXFoUU1DQWdrRkFLQ0NBaWd3R0FZSktvWklodmNOQVFrRE1Rc0dDU3FHU0liM0RRRUhBVEFjQmdrcWhraUc5dzBCQ1FVeER4Y05NVFl3T0RNeE1UTTFNak13V2pBdkJna3Foa2lHOXcwQkNRUXhJZ1FnN2owaDZLS1dHeCtnNitqRmw0OEJldXZBZkR3dUdmekZnM21pWGZidkJwUXdnZ0c3QmdzcWhraUc5dzBCQ1JBQ0x6R0NBYW93Z2dHbU1JSUJvakNDQVo0d0NBWUdLb1VEQWdJSkJDQTRNZjBuT241VXp6cG9aRlpCblMwaHNIaVY5WGM3QnFack81NFZ0MmoyNmpDQ0FXNHdnZ0ZscElJQllUQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dBZ01adGg4d0NnWUdLb1VEQWdJVEJRQUVRTnF0VVFwUkE0dHl0UWl6WDNFajI0QzdkVjZIWGpGSktOV2ZIT2U5M1dVd3BTTGVaOTQ1SER6WHBibkN4VTFyTkhnUXlscjlYdXpJbjF5emtGYXdDLzA9</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

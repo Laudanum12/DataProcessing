@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>13705444</id>
+            <planNumber>44201603763000478001</planNumber>
+            <year>2016</year>
+            <versionNumber>7</versionNumber>
+            <owner>
+                <regNum>03763000478</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "КОШЕХАБЛЬСКИЙ РАЙОН" "РЕДАКЦИЯ ГАЗЕТЫ "КОШЕХАБЛЬСКИЕ ВЕСТИ"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-12-28T13:28:16.602+03:00</createDate>
+            <description>План-график размещения заказов на поставку товаров, выполнение работ, оказание услуг для обеспечения государственных и муниципальных нужд</description>
+            <confirmDate>2016-12-26T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-12-28T13:35:09.995+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000478</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "КОШЕХАБЛЬСКИЙ РАЙОН" "РЕДАКЦИЯ ГАЗЕТЫ "КОШЕХАБЛЬСКИЕ ВЕСТИ"</fullName>
+                <shortName>МБУ "РЕДАКЦИЯ ГАЗЕТЫ "КОШЕХАБЛЬСКИЕ ВЕСТИ"</shortName>
+                <postAddress>Российская Федерация, 385400, Адыгея Респ, Кошехабль аул, УЛ ДЖАРИМОВА А., ДОМ 5</postAddress>
+                <factAddress>Российская Федерация, 385400, Адыгея Респ, Кошехабль аул, УЛ ДЖАРИМОВА А., ДОМ 5</factAddress>
+                <INN>0103000186</INN>
+                <KPP>010101001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79615420101</code>
+                <name>аул Кошехабль</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Тлюпов</lastName>
+            <firstName>Аслан</firstName>
+            <middleName>Хамзетович</middleName>
+            <phone>8(87770)9-12-60</phone>
+            <fax>8(87770)9-27-98</fax>
+            <email>koshvesti@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000478001000001</positionNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <amount>180400.00</amount>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>17.12.1</code>
+                                <name>Производство бумаги</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка газетной бумаги в рулонах</contractSubjectName>
+                        <contractMaxPrice>180438000.00</contractMaxPrice>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>2</id>
+                                <name>Изменение планируемых сроков приобретения товаров, работ, услуг, способа размещения заказа, срока исполнения контракта.</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-19T16:18:39.669+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.1</code>
+                                <name>Бумага газетная, бумага ручного отлива и прочая бумага немелованная или картон для графических целей</name>
+                            </OKPD2>
+                            <name>Бумага газетная в рулонах</name>
+                            <minRequirement>Согласно техническому заданию</minRequirement>
+                            <OKEI>
+                                <code>168</code>
+                                <name>Тонна;^метрическая тонна (1000 кг)</name>
+                            </OKEI>
+                            <sumMax>180400.00</sumMax>
+                            <price>36080.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>5.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Согласно требованиям</contractExecutionStages>
+                            <periodicity>Согласно требованиям электроной документации</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>00000000000000000244</code>
+                                    <amount>912100.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>912100.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>1092500.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>181350100.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=13705444</url>
+            <signature>TUlJTmFBWUpLb1pJaHZjTkFRY0NvSUlOV1RDQ0RWVUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drNE1JSUpORENDQ09PZ0F3SUJBZ0lERzlFZk1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1UQXlOakEyTVRFeU1Wb1hEVEU0TURFeU5qQTJNVEV5TVZvd2dnR1BNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRE13TURBeU16UXlNVEVXTUJRR0JTcUZBMlFERWdzd09EWXlNelExTlRJM05URWdNQjRHQ1NxR1NJYjNEUUVKQVJZUk1ERnJiM05vWDNSMlFHMWhhV3d1Y25VeEN6QUpCZ05WQkFZVEFsSlZNVGt3TndZRFZRUUlERERRb05DMTBZSFF2OUdEMExIUXU5QzQwTHJRc0NEUWtOQzAwWXZRczlDMTBZOGdLTkNRMExUUmk5Q3owTFhSanlreEh6QWRCZ05WQkFjTUZ0Q3dMaURRbXRDKzBZalF0ZEdGMExEUXNkQzcwWXd4VmpCVUJnTlZCQW9NVGRDYzBKSFFveUFpMEtEUXRkQzAwTERRdXRHRzBMalJqeURRczlDdzBMZlF0ZEdDMFlzZ0l0Q2EwTDdSaU5DMTBZWFFzTkN4MEx2UmpOR0IwTHJRdU5DMUlOQ3kwTFhSZ2RHQzBMZ2lNU2d3SmdZRFZRUXFEQi9Ra05HQjBMdlFzTkM5SU5DbDBMRFF2TkMzMExYUmd0QyswTExRdU5HSE1SVXdFd1lEVlFRRURBelFvdEM3MFk3UXY5QyswTEl4TlRBekJnTlZCQU1NTE5DaTBMdlJqdEMvMEw3UXNpRFFrTkdCMEx2UXNOQzlJTkNsMExEUXZOQzMwTFhSZ3RDKzBMTFF1TkdITUdNd0hBWUdLb1VEQWdJVE1CSUdCeXFGQXdJQ0pBQUdCeXFGQXdJQ0hnRURRd0FFUUV6S3lyTW9PTDdIUktvWmhpQ1A1T29jZWlGVjVHSmg0eTgwcUhnZ0grdy9CVm40cytsYnFYY3U1T1QxakJ5S29oS3J3OWgwWC9HVFA2Ym13OUZiRWJhamdnVlNNSUlGVGpBTUJnTlZIUk1CQWY4RUFqQUFNQjBHQTFVZElBUVdNQlF3Q0FZR0tvVURaSEVCTUFnR0JpcUZBMlJ4QWpCZEJnTlZIUkVFVmpCVW9CTUdBMVVFREtBTUV3b3hNREkwTVRJeU9ETTBvQnNHQ2lxRkF3TTludGMyQVFXZ0RSTUxNRE0zTmpNd01EQTBOemlnSFFZS0tvVURBejJlMXpZQkNLQVBFdzB3TXpjMk16QXdNREF3TlRFemhnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVOaWt3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qY3pPQ0RRdnRHQ0lEQXhMakEzTGpJd01UVU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qZzNPQ0RRdnRHQ0lESXdMakEyTGpJd01UWXdEZ1lEVlIwUEFRSC9CQVFEQWdQb01JSFRCZ05WSFNVRWdjc3dnY2dHQ0NzR0FRVUZCd01CQmdnckJnRUZCUWNEQWdZT0tvVURBejJlMXpZQkJnTUVBUUVHRGlxRkF3TTludGMyQVFZREJBRUNCZzRxaFFNRFBaN1hOZ0VHQXdRQkF3WU9Lb1VEQXoyZTF6WUJCZ01FQVFRR0RTcUZBd005bnRjMkFRWURCUUVHRFNxRkF3TTludGMyQVFZREJRSUdDU3FGQXdPQmV3VUNBUVlKS29VREE0RjdCUUlDQmdrcWhRTURnWHNGQWdNR0NTcUZBd09CZXdVQ0JBWUpLb1VEQTRGN0JRSUZCZ2txaFFNRGdYc0ZBZ1lHQ0NxRkF3T0Jld2dCQmdncWhRTURnWHNJQWpBckJnTlZIUkFFSkRBaWdBOHlNREUyTVRBeU5qQTJNVEEwTjFxQkR6SXdNVGd3TVRJMk1EWXhNRFEzV2pDQ0FZOEdBMVVkSXdTQ0FZWXdnZ0dDZ0JTZWNRNFAyclFCS0Y4LzRzdVBaUldYQWtlTXE2R0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQ0NBUUV3WGdZRFZSMGZCRmN3VlRBcG9DZWdKWVlqYUhSMGNEb3ZMMk55YkM1eWIzTnJZWHB1WVM1eWRTOWpjbXd2Wm1zd01TNWpjbXd3S0tBbW9DU0dJbWgwZEhBNkx5OWpjbXd1Wm5ObWF5NXNiMk5oYkM5amNtd3ZabXN3TVM1amNtd3dIUVlEVlIwT0JCWUVGSFk3a2xIcnV6ZG5PakZjWmVkaTVjeVlVQktQTUFnR0JpcUZBd0lDQXdOQkFNV05tRXpqRi9UMlhHSHVlVWV0ai8xOVNER3dERWg1WHp6MXgzTlA0NlVjUzdaUVBMc1BwRS9vclcvMVdTcHlDMEcySGxyWFppY2UrK1MzSkVyNEJya3hnZ1AzTUlJRDh3SUJBVENDQVdZd2dnRmRNUmd3RmdZSktvWklodmNOQVFrQ0V3bFRaWEoyWlhJZ1EwRXhJREFlQmdrcWhraUc5dzBCQ1FFV0VYVmpYMlpyUUhKdmMydGhlbTVoTG5KMU1Sd3dHZ1lEVlFRSURCTTNOeURRc3k0ZzBKelF2dEdCMExyUXN0Q3dNUm93R0FZSUtvVURBNEVEQVFFU0REQXdOemN4TURVMk9EYzJNREVZTUJZR0JTcUZBMlFCRWcweE1EUTNOemszTURFNU9ETXdNU3d3S2dZRFZRUUpEQ1BSZzlDNzBMalJodEN3SU5DWTBMdlJqTkM0MEwzUXV0Q3dMQ0RRdE5DKzBMd2dOekVWTUJNR0ExVUVCd3dNMEp6UXZ0R0IwTHJRc3RDd01Rc3dDUVlEVlFRR0V3SlNWVEU0TURZR0ExVUVDZ3d2MEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXRTRFF1dEN3MExmUXZkQ3cwWWZRdGRDNTBZSFJndEN5MEw0eFB6QTlCZ05WQkFNTU50Q2owS1lnMEtUUXRkQzAwTFhSZ05DdzBMdlJqTkM5MEw3UXM5QytJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXNBSURHOUVmTUFvR0JpcUZBd0lDQ1FVQW9JSUNLREFZQmdrcWhraUc5dzBCQ1FNeEN3WUpLb1pJaHZjTkFRY0JNQndHQ1NxR1NJYjNEUUVKQlRFUEZ3MHhOakV5TWpneE1ETTFNRFZhTUM4R0NTcUdTSWIzRFFFSkJERWlCQ0JXRHpBSjRJOFBUNkZvbWx0bEVUaHl1SlEwUmpmRDE4R2hBSjltdHBvaVdqQ0NBYnNHQ3lxR1NJYjNEUUVKRUFJdk1ZSUJxakNDQWFZd2dnR2lNSUlCbmpBSUJnWXFoUU1DQWdrRUlBRTF4cktHdDMwK1ZNeUNVUWw5SjRkelNuUlFhTklmY09HV1Z6TUxSaWgyTUlJQmJqQ0NBV1drZ2dGaE1JSUJYVEVZTUJZR0NTcUdTSWIzRFFFSkFoTUpVMlZ5ZG1WeUlFTkJNU0F3SGdZSktvWklodmNOQVFrQkZoRjFZMTltYTBCeWIzTnJZWHB1WVM1eWRURWNNQm9HQTFVRUNBd1ROemNnMExNdUlOQ2MwTDdSZ2RDNjBMTFFzREVhTUJnR0NDcUZBd09CQXdFQkVnd3dNRGMzTVRBMU5qZzNOakF4R0RBV0JnVXFoUU5rQVJJTk1UQTBOemM1TnpBeE9UZ3pNREVzTUNvR0ExVUVDUXdqMFlQUXU5QzQwWWJRc0NEUW1OQzcwWXpRdU5DOTBMclFzQ3dnMExUUXZ0QzhJRGN4RlRBVEJnTlZCQWNNRE5DYzBMN1JnZEM2MExMUXNERUxNQWtHQTFVRUJoTUNVbFV4T0RBMkJnTlZCQW9NTDlDazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMVWcwTHJRc05DMzBMM1FzTkdIMExYUXVkR0IwWUxRc3RDK01UOHdQUVlEVlFRREREYlFvOUNtSU5DazBMWFF0TkMxMFlEUXNOQzcwWXpRdmRDKzBMUFF2aURRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMQUNBeHZSSHpBS0JnWXFoUU1DQWhNRkFBUkF5ekZBSEFzVkxOZXUxS3d0T0VaekFET0RNQUgyYWxWNkg5THFrVXRQV2hFSTVOYW1JOWV4NzE2V2RTbkZBVVFqVjYvUDZheDBQMVpkNDVjUlVoVytlZz09</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

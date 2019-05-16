@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2">
+        <commonInfo>
+            <id>10364890</id>
+            <planNumber>44201608763000052001</planNumber>
+            <year>2016</year>
+            <versionNumber>6</versionNumber>
+            <owner>
+                <regNum>08763000052</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ЦЕНТР ХОЗЯЙСТВЕННОГО И ТЕХНИЧЕСКОГО ОБЕСПЕЧЕНИЯ УЧРЕЖДЕНИЙ КУЛЬТУРЫ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ТЕУЧЕЖСКИЙ РАЙОН"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-06-01T14:48:28.286+03:00</createDate>
+            <description>План-график закупок для нужд Муниципального казенного  учреждения "Центр хозяйственного и технического обеспечения учреждений культуры муниципального образования" на 2016г.</description>
+            <confirmDate>2016-05-25T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-06-01T14:52:01.032+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>08763000052</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ЦЕНТР ХОЗЯЙСТВЕННОГО И ТЕХНИЧЕСКОГО ОБЕСПЕЧЕНИЯ УЧРЕЖДЕНИЙ КУЛЬТУРЫ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ТЕУЧЕЖСКИЙ РАЙОН"</fullName>
+                <shortName>МКУ "ЦХТО УК МО ТР"</shortName>
+                <postAddress>Российская Федерация, 385230, Адыгея Респ, Теучежский р-н, Понежукай аул, ОКТЯБРЬСКАЯ, 34</postAddress>
+                <factAddress>Российская Федерация, 385230, Адыгея Респ, Теучежский р-н, Понежукай аул, ОКТЯБРЬСКАЯ, 34</factAddress>
+                <INN>0107027799</INN>
+                <KPP>010701001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79633400</code>
+                <name>Сельские поселения Теучежского муниципального района</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Нехай</lastName>
+            <firstName>Лариса</firstName>
+            <middleName>Теучежевна</middleName>
+            <phone>8(87772)9-74-00</phone>
+            <fax>8(87772)9-74-00</fax>
+            <email>trkultura@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000052001000002</positionNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>95708015830021244340</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>13585.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>20.30.2</code>
+                                <name>Производство прочих красок, лаков, эмалей и аналогичных материалов для нанесения покрытий, художественных и полиграфических красок</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>22.19.2</code>
+                                <name>Производство резиновых смесей и изделий из них; производство вулканизированной резины в виде нити, корда, пластин, листов, полос, прутков и профилей</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>32.91</code>
+                                <name>Производство метел и щеток</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка хозяйственных товаров</contractSubjectName>
+                        <contractMaxPrice>13585.00</contractMaxPrice>
+                        <payments>13585.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-04-25T16:05:03.339+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>22.19.2</code>
+                                <name>Смесь резиновая и изделия из нее; резина вулканизированная, кроме твердой резины (эбонита), в виде нити, корда, пластин, листов, полос (лент), прутков и профилей</name>
+                            </OKPD2>
+                            <name>Поставка хозяйственных товаров </name>
+                            <minRequirement>согласно спецификации (Приложение к контракту №1)</minRequirement>
+                            <sumMax>13585.00</sumMax>
+                            <price>13585.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>апрель 2016г.-Декабрь 2016г.</contractExecutionStages>
+                            <periodicity>апрель 2016г.-Декабрь 2016г.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000052001000007</positionNumber>
+                        <orderNumber>7</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>95708015830011244226</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>10000.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>85.30</code>
+                                <name>Обучение профессиональное</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Обучение специалиста по 44 ФЗ</contractSubjectName>
+                        <contractMaxPrice>10000.00</contractMaxPrice>
+                        <payments>10000.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-05-25T15:55:46.270+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>85.31.11.000</code>
+                                <name>Услуги по профессиональному обучению</name>
+                            </OKPD2>
+                            <name>Обучение специалиста по 44 ФЗ</name>
+                            <minRequirement>обучение специалиста по 44 ФЗ</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>10000.00</sumMax>
+                            <price>10000.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>6</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Июнь 2016г.-декабрь 2016г.</contractExecutionStages>
+                            <periodicity>Июнь 2016г.-декабрь 2016г.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000052001000003</positionNumber>
+                        <orderNumber>3</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>95708015830021244226</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>6730.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>96.09</code>
+                                <name>Предоставление прочих персональных услуг, не включенных в другие группировки</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Услуги  по рекламному обслуживанию</contractSubjectName>
+                        <contractMaxPrice>6730.00</contractMaxPrice>
+                        <payments>6730.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-04-25T16:05:03.339+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>73.11.13.000</code>
+                                <name>Услуги по разработке рекламного дизайна и концепции</name>
+                            </OKPD2>
+                            <name>Услуги по рекламному обслуживанию</name>
+                            <minRequirement>Изготовление баннера 440,720dpi, 4*3м.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>6730.00</sumMax>
+                            <price>6730.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>апрель 2016г.- декабрь 2016г.</contractExecutionStages>
+                            <periodicity>апрель 2016г.- декабрь 2016г.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000052001000004</positionNumber>
+                        <orderNumber>4</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>95708015830021244226</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>1700.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>71.12.2</code>
+                                <name>Деятельность заказчика-застройщика, генерального подрядчика</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Разработка сметной документации</contractSubjectName>
+                        <contractMaxPrice>1700.00</contractMaxPrice>
+                        <payments>1700.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-04-27T16:08:46.083+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>71.20.19</code>
+                                <name>Услуги по техническим испытаниям и анализу прочие</name>
+                            </OKPD2>
+                            <name>Разработка и изготовление сметной документации</name>
+                            <minRequirement>Изготовление сметы на ремонт фасада дома Культуры а.Нешукай</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1700.00</sumMax>
+                            <price>1700.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Апрель 32016г- декабрь 2016г.</contractExecutionStages>
+                            <periodicity>Апрель 32016г- декабрь 2016г.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000052001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>95708015830021244340</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>19100.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.3</code>
+                                <name>Работы строительные отделочные</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка строительных материалов на ремонт сельского Дома культуры в а.Нешукай</contractSubjectName>
+                        <contractMaxPrice>19100.00</contractMaxPrice>
+                        <payments>19100.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionPublishDate>2016-04-25T16:05:03.339+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.99.90.190</code>
+                                <name>Работы строительные с пециализированные прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>Поставка строительных материалов на ремонт сельского Дома культуры а.Нешукай</name>
+                            <minRequirement>Плитка тротуарная, краска водоэмульсионная фасадная, арматура 6,5мм, сетка строительная(2*3), цемент М 500</minRequirement>
+                            <sumMax>19100.00</sumMax>
+                            <price>19100.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>4</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>апрель 2016г- декабрь 2016г.</contractExecutionStages>
+                            <periodicity>апрель 2016г- декабрь 2016г.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000052001000005</positionNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>95708015830021244340</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>30365.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>20.30</code>
+                                <name>Производство красок, лаков и аналогичных материалов для нанесения покрытий, полиграфических красок и мастик</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>20.5</code>
+                                <name>Производство прочих химических продуктов</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>32.91</code>
+                                <name>Производство метел и щеток</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка хозяйственных товаров на ремонт Нешукайского СДК</contractSubjectName>
+                        <contractMaxPrice>30365.00</contractMaxPrice>
+                        <payments>30365.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo>Приказ № 6 от 12.05.2016г.</additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-05-12T13:10:48.816+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>20.30</code>
+                                <name>Материалы лакокрасочные и аналогичные для нанесения покрытий, полиграфические краски и мастики</name>
+                            </OKPD2>
+                            <name>Поставка хозяйственных товаров на ремонт Нешукайского СДК</name>
+                            <minRequirement>Шпатлевка, краска фасадная, Уайт спирит, олифа, цемент М500, Краска для фасадов и цоколей, валики, кисти малярные, ванночки для краски, колер, шкурка, клей флэшт</minRequirement>
+                            <sumMax>30365.00</sumMax>
+                            <price>30365.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Май 2016г.</contractExecutionStages>
+                            <periodicity>Декабрь 2016г.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000052001000006</positionNumber>
+                        <orderNumber>5</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>95708015830021244225</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>8046.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.31</code>
+                                <name>Производство штукатурных работ</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>43.34.1</code>
+                                <name>Производство малярных работ</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>выполнение ремонтных работ в Нешукайском СДК</contractSubjectName>
+                        <contractMaxPrice>8046.00</contractMaxPrice>
+                        <payments>8046.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                            <additionalInfo>Приказ №7 от 18.05.2016г.</additionalInfo>
+                        </positionModification>
+                        <positionPublishDate>2016-05-19T15:37:01.231+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.31.10.110</code>
+                                <name>Работы штукатурные внешние и внутренние с применением штукатурных сеток и дранок</name>
+                            </OKPD2>
+                            <name>выполнение ремонтных работ в Нешукайском СДК</name>
+                            <minRequirement>Согласно смете на ремонт Нешукайском СДК</minRequirement>
+                            <sumMax>8046.00</sumMax>
+                            <price>8046.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>5</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>Май 2016г.- декабрь 2016г</contractExecutionStages>
+                            <periodicity>Май 2016г.-декабрь 2016г.</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>95708015830021244226</code>
+                                    <amount>35000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>95708015830021244340</code>
+                                    <amount>64000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>95708015830021244225</code>
+                                    <amount>1000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>95708015830021853290</code>
+                                    <amount>2000.00</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>102000.00</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>16000.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>102000.00</sumContractMaxPrice>
+                    <sumPaymentsTotal>191526.00</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=10364890</url>
+            <signature>TUlJT2V3WUpLb1pJaHZjTkFRY0NvSUlPYkRDQ0RtZ0NBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dwTE1JSUtSekNDQ2ZhZ0F3SUJBZ0lEQ3c0TE1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMU1EUXlNVEV5TkRBeU9Gb1hEVEUyTURjeU1URXlOREF5T0Zvd2dnSGZNUm93R0FZSUtvVURBNEVEQVFFU0REQXdNREV3TnpBeU56YzVPVEVXTUJRR0JTcUZBMlFERWdzeE16Z3hOREF4T1RZME1URVlNQllHQlNxRkEyUUJFZzB4TVRRd01UQTNNREF5TURZM01TQXdIZ1lKS29aSWh2Y05BUWtCRmhGMGNtdDFiSFIxY21GQWJXRnBiQzV5ZFRFTE1Ba0dBMVVFQmhNQ1VsVXhQREE2QmdOVkJBZ01NekF4SU5DZzBMWFJnZEMvMFlQUXNkQzcwTGpRdXRDd0lOQ1EwTFRSaTlDejBMWFJqeUFvMEpEUXROR0wwTFBRdGRHUEtURWlNQ0FHQTFVRUJ3d1owSi9RdnRDOTBMWFF0dEdEMExyUXNOQzVJTkN3MFlQUXV6RXBNQ2NHQTFVRUNnd2cwSnpRbXRDaklDTFFwdENsMEtMUW5pRFFvOUNhSU5DYzBKNGcwS0xRb0NJeENqQUlCZ05WQkFzVEFTQXhLREFtQmdOVkJDb01IOUNRMFlIUXU5Q3cwTDBnMEp6UXRkQzAwTGJRdU5DMDBMN1FzdEM0MFljeEZ6QVZCZ05WQkFRTUR0Q28wTFhSZzlDMDBMYlF0ZEM5TVJrd0Z3WURWUVFNREJEUWxOQzQwWURRdGRDNjBZTFF2dEdBTVRBd0xnWUpLb1pJaHZjTkFRa0NFeUV4TGpJdU5qUXpMak11TmpFdU1TNHhMall1TlRBeU56RXdMak11TkM0eUxqRXhOekExQmdOVkJBTU1MdENvMExYUmc5QzAwTGJRdGRDOUlOQ1EwWUhRdTlDdzBMMGcwSnpRdGRDMDBMYlF1TkMwMEw3UXN0QzQwWWN3WXpBY0JnWXFoUU1DQWhNd0VnWUhLb1VEQWdJa0FBWUhLb1VEQWdJZUFRTkRBQVJBdnYxc1EvV09PZ1diR2gyVnJBbkJkcG9kTnpFMGJYK2FNbERrMDF6ZUovUDFuaVlWZVc2Skp3RjgzalhLQnBiVitjaFQ5QTVYbUtSY0ZjUXlIMzdnTTZPQ0JoVXdnZ1lSTUF3R0ExVWRFd0VCL3dRQ01BQXdIUVlEVlIwZ0JCWXdGREFJQmdZcWhRTmtjUUV3Q0FZR0tvVURaSEVDTUlHY0JnTlZIUkVFZ1pRd2daR2dFZ1lEVlFRTW9Bc1RDVFF4TnpFeE1qYzFNcUFaQmdvcWhRTURQWjdYTmdFSG9Bc1RDVEF4TURjd01UQXdNYUFiQmdvcWhRTURQWjdYTmdFRm9BMFRDekE0TnpZek1EQXdNRFV5b0NFR0NTcUdTSWIzRFFFSkZLQVVEQkpFTkRrM09GOVRTRVZWUkZwSVJVNWZRVTJnSFFZS0tvVURBejJlMXpZQkNLQVBFdzB3T0RjMk16QXdNREF3TVRNeGhnRXdNRFlHQlNxRkEyUnZCQzBNS3lMUW10R0EwTGpRdjlHQzBMN1FuOUdBMEw0Z1ExTlFJaUFvMExMUXRkR0EwWUhRdU5HUElETXVNQ2t3Z2dGaEJnVXFoUU5rY0FTQ0FWWXdnZ0ZTREVRaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwSUNqUXVOR0IwTC9RdnRDNzBMM1F0ZEM5MExqUXRTQXlLUXhvSXRDZjBZRFF2dEN6MFlEUXNOQzgwTHpRdmRDK0xkQ3cwTC9RdjlDdzBZRFFzTkdDMEwzUmk5QzVJTkM2MEw3UXZOQy8wTHZRdGRDNjBZRWdJdEN1MEwzUXVOR0IwTFhSZ05HQ0xkQ1QwSjdRb2RDaUlpNGcwSkxRdGRHQTBZSFF1TkdQSURJdU1TSU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpRdE1qSXpPQ0RRdnRHQ0lEQTBMakV3TGpJd01UTU1UOUNoMExYUmdOR0MwTGpSaE5DNDBMclFzTkdDSU5HQjBMN1F2dEdDMExMUXRkR0MwWUhSZ3RDeTBMalJqeURpaEpZZzBLSFFwQzh4TWpndE1qRTNOU0RRdnRHQ0lESXdMakEyTGpJd01UTXdEZ1lEVlIwUEFRSC9CQVFEQWdQNE1JSUJWUVlEVlIwbEJJSUJURENDQVVnR0NDc0dBUVVGQndNQkJnZ3JCZ0VGQlFjREFnWUlLb1VEQWdFR0NBVUdEeXFGQXdNOUFRRUdudGMyQXdRQkFRWVBLb1VEQXowQkFRYWUxellEQkFFQ0JnOHFoUU1EUFFFQkJwN1hOZ01FQVFNR0R5cUZBd005QVFFR250YzJBd1FCQkFZUEtvVURBejBCQVFhZTF6WURCQUVGQmc4cWhRTURQUUVCQnA3WE5nTUVBUVlHRHlxRkF3TTlBUUVHbnRjMkF3UUJCd1lQS29VREF6MEJBUWFlMXpZREJBRUlCZzhxaFFNRFBRRUJCcDdYTmdNRUFRa0dEeXFGQXdNOUFRRUdudGMyQXdRQkNnWVBLb1VEQXowQkFRYWUxellEQkFFTUJnOHFoUU1EUFFFQkJwN1hOZ01FQVE0R0RpcUZBd005bnRjMkFRWURCQUVCQmc0cWhRTURQWjdYTmdFR0F3UUJBZ1lPS29VREF6MmUxellCQmdNRUFRTUdEaXFGQXdNOW50YzJBUVlEQkFFRUJnMHFoUU1EUFo3WE5nRUdBd1VCQmcwcWhRTURQWjdYTmdFR0F3VUNNQ3NHQTFVZEVBUWtNQ0tBRHpJd01UVXdOREl4TVRJek9UVXpXb0VQTWpBeE5qQTNNakV4TWpNNU5UTmFNSUlCandZRFZSMGpCSUlCaGpDQ0FZS0FGSjV4RGcvYXRBRW9Yei9peTQ5bEZaY0NSNHlyb1lJQlphU0NBV0V3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0lJQkFUQmVCZ05WSFI4RVZ6QlZNQ21nSjZBbGhpTm9kSFJ3T2k4dlkzSnNMbkp2YzJ0aGVtNWhMbkoxTDJOeWJDOW1hekF4TG1OeWJEQW9vQ2FnSklZaWFIUjBjRG92TDJOeWJDNW1jMlpyTG14dlkyRnNMMk55YkM5bWF6QXhMbU55YkRBZEJnTlZIUTRFRmdRVTY0NkZUNk5qK0N1Tmo0MCs3eDRLVkY3Q3YrOHdDQVlHS29VREFnSURBMEVBMjZINWs1RXd6NndDRFNncmdpc3JxWThIQTBwV1JJR0dBMm1seExLS2E0K1kxL3hVZUVLNm4wNDlmTEE5dEtHNGhQSGVnNjNxMnllelZuaXVhME1IdkRHQ0EvY3dnZ1B6QWdFQk1JSUJaakNDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3QWdNTERnc3dDZ1lHS29VREFnSUpCUUNnZ2dJb01CZ0dDU3FHU0liM0RRRUpBekVMQmdrcWhraUc5dzBCQndFd0hBWUpLb1pJaHZjTkFRa0ZNUThYRFRFMk1EWXdNVEV4TlRFMU5sb3dMd1lKS29aSWh2Y05BUWtFTVNJRUlDS3AvNUNNOUpFVitGMzhDbDFNcVdpdTkvTXBxTkQxQmF0ZWNsS3ZOdkpjTUlJQnV3WUxLb1pJaHZjTkFRa1FBaTh4Z2dHcU1JSUJwakNDQWFJd2dnR2VNQWdHQmlxRkF3SUNDUVFnSmx1KytPWURpcUNGNVk4UDlRZFdKZ2F1WnM4M2hSY0RFOTNvZ3JTbC9PMHdnZ0Z1TUlJQlphU0NBV0V3Z2dGZE1SZ3dGZ1lKS29aSWh2Y05BUWtDRXdsVFpYSjJaWElnUTBFeElEQWVCZ2txaGtpRzl3MEJDUUVXRVhWalgyWnJRSEp2YzJ0aGVtNWhMbkoxTVJ3d0dnWURWUVFJREJNM055RFFzeTRnMEp6UXZ0R0IwTHJRc3RDd01Sb3dHQVlJS29VREE0RURBUUVTRERBd056Y3hNRFUyT0RjMk1ERVlNQllHQlNxRkEyUUJFZzB4TURRM056azNNREU1T0RNd01Td3dLZ1lEVlFRSkRDUFJnOUM3MExqUmh0Q3dJTkNZMEx2UmpOQzQwTDNRdXRDd0xDRFF0TkMrMEx3Z056RVZNQk1HQTFVRUJ3d00wSnpRdnRHQjBMclFzdEN3TVFzd0NRWURWUVFHRXdKU1ZURTRNRFlHQTFVRUNnd3YwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRdFNEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTDR4UHpBOUJnTlZCQU1NTnRDajBLWWcwS1RRdGRDMDBMWFJnTkN3MEx2UmpOQzkwTDdRczlDK0lOQzYwTERRdDlDOTBMRFJoOUMxMExuUmdkR0MwTExRc0FJREN3NExNQW9HQmlxRkF3SUNFd1VBQkVBc1o4NDdDckxEVHVLcWh5NDNFSFhIU0hFQS94U3VOVUczVkNBaDVsVm8vamxJZGhqaGVjY3BocitvZmhMRVU2YXFqOUZEYzZiZ0g4cmpyMnBwNHUvKw==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>13013960</id>
+            <planNumber>44201603763000141001</planNumber>
+            <year>2016</year>
+            <versionNumber>19</versionNumber>
+            <owner>
+                <regNum>03763000141</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "ЛИЦЕЙ № 19"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-11-24T11:59:14.301+03:00</createDate>
+            <description>План-график закупок товаров, работ, услуг для МБОУ "Лицей № 19" на 2016 год
+ 
+</description>
+            <confirmDate>2016-11-24T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-11-24T12:06:42.220+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>03763000141</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "ЛИЦЕЙ № 19"</fullName>
+                <shortName>МБОУ "ЛИЦЕЙ № 19"</shortName>
+                <postAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ул КРАСНООКТЯБРЬСКАЯ, 51</postAddress>
+                <factAddress>Российская Федерация, 385000, Адыгея Респ, Майкоп г, ул КРАСНООКТЯБРЬСКАЯ, 51</factAddress>
+                <INN>0105032144</INN>
+                <KPP>010501001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79701000</code>
+                <name>город Майкоп</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Никитченко</lastName>
+            <firstName>Ирина</firstName>
+            <middleName>Владимировна</middleName>
+            <phone>8772522772</phone>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000006</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>52057.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.22</code>
+                                <name>Производство санитарно-технических работ, монтаж отопительных систем и систем кондиционирования воздуха</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>33.12</code>
+                                <name>Ремонт машин и оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по аварийно-ремонтным работам и техническому обслуживанию оборудования</contractSubjectName>
+                        <contractMaxPrice>52057.00</contractMaxPrice>
+                        <payments>52057.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>03763000075</regNum>
+                                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 3"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>43.22.12.190</code>
+                                <name>Работы по монтажу систем отопления, вентиляции и кондиционирования воздуха прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>аварийно-ремонтные работы и техническое обслуживание систем отопления</name>
+                            <minRequirement>Услуги должны быть предоставлены согласно нормативных документов в соответствии с техническим заданием. Сроки, виды работ должны соответствовать техническому заданию и контракту. Исполнитель несет ответственность перед заказчиком согласно условиям контракта.</minRequirement>
+                            <OKEI>
+                                <code>642</code>
+                                <name>Единица</name>
+                            </OKEI>
+                            <sumMax>22931.00</sumMax>
+                            <price>22931.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>43.22.11.190</code>
+                                <name>Работы по монтажу водопроводных и канализационных систем прочие, не включенные в другие группировки</name>
+                            </OKPD2>
+                            <name>аварийно-ремонтные работы и техническое обслуживание систем водоснабжения, канализации</name>
+                            <minRequirement>Услуги должны быть предоставлены согласно нормативных документов в соответствии с техническим заданием. Сроки, виды работ должны соответствовать техническому заданию и контракту. Исполнитель несет ответственность перед заказчиком согласно условиям контракта.</minRequirement>
+                            <OKEI>
+                                <code>642</code>
+                                <name>Единица</name>
+                            </OKEI>
+                            <sumMax>11558.00</sumMax>
+                            <price>11558.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>33.12.29.000</code>
+                                <name>Услуги по ремонту и техническому обслуживанию прочего оборудования специального назначения</name>
+                            </OKPD2>
+                            <name>Техническое обслуживание узла учета тепловой энергии</name>
+                            <minRequirement>Услуги должны быть предоставлены согласно нормативных документов в соответствии с техническим заданием. Сроки, виды работ должны соответствовать техническому заданию и контракту. Исполнитель несет ответственность перед заказчиком согласно условиям контракта.</minRequirement>
+                            <OKEI>
+                                <code>642</code>
+                                <name>Единица</name>
+                            </OKEI>
+                            <sumMax>17568.00</sumMax>
+                            <price>17568.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от НМЦК</procedure>
+                            <amount>520.57</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от НМЦК</procedure>
+                            <amount>2602.85</amount>
+                        </contractFinCondition>
+                        <advance>не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2018</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000008</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>917525.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.12.1</code>
+                                <name>Передача электроэнергии</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Электроэнергия</contractSubjectName>
+                        <contractMaxPrice>917525.00</contractMaxPrice>
+                        <payments>917525.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.12.10.110</code>
+                                <name>Услуги по передаче электроэнергии</name>
+                            </OKPD2>
+                            <name>Подача электроэнергии гарантирующим поставщиком</name>
+                            <minRequirement>1. Подавать электроэнергию в количестве определенном в заранее оговоренном объеме. 2. Поддерживать в точке поставки показатели качества электроэнергии в соответствии с требованиями технических регламентов и иных обязательных требований. 3. Ежемесячно проводить сверку расчетов по потреблению электроэнергии. 4. Сообщать об изменении тарифов.</minRequirement>
+                            <OKEI>
+                                <code>245</code>
+                                <name>Киловатт-час</name>
+                            </OKEI>
+                            <sumMax>917525.00</sumMax>
+                            <price>6.69</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2018</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>-</contractExecutionStages>
+                            <periodicity> услуга предоставляется с 01.01.2017 
+ежедневно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000010</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>10899.60</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>46.49.33</code>
+                                <name>Торговля оптовая писчебумажными и канцелярскими товарами</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка офисной бумаги</contractSubjectName>
+                        <contractMaxPrice>10876.30</contractMaxPrice>
+                        <payments>10876.30</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>03763000070</regNum>
+                                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ  ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 15"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>17.12.14.112</code>
+                                <name>Бумага офсетная</name>
+                            </OKPD2>
+                            <name>бумага офисная</name>
+                            <minRequirement>Формат – А4;
+Плотность не менее 80 г/м2
+Предназначение для принтеров и аппаратов:
+для лазерных и струйных принтеров, копировальных и факсимильных аппаратов.
+Белизна бумаги от 146% (CIE). Непрозрачность от 93%, толщина не менее 104 мкм.
+Не менее 500 листов в упаковке.
+</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>10876.30</sumMax>
+                            <price>178.30</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>61.00</quantity>
+                            <quantityCurrentYear>61.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от НМЦК</procedure>
+                            <amount>108.90</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от НМЦК</procedure>
+                            <amount>543.82</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>-</contractExecutionStages>
+                            <periodicity>разовая</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000007</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>30904.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Услуги местной (городской) телефонной связи</contractSubjectName>
+                        <contractMaxPrice>30904.00</contractMaxPrice>
+                        <payments>30904.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.120</code>
+                                <name>Услуги по предоставлению местных соединений</name>
+                            </OKPD2>
+                            <name>Услуги местной (городской) телефонной связи</name>
+                            <minRequirement>"1. Оказание услуг связи с качеством, соответствующим действующим нормативным документам Мининформсвязи РФ и в соответствии с действующими законодательными и иными нормативными актами РФ, Правилами. 2.Устранять неисправности, препятствующие пользованию услугами, по заявке ,в порядке и сроки, установленные действующими нормативными актами. 3. Извещать об изменении тарифов на услуги. Международное непатентованное наименование (химическое, группировочное наименование) лекарственного средства: - </minRequirement>
+                            <OKEI>
+                                <code>642</code>
+                                <name>Единица</name>
+                            </OKEI>
+                            <sumMax>30904.00</sumMax>
+                            <price>30904.00</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>11</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2018</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрены</contractExecutionStages>
+                            <periodicity>ежедневно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000003</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>204750.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>86.21</code>
+                                <name>Общая врачебная практика</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по периодическому  медицинскому осмотру</contractSubjectName>
+                        <contractMaxPrice>204750.00</contractMaxPrice>
+                        <payments>204750.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>03763000095</regNum>
+                                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 28"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>86.21.10.120</code>
+                                <name>Услуги, предоставляемые врачами общей врачебной практики, по проведению диагностических процедур и постановке диагноза</name>
+                            </OKPD2>
+                            <name>Оказание услуги по проведению периодического медицинского осмотра</name>
+                            <minRequirement>Осуществление качественного медицинского
+осмотра в соответствии с установленными
+медицинскими стандартами, требованиями,
+предъявляемыми к методам диагностики,
+профилактики и лечения, разрешенными на
+территории РФ. Периодический медицинский осмотр  должен проводиться в служебное время с понедельника по пятницу.
+График прохождения медицинского осмотра  работниками утверждается медицинским учреждением. 
+Услуги по проведению медицинского осмотра должны быть оказаны в соответствии, имеющейся лицензией на осуществление медицинской деятельности.  
+Медосмотр проводится по одному адресу на территории города Майкопа.
+</minRequirement>
+                            <OKEI>
+                                <code>792</code>
+                                <name>Человек</name>
+                            </OKEI>
+                            <sumMax>204750.00</sumMax>
+                            <price>2250.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>91.00</quantity>
+                            <quantityCurrentYear>91.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от НМЦК</procedure>
+                            <amount>2047.50</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от НМЦК</procedure>
+                            <amount>10237.50</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>9</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>один этап</contractExecutionStages>
+                            <periodicity>разовая</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000005</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>59025.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>43.29</code>
+                                <name>Производство прочих строительно-монтажных работ</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>80.20</code>
+                                <name>Деятельность систем обеспечения безопасности</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по обслуживанию систем безопасности (пожарная сигнализация, видеонаблюдение (в том числе установка дополнительных видеокамер при необходимости), охранная сигнализация (при наличии), тревожная сигнализация (кнопка вызова полиции), системы передачи извещения о пожаре «Стрелец-Мониторинг»), перезарядка огнетушителей, огнезащитная обработка деревянных конструкций кровли и прочих деревянных конструкций</contractSubjectName>
+                        <contractMaxPrice>59025.00</contractMaxPrice>
+                        <payments>59025.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>03763000133</regNum>
+                                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "ЛИЦЕЙ № 34 СОЦИАЛЬНЫХ И ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>80.20.10.000</code>
+                                <name>Услуги систем обеспечения безопасности</name>
+                            </OKPD2>
+                            <name>Оказание услуг по обслуживанию систем безопасности: пожарная сигнализация, видеонаблюдение (в том числе установка дополнительных видеокамер при необходимости), охранная сигнализация (при наличии), тревожная сигнализация (кнопка вызова полиции), системы передачи извещения о пожаре «Стрелец-Мониторинг»</name>
+                            <minRequirement>Поддержание технических средств в исправном (работоспособном) состоянии, снижение интенсивности износа и предупреждение вероятных отказов, обеспечение надежности и постоянной готовности к использованию по назначению; возможность круглосуточной передачи тревожных сообщений на пульт централизованного наблюдения.</minRequirement>
+                            <OKEI>
+                                <code>362</code>
+                                <name>Месяц</name>
+                            </OKEI>
+                            <sumMax>54000.00</sumMax>
+                            <price>4500.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>12.00</quantity>
+                            <quantityCurrentYear>12.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>43.29.11.140</code>
+                                <name>Работы по противопожарной защите</name>
+                            </OKPD2>
+                            <name>Перезарядка порошкового огнетушителя ОП 4</name>
+                            <minRequirement>Перезарядка огнетушителей включает в себя: 1. Внешний осмотр огнетушителей, проверка комплектации, а также читаемость и доходчивость инструкции по работе с огнетушителями. 2. Частичная разборка порошковых огнетушителей и проверка качества порошка. 3. Продувка от пыли и загрязнений сифонной трубки и запорного устройства. 4. Замена огнетушащего вещества 5. Сборка огнетушителя. 6. Закачка огнетушителя вытесняющим газом (для отдельных видов огнетушителей). 7. Проверка на плотность запорного устройства и корпуса огнетушителя. 8. Опломбирование, наклеивание бирки со сведениями о проведенном ТО.
+
+При выявлении неисправностей узлов, деталей, прокладок, измерительных приборов, шлангов и т.д. за исключением герметичности корпуса огнетушителя они подлежат замене и установке за счёт организации проводящей перезарядку.
+При проведении работ организацией, проводящей перезарядку, проводится обслуживание корпуса огнетушителя, очистка от коррозии, покраска наружного лакокрасочного покрытия, восстановление защитного покрытия внутренней поверхности корпуса.</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>5025.00</sumMax>
+                            <price>335.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>15.00</quantity>
+                            <quantityCurrentYear>15.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от НМЦК</procedure>
+                            <amount>590.25</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от НМЦК</procedure>
+                            <amount>2951.25</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2018</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>огнезащитная обработка – разовая (при наличии потребности);
+услуги систем обеспечения безопасности – ежемесячно и по вызову для восстановления работоспособности системы;
+перезарядка огнетушителей – по заявке заказчика при наличии потребности
+</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000012</positionNumber>
+                        <amountKVRs>
+                            <KVR>
+                                <code>244</code>
+                                <amount>1338159.00</amount>
+                            </KVR>
+                        </amountKVRs>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>35.30.1</code>
+                                <name>Производство пара и горячей воды (тепловой энергии)</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка тепловой энергии</contractSubjectName>
+                        <contractMaxPrice>1338159.00</contractMaxPrice>
+                        <payments>1338159.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>35.30.12</code>
+                                <name>Услуги по снабжению паром и горячей водой по трубопроводам</name>
+                            </OKPD2>
+                            <name>Поставка тепловой энергии</name>
+                            <minRequirement>1. Поставка тепловой энергии надлежащего качества и в количестве, предусмотренном Контрактом с корректировкой в зависимости от фактической температуры наружного воздуха. 2. Количество и сроки поставки должны соответствовать Графику, являющемуся обязательным приложением к контракту. 3.Уведомлять о введении режима ограничений при образовании дефицита мощности. 4.Поддерживать среднесуточную температуру подающей сетевой воды на коллекторах тепло источников в соответствии с прилагаемыми утвержденным температурным графиком с отклонение не более +,-3. 5.Сообщать об изменении тарифов</minRequirement>
+                            <OKEI>
+                                <code>233</code>
+                                <name>Гигакалория</name>
+                            </OKEI>
+                            <sumMax>1338159.00</sumMax>
+                            <price>1880.66</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2018</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрены</contractExecutionStages>
+                            <periodicity>Поставка осуществляется с 01.01.2017,
+ ежедневно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000013</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>60979.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>36.00.1</code>
+                                <name>Забор и очистка воды для питьевых и промышленных нужд</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>37.00</code>
+                                <name>Сбор и обработка сточных вод</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Услуги по водоснабжению и водоотведению</contractSubjectName>
+                        <contractMaxPrice>60979.00</contractMaxPrice>
+                        <payments>60979.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>36.00.20.130</code>
+                                <name>Услуги по транспортированию и распределению воды по водопроводам</name>
+                            </OKPD2>
+                            <name>водоснабжение</name>
+                            <minRequirement>1. Питьевая вода должна соответствовать качеству, предусмотренному нормативными документами РФ по водоснабжению, определяющими требования к качеству питьевой воды, отпускаемой населению. 2. Проведение производственного лабораторного контроля качества питьевой воды и сбрасываемых в водные объекты сточных вод. 3.Принятие необходимых мер по своевременной ликвидации аварий и повреждений а системах водоснабжения (канализации )в порядки и сроки , установленные нормат.-технич. документацией. 4.Обеспечение информацией о качестве питьевой воды, изменении тарифов.</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>36686.00</sumMax>
+                            <price>13.09</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>37.00.11.120</code>
+                                <name>Услуги по транспортированию сточных вод</name>
+                            </OKPD2>
+                            <name>водоотведение</name>
+                            <minRequirement>1. Прием сточных вод должен производится в соответствии с действующими нормативными документами РФ по канализации и законодательством об охране окружающей среды. 2.Принятие необходимых мер по своевременной ликвидации аварий и повреждений а системах водоснабжения (канализации) в порядки и сроки , установленные нормат.-технич. документацией. 3.Обеспечение информацией о качестве питьевой воды, изменении тарифов</minRequirement>
+                            <OKEI>
+                                <code>113</code>
+                                <name>Кубический метр</name>
+                            </OKEI>
+                            <sumMax>24293.00</sumMax>
+                            <price>10.78</price>
+                            <quantityUndefined>true</quantityUndefined>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>1</month>
+                                <year>2018</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>ежедневно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000011</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>1667.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>81.29.1</code>
+                                <name>Дезинфекция, дезинсекция, дератизация зданий, промышленного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по выполнению санитарно - противоэпидемиологических мероприятий</contractSubjectName>
+                        <contractMaxPrice>1667.00</contractMaxPrice>
+                        <payments>1667.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>03763000151</regNum>
+                                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 17"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>81.29.11.000</code>
+                                <name>Услуги по дезинфекции, дезинсекции и дератизации</name>
+                            </OKPD2>
+                            <name>Оказание услуг по выполнению санитарно-противоэпидемиологических мероприятий</name>
+                            <minRequirement>1. Выполнять работы в оптимальные сроки, надлежащего качества; Оказание услуг по Договору должно быть обеспечено препаратами надлежащего качества, что подтверждается сертификатами соответствия применяемых препаратов. Все работы необходимо выполнять в соответствии с санитарными правилами и нормами ФЗ от 30.03.1999г. №52-ФЗ «О санитарно-эпидемиологическом благополучии населения», СП 3.5. 1378-03 утвержденных 07.06.2003г главным государственным санитарным врачом РФ, Сан.Пин. 3.3.2.1376-03, утвержденных 04.06.2003г. главным государственным санитарным врачом РФ, СП 3.5.3.1129-02 «Санитарно-эпидемиологические требования к проведению дератизации», СанПиН 3.5.2.1376-03 «Санитарно-эпидемиологические требования к организации и проведению дезинсекционных мероприятий против синантропных членистоногих».
+2. Использование средств, разрешенных к применению (прошедших процедуру государственной регистрации и включенных в Реестр продукции, прошедшей государственную регистрацию).
+3. Выполнять работы в оптимальные сроки, надлежащего качества; Оказание услуг по Договору должно быть обеспечено препаратами надлежащего качества, что подтверждается сертификатами соответствия применяемых препаратов. Все работы необходимо выполнять в соответствии с санитарными правилами и нормами ФЗ от 30.03.1999г. №52-ФЗ «О санитарно-эпидемиологическом благополучии населения», СП 3.5. 1378-03 утвержденных 07.06.2003г главным государственным санитарным врачом РФ, Сан.Пин. 3.3.2.1376-03, утвержденных 04.06.2003г. главным государственным санитарным врачом РФ, СП 3.5.3.1129-02 «Санитарно-эпидемиологические требования к проведению дератизации», СанПиН 3.5.2.1376-03 «Санитарно-эпидемиологические требования к организации и проведению дезинсекционных мероприятий против синантропных членистоногих».
+</minRequirement>
+                            <OKEI>
+                                <code>642</code>
+                                <name>Единица</name>
+                            </OKEI>
+                            <sumMax>1667.00</sumMax>
+                            <price>1667.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от НМЦК</procedure>
+                            <amount>16.67</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от НМЦК</procedure>
+                            <amount>83.35</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>2</month>
+                                <year>2018</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>-</contractExecutionStages>
+                            <periodicity>ежемесячно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016Years>
+                            <KBK2016>
+                                <code>00000000000000000244</code>
+                                <yearsList>
+                                    <year>2016</year>
+                                    <yearAmount>25600.00</yearAmount>
+                                </yearsList>
+                            </KBK2016>
+                        </amountKBKs2016Years>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>95.11</code>
+                                <name>Ремонт компьютеров и периферийного компьютерного оборудования</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по заправке, восстановлению и замене картриджей</contractSubjectName>
+                        <contractMaxPrice>25600.00</contractMaxPrice>
+                        <payments>25600.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-03-19T17:46:10.328+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по заправке  картриджей (Сanon 725(черный), MTL-D101S(черный))</name>
+                            <minRequirement>Заправка:
+- работы по заправке картриджей должны быть выполнены в соответствии с нормативами, предусмотренными действующим законодательством, как в  отношении документального оформления оказанных услуг, так и в отношении экологических норм и требований техники безопасности;
+- не допускается эффект грязного/серого листа (фона) при печати на белой бумаге, дефектов изображения, размытого или нечёткого изображения, пятен, точек, фона, в том числе и на оборотной стороне отпечатка и любых дефектов при печати  всего ресурса заправленного картриджа;
+- внешний вид картриджа после заправки должен быть без дефектов и явных и видимых поломок;
+- при выполнении работ недопустимо использование  комплектующих изделий и расходных материалов, бывших в употреблении;
+- использование только оригинального тонера для каждого типа картриджей, используемый тонер должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации;
+- заправленный картридж должен обеспечивать ресурс работы не менее ресурса оригинального картриджа;
+- расход тонера на 1000 листов должен составлять не менее 95% в сравнении с оригинальным.
+- исключить просыпание тонера внутрь принтера;
+- обеспечить герметичность картриджа после заправки, т.е. картриджи должны быть чистыми; 
+- обеспечить очистку от остатков старого тонера.
+Заправка осуществляется в сервисном центре Исполнителя. Качество и безопасность работ должны соответствовать установленным стандартам. Исполнитель несёт все расходы по замене или ремонту дефектной продукции, выявленной Заказчиком, если дефект не зависит от условий хранения или неправильного обращения.
+Заправленные картриджи должны иметь индивидуальную упаковку, обеспечивающую их безопасную транспортировку и хранение, имеющую антистатические свойства, обеспечивающие изоляцию светового потока, с указ</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>960.00</sumMax>
+                            <price>480.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по замене картриджа (DR-1075(черный))</name>
+                            <minRequirement>Замена: Новый картридж перед становкой должен находиться в заводской упаковке без признаков её нарушения, должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3440.00</sumMax>
+                            <price>3440.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по замене картриджей (HP AR016T(черный))</name>
+                            <minRequirement>Замена: Новый картридж перед становкой должен находиться в заводской упаковке без признаков её нарушения, должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>6980.00</sumMax>
+                            <price>3490.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по заправке картриджей (HP Q2612A(черный), HP “12А” Q2612A (черный), HP CE285A (черный))</name>
+                            <minRequirement>Заправка: 
+- работы по заправке картриджей должны быть выполнены в соответствии с нормативами, предусмотренными действующим законодательством, как в  отношении документального оформления оказанных услуг, так и в отношении экологических норм и требований техники безопасности;
+- не допускается эффект грязного/серого листа (фона) при печати на белой бумаге, дефектов изображения, размытого или нечёткого изображения, пятен, точек, фона, в том числе и на оборотной стороне отпечатка и любых дефектов при печати  всего ресурса заправленного картриджа;
+- внешний вид картриджа после заправки должен быть без дефектов и явных и видимых поломок;
+- при выполнении работ недопустимо использование  комплектующих изделий и расходных материалов, бывших в употреблении;
+- использование только оригинального тонера для каждого типа картриджей, используемый тонер должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации;
+- заправленный картридж должен обеспечивать ресурс работы не менее ресурса оригинального картриджа;
+- расход тонера на 1000 листов должен составлять не менее 95% в сравнении с оригинальным.
+- исключить просыпание тонера внутрь принтера;
+- обеспечить герметичность картриджа после заправки, т.е. картриджи должны быть чистыми; 
+- обеспечить очистку от остатков старого тонера.
+Заправка осуществляется в сервисном центре Исполнителя. Качество и безопасность работ должны соответствовать установленным стандартам. Исполнитель несёт все расходы по замене или ремонту дефектной продукции, выявленной Заказчиком, если дефект не зависит от условий хранения или неправильного обращения.
+Заправленные картриджи должны иметь индивидуальную упаковку, обеспечивающую их безопасную транспортировку и хранение, имеющую антистатические свойства, обеспечивающие изоляцию светового потока, с ука</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>3080.00</sumMax>
+                            <price>280.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>11.00</quantity>
+                            <quantityCurrentYear>11.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по замене картриджа (HP Q2612A(черный))</name>
+                            <minRequirement>Замена: Новый картридж перед становкой должен находиться в заводской упаковке без признаков её нарушения, должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>4300.00</sumMax>
+                            <price>4300.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по заправке картриджа HP AR016T(черный)</name>
+                            <minRequirement>Заправка: 
+- работы по заправке картриджей должны быть выполнены в соответствии с нормативами, предусмотренными действующим законодательством, как в  отношении документального оформления оказанных услуг, так и в отношении экологических норм и требований техники безопасности;
+- не допускается эффект грязного/серого листа (фона) при печати на белой бумаге, дефектов изображения, размытого или нечёткого изображения, пятен, точек, фона, в том числе и на оборотной стороне отпечатка и любых дефектов при печати  всего ресурса заправленного картриджа;
+- внешний вид картриджа после заправки должен быть без дефектов и явных и видимых поломок;
+- при выполнении работ недопустимо использование  комплектующих изделий и расходных материалов, бывших в употреблении;
+- использование только оригинального тонера для каждого типа картриджей, используемый тонер должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации;
+- заправленный картридж должен обеспечивать ресурс работы не менее ресурса оригинального картриджа;
+- расход тонера на 1000 листов должен составлять не менее 95% в сравнении с оригинальным.
+- исключить просыпание тонера внутрь принтера;
+- обеспечить герметичность картриджа после заправки, т.е. картриджи должны быть чистыми; 
+- обеспечить очистку от остатков старого тонера.
+Заправка осуществляется в сервисном центре Исполнителя. Качество и безопасность работ должны соответствовать установленным стандартам. Исполнитель несёт все расходы по замене или ремонту дефектной продукции, выявленной Заказчиком, если дефект не зависит от условий хранения или неправильного обращения.
+Заправленные картриджи должны иметь индивидуальную упаковку, обеспечивающую их безопасную транспортировку и хранение, имеющую антистатические свойства, обеспечивающие изоляцию светового потока, с ука</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>2200.00</sumMax>
+                            <price>1100.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по заправке картриджа MTL-D108S(черный)</name>
+                            <minRequirement>Заправка: 
+- работы по заправке картриджей должны быть выполнены в соответствии с нормативами, предусмотренными действующим законодательством, как в  отношении документального оформления оказанных услуг, так и в отношении экологических норм и требований техники безопасности;
+- не допускается эффект грязного/серого листа (фона) при печати на белой бумаге, дефектов изображения, размытого или нечёткого изображения, пятен, точек, фона, в том числе и на оборотной стороне отпечатка и любых дефектов при печати  всего ресурса заправленного картриджа;
+- внешний вид картриджа после заправки должен быть без дефектов и явных и видимых поломок;
+- при выполнении работ недопустимо использование  комплектующих изделий и расходных материалов, бывших в употреблении;
+- использование только оригинального тонера для каждого типа картриджей, используемый тонер должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации;
+- заправленный картридж должен обеспечивать ресурс работы не менее ресурса оригинального картриджа;
+- расход тонера на 1000 листов должен составлять не менее 95% в сравнении с оригинальным.
+- исключить просыпание тонера внутрь принтера;
+- обеспечить герметичность картриджа после заправки, т.е. картриджи должны быть чистыми; 
+- обеспечить очистку от остатков старого тонера.
+Заправка осуществляется в сервисном центре Исполнителя. Качество и безопасность работ должны соответствовать установленным стандартам. Исполнитель несёт все расходы по замене или ремонту дефектной продукции, выявленной Заказчиком, если дефект не зависит от условий хранения или неправильного обращения.
+Заправленные картриджи должны иметь индивидуальную упаковку, обеспечивающую их безопасную транспортировку и хранение, имеющую антистатические свойства, обеспечивающие изоляцию светового потока, с ука</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>350.00</sumMax>
+                            <price>350.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                            <quantityCurrentYear>1.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>95.11.10.000</code>
+                                <name>Услуги по ремонту компьютеров и периферийного оборудования</name>
+                            </OKPD2>
+                            <name>Оказание услуг по заправке картриджей (DR-2275(черный), DR-1075(черный))</name>
+                            <minRequirement>Заправка: 
+- работы по заправке картриджей должны быть выполнены в соответствии с нормативами, предусмотренными действующим законодательством, как в  отношении документального оформления оказанных услуг, так и в отношении экологических норм и требований техники безопасности;
+- не допускается эффект грязного/серого листа (фона) при печати на белой бумаге, дефектов изображения, размытого или нечёткого изображения, пятен, точек, фона, в том числе и на оборотной стороне отпечатка и любых дефектов при печати  всего ресурса заправленного картриджа;
+- внешний вид картриджа после заправки должен быть без дефектов и явных и видимых поломок;
+- при выполнении работ недопустимо использование  комплектующих изделий и расходных материалов, бывших в употреблении;
+- использование только оригинального тонера для каждого типа картриджей, используемый тонер должен соответствовать требованиям качества, безопасности жизни и здоровья, а также иным требованиям сертификации, безопасности (санитарным нормам и правилам, государственным стандартам т.п.), установленным действующим законодательством Российской Федерации;
+- заправленный картридж должен обеспечивать ресурс работы не менее ресурса оригинального картриджа;
+- расход тонера на 1000 листов должен составлять не менее 95% в сравнении с оригинальным.
+- исключить просыпание тонера внутрь принтера;
+- обеспечить герметичность картриджа после заправки, т.е. картриджи должны быть чистыми; 
+- обеспечить очистку от остатков старого тонера.
+Заправка осуществляется в сервисном центре Исполнителя. Качество и безопасность работ должны соответствовать установленным стандартам. Исполнитель несёт все расходы по замене или ремонту дефектной продукции, выявленной Заказчиком, если дефект не зависит от условий хранения или неправильного обращения.
+Заправленные картриджи должны иметь индивидуальную упаковку, обеспечивающую их безопасную транспортировку и хранение, имеющую антистатические свойства, обеспечивающие изоляцию светового потока, с ука</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>4290.00</sumMax>
+                            <price>390.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>11.00</quantity>
+                            <quantityCurrentYear>11.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от начальной (максимальной) цены контракта</procedure>
+                            <amount>256.00</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от начальной (максимальной) цены контракта</procedure>
+                            <amount>1280.00</amount>
+                        </contractFinCondition>
+                        <advance>не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>3</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрены</contractExecutionStages>
+                            <periodicity>по мере необходимости, в течении 3-х (трех) рабочих дней, с момента поступления заявке</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <preferenses>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                                <preferense>
+                                    <code>8361034</code>
+                                    <name>Субъектам малого предпринимательства и социально ориентированным некоммерческим организациям (в соответствии со Статьей 30 Федерального закона № 44-ФЗ)</name>
+                                </preferense>
+                            </preferenses>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000009</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>651636.00</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>56.29.2</code>
+                                <name>Деятельность столовых и буфетов при предприятиях и учреждениях</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг по обеспечению школьным питанием (завтрак, обед) обучающихся. Совместный электронный аукцион.
+
+ </contractSubjectName>
+                        <contractMaxPrice>651636.00</contractMaxPrice>
+                        <payments>651636.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>03763000141</regNum>
+                                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "ЛИЦЕЙ № 19"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-24T12:06:42.220+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>56.29.20.120</code>
+                                <name>Услуги школьных столовых и кухонь</name>
+                            </OKPD2>
+                            <name>Оказание услуг по обеспечению школьным питанием (завтрак, обед) обучающихся в: МБОУ «Лицей №19»</name>
+                            <minRequirement>Соответствие СанПиН 2.4.5.2409-08 «Санитарно-эпидемиологические требования к организации питания обучающихся в общеобразовательных учреждениях, учреждениях начального и среднего профессионального образования».
+</minRequirement>
+                            <OKEI>
+                                <code>540</code>
+                                <name>Человеко-день</name>
+                            </OKEI>
+                            <sumMax>651636.00</sumMax>
+                            <price>35.44</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>18387.00</quantity>
+                            <quantityCurrentYear>18387.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от НМЦК</procedure>
+                            <amount>6516.36</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от НМЦК</procedure>
+                            <amount>32581.80</amount>
+                        </contractFinCondition>
+                        <advance>не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>6</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрено</contractExecutionStages>
+                            <periodicity>ежедневно</periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000002</positionNumber>
+                        <orderNumber>2</orderNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>90207021520200160612</code>
+                                <amount>249980.00</amount>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>41.20</code>
+                                <name>Строительство жилых и нежилых зданий</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Ремонт внутренних помещений (помещение тренажерного зала) "Лицея № 19" по ул.  Краснооктябрьская, 51, г. Майкопа</contractSubjectName>
+                        <contractMaxPrice>249980.00</contractMaxPrice>
+                        <payments>249980.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-15T11:04:55.347+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>41.20.40.000</code>
+                                <name>Работы строительные по возведению нежилых зданий и сооружений (работы по строительству новых объектов, возведению пристроек, реконструкции и ремонту зданий)</name>
+                            </OKPD2>
+                            <name>Ремонт внутренних помещений (помещение тренажерного зала) "Лицея № 19" по ул. Краснооктябрьская, 51, г. Майкопа</name>
+                            <minRequirement>Разборка покрытий полов: дощатых Разборка плинтусов: деревянных и из пластмассовых материалов Устройство покрытий дощатых толщиной 38 мм Устройство плинтусов деревянных Разборка оснований покрытия полов: лаг из досок и брусков Укладка лаг Улучшенная окраска маслянными составами по дереву полов Отбивка штукатурки с поверхности стен Штукатурка поверхностей внутри здания цементно-известковым или цементным раствором по камню и бетону улучшенная стен Окраска поливинилацетатными водоэмульсионными составами высококачественная: по штукатурке стен Штукатурка поверхностей оконных откосов по бетону и камню: плоских Окраска поливинилацетатными водоэмульсионными составами улучшенная: по штукатурке откосов Очистка помещений от строительного мусора Погрузочные работы при автомобильных перевозках: мусора строительного с погрузкой вручную Перевозка грузов автомобилями- самосвалами грузоподъемностью 10 т, работающих вне карьера на расстояние: до 12 км 1 класс груза</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>249980.00</sumMax>
+                            <price>249980.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>1.00</quantity>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>Денежные средства, внесённые в качестве обеспечения заявки, перечисляются на счёт электронной площадки в банке.</procedure>
+                            <amount>2499.80</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>Исполнение Контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона № 44-ФЗ, или внесением денежных средств по безналичному расчёту. Способ обеспечения исполнения Контракта определяется участником закупки, с которым заключается Контракт, самостоятельно.</procedure>
+                            <amount>12499.00</amount>
+                        </contractFinCondition>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>8</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>10</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>не предусмотрен</contractExecutionStages>
+                            <periodicity> с даты заключения  контракта</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201603763000141001000004</positionNumber>
+                        <amountKVRsYears>
+                            <KVR>
+                                <code>244</code>
+                                <yearsList>
+                                    <year>2017</year>
+                                    <yearAmount>9089.76</yearAmount>
+                                </yearsList>
+                            </KVR>
+                        </amountKVRsYears>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>46.45.2</code>
+                                <name>Торговля оптовая туалетным и хозяйственным мылом</name>
+                            </OKVED2>
+                            <OKVED2>
+                                <code>46.44.2</code>
+                                <name>Торговля оптовая чистящими средствами</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Поставка санитарно-гигиенических средств </contractSubjectName>
+                        <contractMaxPrice>9089.76</contractMaxPrice>
+                        <payments>9089.76</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EA44</code>
+                            <name>Электронный аукцион</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <jointBiddingInfo>
+                            <jointBidding>1</jointBidding>
+                            <jointBiddingOrganizer>
+                                <regNum>03763000123</regNum>
+                                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 16"</fullName>
+                            </jointBiddingOrganizer>
+                        </jointBiddingInfo>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-19T21:57:17.037+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>20.20.14.000</code>
+                                <name>Средства дезинфекционные</name>
+                            </OKPD2>
+                            <name>Средство дезинфекционное</name>
+                            <minRequirement>Средство для дезинфекции поверхностей в помещениях, предметов обстановки, посуды</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>6525.00</sumMax>
+                            <price>261.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>25.00</quantity>
+                            <quantityCurrentYear>25.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.41.44.120</code>
+                                <name>Порошки чистящие</name>
+                            </OKPD2>
+                            <name>Порошок чистящий</name>
+                            <minRequirement>Для чистки твердых поверхностей на кухне, в ванной комнате и в прочих помещениях</minRequirement>
+                            <OKEI>
+                                <code>778</code>
+                                <name>Упаковка</name>
+                            </OKEI>
+                            <sumMax>584.76</sumMax>
+                            <price>17.72</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>33.00</quantity>
+                            <quantityCurrentYear>33.00</quantityCurrentYear>
+                        </product>
+                        <product>
+                            <OKPD2>
+                                <code>20.41.31.130</code>
+                                <name>Мыло туалетное жидкое</name>
+                            </OKPD2>
+                            <name>Мыло жидкое</name>
+                            <minRequirement>Соответствующее по качеству ГОСТ Р 31696-2012 "Продукция косметическая гигиеническая моющая. Общие технические условия". С отдушкой.
+Индивидуальная упаковка с дозатором.
+</minRequirement>
+                            <OKEI>
+                                <code>796</code>
+                                <name>Штука</name>
+                            </OKEI>
+                            <sumMax>1980.00</sumMax>
+                            <price>30.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>66.00</quantity>
+                            <quantityCurrentYear>66.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <purchaseFinCondition>
+                            <procedure>1% от НМЦК</procedure>
+                            <amount>90.90</amount>
+                        </purchaseFinCondition>
+                        <contractFinCondition>
+                            <procedure>5% от НМЦК</procedure>
+                            <amount>454.49</amount>
+                        </contractFinCondition>
+                        <advance>не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>3</month>
+                                <year>2017</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>-</contractExecutionStages>
+                            <periodicity>разовая </periodicity>
+                        </purchaseGraph>
+                        <preferensesRequirement>
+                            <requirements>
+                                <requirement>
+                                    <code>9151560</code>
+                                    <name>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии с частью 3  статьи 30 Федерального закона № 44-ФЗ)</name>
+                                </requirement>
+                            </requirements>
+                        </preferensesRequirement>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>614055.96</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess100>
+                    <purchaseAmountLess400>
+                        <finances>
+                            <amountKVRs>
+                                <KVR>
+                                    <code>244</code>
+                                    <amount>1341351.00</amount>
+                                </KVR>
+                            </amountKVRs>
+                        </finances>
+                    </purchaseAmountLess400>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>614055.96</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>1341351.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>25600.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>5845372.86</sumContractMaxPrice>
+                    <sumPaymentsTotal>5567655.02</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=13013960</url>
+            <signature>TUlJTXdRWUpLb1pJaHZjTkFRY0NvSUlNc2pDQ0RLNENBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2dpUk1JSUlqVENDQ0R5Z0F3SUJBZ0lERkpxM01BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1ETXhOVEV5TkRNMU5Gb1hEVEUzTURZeE5URXlORE0xTkZvd2dnR0pNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFV3TWpnMk5UQXhNVEVXTUJRR0JTcUZBMlFERWdzd05qQTBNekUzTkRBeE9URWZNQjBHQ1NxR1NJYjNEUUVKQVJZUWJHbGphR1Y1TVRsQWJXRnBiQzV5ZFRFTE1Ba0dBMVVFQmhNQ1VsVXhQREE2QmdOVkJBZ01NekF4SU5DZzBMWFJnZEMvMFlQUXNkQzcwTGpRdXRDd0lOQ1EwTFRSaTlDejBMWFJqeUFvMEpEUXROR0wwTFBRdGRHUEtURVZNQk1HQTFVRUJ3d00wSnpRc05DNTBMclF2dEMvTVNVd0l3WURWUVFLREJ6UW5OQ1IwSjdRb3lBaTBKdlF1TkdHMExYUXVTRGloSllnTVRraU1Td3dLZ1lEVlFRcURDUFFtTkdBMExqUXZkQ3dJTkNTMEx2UXNOQzAwTGpRdk5DNDBZRFF2dEN5MEwzUXNERWRNQnNHQTFVRUJBd1UwSjNRdU5DNjBMalJndEdIMExYUXZkQzYwTDR4R1RBWEJnTlZCQXdNRU5DMDBMalJnTkMxMExyUmd0QyswWUF4UVRBL0JnTlZCQU1NT05DZDBMalF1dEM0MFlMUmg5QzEwTDNRdXRDK0lOQ1kwWURRdU5DOTBMQWcwSkxRdTlDdzBMVFF1TkM4MExqUmdOQyswTExRdmRDd01HTXdIQVlHS29VREFnSVRNQklHQnlxRkF3SUNKQUFHQnlxRkF3SUNIZ0VEUXdBRVFHZnFKWXZTaENNTmRDMC9WRUYrRWEwczF4NElkRExHTkF2RWFGS1gvUlQzejQ1U0lvWGdqdFFQNTl0TVcxVlhYU2NoWlAxd1pPZElENmc4Q1h1T0t3Q2pnZ1N4TUlJRXJUQU1CZ05WSFJNQkFmOEVBakFBTUIwR0ExVWRJQVFXTUJRd0NBWUdLb1VEWkhFQk1BZ0dCaXFGQTJSeEFqQTlCZ05WSFJFRU5qQTBvQklHQTFVRURLQUxFd2t6TVRBeE1ETXpNemVnR3dZS0tvVURBejJlMXpZQkJhQU5Fd3N3TXpjMk16QXdNREUwTVlZQk1EQTJCZ1VxaFFOa2J3UXREQ3NpMEpyUmdOQzQwTC9SZ3RDKzBKL1JnTkMrSUVOVFVDSWdLTkN5MExYUmdOR0IwTGpSanlBekxqWXBNSUlCWVFZRktvVURaSEFFZ2dGV01JSUJVZ3hFSXRDYTBZRFF1TkMvMFlMUXZ0Q2YwWURRdmlCRFUxQWlJQ2pRc3RDMTBZRFJnZEM0MFk4Z015NDJLU0FvMExqUmdkQy8wTDdRdTlDOTBMWFF2ZEM0MExVZ01pa01hQ0xRbjlHQTBMN1FzOUdBMExEUXZOQzgwTDNRdmkzUXNOQy8wTC9Rc05HQTBMRFJndEM5MFl2UXVTRFF1dEMrMEx6UXY5QzcwTFhRdXRHQklDTFFydEM5MExqUmdkQzEwWURSZ2kzUWs5Q2UwS0hRb2lJdUlOQ1MwTFhSZ05HQjBMalJqeUF5TGpFaURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEkwTFRJM016Z2cwTDdSZ2lBd01TNHdOeTR5TURFMURFL1FvZEMxMFlEUmd0QzQwWVRRdU5DNjBMRFJnaURSZ2RDKzBMN1JndEN5MExYUmd0R0IwWUxRc3RDNDBZOGc0b1NXSU5DaDBLUXZNVEk0TFRJeE56VWcwTDdSZ2lBeU1DNHdOaTR5TURFek1BNEdBMVVkRHdFQi93UUVBd0lENkRCVEJnTlZIU1VFVERCS0JnZ3JCZ0VGQlFjREFnWU9Lb1VEQXoyZTF6WUJCZ01FQVFFR0RpcUZBd005bnRjMkFRWURCQUVDQmc0cWhRTURQWjdYTmdFR0F3UUJBd1lPS29VREF6MmUxellCQmdNRUFRUXdLd1lEVlIwUUJDUXdJb0FQTWpBeE5qQXpNVFV4TWpRek5ESmFnUTh5TURFM01EWXhOVEV5TkRNME1sb3dnZ0dQQmdOVkhTTUVnZ0dHTUlJQmdvQVVubkVPRDlxMEFTaGZQK0xMajJVVmx3SkhqS3VoZ2dGbHBJSUJZVENDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3Z2dFQk1GNEdBMVVkSHdSWE1GVXdLYUFub0NXR0kyaDBkSEE2THk5amNtd3VjbTl6YTJGNmJtRXVjblV2WTNKc0wyWnJNREV1WTNKc01DaWdKcUFraGlKb2RIUndPaTh2WTNKc0xtWnpabXN1Ykc5allXd3ZZM0pzTDJack1ERXVZM0pzTUIwR0ExVWREZ1FXQkJRa1NiOEgxZG5ZYXRzZWVZSEtxL3BWVngrWnl6QUlCZ1lxaFFNQ0FnTURRUUFpQ3gzNUlpWVBWS1ExeVEvMzUycmkwdlVuRy9BT1hPMDlMTVJPTmRYa2d6RUNIeWtGSG1LWkRJM3hLdGxhc3ZLUHpjVk9hV3QwTzVqTHhQTlpCTXJuTVlJRDl6Q0NBL01DQVFFd2dnRm1NSUlCWFRFWU1CWUdDU3FHU0liM0RRRUpBaE1KVTJWeWRtVnlJRU5CTVNBd0hnWUpLb1pJaHZjTkFRa0JGaEYxWTE5bWEwQnliM05yWVhwdVlTNXlkVEVjTUJvR0ExVUVDQXdUTnpjZzBMTXVJTkNjMEw3UmdkQzYwTExRc0RFYU1CZ0dDQ3FGQXdPQkF3RUJFZ3d3TURjM01UQTFOamczTmpBeEdEQVdCZ1VxaFFOa0FSSU5NVEEwTnpjNU56QXhPVGd6TURFc01Db0dBMVVFQ1F3ajBZUFF1OUM0MFliUXNDRFFtTkM3MFl6UXVOQzkwTHJRc0N3ZzBMVFF2dEM4SURjeEZUQVRCZ05WQkFjTUROQ2MwTDdSZ2RDNjBMTFFzREVMTUFrR0ExVUVCaE1DVWxVeE9EQTJCZ05WQkFvTUw5Q2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFVnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0QytNVDh3UFFZRFZRUURERGJRbzlDbUlOQ2swTFhRdE5DMTBZRFFzTkM3MFl6UXZkQyswTFBRdmlEUXV0Q3cwTGZRdmRDdzBZZlF0ZEM1MFlIUmd0Q3kwTEFDQXhTYXR6QUtCZ1lxaFFNQ0Fna0ZBS0NDQWlnd0dBWUpLb1pJaHZjTkFRa0RNUXNHQ1NxR1NJYjNEUUVIQVRBY0Jna3Foa2lHOXcwQkNRVXhEeGNOTVRZeE1USTBNRGt3TmpNNVdqQXZCZ2txaGtpRzl3MEJDUVF4SWdRZzdiT3M0dHoyOTU5U2ZFYlpZTkNOUk5jSDZDSlhIZ2JBUVNWUEtnTUsvSXN3Z2dHN0Jnc3Foa2lHOXcwQkNSQUNMekdDQWFvd2dnR21NSUlCb2pDQ0FaNHdDQVlHS29VREFnSUpCQ0M3MWtoQjc3djFsbmEvRFJXMlBHQ1hQR0JxNnJrcjJyMk4yMVlvcUxrRWJ6Q0NBVzR3Z2dGbHBJSUJZVENDQVYweEdEQVdCZ2txaGtpRzl3MEJDUUlUQ1ZObGNuWmxjaUJEUVRFZ01CNEdDU3FHU0liM0RRRUpBUllSZFdOZlptdEFjbTl6YTJGNmJtRXVjblV4SERBYUJnTlZCQWdNRXpjM0lOQ3pMaURRbk5DKzBZSFF1dEN5MExBeEdqQVlCZ2dxaFFNRGdRTUJBUklNTURBM056RXdOVFk0TnpZd01SZ3dGZ1lGS29VRFpBRVNEVEV3TkRjM09UY3dNVGs0TXpBeExEQXFCZ05WQkFrTUk5R0QwTHZRdU5HRzBMQWcwSmpRdTlHTTBMalF2ZEM2MExBc0lOQzAwTDdRdkNBM01SVXdFd1lEVlFRSERBelFuTkMrMFlIUXV0Q3kwTEF4Q3pBSkJnTlZCQVlUQWxKVk1UZ3dOZ1lEVlFRS0RDL1FwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEMxSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFF2akUvTUQwR0ExVUVBd3cyMEtQUXBpRFFwTkMxMExUUXRkR0EwTERRdTlHTTBMM1F2dEN6MEw0ZzBMclFzTkMzMEwzUXNOR0gwTFhRdWRHQjBZTFFzdEN3QWdNVW1yY3dDZ1lHS29VREFnSVRCUUFFUUFMcG9IWC9HV0Fod3U0Rmt4ZU9lSUpLekNNdUdIcUxXLzFnSjRRTFJzQnIvWHNsbkVBV1JxN3V4Nkczdjhkd2lJQlFkdlYwZmxiMVk2NjBjYnpsMjU4PQ==</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>

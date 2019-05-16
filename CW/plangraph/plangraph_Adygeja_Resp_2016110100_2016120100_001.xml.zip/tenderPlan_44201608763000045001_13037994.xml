@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/integration/rest/api/1">
+    <ns2:tenderPlan schemeVersion="6.2.100">
+        <commonInfo>
+            <id>13037994</id>
+            <planNumber>44201608763000045001</planNumber>
+            <year>2016</year>
+            <versionNumber>2</versionNumber>
+            <owner>
+                <regNum>08763000045</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ЕДИНАЯ ДЕЖУРНО-ДИСПЕТЧЕРСКАЯ СЛУЖБА МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "МАЙКОПСКИЙ РАЙОН"</fullName>
+                <responsibleRole>CU</responsibleRole>
+            </owner>
+            <createDate>2016-11-25T09:53:49.151+03:00</createDate>
+            <description>План-график размещения заказов на поставку товаров, выполнение работ, оказание услуг для  обеспечения государственных и муниципальных нужд на 2016 год</description>
+            <confirmDate>2016-11-25T00:00:00.000+03:00</confirmDate>
+            <publishDate>2016-11-25T10:25:09.087+03:00</publishDate>
+        </commonInfo>
+        <customerInfo>
+            <customer>
+                <regNum>08763000045</regNum>
+                <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ЕДИНАЯ ДЕЖУРНО-ДИСПЕТЧЕРСКАЯ СЛУЖБА МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "МАЙКОПСКИЙ РАЙОН"</fullName>
+                <shortName>МКУ "ЕДДС Майкопского района"</shortName>
+                <postAddress>Российская Федерация, 385730, Адыгея Респ, Майкопский р-н, Тульский п, Советская, /42, -</postAddress>
+                <factAddress>Российская Федерация, 385730, Адыгея Респ, Майкопский р-н, Тульский п, Советская, /42, -</factAddress>
+                <INN>0104014128</INN>
+                <KPP>010401001</KPP>
+            </customer>
+            <OKTMO>
+                <code>79622455101</code>
+                <name>п Тульский</name>
+            </OKTMO>
+        </customerInfo>
+        <responsibleContactInfo>
+            <lastName>Юрченко</lastName>
+            <firstName>Геннадий</firstName>
+            <middleName>Иванович</middleName>
+            <phone>887777 21255</phone>
+            <fax>887777 52012</fax>
+            <email>EDDS.Mr.RA.24@mail.ru</email>
+        </responsibleContactInfo>
+        <providedPurchases>
+            <positions>
+                <position>
+                    <commonInfo>
+                        <positionNumber>П44201608763000045001000001</positionNumber>
+                        <orderNumber>1</orderNumber>
+                        <amountKBKs2016>
+                            <KBK2016>
+                                <code>90103097600100080242</code>
+                                <amount>82500.00</amount>
+                            </KBK2016>
+                        </amountKBKs2016>
+                        <OKVEDs>
+                            <OKVED2>
+                                <code>61.10.1</code>
+                                <name>Деятельность по предоставлению услуг телефонной связи</name>
+                            </OKVED2>
+                        </OKVEDs>
+                        <contractSubjectName>Оказание услуг местной, междугородной телефонной связи</contractSubjectName>
+                        <contractMaxPrice>82500.00</contractMaxPrice>
+                        <payments>82500.00</payments>
+                        <contractCurrency>
+                            <code>RUB</code>
+                            <name>Российский рубль</name>
+                        </contractCurrency>
+                        <placingWay>
+                            <code>EP44</code>
+                            <name>Закупка у единственного поставщика (подрядчика, исполнителя)</name>
+                        </placingWay>
+                        <features111>false</features111>
+                        <positionModification>
+                            <changeReason>
+                                <id>5</id>
+                                <name>Возникновение непредвиденных обстоятельств</name>
+                            </changeReason>
+                        </positionModification>
+                        <positionPublishDate>2016-11-25T10:25:09.087+03:00</positionPublishDate>
+                    </commonInfo>
+                    <products>
+                        <product>
+                            <OKPD2>
+                                <code>61.10.11.110</code>
+                                <name>Услуги по предоставлению внутризоновых, междугородных и международных телефонных соединений</name>
+                            </OKPD2>
+                            <name>Оказание услуг местной, междугородной телефонной связи.</name>
+                            <minRequirement>Предоставление возможности по пользованию услугами связи 24 часа в сутки ежедневно в соответствии с Законодательством Российской Федерации, Правилами, национальными стандартами, техническими нормами и правилами.</minRequirement>
+                            <OKEI>
+                                <code>876</code>
+                                <name>Условная единица</name>
+                            </OKEI>
+                            <sumMax>82500.00</sumMax>
+                            <price>41250.00</price>
+                            <quantityUndefined>false</quantityUndefined>
+                            <quantity>2.00</quantity>
+                            <quantityCurrentYear>2.00</quantityCurrentYear>
+                        </product>
+                    </products>
+                    <purchaseConditions>
+                        <advance>Не предусмотрен</advance>
+                        <purchaseGraph>
+                            <purchasePlacingTerm>
+                                <month>1</month>
+                                <year>2016</year>
+                            </purchasePlacingTerm>
+                            <contractExecutionTerm>
+                                <month>12</month>
+                                <year>2016</year>
+                            </contractExecutionTerm>
+                            <contractExecutionStages>ежемесячно</contractExecutionStages>
+                            <periodicity>24 часа в сутки ежедневно</periodicity>
+                        </purchaseGraph>
+                    </purchaseConditions>
+                </position>
+            </positions>
+            <finalPositions>
+                <purchase93>
+                    <purchaseAmountLess100>
+                        <finances>
+                            <amountKBKs2016>
+                                <KBK2016>
+                                    <code>90103097600100080244</code>
+                                    <amount>35000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90103097600100080242</code>
+                                    <amount>11500.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90103097600100060244</code>
+                                    <amount>330000.00</amount>
+                                </KBK2016>
+                                <KBK2016>
+                                    <code>90103097600200090244</code>
+                                    <amount>175138.67</amount>
+                                </KBK2016>
+                            </amountKBKs2016>
+                        </finances>
+                    </purchaseAmountLess100>
+                </purchase93>
+                <outcomeIndicators>
+                    <sumPushaseSingleSupplier4>551638.67</sumPushaseSingleSupplier4>
+                    <sumPushaseSingleSupplier5>0.00</sumPushaseSingleSupplier5>
+                    <sumPushaseSmallBusiness>0.00</sumPushaseSmallBusiness>
+                    <sumPushaseRequest>0.00</sumPushaseRequest>
+                    <sumContractMaxPrice>634138.67</sumContractMaxPrice>
+                    <sumPaymentsTotal>634138.67</sumPaymentsTotal>
+                </outcomeIndicators>
+            </finalPositions>
+        </providedPurchases>
+        <printForm>
+            <url>http://zakupki.gov.ru/pgz/printForm?type=PLAN_GRAPHIC&amp;id=13037994</url>
+            <signature>TUlJTk5BWUpLb1pJaHZjTkFRY0NvSUlOSlRDQ0RTRUNBUUV4RERBS0JnWXFoUU1DQWdrRkFEQUxCZ2txaGtpRzl3MEJCd0dnZ2drRU1JSUpBRENDQ0srZ0F3SUJBZ0lERm9tdk1BZ0dCaXFGQXdJQ0F6Q0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dNQjRYRFRFMk1EVXhNVEE0TlRjek9Gb1hEVEUzTURneE1UQTROVGN6T0Zvd2dnRzFNUm93R0FZSUtvVURBNEVEQVFFU0REQXhNRFF3TURVNU5EQTBNVEVXTUJRR0JTcUZBMlFERWdzd05qQXdNelV4TkRNNU56RWVNQndHQ1NxR1NJYjNEUUVKQVJZUFpXUmtjeTV0YjBCdFlXbHNMbkoxTVFzd0NRWURWUVFHRXdKU1ZURThNRG9HQTFVRUNBd3pNREVnMEtEUXRkR0IwTC9SZzlDeDBMdlF1TkM2MExBZzBKRFF0TkdMMExQUXRkR1BJQ2pRa05DMDBZdlFzOUMxMFk4cE1Sa3dGd1lEVlFRSERCRFFvdEdEMEx2UmpOR0IwTHJRdU5DNU1VRXdQd1lEVlFRS0REalFuTkNhMEtNZ0l0Q1YwSlRRbE5DaElpRFFuTkNlSUNMUW5OQ3cwTG5RdXRDKzBML1JnZEM2MExqUXVTRFJnTkN3MExuUXZ0QzlJakVxTUNnR0ExVUVLZ3doMEpQUXRkQzkwTDNRc05DMDBMalF1U0RRbU5DeTBMRFF2ZEMrMExMUXVOR0hNUmN3RlFZRFZRUUVEQTdRcnRHQTBZZlF0ZEM5MExyUXZqRTJNRFFHQTFVRURBd3QwWURSZzlDNjBMN1FzdEMrMExUUXVOR0MwTFhRdTlHTUlOR0QwWWZSZ05DMTBMYlF0TkMxMEwzUXVOR1BNVGt3TndZRFZRUURERERRcnRHQTBZZlF0ZEM5MExyUXZpRFFrOUMxMEwzUXZkQ3cwTFRRdU5DNUlOQ1kwTExRc05DOTBMN1FzdEM0MFljd1l6QWNCZ1lxaFFNQ0FoTXdFZ1lIS29VREFnSWtBQVlIS29VREFnSWVBUU5EQUFSQUxYL1I5cWxXMkJESEdMMjJhMzVPUWtDZnNlZU5zRTJXcDdLb3VhY3JOZEVXMS9hUWxyeUtQVXM0c0x1bUNOUFVnc1JSQ0p4b0VxZHJwU2E1bG1Zci9xT0NCUGd3Z2dUME1Bd0dBMVVkRXdFQi93UUNNQUF3SFFZRFZSMGdCQll3RkRBSUJnWXFoUU5rY1FFd0NBWUdLb1VEWkhFQ01Gd0dBMVVkRVFSVk1GT2dFZ1lEVlFRTW9Bc1RDVFV4TVRBNU1UQTFNS0FiQmdvcWhRTURQWjdYTmdFRm9BMFRDekE0TnpZek1EQXdNRFExb0IwR0NpcUZBd005bnRjMkFRaWdEeE1OTURnM05qTXdNREF3TURBME40WUJNREEyQmdVcWhRTmtid1F0RENzaTBKclJnTkM0MEwvUmd0QyswSi9SZ05DK0lFTlRVQ0lnS05DeTBMWFJnTkdCMExqUmp5QXpMallwTUlJQllRWUZLb1VEWkhBRWdnRldNSUlCVWd4RUl0Q2EwWURRdU5DLzBZTFF2dENmMFlEUXZpQkRVMUFpSUNqUXN0QzEwWURSZ2RDNDBZOGdNeTQyS1NBbzBMalJnZEMvMEw3UXU5QzkwTFhRdmRDNDBMVWdNaWtNYUNMUW45R0EwTDdRczlHQTBMRFF2TkM4MEwzUXZpM1FzTkMvMEwvUXNOR0EwTERSZ3RDOTBZdlF1U0RRdXRDKzBMelF2OUM3MExYUXV0R0JJQ0xRcnRDOTBMalJnZEMxMFlEUmdpM1FrOUNlMEtIUW9pSXVJTkNTMExYUmdOR0IwTGpSanlBeUxqRWlERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJMExUSTNNemdnMEw3UmdpQXdNUzR3Tnk0eU1ERTFERS9Rb2RDMTBZRFJndEM0MFlUUXVOQzYwTERSZ2lEUmdkQyswTDdSZ3RDeTBMWFJndEdCMFlMUXN0QzQwWThnNG9TV0lOQ2gwS1F2TVRJNExUSXhOelVnMEw3UmdpQXlNQzR3Tmk0eU1ERXpNQTRHQTFVZER3RUIvd1FFQXdJRDZEQjdCZ05WSFNVRWREQnlCZ2dyQmdFRkJRY0RBUVlJS3dZQkJRVUhBd0lHRGlxRkF3TTludGMyQVFZREJBRUJCZzRxaFFNRFBaN1hOZ0VHQXdRQkFnWU9Lb1VEQXoyZTF6WUJCZ01FQVFNR0RpcUZBd005bnRjMkFRWURCQUVFQmcwcWhRTURQWjdYTmdFR0F3VUJCZzBxaFFNRFBaN1hOZ0VHQXdVQ01Dc0dBMVVkRUFRa01DS0FEekl3TVRZd05URXhNRGcxTnpNMldvRVBNakF4TnpBNE1URXdPRFUzTXpaYU1JSUJqd1lEVlIwakJJSUJoakNDQVlLQUZKNXhEZy9hdEFFb1h6L2l5NDlsRlpjQ1I0eXJvWUlCWmFTQ0FXRXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzSUlCQVRCZUJnTlZIUjhFVnpCVk1DbWdKNkFsaGlOb2RIUndPaTh2WTNKc0xuSnZjMnRoZW01aExuSjFMMk55YkM5bWF6QXhMbU55YkRBb29DYWdKSVlpYUhSMGNEb3ZMMk55YkM1bWMyWnJMbXh2WTJGc0wyTnliQzltYXpBeExtTnliREFkQmdOVkhRNEVGZ1FVd2FqdE1CNS9Sd2cxL2xUMGJ2dzZkdWVQeS8wd0NBWUdLb1VEQWdJREEwRUFsNUlYRHE0S3RBWDR2SVVmVVlVSkN0SnZRbEpQblM0elU0YWNlL3hKanpLZnkwcksvMG1lN1p1S0pSeVlxbmtDL2NjdnNFQlNSZGgwQTdKS1d6UVl3ekdDQS9jd2dnUHpBZ0VCTUlJQlpqQ0NBVjB4R0RBV0Jna3Foa2lHOXcwQkNRSVRDVk5sY25abGNpQkRRVEVnTUI0R0NTcUdTSWIzRFFFSkFSWVJkV05mWm10QWNtOXphMkY2Ym1FdWNuVXhIREFhQmdOVkJBZ01FemMzSU5DekxpRFFuTkMrMFlIUXV0Q3kwTEF4R2pBWUJnZ3FoUU1EZ1FNQkFSSU1NREEzTnpFd05UWTROell3TVJnd0ZnWUZLb1VEWkFFU0RURXdORGMzT1Rjd01UazRNekF4TERBcUJnTlZCQWtNSTlHRDBMdlF1TkdHMExBZzBKalF1OUdNMExqUXZkQzYwTEFzSU5DMDBMN1F2Q0EzTVJVd0V3WURWUVFIREF6UW5OQyswWUhRdXRDeTBMQXhDekFKQmdOVkJBWVRBbEpWTVRnd05nWURWUVFLREMvUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0QzFJTkM2MExEUXQ5QzkwTERSaDlDMTBMblJnZEdDMExMUXZqRS9NRDBHQTFVRUF3dzIwS1BRcGlEUXBOQzEwTFRRdGRHQTBMRFF1OUdNMEwzUXZ0Q3owTDRnMExyUXNOQzMwTDNRc05HSDBMWFF1ZEdCMFlMUXN0Q3dBZ01XaWE4d0NnWUdLb1VEQWdJSkJRQ2dnZ0lvTUJnR0NTcUdTSWIzRFFFSkF6RUxCZ2txaGtpRzl3MEJCd0V3SEFZSktvWklodmNOQVFrRk1ROFhEVEUyTVRFeU5UQTNNalV4TWxvd0x3WUpLb1pJaHZjTkFRa0VNU0lFSUFEM0ZVWW8zdTFvME5VOEtoTjhYSnZ4S1BIbFhYMDhKYjRwdk8zZGRCWFNNSUlCdXdZTEtvWklodmNOQVFrUUFpOHhnZ0dxTUlJQnBqQ0NBYUl3Z2dHZU1BZ0dCaXFGQXdJQ0NRUWdTQk52Mms2Rm1mNGFodVJYRDYxSnB2ZVVjMUhPbmtaYks0ZUp2QlNmQzUwd2dnRnVNSUlCWmFTQ0FXRXdnZ0ZkTVJnd0ZnWUpLb1pJaHZjTkFRa0NFd2xUWlhKMlpYSWdRMEV4SURBZUJna3Foa2lHOXcwQkNRRVdFWFZqWDJaclFISnZjMnRoZW01aExuSjFNUnd3R2dZRFZRUUlEQk0zTnlEUXN5NGcwSnpRdnRHQjBMclFzdEN3TVJvd0dBWUlLb1VEQTRFREFRRVNEREF3TnpjeE1EVTJPRGMyTURFWU1CWUdCU3FGQTJRQkVnMHhNRFEzTnprM01ERTVPRE13TVN3d0tnWURWUVFKRENQUmc5QzcwTGpSaHRDd0lOQ1kwTHZSak5DNDBMM1F1dEN3TENEUXROQyswTHdnTnpFVk1CTUdBMVVFQnd3TTBKelF2dEdCMExyUXN0Q3dNUXN3Q1FZRFZRUUdFd0pTVlRFNE1EWUdBMVVFQ2d3djBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1F0U0RRdXRDdzBMZlF2ZEN3MFlmUXRkQzUwWUhSZ3RDeTBMNHhQekE5QmdOVkJBTU1OdENqMEtZZzBLVFF0ZEMwMExYUmdOQ3cwTHZSak5DOTBMN1FzOUMrSU5DNjBMRFF0OUM5MExEUmg5QzEwTG5SZ2RHQzBMTFFzQUlERm9tdk1Bb0dCaXFGQXdJQ0V3VUFCRUFNNGp6YjF5ek9SYVEvVXc4K1VNYnNkakltTWdVVFp3NFBvM0ZMeDFMZzlaWG1EL2JqQXAyZ0IvRFZ6b0lQOExsbGp5RXVzUmNzWTZjV1FQRUk4UmhO</signature>
+        </printForm>
+    </ns2:tenderPlan>
+</ns2:export>
